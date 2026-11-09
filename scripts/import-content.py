@@ -42,7 +42,9 @@ def sanitize(fragment,url):
  for node in list(s.find_all(True)):
   if node.parent is None:continue
   if node.name=='iframe':
-   a=s.new_tag('a',href=urljoin(url,node.get('src','')));a.string=node.get('title') or 'Open embedded guide';p=s.new_tag('p');p.append(a);node.replace_with(p);continue
+   target=urljoin(url,node.get('src',''));
+   if urlsplit(target).scheme not in {'http','https'}:node.decompose();continue
+   a=s.new_tag('a',href=target);a.string=node.get('title') or 'Open embedded guide';p=s.new_tag('p');p.append(a);node.replace_with(p);continue
   if node.name in {'script','style','noscript','form','input','select','textarea','button','svg','canvas','template','meta','link','nav'}:node.decompose();continue
   if node.name=='h1':node.name='h2'
   if node.name not in TAGS:node.unwrap();continue
@@ -83,7 +85,7 @@ def capture(url):
  except Exception as ex:row['error']=str(ex)
  temp=path.with_suffix('.tmp');temp.write_text(json.dumps(row,ensure_ascii=False,indent=2));temp.replace(path);return row
 def sitemap(url):
- cache=ROOT/'content/sitemaps'/Path(urlsplit(url).path).name;cache.parent.mkdir(parents=True,exist_ok=True)
+ cache=ROOT/'content/sitemaps'/(hashlib.sha256(url.encode()).hexdigest()[:8]+'-'+Path(urlsplit(url).path).name);cache.parent.mkdir(parents=True,exist_ok=True)
  try:_,data,_=fetch(url);cache.write_bytes(data)
  except Exception:
   if not cache.exists():return []

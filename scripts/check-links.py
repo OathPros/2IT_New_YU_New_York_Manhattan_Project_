@@ -12,7 +12,7 @@ class Check(HTMLParser):
    count+=1;p=ROOT/unquote(u.path).lstrip('/') if u.path.startswith('/') else self.path.parent/unquote(u.path)
    if p.is_dir():p=p/'index.html'
    if not p.exists():missing.add((str(self.path.relative_to(ROOT)),value))
-pages=list(ROOT.rglob('*.html'))
+pages=[p for p in ROOT.rglob('*.html') if p.is_file()]
 for p in pages:
  checker=Check();checker.path=p;checker.feed(p.read_text())
 if missing:
