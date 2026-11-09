@@ -1,0 +1,14 @@
+{
+  "name": "york-uit-replacement",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "The repository based replacement for York University UIT",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/dev.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "content:check": "node scripts/check-content.mjs"
+  }
+}
