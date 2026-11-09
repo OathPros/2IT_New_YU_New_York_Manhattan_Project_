@@ -1,0 +1,9 @@
+import test from 'node:test'
+import assert from 'node:assert/strict'
+import fs from 'node:fs/promises'
+import {search,validateArticle} from '../src/search.mjs'
+import {reader} from '../src/render.mjs'
+test('retrieval enforces audience context and excludes flagged instructions',()=>{const rows=[{id:'student',title:'Open student email',text:'email gmail',audiences:['student'],type:'article'},{id:'employee',title:'Open work email',text:'email outlook',audiences:['employee'],type:'article'},{id:'bad',title:'Old email instructions',text:'email',audiences:['all'],blocked:true,type:'article'}];const found=search(rows,'email',{audience:'student'});assert.deepEqual(found.map(x=>x.id),['student'])})
+test('unsafe markup and unsupported validation claims fail checks',()=>{const a={id:'test',slug:'test',title:'Test',issue:'Test',environment:['York'],resolution_html:'<script>alert(1)</script>',source_urls:['https://www.yorku.ca/uit/'],state:'validated'};assert.equal(validateArticle(a).length,2)})
+test('popup and permanent page share the same content and escape text',()=>{const a={id:'test',slug:'test',title:'<unsafe>',type:'How to',service_id:'email',issue:'Issue',environment:['York'],resolution_html:'<ol><li>First</li><li>Second</li></ol>',captured_at:'2026-11-09',source_urls:['https://www.yorku.ca/uit/']};for(const popup of [true,false]){const html=reader(a,{popup});assert.ok(html.includes('&lt;unsafe&gt;'));assert.ok(html.includes(a.resolution_html));assert.ok(!html.includes('<dt>Cause</dt>'))}assert.ok(reader(a,{popup:true}).includes('/knowledge/test/'))})
+test('every imported content block is assigned and posts are excluded',async()=>{const rows=JSON.parse(await fs.readFile(new URL('../content/generated/ledger.json',import.meta.url),'utf8'));for(const r of rows){assert.ok(!/\/\d{4}\/\d{2}\//.test(r.source_url));if(r.state==='structured')assert.equal(new Set(r.assignments.map(x=>x.block_id)).size,r.source_block_count,r.source_url)}})

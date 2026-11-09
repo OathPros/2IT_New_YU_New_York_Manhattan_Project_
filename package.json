@@ -4,10 +4,12 @@
   "private": true,
   "type": "module",
   "description": "The repository based replacement for York University UIT",
-  "engines": { "node": ">=22" },
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
-    "build": "node scripts/build.mjs",
     "dev": "node scripts/dev.mjs",
+    "build": "node scripts/build.mjs",
     "test": "node --test tests/*.test.mjs",
     "content:check": "node scripts/check-content.mjs"
   }

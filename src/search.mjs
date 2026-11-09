@@ -1,0 +1,9 @@
+export const escapeHtml=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))
+const stop=new Set('a an the i my me to for of and or do how can cannot with is are it on at in need want please york university'.split(' '))
+export function terms(s){return String(s).toLowerCase().replace(/wi[ -]?fi/g,'wifi').replace(/sign[ -]?in|log[ -]?in/g,'login').replace(/[^\p{L}\p{N}]+/gu,' ').split(' ').filter(t=>t&&!stop.has(t))}
+export function search(records,query,{audience='all'}={}){
+ const needles=terms(query);if(!needles.length)return []
+ const synonyms={wifi:['wireless','airyork','eduroam'],login:['passport','password'],password:['reset','recover','forgot'],email:['mail','outlook','gmail'],phone:['duo','mobile'],software:['apps','download']}
+ return records.filter(r=>!r.blocked&&(audience==='all'||r.type==='service'||r.audiences.includes('all')||r.audiences.includes(audience))).map(r=>{const t=terms(r.title).join(' '),body=terms(r.text).join(' ');const score=needles.reduce((n,k)=>n+(t.includes(k)?20:body.includes(k)?4:0)+(synonyms[k]||[]).reduce((v,s)=>v+(t.includes(s)?4:body.includes(s)?1:0),0),0);return {...r,score}}).filter(r=>r.score>4).sort((a,b)=>b.score-a.score||a.title.localeCompare(b.title))
+}
+export function validateArticle(a){const errors=[];for(const k of ['id','slug','title','issue','resolution_html'])if(!a[k])errors.push('Missing '+k+' on '+a.id);if(!a.environment?.length||!a.source_urls?.length)errors.push('Missing context or provenance on '+a.id);if(a.state==='validated'&&!a.reviewed_at)errors.push('Validation requires review evidence on '+a.id);if(/<(script|style|form|input|iframe|object)\b|\bon\w+\s*=|(?:href|src)=["']\s*(?:javascript|data):/i.test(a.resolution_html))errors.push('Unsafe article markup '+a.id);return errors}

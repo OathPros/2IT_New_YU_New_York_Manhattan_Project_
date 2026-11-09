@@ -32,3 +32,7 @@ GitHub repository OathPros/2IT_New_YU_New_York_Manhattan_Project_ is the source 
 - Do not commit credentials, dependency caches, generated build output, or unrelated hosting identities
 - Run npm test and npm run build before pushing
 - Do not deploy to yorku.ca or enable public hosting without the user's instruction
+
+## Current scope override
+
+Posts and historical advisories are excluded. Do not crawl, import, render, or add their media to this project

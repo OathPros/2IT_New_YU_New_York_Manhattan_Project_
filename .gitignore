@@ -1,9 +1,8 @@
 dist/
+.cache/
+.openai/
 node_modules/
+__pycache__/
+*.pyc
 .env
 .env.*
-!.env.example
-.DS_Store
-__pycache__/
-.cache/
-*.pyc

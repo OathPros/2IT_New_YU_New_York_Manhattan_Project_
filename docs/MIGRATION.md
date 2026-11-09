@@ -1,29 +1,32 @@
-# Migration contract
-
-This repository will contain the UIT replacement application and its content. The original design is retained under archive/initial-design as a historical checkpoint
+# UIT replacement migration
 
 ## Scope
 
-Discover public content from the UIT WordPress sitemaps and linked UIT pages. Preserve service pages, procedures, FAQs, software packages, AI prompts, news, and advisories. Institutional CIO and security content retain their own content types rather than being forced into a knowledge template
+Public UIT pages, software package pages, AI prompts, and linked CIO and Information Security pages are in scope. Posts, historical news, advisories, category lists, tag lists, author lists, and archive pagination are excluded at the user’s request
 
-Pages on other York websites and third party documentation remain referenced at their authoritative URLs. Downloads and media are recorded in the asset inventory. Failed or restricted fetches remain explicit migration blockers
+## Destinations
 
-## Content destinations
+- One shared page for each service with audience specific options and eligibility
+- Atomic task and troubleshooting articles with permanent URLs and quick view popups
+- Resource pages for policies, standards, institutional content, and other long form guidance
+- AI prompts retained as prompt resources
 
-- Shared canonical service pages for service identity, eligibility, access, and support
-- Atomic knowledge articles for specific tasks, questions, and troubleshooting resolutions
-- Reference pages for policies, standards, institutional information, and long form resources
-- Dated archives for historic news and service advisories
-- Dedicated prompt entries for reusable AI prompts
+## Preservation
 
-## Knowledge article contract
+Each source record retains its original page content HTML as inert evidence, sanitized HTML, text, links, media references, source dates when supplied, and capture provenance. The migration ledger records the destination of each source and every structured source block
 
-Title reflects the requester's task or symptom. Description contains Issue, Environment, and Cause only when the source identifies a cause. Resolution holds the answer or ordered steps. Keep different environments separate when their resolutions differ. Link related articles instead of duplicating resolutions
+Media and downloads retain their authoritative URLs. Their references are inventoried for cutover; the source uploads must remain available or be mirrored before the old hosting is retired
 
-Keep source URLs, source modified dates when supplied, capture timestamps, audience context, import confidence, and a record of editorial changes. Capture time is not a review date. Imported material starts not validated until reviewed through use or by an authorized contributor
+## KCS and Halo presentation
 
-The reader is inspired by Halo's knowledge article presentation. This repository does not impersonate a connected Halo installation, fabricate article IDs from Halo, or claim that feedback has been written to Halo
+A knowledge article has Title, Issue, Environment, optional Cause, and Resolution. Description presents Issue and Environment together, as in Halo. The popup and full page render the same record. Local permanent article IDs are not claimed to be Halo IDs
 
-## Completion gate
+Do not invent causes, owners, review dates, validation, or usage metrics. Imports start not_validated. Source instructions that appear obsolete or insecure are flagged and excluded from retrieval. Compound resolution paths require editorial splitting
 
-Every discovered source URL must have either a captured record and destination, a deliberate documented redirect, or an explicit unresolved blocker. Content counts alone do not prove editorial quality. Source to destination coverage, link checks, functional browser checks, accessibility review, and content owner review are required before replacing the live site
+Original source information is preserved even when the active presentation is consolidated. Shared navigation and repeated support boilerplate are mapped to shared service and help destinations
+
+## Completion and cutover
+
+A successful build is not a production cutover approval. Resolve unavailable sources, authentication boundaries, JavaScript only source widgets, live chat and transactional integrations, media preservation, and editorial validation before replacing yorku.ca
+
+No protected content is accessed and no sign in is attempted by the importer. The live York site remains operational
