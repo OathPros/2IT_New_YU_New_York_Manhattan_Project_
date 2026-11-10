@@ -16,3 +16,38 @@
 body{margin:0;background:#f6f5f2}
 #uit-next .brand,#uit-next .header-inner>*,#uit-next .nav,#uit-next .kb-toolbar>*,#uit-next .kb-footer>*{min-width:0}
 @media(max-width:520px){#uit-next .header-inner{flex-wrap:wrap}#uit-next .brand{width:100%}#uit-next .uit{font-size:14px}#uit-next .nav{width:100%;flex-wrap:wrap;justify-content:space-between}#uit-next .nav a{font-size:14px}#uit-next .nav .help{padding:10px 14px}}
+
+/* Homepage service cards and audience filters */
+#uit-next .services-home{padding-block:42px 72px}
+#uit-next .home-services-heading{align-items:flex-end;margin-bottom:24px}
+#uit-next .home-services-heading .eyebrow{margin-bottom:8px}
+#uit-next .home-services-heading h2{font-size:clamp(28px,3vw,38px);font-weight:600;line-height:1.16;letter-spacing:-1px}
+#uit-next .home-services-intro{font-size:15px;color:var(--muted);margin:8px 0 0;max-width:650px}
+#uit-next .home-services-count{font-size:13px;color:var(--muted);margin:0 0 3px;white-space:normal}
+#uit-next .home-service-controls{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:16px 22px;padding-bottom:22px}
+#uit-next .home-audience-filter{display:flex;flex-wrap:wrap;align-items:center;gap:8px}
+#uit-next .home-audience-filter button{display:inline-flex;align-items:center;justify-content:center;gap:9px;min-height:44px;border:1px solid var(--line);border-radius:99px;padding:9px 15px;background:#f6f5f2;color:var(--ink);font-size:14px;font-weight:500}
+#uit-next .home-audience-filter button:hover{border-color:#6a6e68}
+#uit-next .home-audience-filter button[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:#fff}
+#uit-next .home-audience-number{display:inline-flex;align-items:center;justify-content:center;border-radius:99px;min-width:24px;padding:1px 7px;background:#e3e5df;font-size:12px}
+#uit-next .home-audience-filter button[aria-pressed="true"] .home-audience-number{background:#40453f;color:#fff}
+#uit-next .home-service-tools{display:flex;align-items:center;flex-wrap:wrap;gap:10px;font-size:13px}
+#uit-next .home-service-tools input{width:194px;min-height:44px;border:1px solid var(--line);border-radius:6px;padding:9px 12px;background:white}
+#uit-next .home-service-tools select{max-width:100%;min-height:44px;background:white;border:1px solid var(--line);border-radius:6px;padding:9px 12px}
+#uit-next .home-service-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;align-items:stretch}
+#uit-next .home-service-card{display:flex;flex-direction:column;gap:24px;justify-content:space-between;min-width:0;min-height:202px;padding:24px;border:1px solid var(--line);background:#fff;border-radius:10px;overflow-wrap:anywhere}
+#uit-next .home-service-card:hover{border-color:var(--red);box-shadow:0 5px 16px #20221f0a}
+#uit-next .home-service-card:focus-visible{outline-offset:3px}
+#uit-next .home-service-card-content{min-width:0}
+#uit-next .home-service-card h3{font-size:19px;line-height:1.25;letter-spacing:-.3px;font-weight:600;margin:0 0 10px}
+#uit-next .home-service-card p{font-size:14px;line-height:1.5;color:var(--muted);margin:0}
+#uit-next .home-service-card-bottom{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;min-width:0;margin-top:auto}
+#uit-next .home-service-tags{display:flex;flex-wrap:wrap;gap:6px;min-width:0}
+#uit-next .home-service-tag{display:inline-flex;align-items:center;border-radius:5px;padding:5px 9px;font-size:12px;line-height:1.35;color:#444b42;background:#f2f4ef;border:1px solid #e1e6dc}
+#uit-next .home-service-card-arrow{font-size:17px;color:var(--red);line-height:1.3;flex:none}
+#uit-next .home-services-empty{border:1px solid var(--line);border-radius:8px;padding:26px;margin-top:12px;color:var(--muted)}
+#uit-next .home-services-empty p{margin:0 0 14px}
+#uit-next .home-services-empty button{min-height:44px;padding:8px 16px;border:1px solid var(--ink);background:var(--ink);color:#fff;border-radius:5px}
+@media(max-width:940px){#uit-next .home-service-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:650px){#uit-next .home-services-heading{align-items:flex-start}#uit-next .home-service-tools{width:100%}#uit-next .home-service-tools input{flex:1;min-width:0;width:auto}#uit-next .home-service-grid{grid-template-columns:1fr}#uit-next .home-service-card{min-height:0;padding:20px}#uit-next .home-services-count{margin-top:0}}
+@media(max-width:390px){#uit-next .home-service-tools{flex-direction:column;align-items:stretch}#uit-next .home-service-tools input{width:100%}}

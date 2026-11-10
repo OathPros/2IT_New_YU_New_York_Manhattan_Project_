@@ -21,3 +21,36 @@ function renderResults(){const size=25,start=(page-1)*size,shown=matches.slice(s
 const searchForm=document.getElementById('search-form')
 async function runSearch(){const q=document.getElementById('search-query').value.trim(),role=document.getElementById('search-audience').value;history.replaceState(null,'',location.pathname+'?'+new URLSearchParams({q,audience:role}));document.getElementById('result-status').textContent='Finding relevant guidance';try{index??=await get('/_data/search.json');matches=search(index,q,{audience:role});page=1;renderResults()}catch{document.getElementById('result-status').textContent='Search is unavailable';document.getElementById('results').innerHTML=`<a href="${base}/services/">Browse services &gt;&gt;</a>`}}
 if(searchForm){const params=new URLSearchParams(location.search);document.getElementById('search-query').value=params.get('q')||'';document.getElementById('search-audience').value=params.get('audience')||storage.get();searchForm.addEventListener('submit',event=>{event.preventDefault();runSearch()});document.getElementById('search-audience').addEventListener('change',runSearch);await runSearch()}
+
+const homeServiceGrid=document.getElementById('home-service-grid')
+if(homeServiceGrid){
+ const cards=Array.from(homeServiceGrid.querySelectorAll('[data-service-card]'))
+ const buttons=Array.from(document.querySelectorAll('[data-service-audience]'))
+ const searchInput=document.getElementById('home-service-search')
+ const sortInput=document.getElementById('home-service-sort')
+ const resultCount=document.getElementById('home-services-count')
+ const emptyState=document.getElementById('home-services-empty')
+ const initialOrder=new Map(cards.map((card,i)=>[card,i]))
+ let selectedAudience='all'
+ function applyServiceFilters(){
+  const query=searchInput.value.trim().toLocaleLowerCase('en-CA')
+  const sort=sortInput.value
+  const ordered=Array.from(cards).sort((a,b)=>sort==='default'?initialOrder.get(a)-initialOrder.get(b):sort==='za'?b.dataset.name.localeCompare(a.dataset.name,'en-CA'):a.dataset.name.localeCompare(b.dataset.name,'en-CA'))
+  for(const card of ordered)homeServiceGrid.appendChild(card)
+  let visible=0
+  for(const card of cards){
+   const eligible=selectedAudience==='all'||card.dataset.audiences.split(' ').includes(selectedAudience)
+   const matched=!query||card.dataset.search.includes(query)
+   card.hidden=!(eligible&&matched)
+   if(!card.hidden)visible++
+  }
+  for(const button of buttons)button.setAttribute('aria-pressed',String(button.dataset.serviceAudience===selectedAudience))
+  resultCount.textContent='Showing '+visible+' of '+cards.length+' services'
+  emptyState.hidden=visible>0
+ }
+ for(const button of buttons)button.addEventListener('click',()=>{selectedAudience=button.dataset.serviceAudience;applyServiceFilters()})
+ searchInput.addEventListener('input',applyServiceFilters)
+ sortInput.addEventListener('change',applyServiceFilters)
+ document.getElementById('home-service-reset').addEventListener('click',()=>{selectedAudience='all';searchInput.value='';sortInput.value='default';applyServiceFilters();searchInput.focus()})
+ applyServiceFilters()
+}

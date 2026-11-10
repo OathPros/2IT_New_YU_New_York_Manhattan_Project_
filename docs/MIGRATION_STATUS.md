@@ -59,3 +59,11 @@ New work is verified separately from the first Email checkpoint. Mobile and acce
 - Source-level completeness is **not** asserted for the newly covered services; full legacy content, individual FAQs, and media require further transfer
 - New editorial summaries are marked not validated and excluded from release approval
 
+
+## Homepage service discovery
+
+- All 20 canonical services appear as preview cards by default
+- Audience tags and fast filters support all services, students, or faculty and staff
+- Service keyword search includes summaries and aliases; sorting supports featured order, A to Z, and Z to A
+- Each preview card links to its complete service page without cropping descriptions
+- Audience eligibility is defined centrally and independently of individual article filtering
