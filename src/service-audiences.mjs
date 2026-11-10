@@ -1,5 +1,7 @@
 const audienceMap = {
   'email':['student','employee'],
+  '1password':['student','employee'],
+  'duo':['student','employee'],
   'passport-york':['student','employee'],
   'connectivity':['student','employee'],
   'software':['student','employee'],
