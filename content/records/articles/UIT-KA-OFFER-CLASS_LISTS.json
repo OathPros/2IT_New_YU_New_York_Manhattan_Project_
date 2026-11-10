@@ -1,0 +1,28 @@
+{
+  "id": "UIT-KA-OFFER-CLASS_LISTS",
+  "slug": "use-class-lists",
+  "title": "Access and use Class lists",
+  "type": "How to",
+  "service_id": "teaching-learning",
+  "offering_id": "class-lists",
+  "issue": "You need to access or request Class lists",
+  "environment": [
+    "Class lists",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Confirm that you are the instructor or designated staff member for the course</li><li>Open the class-list application approved for your academic unit</li><li>Request the required role from your departmental SIS designate if access is denied</li></ol><p>For an access problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> with the service name and relevant error</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/teaching-and-learning/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

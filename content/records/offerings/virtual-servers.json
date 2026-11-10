@@ -1,0 +1,23 @@
+{
+  "id": "virtual-servers",
+  "name": "Virtual servers",
+  "parent_service_id": "servers",
+  "summary": "Managed virtual compute resources for academic and administrative workloads",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/servers/"
+  ],
+  "actions": [
+    {
+      "label": "Request virtual server",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000021"
+  ],
+  "review_state": "not_validated"
+}

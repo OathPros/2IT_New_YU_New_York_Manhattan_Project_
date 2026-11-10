@@ -1,0 +1,23 @@
+{
+  "id": "wordpress",
+  "name": "York WordPress websites",
+  "parent_service_id": "web-media",
+  "summary": "Request and maintain official centrally supported York public websites",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/web-and-media-management/"
+  ],
+  "actions": [
+    {
+      "label": "Request a WordPress site",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-00000000001F"
+  ],
+  "review_state": "not_validated"
+}

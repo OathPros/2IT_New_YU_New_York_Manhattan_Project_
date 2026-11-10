@@ -1,0 +1,28 @@
+{
+  "id": "UIT-KA-OFFER-TECH_LIBRARY",
+  "slug": "use-tech-library",
+  "title": "Access and use Technology lending library",
+  "type": "How to",
+  "service_id": "audio-visual",
+  "offering_id": "tech-library",
+  "issue": "You need to access or request Technology lending library",
+  "environment": [
+    "Technology lending library",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Confirm the requested equipment and your eligibility with the UIT Service Desk</li><li>Bring your YU-card and departmental budget number to the Steacie Service Desk</li><li>Review and sign the required lending agreement and return equipment by the agreed due date</li></ol><p>For a problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> and include the service and any error shown</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/audio-visual-services-and-technology/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "UIT-KA-OFFER-YORK_VPN",
+  "slug": "use-york-vpn",
+  "title": "Access and use York VPN",
+  "type": "How to",
+  "service_id": "connectivity",
+  "offering_id": "york-vpn",
+  "issue": "You need to access or request York VPN",
+  "environment": [
+    "York VPN",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Install the York-supported VPN client as directed by your faculty or unit IT team</li><li>Open your approved connection profile in Ivanti Secure Access</li><li>Sign in with Passport York and complete Duo verification</li><li>Disconnect when access to the restricted resource is complete</li></ol><p>For an access problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> with the service name and relevant error</p>",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/off-campus-computing/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

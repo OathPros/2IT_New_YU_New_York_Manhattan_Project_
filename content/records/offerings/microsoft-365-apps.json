@@ -1,0 +1,25 @@
+{
+  "id": "microsoft-365-apps",
+  "name": "Microsoft 365 apps",
+  "parent_service_id": "microsoft-365",
+  "summary": "Use Word, Excel, PowerPoint and other licensed productivity applications",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/microsoft-365-for-faculty-and-staff/"
+  ],
+  "actions": [
+    {
+      "label": "Open Microsoft 365",
+      "url": "https://www.microsoft365.com/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000008",
+    "UIT-KA-00000000000A"
+  ],
+  "review_state": "not_validated"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "hyflex",
+  "name": "HyFlex classrooms",
+  "parent_service_id": "audio-visual",
+  "summary": "Support simultaneous in-room and remote teaching using equipped classrooms",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/audio-visual-services-and-technology/"
+  ],
+  "actions": [
+    {
+      "label": "Get HyFlex assistance",
+      "url": "mailto:askIT@yorku.ca",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-HYFLEX"
+  ],
+  "review_state": "not_validated"
+}

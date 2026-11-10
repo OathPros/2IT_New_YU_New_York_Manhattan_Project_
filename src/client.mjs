@@ -17,7 +17,7 @@ for(const t of root.querySelectorAll('textarea')){t.addEventListener('input',()=
 const audience=document.getElementById('audience'),filter=document.getElementById('article-filter')
 function filterArticles(){let count=0;const role=audience.value,q=filter.value.toLowerCase().trim();for(const r of root.querySelectorAll('.kb-row')){r.hidden=!((role==='all'||r.dataset.audiences.split(' ').some(x=>x==='all'||x===role))&&(!q||r.textContent.toLowerCase().includes(q)));if(!r.hidden)count++}for(const [attribute,dataset] of [['data-action-audiences','actionAudiences'],['data-detail-audiences','detailAudiences']])for(const r of root.querySelectorAll('['+attribute+']'))r.hidden=role!=='all'&&!r.dataset[dataset].split(' ').some(x=>x==='all'||x===role);document.getElementById('filter-empty').hidden=count>0}
 if(audience){audience.value=storage.get();audience.addEventListener('change',()=>{storage.set(audience.value);filterArticles()});filter.addEventListener('input',filterArticles);filterArticles()}
-function renderResults(){const size=25,start=(page-1)*size,shown=matches.slice(start,start+size);document.getElementById('result-status').textContent=matches.length?`Showing ${start+1} to ${start+shown.length} of ${matches.length} matches`:'No matching guidance found';document.getElementById('results').innerHTML=shown.map(r=>`<div class="search-result"><a href="${base+e(r.route)}" ${r.type==='article'?`data-preview="${e(r.id)}"`:''}><span class="quiet">${r.type==='article'?'Knowledge article':r.type==='service'?'IT service':'Resource'}</span><h2>${e(r.title)}</h2></a><a class="text-link" href="${base+e(r.route)}">Open page &gt;&gt;</a></div>`).join('')+`<div class="pagination">${page>1?`<button class="secondary" data-page="${page-1}">Previous &gt;&gt;</button>`:''}${start+size<matches.length?`<button class="secondary" data-page="${page+1}">Next &gt;&gt;</button>`:''}</div>`+(!shown.length?`<p>Try a service name or a few words about your issue</p><a class="primary" href="${base}/help/">Get IT help &gt;&gt;</a>`:'')}
+function renderResults(){const size=25,start=(page-1)*size,shown=matches.slice(start,start+size);document.getElementById('result-status').textContent=matches.length?`Showing ${start+1} to ${start+shown.length} of ${matches.length} matches`:'No matching guidance found';document.getElementById('results').innerHTML=shown.map(r=>`<div class="search-result"><a href="${base+e(r.route)}" ${r.type==='article'?`data-preview="${e(r.id)}"`:''}><span class="quiet">${r.type==='article'?'Knowledge article':r.type==='service'?'Service category':r.type==='offering'?'IT service':'Resource'}</span><h2>${e(r.title)}</h2></a><a class="text-link" href="${base+e(r.route)}">Open page &gt;&gt;</a></div>`).join('')+`<div class="pagination">${page>1?`<button class="secondary" data-page="${page-1}">Previous &gt;&gt;</button>`:''}${start+size<matches.length?`<button class="secondary" data-page="${page+1}">Next &gt;&gt;</button>`:''}</div>`+(!shown.length?`<p>Try a service name or a few words about your issue</p><a class="primary" href="${base}/help/">Get IT help &gt;&gt;</a>`:'')}
 const searchForm=document.getElementById('search-form')
 async function runSearch(){const q=document.getElementById('search-query').value.trim(),role=document.getElementById('search-audience').value;history.replaceState(null,'',location.pathname+'?'+new URLSearchParams({q,audience:role}));document.getElementById('result-status').textContent='Finding relevant guidance';try{index??=await get('/_data/search.json');matches=search(index,q,{audience:role});page=1;renderResults()}catch{document.getElementById('result-status').textContent='Search is unavailable';document.getElementById('results').innerHTML=`<a href="${base}/services/">Browse services &gt;&gt;</a>`}}
 if(searchForm){const params=new URLSearchParams(location.search);document.getElementById('search-query').value=params.get('q')||'';document.getElementById('search-audience').value=params.get('audience')||storage.get();searchForm.addEventListener('submit',event=>{event.preventDefault();runSearch()});document.getElementById('search-audience').addEventListener('change',runSearch);await runSearch()}
@@ -53,4 +53,37 @@ if(homeServiceGrid){
  sortInput.addEventListener('change',applyServiceFilters)
  document.getElementById('home-service-reset').addEventListener('click',()=>{selectedAudience='all';searchInput.value='';sortInput.value='default';applyServiceFilters();searchInput.focus()})
  applyServiceFilters()
+}
+
+const offeringGrid=document.getElementById('oc-grid')
+if(offeringGrid){
+ const cards=Array.from(offeringGrid.querySelectorAll('[data-offering]'))
+ const initial=new Map(cards.map((c,i)=>[c,i]))
+ const buttons=Array.from(document.querySelectorAll('[data-oc-audience]'))
+ const query=document.getElementById('oc-query')
+ const category=document.getElementById('oc-category')
+ const sorter=document.getElementById('oc-sort')
+ const count=document.getElementById('oc-count')
+ const empty=document.getElementById('oc-empty')
+ let role='all'
+ function apply(){
+  const term=query.value.trim().toLocaleLowerCase('en-CA')
+  const sorted=[...cards].sort((a,b)=>sorter.value==='featured'?initial.get(a)-initial.get(b):sorter.value==='az'?a.dataset.label.localeCompare(b.dataset.label,'en-CA'):b.dataset.label.localeCompare(a.dataset.label,'en-CA'))
+  for(const card of sorted)offeringGrid.appendChild(card)
+  let shown=0
+  for(const card of cards){
+   const eligible=(role==='all'||card.dataset.role.split(' ').includes(role))&&(category.value==='all'||card.dataset.category===category.value)&&(!term||card.dataset.find.includes(term))
+   card.hidden=!eligible
+   if(eligible)shown++
+  }
+  buttons.forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.ocAudience===role)))
+  count.textContent='Showing '+shown+' of '+cards.length+' services'
+  empty.hidden=shown!==0
+ }
+ buttons.forEach(b=>b.addEventListener('click',()=>{role=b.dataset.ocAudience;apply()}))
+ query.addEventListener('input',apply)
+ category.addEventListener('change',apply)
+ sorter.addEventListener('change',apply)
+ document.getElementById('oc-reset').addEventListener('click',()=>{role='all';query.value='';category.value='all';sorter.value='featured';apply();query.focus()})
+ apply()
 }

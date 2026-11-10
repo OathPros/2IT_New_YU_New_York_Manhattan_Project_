@@ -1,0 +1,23 @@
+{
+  "id": "server-storage",
+  "name": "Server Data Storage",
+  "parent_service_id": "servers",
+  "summary": "NFS and virtual-disk storage options for hosted server workloads",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/servers/"
+  ],
+  "actions": [
+    {
+      "label": "Request server storage",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000022"
+  ],
+  "review_state": "not_validated"
+}

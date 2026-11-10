@@ -1,0 +1,23 @@
+{
+  "id": "security-certificates",
+  "name": "Digital certificates",
+  "parent_service_id": "security",
+  "summary": "Request approved certificates for York-managed systems and websites",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/information-security/"
+  ],
+  "actions": [
+    {
+      "label": "Request certificate assistance",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-SECURITY_CERTIFICATES"
+  ],
+  "review_state": "not_validated"
+}

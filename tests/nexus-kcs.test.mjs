@@ -17,7 +17,7 @@ test('distinct canonical NEXUS service nodes and consistent article ownership',a
 })
 test('knowledge editorial audit reports actionable and missing resolutions',async()=>{
  const report=auditKnowledge(await loadArticles())
- assert.equal(report.total,210)
+ assert.equal(report.total,243)
  assert.ok(report.counts.vendor_maintained_reference>0)
  assert.ok(report.results.every(r=>r.id&&r.service_id&&r.mode))
  assert.equal(report.results.find(r=>r.id==='UIT-KA-007E315D03DF').mode,'vendor_maintained_reference')

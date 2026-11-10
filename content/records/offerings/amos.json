@@ -1,0 +1,24 @@
+{
+  "id": "amos",
+  "name": "IBM SPSS Amos",
+  "parent_service_id": "software",
+  "summary": "Structural equation modelling for eligible York statistical work",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/software-and-apps/"
+  ],
+  "actions": [
+    {
+      "label": "Request Amos",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-AMOS"
+  ],
+  "review_state": "not_validated"
+}

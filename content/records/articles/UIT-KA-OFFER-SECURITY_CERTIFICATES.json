@@ -1,0 +1,28 @@
+{
+  "id": "UIT-KA-OFFER-SECURITY_CERTIFICATES",
+  "slug": "use-security-certificates",
+  "title": "Access and use Digital certificates",
+  "type": "How to",
+  "service_id": "security",
+  "offering_id": "security-certificates",
+  "issue": "You need to access or request Digital certificates",
+  "environment": [
+    "Digital certificates",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Identify the managed system, hostname, service owner and certificate use</li><li>Confirm the authorized institutional request process and approval</li><li>Submit the certificate request to Information Security for review</li></ol><p>For a problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> and include the service and any error shown</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/information-security/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "m365-copilot",
+  "name": "Microsoft 365 Copilot",
+  "parent_service_id": "ai",
+  "summary": "Premium integrated AI assistance within Microsoft 365 for licensed employees",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/AI/"
+  ],
+  "actions": [
+    {
+      "label": "Request Copilot access",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-M365_COPILOT"
+  ],
+  "review_state": "not_validated"
+}

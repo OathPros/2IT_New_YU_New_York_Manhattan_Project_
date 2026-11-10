@@ -1,0 +1,23 @@
+{
+  "id": "maximo",
+  "name": "Maximo",
+  "parent_service_id": "administrative-systems",
+  "summary": "Submit and track facilities and maintenance service requests",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/administrative-systems/"
+  ],
+  "actions": [
+    {
+      "label": "Request Maximo help",
+      "url": "mailto:askIT@yorku.ca",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-MAXIMO"
+  ],
+  "review_state": "not_validated"
+}

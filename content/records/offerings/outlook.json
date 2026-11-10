@@ -1,0 +1,27 @@
+{
+  "id": "outlook",
+  "name": "Outlook email and calendar",
+  "parent_service_id": "email",
+  "summary": "Graduate and employee email, calendars, shared mailboxes and delegation",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+  ],
+  "actions": [
+    {
+      "label": "Open Outlook",
+      "url": "https://outlook.office.com/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-2547027CB9F6",
+    "UIT-KA-D2408187CDE0",
+    "UIT-KA-B81CAF2B8B86",
+    "UIT-KA-9B42BE286CDC"
+  ],
+  "review_state": "not_validated"
+}

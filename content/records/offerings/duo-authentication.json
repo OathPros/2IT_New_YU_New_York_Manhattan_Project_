@@ -1,0 +1,25 @@
+{
+  "id": "duo-authentication",
+  "name": "Duo multifactor authentication",
+  "parent_service_id": "duo",
+  "summary": "Confirm York sign-ins with Duo Mobile or another supported verification method",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/duo-two-factor-authentication/"
+  ],
+  "actions": [
+    {
+      "label": "Get Duo support",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-YORK-DUO-GUIDE",
+    "UIT-KA-000000000016"
+  ],
+  "review_state": "not_validated"
+}

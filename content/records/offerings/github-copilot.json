@@ -1,0 +1,23 @@
+{
+  "id": "github-copilot",
+  "name": "GitHub Copilot",
+  "parent_service_id": "github",
+  "summary": "Licensed coding assistance within York GitHub Enterprise workflows",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/github/"
+  ],
+  "actions": [
+    {
+      "label": "Request Copilot licence",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-00000000002D"
+  ],
+  "review_state": "not_validated"
+}

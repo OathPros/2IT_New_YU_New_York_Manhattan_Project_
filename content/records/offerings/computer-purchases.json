@@ -1,0 +1,23 @@
+{
+  "id": "computer-purchases",
+  "name": "Computer purchasing",
+  "parent_service_id": "computer-purchase",
+  "summary": "Get approved quotes and order University laptops, desktops and peripherals",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/computer-purchase/"
+  ],
+  "actions": [
+    {
+      "label": "Request a quote",
+      "url": "mailto:askIT@yorku.ca",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000027"
+  ],
+  "review_state": "not_validated"
+}

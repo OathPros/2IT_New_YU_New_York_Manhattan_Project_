@@ -1,0 +1,23 @@
+{
+  "id": "airyorkguest",
+  "name": "AirYorkGUEST",
+  "parent_service_id": "connectivity",
+  "summary": "Temporary Wi-Fi access for eligible campus visitors",
+  "audiences": [
+    "visitor"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/internet-access/"
+  ],
+  "actions": [
+    {
+      "label": "Get guest help",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000003"
+  ],
+  "review_state": "not_validated"
+}

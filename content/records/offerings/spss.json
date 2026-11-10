@@ -1,0 +1,24 @@
+{
+  "id": "spss",
+  "name": "IBM SPSS Statistics",
+  "parent_service_id": "software",
+  "summary": "Statistical analysis software for eligible York researchers, instructors and learners",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/software-and-apps/"
+  ],
+  "actions": [
+    {
+      "label": "Request SPSS",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-SPSS"
+  ],
+  "review_state": "not_validated"
+}

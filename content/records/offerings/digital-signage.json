@@ -1,0 +1,23 @@
+{
+  "id": "digital-signage",
+  "name": "Digital signage",
+  "parent_service_id": "audio-visual",
+  "summary": "Display approved communications and event messaging on York campus digital screens",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/audio-visual-services-and-technology/"
+  ],
+  "actions": [
+    {
+      "label": "Request digital signage",
+      "url": "mailto:askIT@yorku.ca",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-DIGITAL_SIGNAGE"
+  ],
+  "review_state": "not_validated"
+}

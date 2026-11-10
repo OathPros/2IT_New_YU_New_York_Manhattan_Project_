@@ -1,0 +1,25 @@
+{
+  "id": "airyorkplus",
+  "name": "AirYorkPLUS",
+  "parent_service_id": "connectivity",
+  "summary": "Secure Wi-Fi for current York students and employees on campus",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/internet-access/"
+  ],
+  "actions": [
+    {
+      "label": "Report connection problem",
+      "url": "https://uitcs.apps01.yorku.ca/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000001",
+    "UIT-KA-000000000004"
+  ],
+  "review_state": "not_validated"
+}

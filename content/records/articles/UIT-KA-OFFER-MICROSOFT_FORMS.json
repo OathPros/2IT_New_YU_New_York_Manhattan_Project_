@@ -1,0 +1,29 @@
+{
+  "id": "UIT-KA-OFFER-MICROSOFT_FORMS",
+  "slug": "use-microsoft-forms",
+  "title": "Access and use Microsoft Forms",
+  "type": "How to",
+  "service_id": "microsoft-365",
+  "offering_id": "microsoft-forms",
+  "issue": "You need to access or request Microsoft Forms",
+  "environment": [
+    "Microsoft Forms",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Sign in to Microsoft Forms with your York account</li><li>Create a new form or quiz and add questions</li><li>Review who may respond and whether the information is appropriate for this tool</li><li>Share the form with the intended audience</li></ol><p>For an access problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> with the service name and relevant error</p>",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/microsoft-365-for-faculty-and-staff/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

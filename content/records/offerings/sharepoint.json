@@ -1,0 +1,23 @@
+{
+  "id": "sharepoint",
+  "name": "SharePoint sites",
+  "parent_service_id": "microsoft-365",
+  "summary": "Team and departmental document libraries within the Microsoft 365 suite",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/microsoft-365-for-faculty-and-staff/"
+  ],
+  "actions": [
+    {
+      "label": "Open Microsoft 365",
+      "url": "https://www.microsoft365.com/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-SHAREPOINT"
+  ],
+  "review_state": "not_validated"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "web-hosting",
+  "name": "Application web hosting",
+  "parent_service_id": "web-media",
+  "summary": "Host approved departmental web applications beyond the managed WordPress platform",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/web-and-media-management/"
+  ],
+  "actions": [
+    {
+      "label": "Request hosting",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-WEB_HOSTING"
+  ],
+  "review_state": "not_validated"
+}

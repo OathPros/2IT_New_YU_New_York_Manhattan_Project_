@@ -1,0 +1,28 @@
+{
+  "id": "UIT-KA-OFFER-M365_COPILOT",
+  "slug": "use-m365-copilot",
+  "title": "Access and use Microsoft 365 Copilot",
+  "type": "How to",
+  "service_id": "ai",
+  "offering_id": "m365-copilot",
+  "issue": "You need to access or request Microsoft 365 Copilot",
+  "environment": [
+    "Microsoft 365 Copilot",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Check that your department has approved Microsoft 365 Copilot licensing</li><li>Confirm your assigned employee licence and data permissions</li><li>Open the approved Microsoft 365 Copilot application after activation</li></ol><p>For a problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> and include the service and any error shown</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/AI/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

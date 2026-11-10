@@ -1,0 +1,24 @@
+{
+  "id": "eduroam",
+  "name": "eduroam",
+  "parent_service_id": "connectivity",
+  "summary": "Campus Wi-Fi roaming at York and other participating institutions",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/internet-access/"
+  ],
+  "actions": [
+    {
+      "label": "Report Wi-Fi problem",
+      "url": "https://uitcs.apps01.yorku.ca/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000002"
+  ],
+  "review_state": "not_validated"
+}

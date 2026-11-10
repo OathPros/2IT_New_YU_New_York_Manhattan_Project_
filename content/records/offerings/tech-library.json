@@ -1,0 +1,23 @@
+{
+  "id": "tech-library",
+  "name": "Technology lending library",
+  "parent_service_id": "audio-visual",
+  "summary": "Borrow eligible presentation, webcam and audio equipment for teaching or work",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/audio-visual-services-and-technology/"
+  ],
+  "actions": [
+    {
+      "label": "Ask about a loan",
+      "url": "mailto:askIT@yorku.ca",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-TECH_LIBRARY"
+  ],
+  "review_state": "not_validated"
+}

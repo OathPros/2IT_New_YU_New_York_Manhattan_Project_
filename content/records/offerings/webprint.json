@@ -1,0 +1,24 @@
+{
+  "id": "webprint",
+  "name": "WebPrint",
+  "parent_service_id": "printing",
+  "summary": "Submit documents to York public campus printers from your own device",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/printing-for-students/"
+  ],
+  "actions": [
+    {
+      "label": "Open WebPrint",
+      "url": "https://webprint.uit.yorku.ca/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-00000000000E",
+    "UIT-KA-000000000010"
+  ],
+  "review_state": "not_validated"
+}

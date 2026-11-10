@@ -1,0 +1,28 @@
+{
+  "id": "UIT-KA-OFFER-POWER_BI",
+  "slug": "use-power-bi",
+  "title": "Access and use Power BI",
+  "type": "How to",
+  "service_id": "data-reporting",
+  "offering_id": "power-bi",
+  "issue": "You need to access or request Power BI",
+  "environment": [
+    "Power BI",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Confirm access to the institutional dataset and relevant reporting workspace</li><li>Use the York-approved Power BI account and licence</li><li>Request any missing workspace role or dataset permission from its owner</li></ol><p>For a problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> and include the service and any error shown</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/data-and-reporting-services/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

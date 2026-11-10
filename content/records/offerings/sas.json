@@ -1,0 +1,24 @@
+{
+  "id": "sas",
+  "name": "SAS",
+  "parent_service_id": "software",
+  "summary": "Licensed analytics and statistics applications",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/software-and-apps/"
+  ],
+  "actions": [
+    {
+      "label": "Request SAS",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-SAS"
+  ],
+  "review_state": "not_validated"
+}

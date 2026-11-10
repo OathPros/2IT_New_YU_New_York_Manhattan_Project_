@@ -1,0 +1,24 @@
+{
+  "id": "software-licences",
+  "name": "Software downloads and licences",
+  "parent_service_id": "software",
+  "summary": "Find York-licensed or discounted applications and request authorized installation",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/software-and-apps/"
+  ],
+  "actions": [
+    {
+      "label": "Request software",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-SOFTWARE_LICENCES"
+  ],
+  "review_state": "not_validated"
+}

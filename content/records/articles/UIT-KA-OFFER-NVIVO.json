@@ -1,0 +1,29 @@
+{
+  "id": "UIT-KA-OFFER-NVIVO",
+  "slug": "use-nvivo",
+  "title": "Access and use NVivo",
+  "type": "How to",
+  "service_id": "software",
+  "offering_id": "nvivo",
+  "issue": "You need to access or request NVivo",
+  "environment": [
+    "NVivo",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Verify eligibility for NVivo through York's software licensing service</li><li>Request the approved Windows or Mac licence and installer</li><li>Activate the product with the licence instructions provided with the software</li></ol><p>For an access problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> with the service name and relevant error</p>",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/software-and-apps/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

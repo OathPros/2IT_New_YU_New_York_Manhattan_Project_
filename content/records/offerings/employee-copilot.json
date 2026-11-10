@@ -1,0 +1,24 @@
+{
+  "id": "employee-copilot",
+  "name": "Microsoft Copilot for work",
+  "parent_service_id": "ai",
+  "summary": "Access York-supported Copilot tools appropriate for employee tasks",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/AI/"
+  ],
+  "actions": [
+    {
+      "label": "Open Copilot",
+      "url": "https://copilot.microsoft.com/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000019",
+    "UIT-KA-00000000001B"
+  ],
+  "review_state": "not_validated"
+}

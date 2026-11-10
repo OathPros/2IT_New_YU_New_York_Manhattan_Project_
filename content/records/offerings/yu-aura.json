@@ -1,0 +1,23 @@
+{
+  "id": "yu-aura",
+  "name": "YU AURA",
+  "parent_service_id": "ai",
+  "summary": "York's institutional AI assistant for eligible approved tasks",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/AI/"
+  ],
+  "actions": [
+    {
+      "label": "Request AURA guidance",
+      "url": "mailto:askIT@yorku.ca",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-YU_AURA"
+  ],
+  "review_state": "not_validated"
+}

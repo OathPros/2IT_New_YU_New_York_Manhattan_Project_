@@ -1,0 +1,24 @@
+{
+  "id": "lecture-recording",
+  "name": "Lecture recording",
+  "parent_service_id": "teaching-learning",
+  "summary": "Capture or view recordings of approved York teaching sessions",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/teaching-and-learning/"
+  ],
+  "actions": [
+    {
+      "label": "Learning technology help",
+      "url": "https://lthelp.yorku.ca/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-LECTURE_RECORDING"
+  ],
+  "review_state": "not_validated"
+}

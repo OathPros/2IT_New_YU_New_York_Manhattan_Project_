@@ -1,0 +1,24 @@
+{
+  "id": "turnitin",
+  "name": "Turnitin",
+  "parent_service_id": "teaching-learning",
+  "summary": "Supported originality checking and written assignment submission",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/learning-technologies/"
+  ],
+  "actions": [
+    {
+      "label": "Open eClass",
+      "url": "https://eclass.yorku.ca/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-00000000000C"
+  ],
+  "review_state": "not_validated"
+}

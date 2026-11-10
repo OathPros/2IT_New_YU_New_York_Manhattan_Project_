@@ -1,0 +1,28 @@
+{
+  "id": "UIT-KA-OFFER-DATA_INTEGRATIONS",
+  "slug": "use-data-integrations",
+  "title": "Access and use Data management and integration",
+  "type": "How to",
+  "service_id": "data-reporting",
+  "offering_id": "data-integrations",
+  "issue": "You need to access or request Data management and integration",
+  "environment": [
+    "Data management and integration",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Document the data sources, purpose, ownership and classification</li><li>Identify the required integration or reporting outputs</li><li>Submit requirements for Data Management and Analytics review</li></ol><p>For a problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> and include the service and any error shown</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/data-and-reporting-services/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

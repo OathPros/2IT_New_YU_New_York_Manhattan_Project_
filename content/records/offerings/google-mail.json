@@ -1,0 +1,25 @@
+{
+  "id": "google-mail",
+  "name": "Google Mail",
+  "parent_service_id": "email",
+  "summary": "Undergraduate student Gmail, labels, messages and attachments",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "actions": [
+    {
+      "label": "Open Google Mail",
+      "url": "https://mail.my.yorku.ca/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-8AD1D77DF30D",
+    "UIT-KA-642BC73DAE0D",
+    "UIT-KA-977B08D3E754"
+  ],
+  "review_state": "not_validated"
+}

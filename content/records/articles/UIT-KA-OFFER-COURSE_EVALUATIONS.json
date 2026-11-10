@@ -1,0 +1,29 @@
+{
+  "id": "UIT-KA-OFFER-COURSE_EVALUATIONS",
+  "slug": "use-course-evaluations",
+  "title": "Access and use Course evaluations",
+  "type": "How to",
+  "service_id": "teaching-learning",
+  "offering_id": "course-evaluations",
+  "issue": "You need to access or request Course evaluations",
+  "environment": [
+    "Course evaluations",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Open the course evaluation link supplied to your course or unit</li><li>Sign in with your eligible York credentials if required</li><li>Submit the evaluation within the designated period</li><li>Contact the responsible academic unit if the course or evaluation is missing</li></ol><p>For an access problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> with the service name and relevant error</p>",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/teaching-and-learning/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "meeting-room-av",
+  "name": "Meeting rooms and event AV",
+  "parent_service_id": "audio-visual",
+  "summary": "Equipment, technical operators and room technology for York meetings and events",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/audio-visual-services-and-technology/"
+  ],
+  "actions": [
+    {
+      "label": "Request event AV",
+      "url": "mailto:askIT@yorku.ca",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000024"
+  ],
+  "review_state": "not_validated"
+}

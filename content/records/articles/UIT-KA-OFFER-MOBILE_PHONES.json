@@ -1,0 +1,28 @@
+{
+  "id": "UIT-KA-OFFER-MOBILE_PHONES",
+  "slug": "use-mobile-phones",
+  "title": "Access and use University mobile phones",
+  "type": "How to",
+  "service_id": "phones",
+  "offering_id": "mobile-phones",
+  "issue": "You need to access or request University mobile phones",
+  "environment": [
+    "University mobile phones",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Confirm your department's eligibility and budget authorization for a University mobile device</li><li>Ask your unit's telephone designate for the current managed plan options</li><li>Submit the authorized mobile request through York's telecommunications process</li></ol><p>For a problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> and include the service and any error shown</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/desk-phones/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

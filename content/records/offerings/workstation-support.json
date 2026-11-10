@@ -1,0 +1,23 @@
+{
+  "id": "workstation-support",
+  "name": "Managed workstation support",
+  "parent_service_id": "devices-labs",
+  "summary": "Set up, troubleshoot and maintain department-supported York devices",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/computer-services/"
+  ],
+  "actions": [
+    {
+      "label": "Request desktop support",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-WORKSTATION_SUPPORT"
+  ],
+  "review_state": "not_validated"
+}

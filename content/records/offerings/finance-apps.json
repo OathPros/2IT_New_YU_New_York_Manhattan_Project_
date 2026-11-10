@@ -1,0 +1,23 @@
+{
+  "id": "finance-apps",
+  "name": "Finance applications",
+  "parent_service_id": "administrative-systems",
+  "summary": "Access institutionally approved finance and expense-management systems",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/administrative-systems/"
+  ],
+  "actions": [
+    {
+      "label": "Request finance application access",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-FINANCE_APPS"
+  ],
+  "review_state": "not_validated"
+}

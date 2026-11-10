@@ -1,0 +1,23 @@
+{
+  "id": "sponsored-accounts",
+  "name": "Sponsored and guest accounts",
+  "parent_service_id": "passport-york",
+  "summary": "Obtain authorized computing access for eligible affiliates, external collaborators and event guests",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"
+  ],
+  "actions": [
+    {
+      "label": "Request account",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-314D497E5576"
+  ],
+  "review_state": "not_validated"
+}

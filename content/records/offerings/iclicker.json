@@ -1,0 +1,24 @@
+{
+  "id": "iclicker",
+  "name": "iClicker",
+  "parent_service_id": "teaching-learning",
+  "summary": "Class polling and interactive participation tools selected by instructors",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/teaching-and-learning/"
+  ],
+  "actions": [
+    {
+      "label": "Get learning technology help",
+      "url": "https://lthelp.yorku.ca/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-ICLICKER"
+  ],
+  "review_state": "not_validated"
+}

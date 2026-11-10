@@ -1,0 +1,29 @@
+{
+  "id": "UIT-KA-OFFER-SOFTWARE_LICENCES",
+  "slug": "use-software-licences",
+  "title": "Access and use Software downloads and licences",
+  "type": "How to",
+  "service_id": "software",
+  "offering_id": "software-licences",
+  "issue": "You need to access or request Software downloads and licences",
+  "environment": [
+    "Software downloads and licences",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Check the York software catalogue and product eligibility for your role</li><li>Select the authorized software order or virtual application route</li><li>For software on a York-owned workstation, submit a request to your responsible IT support team</li></ol><p>For an access problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> with the service name and relevant error</p>",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/software-and-apps/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

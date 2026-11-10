@@ -1,0 +1,28 @@
+{
+  "id": "UIT-KA-OFFER-ZOOM",
+  "slug": "use-zoom",
+  "title": "Access and use Zoom Meetings",
+  "type": "How to",
+  "service_id": "software",
+  "offering_id": "zoom",
+  "issue": "You need to access or request Zoom Meetings",
+  "environment": [
+    "Zoom Meetings",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Open yorku.zoom.us and select Sign In</li><li>Authenticate with your Passport York account</li><li>Schedule or start a meeting from your York Zoom profile</li><li>Set the meeting security and recording options appropriate to the session</li></ol><p>For an access problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> with the service name and relevant error</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/software-and-apps/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

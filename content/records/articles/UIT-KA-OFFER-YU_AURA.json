@@ -1,0 +1,28 @@
+{
+  "id": "UIT-KA-OFFER-YU_AURA",
+  "slug": "use-yu-aura",
+  "title": "Access and use YU AURA",
+  "type": "How to",
+  "service_id": "ai",
+  "offering_id": "yu-aura",
+  "issue": "You need to access or request YU AURA",
+  "environment": [
+    "YU AURA",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Confirm that your role is eligible for the York-supported AURA service</li><li>Open the approved York-provided access route</li><li>Follow the current York AI data classification and acceptable-use rules</li></ol><p>For a problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> and include the service and any error shown</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/AI/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

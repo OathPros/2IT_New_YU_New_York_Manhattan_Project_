@@ -1,0 +1,23 @@
+{
+  "id": "sis",
+  "name": "Student Information System",
+  "parent_service_id": "administrative-systems",
+  "summary": "Access authorized student records and academic administration functions",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/administrative-systems/"
+  ],
+  "actions": [
+    {
+      "label": "Request SIS access",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-SIS"
+  ],
+  "review_state": "not_validated"
+}

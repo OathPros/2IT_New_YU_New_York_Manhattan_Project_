@@ -1,0 +1,25 @@
+{
+  "id": "onedrive",
+  "name": "Microsoft OneDrive",
+  "parent_service_id": "storage",
+  "summary": "Save, sync, share and recover files in York Microsoft 365",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/storage/"
+  ],
+  "actions": [
+    {
+      "label": "Open OneDrive",
+      "url": "https://www.microsoft365.com/launch/onedrive",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-2C82632D6902",
+    "UIT-KA-000000000011"
+  ],
+  "review_state": "not_validated"
+}

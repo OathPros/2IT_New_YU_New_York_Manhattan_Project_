@@ -1,0 +1,23 @@
+{
+  "id": "machform",
+  "name": "MachForm",
+  "parent_service_id": "web-media",
+  "summary": "Host standalone forms for approved York workflows",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/web-and-media-management/"
+  ],
+  "actions": [
+    {
+      "label": "Request MachForm help",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-MACHFORM"
+  ],
+  "review_state": "not_validated"
+}

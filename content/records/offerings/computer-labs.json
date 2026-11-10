@@ -1,0 +1,23 @@
+{
+  "id": "computer-labs",
+  "name": "Campus computer labs",
+  "parent_service_id": "devices-labs",
+  "summary": "Use teaching labs and drop-in student computing spaces",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/computer-labs/"
+  ],
+  "actions": [
+    {
+      "label": "Find a computer lab",
+      "url": "mailto:askIT@yorku.ca",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000014"
+  ],
+  "review_state": "not_validated"
+}

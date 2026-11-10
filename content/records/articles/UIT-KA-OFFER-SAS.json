@@ -1,0 +1,29 @@
+{
+  "id": "UIT-KA-OFFER-SAS",
+  "slug": "use-sas",
+  "title": "Access and use SAS",
+  "type": "How to",
+  "service_id": "software",
+  "offering_id": "sas",
+  "issue": "You need to access or request SAS",
+  "environment": [
+    "SAS",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Confirm whether SAS is supplied through your program or unit</li><li>Request the approved licence or supported virtual application</li><li>Use the platform-specific installation instructions provided with the licence</li></ol><p>For an access problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> with the service name and relevant error</p>",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/software-and-apps/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

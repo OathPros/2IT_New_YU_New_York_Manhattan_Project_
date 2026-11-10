@@ -1,0 +1,23 @@
+{
+  "id": "york-github",
+  "name": "GitHub Enterprise",
+  "parent_service_id": "github",
+  "summary": "Manage code repositories and organizational collaboration through York GitHub",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/github/"
+  ],
+  "actions": [
+    {
+      "label": "Open York GitHub",
+      "url": "https://github.com/enterprises/YorkUCA/sso",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-00000000002B"
+  ],
+  "review_state": "not_validated"
+}

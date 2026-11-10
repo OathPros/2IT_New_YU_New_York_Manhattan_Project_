@@ -1,0 +1,23 @@
+{
+  "id": "power-bi",
+  "name": "Power BI",
+  "parent_service_id": "data-reporting",
+  "summary": "Create and consume approved data visualizations and dashboards",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/data-and-reporting-services/"
+  ],
+  "actions": [
+    {
+      "label": "Request Power BI access",
+      "url": "mailto:askIT@yorku.ca",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-POWER_BI"
+  ],
+  "review_state": "not_validated"
+}

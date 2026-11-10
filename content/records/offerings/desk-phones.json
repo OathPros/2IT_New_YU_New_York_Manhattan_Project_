@@ -1,0 +1,23 @@
+{
+  "id": "desk-phones",
+  "name": "Desk telephones",
+  "parent_service_id": "phones",
+  "summary": "Request or manage department telephones, extensions and moves",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/desk-phones/"
+  ],
+  "actions": [
+    {
+      "label": "Request phone change",
+      "url": "mailto:askIT@yorku.ca",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000028"
+  ],
+  "review_state": "not_validated"
+}

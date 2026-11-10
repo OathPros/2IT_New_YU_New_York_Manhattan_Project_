@@ -1,0 +1,28 @@
+{
+  "id": "UIT-KA-OFFER-SHAREPOINT",
+  "slug": "use-sharepoint",
+  "title": "Access and use SharePoint sites",
+  "type": "How to",
+  "service_id": "microsoft-365",
+  "offering_id": "sharepoint",
+  "issue": "You need to access or request SharePoint sites",
+  "environment": [
+    "SharePoint sites",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Sign in to Microsoft 365 using your York account</li><li>Open the SharePoint app or follow the department's site address</li><li>Use the site document library after your owner grants permission</li><li>Confirm sharing settings before adding University information</li></ol><p>For an access problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> with the service name and relevant error</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/microsoft-365-for-faculty-and-staff/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}
