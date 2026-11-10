@@ -1,0 +1,31 @@
+{
+  "id": "UIT-KA-FC550A00445C",
+  "slug": "for-faculty-members-at-york-university-00445c",
+  "title": "For Faculty members at York University",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "For Faculty members at York University",
+  "environment": [
+    "Passport York",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>When a contract academic employees or contract faculty member is no longer on contract, HR's records will reflect this and the accounts and services (Passport York, Email, etc.) will last for a grace period of an extra year before they start the expiry process.  This grace period is available as most contract academic employees or contract faculty members may take on a new contract within a year which grants a sense of continuity.  This is also in line with collective bargaining agreements</p>\n<p>When a Faculty member retires, if HR's records reflect a retiree status, then the accounts and services (Passport York, Email, etc.) will continue into retirement with no changes.  This is in line with collective bargaining agreements.  If HR's records does not reflect a retiree status, then the accounts and services (Passport York, Email, etc.) will expire as per the above paragraph.  If there is some contention about retiree status with HR, please email to <a href=\"mailto:askIT@yorku.ca\">askIT@yorku.ca</a> before the expiry happens and we will investigate further with HR to update/correct any records</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "c7e9cafb4377e283:59",
+    "c7e9cafb4377e283:60",
+    "c7e9cafb4377e283:61"
+  ],
+  "captured_at": "2026-11-09T21:45:58.697932+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

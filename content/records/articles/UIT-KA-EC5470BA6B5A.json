@@ -1,0 +1,31 @@
+{
+  "id": "UIT-KA-EC5470BA6B5A",
+  "slug": "obtaining-your-employee-id-ba6b5a",
+  "title": "Obtaining your employee ID",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Obtaining your employee ID",
+  "environment": [
+    "Passport York",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>You can find your employee ID on a previous pay stub or your YU Card</p>\n<p>If you cannot find your employee ID, you can reach out to <a href=\"https://www.yorku.ca/universityservices/contact/\">Payroll &amp; Records&gt;&gt;</a></p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "c7e9cafb4377e283:86",
+    "c7e9cafb4377e283:87",
+    "c7e9cafb4377e283:88"
+  ],
+  "captured_at": "2026-11-09T21:45:58.697932+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

@@ -1,0 +1,625 @@
+{
+  "source_id": "c7e9cafb4377e283",
+  "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/",
+  "title": "Passport York",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/passport-york/",
+    "/knowledge/online-9c5627/",
+    "/knowledge/by-email-209294/",
+    "/knowledge/in-person-5a1cad/",
+    "/knowledge/via-your-department-admin-6e3e62/",
+    "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+    "/knowledge/employee-lifecycle-of-computing-accounts-4681e6/",
+    "/knowledge/for-faculty-members-at-york-university-00445c/",
+    "/knowledge/for-non-academic-administrative-staff-members-at-york-university-9e6530/",
+    "/knowledge/obtain-guest-special-event-accounts-7e5576/",
+    "/knowledge/fixed-maintenance-window-13898f/",
+    "/knowledge/choosing-a-secure-password-f4b1ec/",
+    "/knowledge/set-up-your-security-questions-for-passport-york-979bf5/",
+    "/knowledge/obtaining-your-employee-id-ba6b5a/",
+    "/knowledge/change-your-passport-york-password-7a165a/",
+    "/knowledge/recover-your-forgotten-passport-york-password-58f717/"
+  ],
+  "assignments": [
+    {
+      "block_id": "c7e9cafb4377e283:0",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:1",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:2",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:3",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:4",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:5",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:6",
+      "destination": "/knowledge/online-9c5627/",
+      "article_id": "UIT-KA-01A1419C5627",
+      "anchors": [
+        "reset-online"
+      ]
+    },
+    {
+      "block_id": "c7e9cafb4377e283:7",
+      "destination": "/knowledge/online-9c5627/",
+      "article_id": "UIT-KA-01A1419C5627",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:8",
+      "destination": "/knowledge/online-9c5627/",
+      "article_id": "UIT-KA-01A1419C5627",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:9",
+      "destination": "/knowledge/online-9c5627/",
+      "article_id": "UIT-KA-01A1419C5627",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:10",
+      "destination": "/knowledge/online-9c5627/",
+      "article_id": "UIT-KA-01A1419C5627",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:11",
+      "destination": "/knowledge/online-9c5627/",
+      "article_id": "UIT-KA-01A1419C5627",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:12",
+      "destination": "/knowledge/by-email-209294/",
+      "article_id": "UIT-KA-D2DFD3209294",
+      "anchors": [
+        "reset-by-email"
+      ]
+    },
+    {
+      "block_id": "c7e9cafb4377e283:13",
+      "destination": "/knowledge/by-email-209294/",
+      "article_id": "UIT-KA-D2DFD3209294",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:14",
+      "destination": "/knowledge/by-email-209294/",
+      "article_id": "UIT-KA-D2DFD3209294",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:15",
+      "destination": "/knowledge/by-email-209294/",
+      "article_id": "UIT-KA-D2DFD3209294",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:16",
+      "destination": "/knowledge/by-email-209294/",
+      "article_id": "UIT-KA-D2DFD3209294",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:17",
+      "destination": "/knowledge/in-person-5a1cad/",
+      "article_id": "UIT-KA-2F609C5A1CAD",
+      "anchors": [
+        "reset-in-person"
+      ]
+    },
+    {
+      "block_id": "c7e9cafb4377e283:18",
+      "destination": "/knowledge/in-person-5a1cad/",
+      "article_id": "UIT-KA-2F609C5A1CAD",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:19",
+      "destination": "/knowledge/in-person-5a1cad/",
+      "article_id": "UIT-KA-2F609C5A1CAD",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:20",
+      "destination": "/knowledge/in-person-5a1cad/",
+      "article_id": "UIT-KA-2F609C5A1CAD",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:21",
+      "destination": "/knowledge/in-person-5a1cad/",
+      "article_id": "UIT-KA-2F609C5A1CAD",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:22",
+      "destination": "/knowledge/via-your-department-admin-6e3e62/",
+      "article_id": "UIT-KA-376D706E3E62",
+      "anchors": [
+        "reset-by-department-admin"
+      ]
+    },
+    {
+      "block_id": "c7e9cafb4377e283:23",
+      "destination": "/knowledge/via-your-department-admin-6e3e62/",
+      "article_id": "UIT-KA-376D706E3E62",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:24",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:25",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:26",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:27",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:28",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:29",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:30",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:31",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:32",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:33",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:34",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:35",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:36",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:37",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:38",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:39",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:40",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:41",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:42",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:43",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:44",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:45",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:46",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:47",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:48",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:49",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:50",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:51",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:52",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:53",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:54",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:55",
+      "destination": "/knowledge/set-up-your-passport-york-account-e4ee0f/",
+      "article_id": "UIT-KA-823167E4EE0F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:56",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:57",
+      "destination": "/knowledge/employee-lifecycle-of-computing-accounts-4681e6/",
+      "article_id": "UIT-KA-D8F05F4681E6",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:58",
+      "destination": "/knowledge/employee-lifecycle-of-computing-accounts-4681e6/",
+      "article_id": "UIT-KA-D8F05F4681E6",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:59",
+      "destination": "/knowledge/for-faculty-members-at-york-university-00445c/",
+      "article_id": "UIT-KA-FC550A00445C",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:60",
+      "destination": "/knowledge/for-faculty-members-at-york-university-00445c/",
+      "article_id": "UIT-KA-FC550A00445C",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:61",
+      "destination": "/knowledge/for-faculty-members-at-york-university-00445c/",
+      "article_id": "UIT-KA-FC550A00445C",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:62",
+      "destination": "/knowledge/for-non-academic-administrative-staff-members-at-york-university-9e6530/",
+      "article_id": "UIT-KA-E8B17A9E6530",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:63",
+      "destination": "/knowledge/for-non-academic-administrative-staff-members-at-york-university-9e6530/",
+      "article_id": "UIT-KA-E8B17A9E6530",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:64",
+      "destination": "/knowledge/for-non-academic-administrative-staff-members-at-york-university-9e6530/",
+      "article_id": "UIT-KA-E8B17A9E6530",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:65",
+      "destination": "/knowledge/for-non-academic-administrative-staff-members-at-york-university-9e6530/",
+      "article_id": "UIT-KA-E8B17A9E6530",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:66",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:67",
+      "destination": "/knowledge/obtain-guest-special-event-accounts-7e5576/",
+      "article_id": "UIT-KA-314D497E5576",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:68",
+      "destination": "/knowledge/obtain-guest-special-event-accounts-7e5576/",
+      "article_id": "UIT-KA-314D497E5576",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:69",
+      "destination": "/knowledge/fixed-maintenance-window-13898f/",
+      "article_id": "UIT-KA-3A45E213898F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:70",
+      "destination": "/knowledge/fixed-maintenance-window-13898f/",
+      "article_id": "UIT-KA-3A45E213898F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:71",
+      "destination": "/knowledge/fixed-maintenance-window-13898f/",
+      "article_id": "UIT-KA-3A45E213898F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:72",
+      "destination": "/knowledge/fixed-maintenance-window-13898f/",
+      "article_id": "UIT-KA-3A45E213898F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:73",
+      "destination": "/knowledge/fixed-maintenance-window-13898f/",
+      "article_id": "UIT-KA-3A45E213898F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:74",
+      "destination": "/knowledge/fixed-maintenance-window-13898f/",
+      "article_id": "UIT-KA-3A45E213898F",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:75",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:76",
+      "destination": "/knowledge/choosing-a-secure-password-f4b1ec/",
+      "article_id": "UIT-KA-9DF88BF4B1EC",
+      "anchors": [
+        "secure-password"
+      ]
+    },
+    {
+      "block_id": "c7e9cafb4377e283:77",
+      "destination": "/knowledge/choosing-a-secure-password-f4b1ec/",
+      "article_id": "UIT-KA-9DF88BF4B1EC",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:78",
+      "destination": "/knowledge/choosing-a-secure-password-f4b1ec/",
+      "article_id": "UIT-KA-9DF88BF4B1EC",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:79",
+      "destination": "/knowledge/choosing-a-secure-password-f4b1ec/",
+      "article_id": "UIT-KA-9DF88BF4B1EC",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:80",
+      "destination": "/knowledge/choosing-a-secure-password-f4b1ec/",
+      "article_id": "UIT-KA-9DF88BF4B1EC",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:81",
+      "destination": "/knowledge/choosing-a-secure-password-f4b1ec/",
+      "article_id": "UIT-KA-9DF88BF4B1EC",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:82",
+      "destination": "/knowledge/choosing-a-secure-password-f4b1ec/",
+      "article_id": "UIT-KA-9DF88BF4B1EC",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:83",
+      "destination": "/knowledge/set-up-your-security-questions-for-passport-york-979bf5/",
+      "article_id": "UIT-KA-CF1796979BF5",
+      "anchors": [
+        "security-questions"
+      ]
+    },
+    {
+      "block_id": "c7e9cafb4377e283:84",
+      "destination": "/knowledge/set-up-your-security-questions-for-passport-york-979bf5/",
+      "article_id": "UIT-KA-CF1796979BF5",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:85",
+      "destination": "/knowledge/set-up-your-security-questions-for-passport-york-979bf5/",
+      "article_id": "UIT-KA-CF1796979BF5",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:86",
+      "destination": "/knowledge/obtaining-your-employee-id-ba6b5a/",
+      "article_id": "UIT-KA-EC5470BA6B5A",
+      "anchors": [
+        "forgot-id"
+      ]
+    },
+    {
+      "block_id": "c7e9cafb4377e283:87",
+      "destination": "/knowledge/obtaining-your-employee-id-ba6b5a/",
+      "article_id": "UIT-KA-EC5470BA6B5A",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:88",
+      "destination": "/knowledge/obtaining-your-employee-id-ba6b5a/",
+      "article_id": "UIT-KA-EC5470BA6B5A",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:89",
+      "destination": "/knowledge/change-your-passport-york-password-7a165a/",
+      "article_id": "UIT-KA-93FB987A165A",
+      "anchors": [
+        "change-password"
+      ]
+    },
+    {
+      "block_id": "c7e9cafb4377e283:90",
+      "destination": "/knowledge/change-your-passport-york-password-7a165a/",
+      "article_id": "UIT-KA-93FB987A165A",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:91",
+      "destination": "/knowledge/recover-your-forgotten-passport-york-password-58f717/",
+      "article_id": "UIT-KA-300BB058F717",
+      "anchors": [
+        "forgot-password"
+      ]
+    },
+    {
+      "block_id": "c7e9cafb4377e283:92",
+      "destination": "/knowledge/recover-your-forgotten-passport-york-password-58f717/",
+      "article_id": "UIT-KA-300BB058F717",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:93",
+      "destination": "/knowledge/recover-your-forgotten-passport-york-password-58f717/",
+      "article_id": "UIT-KA-300BB058F717",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:94",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:95",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:96",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:97",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "c7e9cafb4377e283:98",
+      "destination": "navigation",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 99
+}

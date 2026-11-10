@@ -1,0 +1,38 @@
+{
+  "source_id": "97506c2517383fe2",
+  "source_url": "https://www.yorku.ca/uit/infosec/i-completed-my-2fa-setup-now-i-cannot-login-to-passport-york/",
+  "title": "I completed my 2FA Setup. Now, I cannot login to Passport York.",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/passport-york/"
+  ],
+  "assignments": [
+    {
+      "block_id": "97506c2517383fe2:0",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "97506c2517383fe2:1",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "97506c2517383fe2:2",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "97506c2517383fe2:3",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "97506c2517383fe2:4",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 5
+}

@@ -1,0 +1,37 @@
+{
+  "id": "UIT-KA-32B0F0AE135F",
+  "slug": "by-phone-ae135f",
+  "title": "By Phone",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "By Phone",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>1. Call us at <a href=\"tel:4167365800\">416-736-5800</a>.<br/><br/>2.<strong> </strong>Once your Passport York password has been reset, please update your security questions <a href=\"https://wrem.sis.yorku.ca/Apps/WebObjects/SAM.woa/wa/DirectAction/sam\">here</a></p>\n<p>3. Use the link titled \"<strong>Update my security questions</strong>\" under the \"<strong>My Personal Info</strong>\" section</p>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:33",
+    "a8531d59dcf118b8:34",
+    "a8531d59dcf118b8:35",
+    "b24187fb4550fd87:33",
+    "b24187fb4550fd87:34",
+    "b24187fb4550fd87:35"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

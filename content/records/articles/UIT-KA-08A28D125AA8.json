@@ -1,0 +1,45 @@
+{
+  "id": "UIT-KA-08A28D125AA8",
+  "slug": "save-your-google-apps-data-125aa8",
+  "title": "Save your Google Apps Data",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Save your Google Apps Data",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>1. Update your profiles that are linked with your YorkU email (such as Facebook, online forums, job posting boards, banking, credit cards) with your personal email address</p>\n<p>2. Access and download all of your Google Apps Data (Including your emails):</p>\n<ul>\n<li><a href=\"https://support.google.com/accounts/answer/3024190?hl=en\">Instructions&gt;&gt;</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=EAWypFxs9S0\">Video Tutorial for Google Takeout and Google Transfer&gt;&gt;</a></li>\n</ul>\n<p>3. Save your emails</p>\n<ul>\n<li>The easiest thing to do while you can still log in to your account is to go into your email and forward any important emails to your personal email account</li>\n</ul>\n<ul>\n<li>You may also set up automatic forwarding to forward all future emails. <strong>**Please note</strong> this will only work until your account is in the CANCELLED state. <a href=\"https://support.google.com/mail/answer/10957?hl=en#zippy=%2Cturn-automatic-fowarding-on-or-off\">Google Apps automatic forwarding instructions&gt;&gt; </a></li>\n</ul>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:59",
+    "a8531d59dcf118b8:60",
+    "a8531d59dcf118b8:61",
+    "a8531d59dcf118b8:62",
+    "a8531d59dcf118b8:63",
+    "a8531d59dcf118b8:64",
+    "a8531d59dcf118b8:65",
+    "b24187fb4550fd87:59",
+    "b24187fb4550fd87:60",
+    "b24187fb4550fd87:61",
+    "b24187fb4550fd87:62",
+    "b24187fb4550fd87:63",
+    "b24187fb4550fd87:64",
+    "b24187fb4550fd87:65"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

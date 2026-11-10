@@ -1,0 +1,32 @@
+{
+  "id": "UIT-KA-60FE844B2729",
+  "slug": "tip-2-include-numbers-and-symbols-4b2729",
+  "title": "Tip 2 Include Numbers and Symbols",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Tip 2 Include Numbers and Symbols",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Including numbers and special characters can significantly increase the strength of your passwords. One common hacking technique is to try words and phrases. York University requires all users to have strong passwords that meet our minimum complexity requirements. The Information Security team recommends you use at least 12-character long passwords that incorporate numbers, symbols and a mix of uppercase and lowercase letters. If you're using passphrases as outlined in the first tip, an easy way to incorporate numbers and symbols is to substitute letters with symbols that look like the letters</p>\n<p><strong>Passphrase:</strong> mYsteaKIsWELLANDDONE</p>\n<p><strong>Passphrase with Numbers and Symbols: </strong>mYst3@K!sW3ANDD0N3</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/3-tips-for-creating-strong-passwords/"
+  ],
+  "source_block_ids": [
+    "811014e7fbf4770d:9",
+    "811014e7fbf4770d:10",
+    "811014e7fbf4770d:11",
+    "811014e7fbf4770d:12"
+  ],
+  "captured_at": "2026-11-09T21:46:11.325209+00:00",
+  "source_modified_at": "2025-05-22T16:10:15+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

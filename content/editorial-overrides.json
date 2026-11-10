@@ -10,5 +10,59 @@
     "resolution_html": "<p>Follow Microsoft’s instructions to <a href=\"https://support.microsoft.com/en-us/office/create-and-add-an-email-signature-in-outlook-for-windows-8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2\">create and add an email signature in Outlook for Windows</a></p>",
     "editorial_status": "rewritten_draft",
     "editorial_notes": "Rewritten from the existing source link with a specific title and meaningful destination label. Service owner validation remains outstanding"
+  },
+  {
+    "id": "UIT-KA-32B0F0AE135F",
+    "title": "Reset a student Passport York password by phone",
+    "issue": "Reset a student Passport York password by phone",
+    "editorial_status": "rewritten_draft"
+  },
+  {
+    "id": "UIT-KA-CC7835CAA13B",
+    "title": "Reset a student Passport York password in person",
+    "issue": "Reset a student Passport York password in person",
+    "editorial_status": "rewritten_draft"
+  },
+  {
+    "id": "UIT-KA-01A1419C5627",
+    "title": "Reset an employee Passport York password online",
+    "issue": "Reset an employee Passport York password online",
+    "editorial_status": "rewritten_draft"
+  },
+  {
+    "id": "UIT-KA-D2DFD3209294",
+    "title": "Reset an employee Passport York password by email",
+    "issue": "Reset an employee Passport York password by email",
+    "editorial_status": "rewritten_draft"
+  },
+  {
+    "id": "UIT-KA-376D706E3E62",
+    "title": "Request an employee Passport York reset through a department administrator",
+    "issue": "Request an employee Passport York reset through a department administrator",
+    "editorial_status": "rewritten_draft"
+  },
+  {
+    "id": "UIT-KA-2F609C5A1CAD",
+    "title": "Reset an employee Passport York password in person",
+    "issue": "Reset an employee Passport York password in person",
+    "editorial_status": "rewritten_draft"
+  },
+  {
+    "id": "UIT-KA-300BB058F717",
+    "resolution_html": "<p>Choose a reset method and check its requirements before starting</p><ul><li><a href=\"/knowledge/online-9c5627/\">Reset an employee Passport York password online</a></li><li><a href=\"/knowledge/by-email-209294/\">Reset an employee Passport York password by email</a></li><li><a href=\"/knowledge/via-your-department-admin-6e3e62/\">Request an employee Passport York reset through a department administrator</a></li><li><a href=\"/knowledge/in-person-5a1cad/\">Reset an employee Passport York password in person</a></li></ul>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Replaced a self-referencing source anchor with links to the captured method articles. Original wording remains in the source record. Service owner validation remains outstanding"
+  },
+  {
+    "id": "UIT-KA-5869E88374F4",
+    "resolution_html": "<p>Choose a reset method and check its requirements before starting</p><ul><li><a href=\"/knowledge/by-phone-ae135f/\">Reset a student Passport York password by phone</a></li><li><a href=\"/knowledge/in-person-caa13b/\">Reset a student Passport York password in person</a></li></ul>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Replaced a self-referencing source anchor with links to the captured method articles. Original wording remains in the source record. Service owner validation remains outstanding"
+  },
+  {
+    "id": "UIT-KA-F74B45D6834E",
+    "resolution_html": "<p>Choose a reset method and check its requirements before starting</p><ul><li><a href=\"/knowledge/by-phone-ae135f/\">Reset a student Passport York password by phone</a></li><li><a href=\"/knowledge/in-person-caa13b/\">Reset a student Passport York password in person</a></li></ul>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Replaced a self-referencing source anchor with links to the captured method articles. Original wording remains in the source record. Service owner validation remains outstanding"
   }
 ]

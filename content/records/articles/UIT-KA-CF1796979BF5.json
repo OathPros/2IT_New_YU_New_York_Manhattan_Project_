@@ -1,0 +1,31 @@
+{
+  "id": "UIT-KA-CF1796979BF5",
+  "slug": "set-up-your-security-questions-for-passport-york-979bf5",
+  "title": "Set up your security questions for Passport York",
+  "type": "How to",
+  "service_id": "passport-york",
+  "issue": "Set up your security questions for Passport York",
+  "environment": [
+    "Passport York",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>You can set up your security questions <strong>now</strong> or change them in the future <a href=\"https://pypwreset.apps06.yorku.ca/questions/setup\">here&gt;&gt;</a></p>\n<p><strong>**Please note</strong> the Passport York Security Questions feature does not apply to clients with advanced access level (SIS, Firewall, technical staff member, etc.)</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "c7e9cafb4377e283:83",
+    "c7e9cafb4377e283:84",
+    "c7e9cafb4377e283:85"
+  ],
+  "captured_at": "2026-11-09T21:45:58.697932+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

@@ -1,0 +1,118 @@
+{
+  "source_id": "03d28281ba772ba0",
+  "source_url": "https://www.yorku.ca/uit/infosec/1password-for-students/",
+  "title": "1Password for Students",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/passport-york/"
+  ],
+  "assignments": [
+    {
+      "block_id": "03d28281ba772ba0:0",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:1",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:2",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:3",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:4",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:5",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:6",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:7",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:8",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:9",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:10",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:11",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:12",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:13",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:14",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:15",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:16",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:17",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:18",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:19",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "03d28281ba772ba0:20",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 21
+}

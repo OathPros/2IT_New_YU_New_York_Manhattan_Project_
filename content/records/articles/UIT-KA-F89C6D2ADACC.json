@@ -1,0 +1,30 @@
+{
+  "id": "UIT-KA-F89C6D2ADACC",
+  "slug": "can-i-recover-my-data-if-i-accidentally-delete-my-vault-2adacc",
+  "title": "Can I recover my data if I accidentally delete my vault",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Can I recover my data if I accidentally delete my vault",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>If you unintentionally delete a vault, 1Password provides techniques for recovering your data. The application has a Trash feature where deleted things are retained momentarily before being permanently removed. Furthermore, if you use 1Password with a family or team account, you can frequently recover deleted vaults and items from backups that 1Password automatically creates</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/1password-faqs/"
+  ],
+  "source_block_ids": [
+    "30954b824eecfbc6:46",
+    "30954b824eecfbc6:47"
+  ],
+  "captured_at": "2026-11-09T21:46:07.100659+00:00",
+  "source_modified_at": "2025-07-18T20:02:31+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "UIT-KA-C2FB18C08BC7",
+  "slug": "removed-state-c08bc7",
+  "title": "Removed State",
+  "type": "How to",
+  "service_id": "passport-york",
+  "issue": "Removed State",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>When your accounts enter the removed state, they are deleted and unrecoverable. Any Google Drive or Microsoft 365 data/documents associated with the removed account will be deleted and unrecoverable. Your email account will no longer exist, and any email sent to it will bounce back with a message stating that the account doesn't exist. Additionally, any forwarding settings and vacation messages you have set will also no longer function</p>\n<p><strong>**Please note</strong> that your Passport York username and password will still work for accessing enrolment, grades, tax forms, transcripts, records and other post-university access services available on <a href=\"https://registrar.yorku.ca\">https://registrar.yorku.ca</a>. However, the expiry process has completed, and you no longer have access to the account services (such as email, OneDrive, and Google Drive)<br/></p>\n<p>If you come back as a student after this state occurs, you will have access to the computing services you would normally have as an active student, but the accounts will be empty, as if they were brand-new</p>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:101",
+    "a8531d59dcf118b8:102",
+    "a8531d59dcf118b8:103",
+    "a8531d59dcf118b8:104",
+    "b24187fb4550fd87:101",
+    "b24187fb4550fd87:102",
+    "b24187fb4550fd87:103",
+    "b24187fb4550fd87:104"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

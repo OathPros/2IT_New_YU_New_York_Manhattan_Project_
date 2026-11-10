@@ -1,0 +1,30 @@
+{
+  "id": "UIT-KA-AE3AAC2EB7FB",
+  "slug": "what-if-1password-gets-hacked-are-all-my-passwords-exposed-2eb7fb",
+  "title": "What if 1Password gets hacked Are all my passwords exposed",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "What if 1Password gets hacked Are all my passwords exposed",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Even if 1Password's servers are compromised, it is extremely improbable that your passwords will be exposed. However, using strong, unique passwords and enabling 2FA wherever possible are always good ways to improve your security</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/1password-faqs/"
+  ],
+  "source_block_ids": [
+    "30954b824eecfbc6:25",
+    "30954b824eecfbc6:26"
+  ],
+  "captured_at": "2026-11-09T21:46:07.100659+00:00",
+  "source_modified_at": "2025-07-18T20:02:31+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

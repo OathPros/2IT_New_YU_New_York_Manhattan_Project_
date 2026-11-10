@@ -1,0 +1,32 @@
+{
+  "id": "UIT-KA-A72E76AA46AD",
+  "slug": "1password-for-families-aa46ad",
+  "title": "1Password for Families",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "1Password for Families",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>After setting up your Employee account, learn more about how to setup a free 1Password Families account for up to 5 of your loved ones</p>\n<p><a href=\"https://www.yorku.ca/uit/infosec/1password-for-families/\">Learn More</a></p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2025/07/1p-stud.png\"/></figure>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/1password/"
+  ],
+  "source_block_ids": [
+    "db6d00db01db3f7a:8",
+    "db6d00db01db3f7a:9",
+    "db6d00db01db3f7a:10",
+    "db6d00db01db3f7a:11"
+  ],
+  "captured_at": "2026-11-09T21:46:09.401215+00:00",
+  "source_modified_at": "2025-11-28T16:25:49+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

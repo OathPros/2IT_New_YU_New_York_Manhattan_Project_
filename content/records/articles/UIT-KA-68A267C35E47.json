@@ -1,0 +1,30 @@
+{
+  "id": "UIT-KA-68A267C35E47",
+  "slug": "can-i-sign-up-using-my-york-email-address-or-personal-email-address-c35e47",
+  "title": "Can I sign up using my York email address or personal email address",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Can I sign up using my York email address or personal email address",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>You can sign up for 1Password using either your York email address or a personal email address. The choice depends on your preference and intended use. Using your York email might be beneficial if you are using 1Password for work-related purposes, as it can simplify account management and access within an organizational context</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/1password-faqs/"
+  ],
+  "source_block_ids": [
+    "30954b824eecfbc6:50",
+    "30954b824eecfbc6:51"
+  ],
+  "captured_at": "2026-11-09T21:46:07.100659+00:00",
+  "source_modified_at": "2025-07-18T20:02:31+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

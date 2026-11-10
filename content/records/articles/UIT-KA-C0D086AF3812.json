@@ -1,0 +1,31 @@
+{
+  "id": "UIT-KA-C0D086AF3812",
+  "slug": "where-can-i-download-the-1password-application-and-browser-extension-af3812",
+  "title": "Where can I download the 1Password application and browser extension",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Where can I download the 1Password application and browser extension",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Please visit the following links to learn how to download and set up 1Password for your specific device/browser:</p>\n<ul>\n<li><a href=\"https://support.1password.com/getting-started-browser/\">Get started with 1Password in your browser</a></li>\n<li><a href=\"https://support.1password.com/getting-started-mac/\">Get to know 1Password for Mac</a></li>\n<li><a href=\"https://support.1password.com/getting-started-ios/\">Get to know 1Password for iOS</a></li>\n<li><a href=\"https://support.1password.com/getting-started-windows/\">Get to know 1Password for Windows</a></li>\n<li><a href=\"https://support.1password.com/getting-started-android/\">Get to know 1Password for Android</a></li>\n<li><a href=\"https://support.1password.com/getting-started-linux/#:~:text=1Password%20for%20Linux%20is%20the,1Password%20on%20your%20Linux%20computer.\">Get to know 1Password for Linux</a></li>\n</ul>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/1password-faqs/"
+  ],
+  "source_block_ids": [
+    "30954b824eecfbc6:2",
+    "30954b824eecfbc6:3",
+    "30954b824eecfbc6:4"
+  ],
+  "captured_at": "2026-11-09T21:46:07.100659+00:00",
+  "source_modified_at": "2025-07-18T20:02:31+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

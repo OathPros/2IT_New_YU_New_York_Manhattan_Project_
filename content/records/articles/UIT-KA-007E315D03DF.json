@@ -1,0 +1,32 @@
+{
+  "id": "UIT-KA-007E315D03DF",
+  "slug": "im-already-using-a-different-password-manager-how-can-i-move-all-my-passwords-to-1password-5d03df",
+  "title": "Im already using a different password manager How can I move all my passwords to 1Password",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Im already using a different password manager How can I move all my passwords to 1Password",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p><strong>Export Your Passwords:</strong> Open your current password manager and export your passwords to a CSV</p>\n<p><strong>Sign In to 1Password:</strong> Access your 1Password account and go to the \"Import\" section</p>\n<p><strong>Import Passwords:</strong> Select the exported file and follow the prompts to import your passwords into 1Password</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/1password-faqs/"
+  ],
+  "source_block_ids": [
+    "30954b824eecfbc6:14",
+    "30954b824eecfbc6:15",
+    "30954b824eecfbc6:16",
+    "30954b824eecfbc6:17"
+  ],
+  "captured_at": "2026-11-09T21:46:07.100659+00:00",
+  "source_modified_at": "2025-07-18T20:02:31+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

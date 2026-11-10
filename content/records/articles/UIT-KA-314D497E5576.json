@@ -1,0 +1,30 @@
+{
+  "id": "UIT-KA-314D497E5576",
+  "slug": "obtain-guest-special-event-accounts-7e5576",
+  "title": "Obtain Guest Special Event accounts",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Obtain Guest Special Event accounts",
+  "environment": [
+    "Passport York",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ul>\n<li><strong>Sponsored Guest Accounts</strong> - Access for guest-staff and guest-faculty can be requested by a manager (or above) or a faculty member using <a href=\"https://askus.yorku.ca/portal/service?btn=12&amp;itil_requesttype_id=3&amp;root_category=20&amp;autolog=true&amp;shownewticket=true&amp;categoryid=20&amp;id=296\">Sponsored Account Form</a></li>\n<li><strong>Free Guest WiFi</strong> -The AirYorkGuest service is available to anyone visiting the York campus and is not normally part of the University community, such as academic guests or colleagues, or external contractors/service vendors.  More information is available about the AirYorkGuest service <a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/internet-access/#air-york-guest\">here&gt;&gt; </a></li>\n<li><strong>Special Event Accounts</strong> - Temporary wireless internet, computer lab access, or residence internet access can be activated for attendees to an event on campus (e.g. a conference). There is an applicable charge <strong>per account</strong> - $5. per day, $10. per week, $30. per month. A manager (or above) or a faculty member can complete the <a href=\"https://askus.yorku.ca/portal/service?btn=12&amp;itil_requesttype_id=3&amp;root_category=20&amp;autolog=true&amp;shownewticket=true&amp;categoryid=20&amp;id=293\">Temporary Account form</a> and include:\n<ul>\n<li>the details of your event</li>\n<li>the type of accounts you require (e.g. wireless, lab workstations)</li>\n<li>the start and end date of the event</li>\n<li>the number of accounts you require</li>\n<li>a budget number</li>\n</ul>\n</li>\n</ul>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "c7e9cafb4377e283:67",
+    "c7e9cafb4377e283:68"
+  ],
+  "captured_at": "2026-11-09T21:45:58.697932+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

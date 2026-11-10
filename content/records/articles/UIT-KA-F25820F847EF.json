@@ -1,0 +1,39 @@
+{
+  "id": "UIT-KA-F25820F847EF",
+  "slug": "ordering-a-transcript-f847ef",
+  "title": "Ordering a transcript",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Ordering a transcript",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>If you are a York alumnus, <a href=\"https://www.yorku.ca/uit/student-services/passport-york/#alumni\">learn more &gt;&gt;</a></p>\n<p>If you are a current York student, <a href=\"https://apps4.sis.yorku.ca/Apps/WebObjects/tom.woa/wa/student\">order your transcript here &gt;&gt;</a></p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/wp-content/plugins/yu-blockpatterns/img/learnmore.png\"/></figure>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:126",
+    "a8531d59dcf118b8:127",
+    "a8531d59dcf118b8:128",
+    "a8531d59dcf118b8:129",
+    "b24187fb4550fd87:126",
+    "b24187fb4550fd87:127",
+    "b24187fb4550fd87:128",
+    "b24187fb4550fd87:129"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

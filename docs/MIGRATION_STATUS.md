@@ -37,3 +37,13 @@ The complete recovered working copy contains 20 services and 1074 article drafts
 6. Complete responsive and accessibility review before cutover
 
 Media currently uses its authoritative source URLs. No live York page has been replaced
+
+## Passport York checkpoint
+
+Added 68 article drafts and the Passport York service, including account setup, password management, account lifecycle, and captured password manager guidance
+
+Recovery entry articles now link to complete method articles instead of linking back to themselves. Six method titles now identify the audience and task. Instructions remain unvalidated source-based drafts
+
+Combined checkpoint counts: 160 articles, 28 sources, 2 services
+
+New work is verified separately from the first Email checkpoint. Mobile and accessibility checks remain outstanding

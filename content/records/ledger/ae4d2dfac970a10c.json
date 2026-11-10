@@ -1,0 +1,43 @@
+{
+  "source_id": "ae4d2dfac970a10c",
+  "source_url": "https://www.yorku.ca/uit/infosec/fortify-your-online-fortress-essential-steps-for-password-security/",
+  "title": "Fortify Your Online Fortress: Essential Steps for Password Security",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/passport-york/"
+  ],
+  "assignments": [
+    {
+      "block_id": "ae4d2dfac970a10c:0",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "ae4d2dfac970a10c:1",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "ae4d2dfac970a10c:2",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "ae4d2dfac970a10c:3",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "ae4d2dfac970a10c:4",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "ae4d2dfac970a10c:5",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 6
+}

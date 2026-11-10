@@ -1,0 +1,30 @@
+{
+  "id": "UIT-KA-D8F05F4681E6",
+  "slug": "employee-lifecycle-of-computing-accounts-4681e6",
+  "title": "Employee lifecycle of computing accounts",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Employee lifecycle of computing accounts",
+  "environment": [
+    "Passport York",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Any employee of the university (such as academic/faculty, or non-academic/administrative/staff) will normally start off as a record and employee ID number from HR's systems.  From there with that employee ID number, accounts and services can be created (such as Passport York, Email, etc.)</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "c7e9cafb4377e283:57",
+    "c7e9cafb4377e283:58"
+  ],
+  "captured_at": "2026-11-09T21:45:58.697932+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

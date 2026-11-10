@@ -1,0 +1,41 @@
+{
+  "id": "UIT-KA-86FDB4449E9D",
+  "slug": "cancelled-state-449e9d",
+  "title": "Cancelled State",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Cancelled State",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Your accounts are in the cancelled state. This means the accounts are still present, but you cannot log in to them</p>\n<p>If you do not enrol in courses and/or are not registered in your graduate program, your computing accounts will eventually be removed and unrecoverable. If you become an active student, your computing accounts will go fully active again</p>\n<p><strong>**Please note </strong>your Passport York username and password will still work for accessing enrolment, grades, tax forms, transcripts, records and other post-university access services available on <a href=\"https://registrar.yorku.ca\">https://registrar.yorku.ca</a>. However, the expiry process has started, and you currently no longer have access to the account services (such as email, OneDrive, Google Drive, etc.) if you do not enrol in courses, and/or are not registered in your graduate program</p>\n<p>Note that to activate your computing accounts, you must enrol in a course, and/or be registered in your graduate program through the York University Registrar's Office (<a href=\"https://registrar.yorku.ca\">https://registrar.yorku.ca</a>). For example, AQ courses from the Faculty of Education, certificate programs with Schulich, and other certificate programs are outside of the York University Registrar's course offering and will not activate your computing accounts</p>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:96",
+    "a8531d59dcf118b8:97",
+    "a8531d59dcf118b8:98",
+    "a8531d59dcf118b8:99",
+    "a8531d59dcf118b8:100",
+    "b24187fb4550fd87:96",
+    "b24187fb4550fd87:97",
+    "b24187fb4550fd87:98",
+    "b24187fb4550fd87:99",
+    "b24187fb4550fd87:100"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

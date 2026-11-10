@@ -1,0 +1,39 @@
+{
+  "id": "UIT-KA-CC7835CAA13B",
+  "slug": "in-person-caa13b",
+  "title": "In Person",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "In Person",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>1. Visit <a href=\"https://www.yorku.ca/uit/contact/#in-person\">IT Support Services</a>. You must know your student number</p>\n<p>2. Bring one of the following IDs: </p>\n<ul>\n<li>Government-issued photo ID (driver's licence, passport, etc.) and a second piece of ID (doesn't need to be photo ID) </li>\n<li>YU-card (issued to active students since Sep 2006)</li>\n</ul>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:29",
+    "a8531d59dcf118b8:30",
+    "a8531d59dcf118b8:31",
+    "a8531d59dcf118b8:32",
+    "b24187fb4550fd87:29",
+    "b24187fb4550fd87:30",
+    "b24187fb4550fd87:31",
+    "b24187fb4550fd87:32"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "UIT-KA-E8B17A9E6530",
+  "slug": "for-non-academic-administrative-staff-members-at-york-university-9e6530",
+  "title": "For non academic administrative staff members at York University",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "For non academic administrative staff members at York University",
+  "environment": [
+    "Passport York",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>When an employee is no longer on contract or no longer employed, HR's records will reflect this and the accounts and services (Passport York, Email, etc.) will last for a grace period of an extra year before they start the expiry process, however all work department related services will be offboarded in line with HR offboarding documentation in <a href=\"https://www.yorku.ca/yulink\">https://www.yorku.ca/yulink</a>.  This grace period is available as most contract employees may take on a new contract within a year which grants a sense of continuity.  This is also in line with collective bargaining agreements</p>\n<p>When an employee is no longer employed (termination), HR's records will reflect this and all work department related services will be offboarded in line with HR offboarding documentation in <a href=\"https://www.yorku.ca/yulink\">https://www.yorku.ca/yulink</a></p>\n<p>When a non-academic/administrative/staff member retires, all work department related services will be offboarded which is in line with HR offboarding documentation in <a href=\"https://www.yorku.ca/yulink\">https://www.yorku.ca/yulink</a>.  Any further questions about this can be sent to <a href=\"mailto:askIT@yorku.ca\">askIT@yorku.ca</a></p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "c7e9cafb4377e283:62",
+    "c7e9cafb4377e283:63",
+    "c7e9cafb4377e283:64",
+    "c7e9cafb4377e283:65"
+  ],
+  "captured_at": "2026-11-09T21:45:58.697932+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

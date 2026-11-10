@@ -1,0 +1,68 @@
+{
+  "source_id": "dda0257589b9add2",
+  "source_url": "https://www.yorku.ca/uit/infosec/i-cannot-log-in-to-vpn-due-to-invalid-password/",
+  "title": "I cannot log in to VPN due to invalid password",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/passport-york/"
+  ],
+  "assignments": [
+    {
+      "block_id": "dda0257589b9add2:0",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "dda0257589b9add2:1",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "dda0257589b9add2:2",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "dda0257589b9add2:3",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "dda0257589b9add2:4",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "dda0257589b9add2:5",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "dda0257589b9add2:6",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "dda0257589b9add2:7",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "dda0257589b9add2:8",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "dda0257589b9add2:9",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "dda0257589b9add2:10",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 11
+}

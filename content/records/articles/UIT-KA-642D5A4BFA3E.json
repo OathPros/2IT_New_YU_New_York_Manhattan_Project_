@@ -1,0 +1,32 @@
+{
+  "id": "UIT-KA-642D5A4BFA3E",
+  "slug": "set-up-a-shared-vault-for-my-team-4bfa3e",
+  "title": "Set up a shared vault for my team",
+  "type": "How to",
+  "service_id": "passport-york",
+  "issue": "Set up a shared vault for my team",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p><strong>Create a Shared Vault:</strong> Sign in to 1Password, go to the \"Vaults\" section, and create a new vault for your team</p>\n<p><strong>Invite Team Members:</strong> In the \"People\" section, invite team members by entering their email addresses and assigning permissions</p>\n<p><strong>Manage and Share:</strong> Add items to the shared vault, and ensure team members have the appropriate access to view or edit the content</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/1password-faqs/"
+  ],
+  "source_block_ids": [
+    "30954b824eecfbc6:18",
+    "30954b824eecfbc6:19",
+    "30954b824eecfbc6:20",
+    "30954b824eecfbc6:21"
+  ],
+  "captured_at": "2026-11-09T21:46:07.100659+00:00",
+  "source_modified_at": "2025-07-18T20:02:31+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

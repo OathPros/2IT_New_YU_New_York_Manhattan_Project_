@@ -1,0 +1,30 @@
+{
+  "id": "UIT-KA-C83447FCC2D3",
+  "slug": "what-happens-to-my-1password-account-when-if-i-leave-york-fcc2d3",
+  "title": "What happens to my 1Password account when if I leave York",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "What happens to my 1Password account when if I leave York",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>If you are planning to leave York, you can <a href=\"https://support.1password.com/unlink-family/\">unlink your family account</a> and continue to use it with a paid plan</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/1password-faqs/"
+  ],
+  "source_block_ids": [
+    "30954b824eecfbc6:7",
+    "30954b824eecfbc6:8"
+  ],
+  "captured_at": "2026-11-09T21:46:07.100659+00:00",
+  "source_modified_at": "2025-07-18T20:02:31+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

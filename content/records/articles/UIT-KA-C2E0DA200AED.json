@@ -1,0 +1,49 @@
+{
+  "id": "UIT-KA-C2E0DA200AED",
+  "slug": "export-pst-files-to-thunderbird-free-option-200aed",
+  "title": "Export pst Files to Thunderbird Free Option",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Export pst Files to Thunderbird Free Option",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<ol start=\"1\">\n<li><strong>Install Mozilla Thunderbird</strong>: </li>\n</ol>\n<ul>\n<li>Download and install <strong>Mozilla Thunderbird</strong> (a free email client)</li>\n</ul>\n<ol start=\"2\">\n<li><strong>Add Your Outlook Account</strong>: </li>\n</ol>\n<ul>\n<li>In Thunderbird, go to <strong>Account Settings</strong> &gt; <strong>Add Mail Account</strong>, and enter your Outlook credentials (you may need to enable IMAP in your Outlook settings)</li>\n</ul>\n<ol start=\"3\">\n<li><strong>Sync Your Emails</strong>: </li>\n</ol>\n<ul>\n<li>Wait for Thunderbird to sync all your emails</li>\n</ul>\n<ol start=\"4\">\n<li><strong>Save or Backup Emails</strong>: </li>\n</ol>\n<ul>\n<li>Once synced, you can either manually save the emails to your computer or use extensions like <strong>ImportExportTools NG</strong> to export all emails in one go</li>\n</ul>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:83",
+    "a8531d59dcf118b8:84",
+    "a8531d59dcf118b8:85",
+    "a8531d59dcf118b8:86",
+    "a8531d59dcf118b8:87",
+    "a8531d59dcf118b8:88",
+    "a8531d59dcf118b8:89",
+    "a8531d59dcf118b8:90",
+    "a8531d59dcf118b8:91",
+    "b24187fb4550fd87:83",
+    "b24187fb4550fd87:84",
+    "b24187fb4550fd87:85",
+    "b24187fb4550fd87:86",
+    "b24187fb4550fd87:87",
+    "b24187fb4550fd87:88",
+    "b24187fb4550fd87:89",
+    "b24187fb4550fd87:90",
+    "b24187fb4550fd87:91"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

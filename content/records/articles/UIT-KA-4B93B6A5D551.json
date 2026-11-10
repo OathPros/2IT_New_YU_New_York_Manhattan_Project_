@@ -1,0 +1,39 @@
+{
+  "id": "UIT-KA-4B93B6A5D551",
+  "slug": "find-my-passport-york-username-a5d551",
+  "title": "Find My Passport York Username",
+  "type": "How to",
+  "service_id": "passport-york",
+  "issue": "Find My Passport York Username",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Find My Username &gt;&gt;</p>\n<p>You'll need to know the following:</p>\n<ul>\n<li>Your student number</li>\n<li>Your date of birth</li>\n<li>The answers to your secure questions</li>\n</ul>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:14",
+    "a8531d59dcf118b8:15",
+    "a8531d59dcf118b8:16",
+    "a8531d59dcf118b8:17",
+    "b24187fb4550fd87:14",
+    "b24187fb4550fd87:15",
+    "b24187fb4550fd87:16",
+    "b24187fb4550fd87:17"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

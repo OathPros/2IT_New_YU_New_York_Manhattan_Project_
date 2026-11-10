@@ -1,0 +1,39 @@
+{
+  "id": "UIT-KA-59454CE0BD44",
+  "slug": "exporting-pst-files-for-gmail-e0bd44",
+  "title": "Exporting pst Files for Gmail",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Exporting pst Files for Gmail",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Users can export their inbox to a .pst file and then <a href=\"https://tools.google.com/dlpage/gsmmo\">use this tool</a> with <a href=\"https://support.google.com/a/users/answer/181236?hl=en&amp;ref_topic=2784821&amp;sjid=7920030023191252898-NC#self-install&amp;admin-install&amp;zippy=%2Cim-downloading-installing-gwmmo-myself\">steps on how it works</a>, to import .pst files into gmail</p>\n<p>Download Google Workspace Migration for Microsoft® Outlook® - Google </p>\n<p>Download and install the GWMMO tool by Google to migrate email, contact, and calendar data from Microsoft® Outlook® profiles and PST files to Google Workspace</p>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:92",
+    "a8531d59dcf118b8:93",
+    "a8531d59dcf118b8:94",
+    "a8531d59dcf118b8:95",
+    "b24187fb4550fd87:92",
+    "b24187fb4550fd87:93",
+    "b24187fb4550fd87:94",
+    "b24187fb4550fd87:95"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

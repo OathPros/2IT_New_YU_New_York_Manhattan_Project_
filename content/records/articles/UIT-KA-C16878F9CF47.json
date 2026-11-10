@@ -1,0 +1,39 @@
+{
+  "id": "UIT-KA-C16878F9CF47",
+  "slug": "set-up-your-security-questions-for-passport-york-f9cf47",
+  "title": "Set up your security questions for Passport York",
+  "type": "How to",
+  "service_id": "passport-york",
+  "issue": "Set up your security questions for Passport York",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>You may set up one or more of your security questions and answers as they will be used to authenticate your identity if you forget your Passport York password</p>\n<p>1. Visit the <a href=\"https://wrem.sis.yorku.ca/Apps/WebObjects/SAM.woa/wa/DirectAction/sam\">student web services page&gt;&gt;</a></p>\n<p>2. Use the link titled \"<strong>Update my security questions</strong>\" under the \"<strong>My Personal Info</strong>\" section</p>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:112",
+    "a8531d59dcf118b8:113",
+    "a8531d59dcf118b8:114",
+    "a8531d59dcf118b8:115",
+    "b24187fb4550fd87:112",
+    "b24187fb4550fd87:113",
+    "b24187fb4550fd87:114",
+    "b24187fb4550fd87:115"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}
