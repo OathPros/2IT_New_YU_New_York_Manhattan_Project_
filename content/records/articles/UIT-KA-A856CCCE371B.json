@@ -1,0 +1,39 @@
+{
+  "id": "UIT-KA-A856CCCE371B",
+  "slug": "tip-1-use-passphrases-ce371b",
+  "title": "Tip 1 Use Passphrases",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Tip 1 Use Passphrases",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>The longer the password, the harder it is for hackers to <em>crack</em>–that is, to break–your password. One technique to have a longer password without running the risk of forgetting your password is to use passphrases</p>\n<p>Instead of having a short complex password that takes a while to memorize, create a long password with a string of words</p>\n<p>For example, string together words such as “<em>I love this winter weather in the </em>springtime” to create a passphrase ILoveThisWinterWeatherInTheSpringTime. It is stronger than RgFZV!RvgP@9QB7 and easier to remember</p>\n<p>While it's no guarantee that your account will never be compromised, a good password significantly decreases this possibility</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/3-tips-for-creating-strong-passwords/",
+    "https://www.yorku.ca/uit/infosec/three-easy-tips-to-choose-a-strong-password/"
+  ],
+  "source_block_ids": [
+    "811014e7fbf4770d:4",
+    "811014e7fbf4770d:5",
+    "811014e7fbf4770d:6",
+    "811014e7fbf4770d:7",
+    "811014e7fbf4770d:8",
+    "cb4626b8edeed5eb:3",
+    "cb4626b8edeed5eb:4",
+    "cb4626b8edeed5eb:5",
+    "cb4626b8edeed5eb:6",
+    "cb4626b8edeed5eb:7"
+  ],
+  "captured_at": "2026-11-09T21:46:11.325209+00:00",
+  "source_modified_at": "2025-05-22T16:10:15+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

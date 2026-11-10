@@ -1,0 +1,37 @@
+{
+  "id": "UIT-KA-159AAFD9ECF7",
+  "slug": "tip-3-using-a-password-manager-d9ecf7",
+  "title": "Tip 3 Using a Password Manager",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Tip 3 Using a Password Manager",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Security experts recommend people to never never reuse their passwords on different accounts, although it's much easier said than done. With people having more and more accounts on different platforms and websites, it's simply hard to remember different passwords for different accounts</p>\n<p>Using a password manager manager negates the need to memorize multiple passwords by storing all your passwords in a virtual vault–you only have to memorize one password!</p>\n<p><em>Keeping your accounts secure doesn't have to be an inconvenience. Follow us on social media to receive relevant updates on Information Security best practices!</em></p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/3-tips-for-creating-strong-passwords/",
+    "https://www.yorku.ca/uit/infosec/three-easy-tips-to-choose-a-strong-password/"
+  ],
+  "source_block_ids": [
+    "811014e7fbf4770d:13",
+    "811014e7fbf4770d:14",
+    "811014e7fbf4770d:15",
+    "811014e7fbf4770d:16",
+    "cb4626b8edeed5eb:12",
+    "cb4626b8edeed5eb:13",
+    "cb4626b8edeed5eb:14",
+    "cb4626b8edeed5eb:15"
+  ],
+  "captured_at": "2026-11-09T21:46:11.325209+00:00",
+  "source_modified_at": "2025-05-22T16:10:15+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

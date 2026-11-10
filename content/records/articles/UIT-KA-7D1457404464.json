@@ -1,0 +1,39 @@
+{
+  "id": "UIT-KA-7D1457404464",
+  "slug": "retrieving-your-forgotten-student-number-404464",
+  "title": "Retrieving your forgotten student number",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Retrieving your forgotten student number",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>• Call the Registrar's Office at 416-872-9675</p>\n<p>• Email <a href=\"mailto:transcpt@yorku.ca\">transcpt@yorku.ca</a> with a legible, scanned attachment of a government-issued photo identification (e.g. passport, driver's license, age of majority card etc.)</p>\n<p>• Visit <a href=\"https://students.yorku.ca/ssa-contact\">Student Support &amp; Advising in the Bennett Centre</a> with a government-issued photo id (e.g. passport, drivers license, BYID card etc.) to obtain your student number</p>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:122",
+    "a8531d59dcf118b8:123",
+    "a8531d59dcf118b8:124",
+    "a8531d59dcf118b8:125",
+    "b24187fb4550fd87:122",
+    "b24187fb4550fd87:123",
+    "b24187fb4550fd87:124",
+    "b24187fb4550fd87:125"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

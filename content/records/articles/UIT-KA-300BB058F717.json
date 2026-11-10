@@ -1,0 +1,31 @@
+{
+  "id": "UIT-KA-300BB058F717",
+  "slug": "recover-your-forgotten-passport-york-password-58f717",
+  "title": "Recover your forgotten Passport York password",
+  "type": "How to",
+  "service_id": "passport-york",
+  "issue": "Recover your forgotten Passport York password",
+  "environment": [
+    "Passport York",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/#current-employees\">Reset your Passport York password &gt;&gt;</a></p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/wp-content/plugins/yu-blockpatterns/img/learnmore.png\"/></figure>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "c7e9cafb4377e283:91",
+    "c7e9cafb4377e283:92",
+    "c7e9cafb4377e283:93"
+  ],
+  "captured_at": "2026-11-09T21:45:58.697932+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

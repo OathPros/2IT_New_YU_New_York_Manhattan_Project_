@@ -1,0 +1,109 @@
+{
+  "source_id": "cb4626b8edeed5eb",
+  "source_url": "https://www.yorku.ca/uit/infosec/three-easy-tips-to-choose-a-strong-password/",
+  "title": "Three Easy Tips to Choose a Strong Password",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/passport-york/",
+    "/knowledge/tip-1-use-passphrases-ce371b/",
+    "/knowledge/tip-2-include-numbers-and-symbols-550cc1/",
+    "/knowledge/tip-3-using-a-password-manager-d9ecf7/"
+  ],
+  "assignments": [
+    {
+      "block_id": "cb4626b8edeed5eb:0",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "cb4626b8edeed5eb:1",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "cb4626b8edeed5eb:2",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "cb4626b8edeed5eb:3",
+      "destination": "/knowledge/tip-1-use-passphrases-ce371b/",
+      "article_id": "UIT-KA-A856CCCE371B",
+      "anchors": []
+    },
+    {
+      "block_id": "cb4626b8edeed5eb:4",
+      "destination": "/knowledge/tip-1-use-passphrases-ce371b/",
+      "article_id": "UIT-KA-A856CCCE371B",
+      "anchors": []
+    },
+    {
+      "block_id": "cb4626b8edeed5eb:5",
+      "destination": "/knowledge/tip-1-use-passphrases-ce371b/",
+      "article_id": "UIT-KA-A856CCCE371B",
+      "anchors": []
+    },
+    {
+      "block_id": "cb4626b8edeed5eb:6",
+      "destination": "/knowledge/tip-1-use-passphrases-ce371b/",
+      "article_id": "UIT-KA-A856CCCE371B",
+      "anchors": []
+    },
+    {
+      "block_id": "cb4626b8edeed5eb:7",
+      "destination": "/knowledge/tip-1-use-passphrases-ce371b/",
+      "article_id": "UIT-KA-A856CCCE371B",
+      "anchors": []
+    },
+    {
+      "block_id": "cb4626b8edeed5eb:8",
+      "destination": "/knowledge/tip-2-include-numbers-and-symbols-550cc1/",
+      "article_id": "UIT-KA-ECCA7A550CC1",
+      "anchors": []
+    },
+    {
+      "block_id": "cb4626b8edeed5eb:9",
+      "destination": "/knowledge/tip-2-include-numbers-and-symbols-550cc1/",
+      "article_id": "UIT-KA-ECCA7A550CC1",
+      "anchors": []
+    },
+    {
+      "block_id": "cb4626b8edeed5eb:10",
+      "destination": "/knowledge/tip-2-include-numbers-and-symbols-550cc1/",
+      "article_id": "UIT-KA-ECCA7A550CC1",
+      "anchors": []
+    },
+    {
+      "block_id": "cb4626b8edeed5eb:11",
+      "destination": "/knowledge/tip-2-include-numbers-and-symbols-550cc1/",
+      "article_id": "UIT-KA-ECCA7A550CC1",
+      "anchors": []
+    },
+    {
+      "block_id": "cb4626b8edeed5eb:12",
+      "destination": "/knowledge/tip-3-using-a-password-manager-d9ecf7/",
+      "article_id": "UIT-KA-159AAFD9ECF7",
+      "anchors": []
+    },
+    {
+      "block_id": "cb4626b8edeed5eb:13",
+      "destination": "/knowledge/tip-3-using-a-password-manager-d9ecf7/",
+      "article_id": "UIT-KA-159AAFD9ECF7",
+      "anchors": []
+    },
+    {
+      "block_id": "cb4626b8edeed5eb:14",
+      "destination": "/knowledge/tip-3-using-a-password-manager-d9ecf7/",
+      "article_id": "UIT-KA-159AAFD9ECF7",
+      "anchors": []
+    },
+    {
+      "block_id": "cb4626b8edeed5eb:15",
+      "destination": "/knowledge/tip-3-using-a-password-manager-d9ecf7/",
+      "article_id": "UIT-KA-159AAFD9ECF7",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 16
+}

@@ -41,3 +41,15 @@ test('generic sign in failures prioritize Passport York without overriding named
  assert.equal(search(rows,'I cannot sign in')[1].id,'password')
  assert.equal(search(rows,'I cannot sign in to 1Password')[0].id,'vendor')
 })
+
+test('Passport York recovery links to complete methods and keeps the Email rewrite',async()=>{
+ const {loadArticles}=await import('../src/load-content.mjs')
+ const articles=await loadArticles(),byId=new Map(articles.map(a=>[a.id,a]))
+ assert.equal(byId.get('UIT-KA-9B42BE286CDC').title,'Create an email signature in Outlook for Windows')
+ for(const id of ['UIT-KA-300BB058F717','UIT-KA-5869E88374F4']){
+  const a=byId.get(id)
+  assert.ok(!a.resolution_html.includes('#current-'))
+  assert.ok(!a.resolution_html.includes('/knowledge/'+a.slug+'/'))
+  for(const match of a.resolution_html.matchAll(/href="(\/knowledge\/[^"]+)"/g))assert.ok(articles.some(x=>'/knowledge/'+x.slug+'/'===match[1]))
+ }
+})

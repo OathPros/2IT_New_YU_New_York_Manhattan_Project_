@@ -1,0 +1,39 @@
+{
+  "id": "UIT-KA-719C9C51501F",
+  "slug": "can-i-link-my-old-1password-account-to-my-york-account-51501f",
+  "title": "Can I link my old 1Password account to my York account",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Can I link my old 1Password account to my York account",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Yes, you can link your old 1Password account to your York account</p>\n<p><strong>Open 1Password:</strong> Launch the 1Password application on your device</p>\n<p><strong>Add an Account:</strong></p>\n<ul>\n<li>Go to the account settings or preferences in the 1Password app</li>\n<li>Select the option to add another account</li>\n</ul>\n<p><strong>Enter Account Details:</strong></p>\n<ul>\n<li>Enter the sign-in details for your old 1Password account, including your email, Secret Key, and Master Password</li>\n</ul>\n<p><strong>Verify Account:</strong></p>\n<ul>\n<li>Follow 2FA verification steps required by 1Password to link the accounts</li>\n</ul>\n<p><strong>Access Both Accounts:</strong></p>\n<ul>\n<li>Once linked, you can switch between your York account and your old account, or access data from both accounts within the 1Password application</li>\n</ul>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/1password-faqs/"
+  ],
+  "source_block_ids": [
+    "30954b824eecfbc6:31",
+    "30954b824eecfbc6:32",
+    "30954b824eecfbc6:33",
+    "30954b824eecfbc6:34",
+    "30954b824eecfbc6:35",
+    "30954b824eecfbc6:36",
+    "30954b824eecfbc6:37",
+    "30954b824eecfbc6:38",
+    "30954b824eecfbc6:39",
+    "30954b824eecfbc6:40",
+    "30954b824eecfbc6:41"
+  ],
+  "captured_at": "2026-11-09T21:46:07.100659+00:00",
+  "source_modified_at": "2025-07-18T20:02:31+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

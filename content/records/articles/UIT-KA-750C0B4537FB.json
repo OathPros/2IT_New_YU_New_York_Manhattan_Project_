@@ -1,0 +1,33 @@
+{
+  "id": "UIT-KA-750C0B4537FB",
+  "slug": "benefits-of-using-a-password-manager-4537fb",
+  "title": "Benefits of Using a Password Manager",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Benefits of Using a Password Manager",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>To keep all your work and personal computing accounts secure, you should <strong>always use separate, strong password for every different service/account you use</strong>. This helps limit impact of all your accounts if one of the services you use be breached, or your password stolen. The password manager not only helps remember all your passwords for you, it also helps you easily and automatically generate strong passwords to use. Good password managers also securely store all your password in a “password vault” – an encrypted database that cannot be accessed by anyone without your master password, even if your computer is stolen. Even better, most will work with 2-factor authentication for extra security. Password managers can also be used by groups or teams that need to securely share passwords for common accounts. No more writing down passwords!</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/password-manager-guide/",
+    "https://www.yorku.ca/uit/infosec/using-a-password-manager/"
+  ],
+  "source_block_ids": [
+    "aaf5feed55a9c0ff:2",
+    "aaf5feed55a9c0ff:3",
+    "c226f38e876548f7:2",
+    "c226f38e876548f7:3"
+  ],
+  "captured_at": "2026-11-09T21:47:03.800203+00:00",
+  "source_modified_at": "2025-05-22T18:05:22+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

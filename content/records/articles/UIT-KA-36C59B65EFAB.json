@@ -1,0 +1,49 @@
+{
+  "id": "UIT-KA-36C59B65EFAB",
+  "slug": "expiring-state-65efab",
+  "title": "Expiring State",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Expiring State",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>If you are no longer an active student (you are no longer registered in your undergrad or graduate program, you withdrew or dropped from all classes, are no longer registered for courses, have unpaid fees, have not met program requirements, finished school, or graduated), your computing accounts enter an expiry process. You will receive an email notification from the system that you are no longer an active student and that your accounts are set to expire and will be removed if you are not going to attend York University classes</p>\n<p><strong>Timelines:</strong></p>\n<ul>\n<li>If you drop/withdraw from all your courses and are no longer registered in any courses, and/or you are no longer registered in your undergrad/graduate program at any time from the start of September to the end of April, then expiration will start the following month.\n<ul>\n<li>If you drop/withdraw from all registered courses and/or you are no longer registered in your undergrad/graduate program at any time in September, then expiry will start the following month in October</li>\n<li>If you drop/withdraw from all registered courses and/or you are no longer registered in your undergrad/graduate program at any time in October, then expiry will start the following month in November</li>\n<li>If you drop/withdraw from all registered courses and/or you are no longer registered in your undergrad/graduate program at any time in January, then expiry will start the following month in February</li>\n<li>If you drop/withdraw from all registered courses and/or you are no longer registered in your undergrad/graduate program at any time in February, then expiry will start the following month in March</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>If you finish all your courses and exams in December of the year and are not registered for any more courses, and/or are not registered in your graduate program by September of the following year, then expiry will happen the following month (on October 15th)</li>\n</ul>\n<ul>\n<li>If you finish all your courses and exams in April of the year and are not registered for any more courses, and/or are not registered in your graduate program by September, then expiry will happen on October 15th of that same year</li>\n</ul>\n<ul>\n<li>If you finish all your courses and exams in August of the year and are not registered for any more courses, and/or are not registered in your graduate program by September, then expiry will happen on October 15th of that same year</li>\n</ul>\n<ul>\n<li><strong>This <u>Expiring State</u> lasts for 6 weeks (about a month and a half) before continuing into the next <u>Cancelled State</u></strong></li>\n</ul>\n<p><strong>**Please note </strong>that your Passport York username and password will still work for accessing enrollment, grades, tax forms, transcripts, records, and other post-university access services available on <a href=\"http://registrar.yorku.ca\">registrar.yorku.ca</a></p>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:50",
+    "a8531d59dcf118b8:51",
+    "a8531d59dcf118b8:52",
+    "a8531d59dcf118b8:53",
+    "a8531d59dcf118b8:54",
+    "a8531d59dcf118b8:55",
+    "a8531d59dcf118b8:56",
+    "a8531d59dcf118b8:57",
+    "a8531d59dcf118b8:58",
+    "b24187fb4550fd87:50",
+    "b24187fb4550fd87:51",
+    "b24187fb4550fd87:52",
+    "b24187fb4550fd87:53",
+    "b24187fb4550fd87:54",
+    "b24187fb4550fd87:55",
+    "b24187fb4550fd87:56",
+    "b24187fb4550fd87:57",
+    "b24187fb4550fd87:58"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

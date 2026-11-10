@@ -1,0 +1,30 @@
+{
+  "id": "UIT-KA-61A010126820",
+  "slug": "where-can-i-find-my-1password-secret-key-126820",
+  "title": "Where can I find my 1Password Secret Key",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Where can I find my 1Password Secret Key",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>You can find it in emergency kit, 1password app and in 1password website</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/1password-faqs/"
+  ],
+  "source_block_ids": [
+    "30954b824eecfbc6:5",
+    "30954b824eecfbc6:6"
+  ],
+  "captured_at": "2026-11-09T21:46:07.100659+00:00",
+  "source_modified_at": "2025-07-18T20:02:31+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

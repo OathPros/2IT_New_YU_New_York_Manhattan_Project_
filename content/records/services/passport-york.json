@@ -1,0 +1,211 @@
+{
+  "id": "passport-york",
+  "name": "Passport York",
+  "summary": "Sign in and manage your account",
+  "aliases": [
+    "passport",
+    "password",
+    "username"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/1password-for-students/",
+    "https://www.yorku.ca/uit/infosec/1password-faqs/",
+    "https://www.yorku.ca/uit/infosec/1password-for-families/",
+    "https://www.yorku.ca/uit/infosec/3-tips-for-creating-strong-passwords/",
+    "https://www.yorku.ca/uit/infosec/i-completed-my-2fa-setup-now-i-cannot-login-to-passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/",
+    "https://www.yorku.ca/uit/infosec/using-a-password-manager/",
+    "https://www.yorku.ca/uit/infosec/fortify-your-online-fortress-essential-steps-for-password-security/",
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/infosec/password-manager-guide/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/",
+    "https://www.yorku.ca/uit/infosec/three-easy-tips-to-choose-a-strong-password/",
+    "https://www.yorku.ca/uit/infosec/1password/",
+    "https://www.yorku.ca/uit/infosec/i-cannot-log-in-to-vpn-due-to-invalid-password/"
+  ],
+  "article_ids": [
+    "UIT-KA-A72E76AA46AD",
+    "UIT-KA-14198D3E6965",
+    "UIT-KA-DC3D9DEC1D30",
+    "UIT-KA-750C0B4537FB",
+    "UIT-KA-D2DFD3209294",
+    "UIT-KA-32B0F0AE135F",
+    "UIT-KA-719C9C51501F",
+    "UIT-KA-F89C6D2ADACC",
+    "UIT-KA-D83D523AFD9F",
+    "UIT-KA-68A267C35E47",
+    "UIT-KA-29AE939D7837",
+    "UIT-KA-86FDB4449E9D",
+    "UIT-KA-ECE0EF1E1C01",
+    "UIT-KA-93FB987A165A",
+    "UIT-KA-66088DD15E5E",
+    "UIT-KA-9DF88BF4B1EC",
+    "UIT-KA-A872EE9ED821",
+    "UIT-KA-2192D1307363",
+    "UIT-KA-D8F05F4681E6",
+    "UIT-KA-36C59B65EFAB",
+    "UIT-KA-C2E0DA200AED",
+    "UIT-KA-59454CE0BD44",
+    "UIT-KA-D7E7D8939AF1",
+    "UIT-KA-4B93B6A5D551",
+    "UIT-KA-3A45E213898F",
+    "UIT-KA-FC550A00445C",
+    "UIT-KA-E8B17A9E6530",
+    "UIT-KA-2EDCD08A8A6B",
+    "UIT-KA-46273D1D7B78",
+    "UIT-KA-FD27112EBE2E",
+    "UIT-KA-007E315D03DF",
+    "UIT-KA-CC7835CAA13B",
+    "UIT-KA-2F609C5A1CAD",
+    "UIT-KA-05AFB146BEBE",
+    "UIT-KA-314D497E5576",
+    "UIT-KA-205D0C7D37FA",
+    "UIT-KA-EC5470BA6B5A",
+    "UIT-KA-01A1419C5627",
+    "UIT-KA-425BFFDD0BEC",
+    "UIT-KA-8A9A3CA6C0FE",
+    "UIT-KA-F25820F847EF",
+    "UIT-KA-37C3C76378E5",
+    "UIT-KA-300BB058F717",
+    "UIT-KA-5869E88374F4",
+    "UIT-KA-F74B45D6834E",
+    "UIT-KA-C2FB18C08BC7",
+    "UIT-KA-7D1457404464",
+    "UIT-KA-64F86E0D6A06",
+    "UIT-KA-08A28D125AA8",
+    "UIT-KA-2C82632D6902",
+    "UIT-KA-1743A3D9F72C",
+    "UIT-KA-642D5A4BFA3E",
+    "UIT-KA-C0C4FF920116",
+    "UIT-KA-823167E4EE0F",
+    "UIT-KA-C16878F9CF47",
+    "UIT-KA-CF1796979BF5",
+    "UIT-KA-95E908A3A118",
+    "UIT-KA-D21D3CFAD0F2",
+    "UIT-KA-A856CCCE371B",
+    "UIT-KA-60FE844B2729",
+    "UIT-KA-ECCA7A550CC1",
+    "UIT-KA-159AAFD9ECF7",
+    "UIT-KA-376D706E3E62",
+    "UIT-KA-C83447FCC2D3",
+    "UIT-KA-AE3AAC2EB7FB",
+    "UIT-KA-EAE093241371",
+    "UIT-KA-C0D086AF3812",
+    "UIT-KA-61A010126820"
+  ],
+  "details": [
+    {
+      "title": "1Password for Students",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>As an active student at York University, you are eligible for a <strong>free</strong> 1Password for Students account. Please follow the steps below for help with obtaining the required license key and activating your 1Password account</p>\n<p><strong>Step 1:</strong></p>\n<p>Navigate to <a href=\"https://mysoftware.apps01.yorku.ca/\">https://mysoftware.apps01.yorku.ca/</a> and login with your PY credentials. Next, hover over \"<strong>PERSONAL</strong>\" in the grey menu bar and click on \"<strong>Software Order Form</strong>\"</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2025/07/Screenshot-2025-07-21-160732.png\"/></figure>\n<p><strong>Step 2:</strong></p>\n<p>Verify that your email address under <strong>(1)</strong> is correct and then <strong>(2) </strong>select either \"<strong>1Password for Students (Undergrad)</strong>\" OR \"<strong>1Password for Students (Grad)</strong>\" as appropriate, select any of the OS options as any choice will work, and make sure to add a <strong>License Qty</strong> of <strong>1</strong>. For <strong>(3)</strong>, select <strong>\"License codes only - no software CD required\"</strong> and <strong>(4)</strong>click on <strong>\"Continue to Next Step\"</strong> as no payment is required</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2025/07/image-5.png\"/></figure>\n<p><strong>Step 3:</strong></p>\n<p>Review the details of your order and make sure the information is correct. Next, navigate to <a href=\"https://1password.com/legal/terms-of-service\">https://1password.com/legal/terms-of-service</a> and review the terms before checking the <strong>\"I agree to these terms and conditions\"</strong> box. Finally, click on <strong>\"Confirm Order\"</strong> to continue</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2025/07/ki2.png\"/></figure>\n<p><strong>Step 4:</strong></p>\n<p>You should be redirected to the page below informing you that your order has been successfully submitted</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2025/07/image-6.png\"/></figure>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2025/07/image-7.png\"/></figure>\n<p><strong>Step 5:</strong></p>\n<p>You will receive the<strong> (3) </strong>emails shown below a few minutes after completing your order. Click on the email with subject line \"<strong>1Password for students (###) license key &amp; instructions</strong>\" to obtain the license key required to activate your account</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2025/07/image-9.png\"/></figure>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2025/07/email-lic.png\"/></figure>\n<p><strong>Step 6:</strong></p>\n<p>Go to <a href=\"https://1password.com/promo/\">https://1password.com/promo/</a> and enter the license key and your <strong>York student email address</strong>. Next, click <strong>“Redeem 1Password Account”</strong> and check your email for a link to finish creating your account</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2025/07/image-11.png\"/></figure>",
+      "source_url": "https://www.yorku.ca/uit/infosec/1password-for-students/"
+    },
+    {
+      "title": "1Password for Families",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>Once you have activated your Employee account and it has been confirmed by an administrator, you can redeem your free 1Password Family account. This account can be shared with up to <strong>5</strong><strong> people</strong></p>\n<p><strong>Step 1:</strong></p>\n<p>From the 1Password Home page, click on \"<strong>My Profile</strong>\" in the upper right corner</p>\n<figure><a href=\"https://infosec.yorku.ca/files/2024/07/duo-demo-fam0.png\"><img alt=\"\" loading=\"lazy\" src=\"https://infosec.yorku.ca/files/2024/07/duo-demo-fam0.png\"/></a></figure>\n<p><strong>Step 2:</strong></p>\n<p>Next, click on the \"<strong>Redeem Now</strong>\" icon</p>\n<figure><a href=\"https://infosec.yorku.ca/files/2024/07/duo-demo-fam-.png\"><img alt=\"\" loading=\"lazy\" src=\"https://infosec.yorku.ca/files/2024/07/duo-demo-fam-.png\"/></a></figure>\n<p><strong>Step 3:</strong></p>\n<p>You will be prompted with a pop-up asking you to either sign up for a new account <em>or</em> add an existing personal 1Password account you may already have created. To create a new account, click \"<strong>Sign up</strong>\"</p>\n<figure><a href=\"https://infosec.yorku.ca/files/2024/07/duo-demo-fam-2.png\"><img alt=\"\" loading=\"lazy\" src=\"https://infosec.yorku.ca/files/2024/07/duo-demo-fam-2.png\"/></a></figure>\n<p><strong>Step 4:</strong></p>\n<p>You will be asked to setup the 1Password browser extension - you can do this now or skip and add it later. For more information on adding 1Password to your browser, please click <a href=\"https://support.1password.com/getting-started-browser/\">here</a></p>\n<figure><a href=\"https://infosec.yorku.ca/files/2024/07/duo-demo-fam-3.png\"><img alt=\"\" loading=\"lazy\" src=\"https://infosec.yorku.ca/files/2024/07/duo-demo-fam-3.png\"/></a></figure>\n<p><strong>Step 5:</strong></p>\n<p>Next, enter your Full Name and the Email you would like to use for your Family Account. Please <strong>do not</strong> use your York email address for this step</p>\n<figure><a href=\"https://infosec.yorku.ca/files/2024/07/duo-demo-fam-5.png\"><img alt=\"\" loading=\"lazy\" src=\"https://infosec.yorku.ca/files/2024/07/duo-demo-fam-5.png\"/></a></figure>\n<p><strong>Step 6:</strong></p>\n<p>You will receive a 6-digit verification code to the email address you entered. Please enter the code and click \"<strong>Next</strong>\"</p>\n<figure><a href=\"https://infosec.yorku.ca/files/2024/07/duo-demo-fam-6.png\"><img alt=\"\" loading=\"lazy\" src=\"https://infosec.yorku.ca/files/2024/07/duo-demo-fam-6.png\"/></a></figure>\n<p><strong>Step 7:</strong></p>\n<p>You will be asked to select a password for your account that can be used alongside your Secret Key (provided by 1Password) to protect your account. Please make sure to choose a strong, unique password for this. Once you have entered your password, click \"<strong>Create Account</strong>\" to complete your Family Account setup</p>\n<p><strong>Note: </strong>In the event that you forget your password for your Family Account, we will <strong>NOT</strong> be able to recover your account</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://infosec.yorku.ca/files/2024/07/duo-demo-fam-7.png\"/></figure>\n<figure><a href=\"https://infosec.yorku.ca/files/2024/07/duo-demo-fam-8.png\"><img alt=\"\" loading=\"lazy\" src=\"https://infosec.yorku.ca/files/2024/07/duo-demo-fam-8.png\"/></a></figure>\n<p>For more information on setting up your Family Account, you can also refer to the steps <a href=\"https://support.1password.com/link-family/\">here</a> or view the demonstrational video below</p>\n<p><p><a href=\"https://player.vimeo.com/video/855116093?dnt=1&amp;app_id=122963\">13. Redeeming and setting up your free 1Password Families account</a></p></p>",
+      "source_url": "https://www.yorku.ca/uit/infosec/1password-for-families/"
+    },
+    {
+      "title": "3 Tips for Creating Strong Passwords",
+      "audiences": [
+        "all"
+      ],
+      "html": "<figure><img alt=\"cyber security, cybersecurity, device\" loading=\"lazy\" src=\"https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940\"/></figure>\n<p>Setting up strong passwords is key to protecting your information both online and offline</p>\n<p>With most people getting more and more accounts on different sites and services, it's hard to create strong passwords without running the risk of forgetting the password altogether</p>\n<p>Here are three ways to help you stay secure:</p>",
+      "source_url": "https://www.yorku.ca/uit/infosec/3-tips-for-creating-strong-passwords/"
+    },
+    {
+      "title": "I completed my 2FA Setup Now I cannot login to Passport York",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>If you are unable to log in to Passport York after completing the 2FA setup, try clearing your web browser's cache and cookies</p>\n<p>Select your web browser type for instructions on how to clear the cache and cookies:</p>\n<ul><li><a href=\"https://support.google.com/accounts/answer/32050?co=GENIE.Platform%3DDesktop&amp;hl=en\">Google Chrome</a></li><li><a href=\"https://support.microsoft.com/en-us/microsoft-edge/view-and-delete-browser-history-in-microsoft-edge-00cf7943-a9e1-975a-a33d-ac10ce454ca4\">Microsoft Edge</a></li><li><a href=\"https://support.mozilla.org/en-US/kb/how-clear-firefox-cache\">Mozilla Firefox</a></li><li><a href=\"https://support.apple.com/en-ca/guide/safari/sfri47acf5d6/mac\">Safari</a></li></ul>\n<p>If you cannot clear your web browser's cache and cookies, utilize <a href=\"https://support.google.com/chrome/answer/95464?co=GENIE.Platform%3DDesktop&amp;hl=en\">Incognito Mode in Chrome</a> or <a href=\"https://support.apple.com/en-ca/guide/safari/ibrw1069/mac\">Private Mode in Safari</a>and <a href=\"https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history\">Private Browsing in Firefox</a></p>\n<p>Back to <a href=\"https://www.yorku.ca/uit/infosec/duo-two-factor-authentication/#tab-stronggeneralissuesandtroubleshootingstrong\">General Issues and Troubleshooting page</a></p>",
+      "source_url": "https://www.yorku.ca/uit/infosec/i-completed-my-2fa-setup-now-i-cannot-login-to-passport-york/"
+    },
+    {
+      "title": "Passport York",
+      "audiences": [
+        "student"
+      ],
+      "html": "<p>Passport York authenticates you as a current member of the York computing community and gives you access to a wide range of computing resources and services. All <a href=\"https://www.yorku.ca/uit/student-services/passport-york/#new-students\">new students</a> are required to create a Passport York account</p>\n<p><strong>**Please note</strong> that your computing accounts will expire when you graduate. Please see the <a href=\"https://www.yorku.ca/uit/student-services/passport-york/#accounts-lifecycle\">Account Lifecycle tab </a>for more information</p>\n<p>Passport York's fixed maintenance window is <strong>every</strong> <strong>Wednesday between 5:00</strong><strong> a.m</strong><strong>. and 7:00 a.m. Services that might be unavailable during this time include all Student Record Services and Applications—</strong>REM, Manage My Services, AirYork, YorkNet, VPN, and Parking Services</p>\n<p>Submit a Service Request</p>\n<figure>\n<p><a href=\"https://www.youtube.com/embed/pfu7IDe1D3A?feature=oembed\">IT Helps: Understanding Undergraduate Computing Accounts</a></p>\n</figure>\n<figure>\n<p><a href=\"https://www.youtube.com/embed/DaooNl035so?feature=oembed\">IT Helps: Understanding Graduate Computing Accounts</a></p>\n</figure>\n<figure>\n<p><a href=\"https://www.youtube.com/embed/6E1kxkg7HwE?feature=oembed\">IT Helps: Understanding Account Expiry</a></p>\n</figure>",
+      "source_url": "https://www.yorku.ca/uit/student-services/passport-york/"
+    },
+    {
+      "title": "Accounts Lifecycle",
+      "audiences": [
+        "student"
+      ],
+      "html": "<p>Your status as a student with the Registrar's Office drives the state of your computing accounts. Computing accounts, such as email, OneDrive, and MyApps, are created once you receive your student number and choose a Passport York username</p>\n<p>Please see the tabs below (Active state, Expiring state, Cancelled state, Removed state) for more information about your computing services/accounts. Please pay special attention to the <strong>expiring</strong> state, as that is when you have your last opportunity to save any emails or files you may want to keep</p>\n<p>As a reminder, your computer services/accounts have a lifecycle, but your Passport York account will remain available should you need to access your student records, transcripts, or continue your schooling</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/passport-york/"
+    },
+    {
+      "title": "Fortify Your Online Fortress Essential Steps for Password Security",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>Despite growing awareness, many individuals continue to jeopardize their online safety by employing weak and easily guessable passwords. This perilous habit leaves them vulnerable to the malicious intentions of cyber hackers. To fortify your defense against cyber breaches, it is crucial to adopt secure password practices. This article outlines essential tips to create cybersafe and memorable passwords, minimizing the risk of unauthorized access to your personal and business accounts</p>\n<p>Avoid Common Phrases and Regularly Update Passwords: A startling statistic from Google reveals that 24% of users employ passwords such as \"password,\" \"Qwerty,\" or \"123456.\" Furthermore, only 34% of individuals make a habit of regularly updating their passwords. Cybercriminals exploit the fact that people often choose easily memorable passwords, using the same one across multiple accounts. Unfortunately, compromising a single account can provide immediate access to all interconnected accounts. Automated programs leverage this vulnerability through dictionary attacks, effortlessly deciphering predictable passwords. By avoiding common phrases and frequently refreshing your passwords, you disrupt hackers' attempts to exploit your security</p>\n<p>Exclude Personal Information: It is imperative never to incorporate personal information into your passwords. Cybercriminals actively scour the internet for clues that might facilitate password cracking. Names of pets, family members' birthdays, interests, occupations, or hobbies should be strictly avoided. Additionally, refrain from including elements like home addresses, street names, apartment numbers, or country of origin. Hackers meticulously analyze available information about their targets, utilizing it to their advantage. By eradicating such personal ties from your passwords, you bolster your protection against potential breaches</p>\n<p>Utilize a Combination of Letters, Symbols, and Numbers: The complexity of a password directly impacts its resistance to cracking. Longer passwords with diverse characters pose a greater challenge to unauthorized access. Consider using unique letters, symbols, and numbers to create robust passwords. Experiment with combining short code phrases and incorporating emoticons creatively. By employing this approach, you enhance the strength and resilience of your passwords against automated hacking tools</p>\n<p>Invest in a Reliable Password Manager: Relying on written records of passwords is an insecure practice. Instead, opt for a reputable password manager to securely store your passwords. These applications offer a host of features, including password encryption, automated password changers, and security dashboards that highlight passwords requiring attention. Prominent examples of password managers include Bitwarden, Dashlane, and 1Password. By centralizing and safeguarding your passwords, these tools provide an added layer of security and convenience. For comprehensive insights on password managers, I recommend referring to the following article for an in-depth exploration of their functionalities, benefits, and best practices</p>\n<p>In the ongoing battle against hacking and online attacks, we are the primary line of defense for our digital identities. Prioritizing secure password practices is a critical step in safeguarding our sensitive information. By adhering to these best practices, we can navigate the digital landscape with confidence and be truly cybersafe</p>",
+      "source_url": "https://www.yorku.ca/uit/infosec/fortify-your-online-fortress-essential-steps-for-password-security/"
+    },
+    {
+      "title": "Passport York",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>Passport York authenticates you as a current member of the York computing community and gives you access to a wide range of computing resources and services. All <a href=\"https://www.yorku.ca/uit/student-services-2/passport-york/#new-students\">new students</a> are required to create a Passport York account</p>\n<p><strong>**Please note</strong> that your computing accounts will expire when you graduate. Please see the <a href=\"https://www.yorku.ca/uit/student-services-2/passport-york/#accounts-lifecycle\">Account Lifecycle tab </a>for more information</p>\n<p>Passport York's fixed maintenance window is <strong>every</strong> <strong>Wednesday between 5:00</strong><strong> a.m</strong><strong>. and 7:00 a.m. Services that might be unavailable during this time include all Student Record Services and Applications—</strong>REM, Manage My Services, AirYork, YorkNet, VPN, and Parking Services</p>\n<p>Submit a Service Request</p>\n<figure>\n<p><a href=\"https://www.youtube.com/embed/pfu7IDe1D3A?feature=oembed\">IT Helps: Understanding Undergraduate Computing Accounts</a></p>\n</figure>\n<figure>\n<p><a href=\"https://www.youtube.com/embed/DaooNl035so?feature=oembed\">IT Helps: Understanding Graduate Computing Accounts</a></p>\n</figure>\n<figure>\n<p><a href=\"https://www.youtube.com/embed/6E1kxkg7HwE?feature=oembed\">IT Helps: Understanding Account Expiry</a></p>\n</figure>",
+      "source_url": "https://www.yorku.ca/uit/student-services-2/passport-york/"
+    },
+    {
+      "title": "Accounts Lifecycle",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>Your status as a student with the Registrar's Office drives the state of your computing accounts. Computing accounts, such as email, OneDrive, and MyApps, are created once you receive your student number and choose a Passport York username</p>\n<p>Please see the tabs below (Active state, Expiring state, Cancelled state, Removed state) for more information about your computing services/accounts. Please pay special attention to the <strong>expiring</strong> state, as that is when you have your last opportunity to save any emails or files you may want to keep</p>\n<p>As a reminder, your computer services/accounts have a lifecycle, but your Passport York account will remain available should you need to access your student records, transcripts, or continue your schooling</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services-2/passport-york/"
+    },
+    {
+      "title": "Passport York",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>Passport York authenticates you as a current member of the York computing community, and gives you access to a wide range of computing resources and services</p>\n<p>**<strong>Please note</strong> Passport York's fixed maintenance window is <strong>every</strong> <strong>Wednesday between 5:00am and 7:00am</strong>. <a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/#maintenance\">Click here for more information&gt;&gt; </a></p>\n<p>Submit a Service Request</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"
+    },
+    {
+      "title": "Three Easy Tips to Choose a Strong Password",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>Setting up strong passwords is key to protecting your information both online and offline</p>\n<p>With most people getting more and more accounts on different sites and services, it's hard to create strong passwords without running the risk of forgetting the password altogether</p>\n<p>Here are a couple of ways to help you stay secure:</p>",
+      "source_url": "https://www.yorku.ca/uit/infosec/three-easy-tips-to-choose-a-strong-password/"
+    },
+    {
+      "title": "1Password at York",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>Login</p>\n<p>Passwords have become a fixture in our everyday lives, especially in the modern workplace. 1Password is a password management tool used to generate, store, and securely share passwords all in one centralized platform. Keeping track of multiple passwords for different accounts can become overwhelming. University Information Technology (UIT) at York has made 1Password available to support our community in maintaining strong digital security practices and to simplify the process of password management</p>\n<p> <strong>Note: </strong>Please ensure you are only adding <strong>work-related</strong> items to your Employee Vault</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2024/05/1Password-770x513-1.jpg\"/></figure>",
+      "source_url": "https://www.yorku.ca/uit/infosec/1password/"
+    },
+    {
+      "title": "I cannot log in to VPN due to invalid password",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>If you cannot connect to the VPN after following the <a href=\"https://www.yorku.ca/uit/infosec/how-do-i-connect-to-pulse-secure-vpn-with-duo-2fa/\">How-Do-I-Connect-to-Pulse-Secure-VPN-with-Duo-2FA</a> instructions, you may need to reset your VPN profile settings. To clear the saved settings, follow the steps below:</p>\n<p><strong>Step 1.</strong> Open the Pulse Secure client</p>\n<p><strong>Step 2</strong>. Right click on the VPN profile and choose <strong>Forget Saved Settings</strong></p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2024/01/7-29-2021-11-56-38-AM.png\"/></figure>\n<p><strong>Step 3.</strong> In the pop-up window, click OK</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2024/01/7-29-2021-11-58-53-AM.png\"/></figure>\n<p><strong>Step 4</strong>. Click Connect on the VPN Profile</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2024/01/7-29-2021-11-59-47-AM.png\"/></figure>\n<p><strong>Step 5.</strong> Enter your <a href=\"https://www.yorku.ca/uit/infosec/how-do-i-connect-to-pulse-secure-vpn-with-duo-2fa/\">credentials</a> and click Connect. Do not click Save Settings</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2024/01/7-29-2021-12-01-10-PM.png\"/></figure>\n<p>Back to <a href=\"https://www.yorku.ca/uit/infosec/duo-two-factor-authentication/#tab-strongfrequentlyaskedquestionsstrong\">FAQ page</a></p>",
+      "source_url": "https://www.yorku.ca/uit/infosec/i-cannot-log-in-to-vpn-due-to-invalid-password/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Manage My Services",
+      "url": "https://mms.yorku.ca/",
+      "audiences": [
+        "all"
+      ]
+    }
+  ]
+}

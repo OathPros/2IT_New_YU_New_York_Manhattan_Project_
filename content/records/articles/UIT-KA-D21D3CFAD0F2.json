@@ -1,0 +1,32 @@
+{
+  "id": "UIT-KA-D21D3CFAD0F2",
+  "slug": "sign-up-for-a-1password-family-account-fad0f2",
+  "title": "Sign up for a 1Password Family account",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Sign up for a 1Password Family account",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Each York user with a 1Password Enterprise account is also provided with a complimentary 1Password Family account that can be shared with up to 5 other people. To redeem your free Family account:</p>\n<ol>\n<li><a href=\"https://team-yorkuniversity.1password.ca/signin?landing-page=%2Fhome\">Sign in</a> to your business account</li>\n<li>Click on your name in the top right corner of the page, and select <a href=\"https://start.1password.com/profile\">My Profile</a></li>\n<li>You should see a \"Claim your free family account\" section. Click on <strong>Redeem Now</strong></li>\n</ol>\n<p>For more detailed instructions, please visit <a href=\"https://support.1password.com/link-family/\">https://support.1password.com/link-family/</a></p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/1password-faqs/"
+  ],
+  "source_block_ids": [
+    "30954b824eecfbc6:27",
+    "30954b824eecfbc6:28",
+    "30954b824eecfbc6:29",
+    "30954b824eecfbc6:30"
+  ],
+  "captured_at": "2026-11-09T21:46:07.100659+00:00",
+  "source_modified_at": "2025-07-18T20:02:31+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

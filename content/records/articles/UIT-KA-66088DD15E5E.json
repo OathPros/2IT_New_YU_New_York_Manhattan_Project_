@@ -1,0 +1,43 @@
+{
+  "id": "UIT-KA-66088DD15E5E",
+  "slug": "choosing-a-secure-password-d15e5e",
+  "title": "Choosing a secure password",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Choosing a secure password",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>1. Use passphrases. For example, string together words such as “<em>I love this winter weather in the springtime</em>” to create a passphrase ILoveThisWinterWeatherInTheSpringTime. It is stronger than RgFZV!RvgP@9QB7 and easier to remember</p>\n<p>2. Incorporating numbers and symbols into your password increases the strength of your password. One common hacking technique is to try words and phrases. To further add complexity to your passwords, use a password at least 15 characters long and incorporate numbers, symbols, and uppercase letters</p>\n<p>3. Security experts recommend that people never reuse their passwords on different accounts</p>\n<p>Using a password manager negates the need to memorize multiple passwords by storing all your passwords in a virtual vault–you only have to memorize one password</p>\n<p>For more information on choosing a strong password, read <a href=\"https://www.yorku.ca/uit/infosec/3-tips-for-creating-strong-passwords/\">3 Tips for Creating Strong Passwords</a></p>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:106",
+    "a8531d59dcf118b8:107",
+    "a8531d59dcf118b8:108",
+    "a8531d59dcf118b8:109",
+    "a8531d59dcf118b8:110",
+    "a8531d59dcf118b8:111",
+    "b24187fb4550fd87:106",
+    "b24187fb4550fd87:107",
+    "b24187fb4550fd87:108",
+    "b24187fb4550fd87:109",
+    "b24187fb4550fd87:110",
+    "b24187fb4550fd87:111"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

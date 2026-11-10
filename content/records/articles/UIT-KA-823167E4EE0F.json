@@ -1,0 +1,59 @@
+{
+  "id": "UIT-KA-823167E4EE0F",
+  "slug": "set-up-your-passport-york-account-e4ee0f",
+  "title": "Set up your Passport York Account",
+  "type": "How to",
+  "service_id": "passport-york",
+  "issue": "Set up your Passport York Account",
+  "environment": [
+    "Passport York",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Before you begin, please ensure you have:</p>\n<ul>\n<li>Your 9 digit employee ID number</li>\n<li>Last four digits of your Social Insurance Number</li>\n</ul>\n<p>1. Go to Manage My Services by entering in the address bar of your web browser: <strong><a href=\"https://mms.yorku.ca\">https://mms.yorku.ca</a></strong></p>\n<p>2. Click on <strong>New Employee Sign Up</strong></p>\n<figure><img alt=\"new employee sign up \" loading=\"lazy\" src=\"https://www.yorku.ca/uit/wp-content/uploads/sites/805/2024/07/PY-SignUP-step-1-1.png\"/></figure>\n<p>3. Follow the instructions provided to proceed with either Case 1 (refer to the screenshot below) or Case 2</p>\n<p>Case 1: You <strong>have received</strong> your employee number and temporary password</p>\n<figure><img alt=\"Case 1 and 2 \" loading=\"lazy\" src=\"https://www.yorku.ca/uit/wp-content/uploads/sites/805/2024/07/PY-SignUP-step-3-3.png\"/></figure>\n<p>Case 2: You <strong>have not received </strong>an email with your log-in information</p>\n<figure><img alt=\"employee number and SIN number \" loading=\"lazy\" src=\"https://www.yorku.ca/uit/wp-content/uploads/sites/805/2024/07/PY-SignUP-step-4.png\"/></figure>\n<p><strong>If you do not have your employee ID number</strong>, this can be found at the top of a pay stub. Please see example below. Your Manager can also provide you with this information</p>\n<figure><img alt=\"paystub\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/wp-content/uploads/sites/805/2024/07/Screenshot4.png\"/></figure>\n<p>You will now be asked to create a username. <strong>**Please note</strong> the username you create will be your email address username@yorku.ca</p>\n<figure><img alt=\"create username\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/wp-content/uploads/sites/805/2024/07/PY-SignUP-step-5-1.png\"/></figure>\n<p>5. If the username you choose is being used by someone else, you will receive the following message. Simply replace the username you had selected with a new one, and click ‘<strong>Create Username</strong>’ again</p>\n<figure><img alt='\"There was a problem with your choice of username\" message ' loading=\"lazy\" src=\"https://www.yorku.ca/uit/wp-content/uploads/sites/805/2024/07/PY-SignUP-step-6.png\"/></figure>\n<p>6. When your username is accepted, you will see an attention screen. Write down your username. Click '<strong>continue'</strong></p>\n<figure><img alt=\"Attention screen \" loading=\"lazy\" src=\"https://www.yorku.ca/uit/wp-content/uploads/sites/805/2024/07/Screenshot8.png\"/></figure>\n<p>7. Changing your password. Please note there are rules for creating password. Refer to the <strong><em>password guidelines</em></strong> for details</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/wp-content/uploads/sites/805/2024/10/image-7.png\"/></figure>\n<p>8. Next, you'll be asked to update your password. Please input your current password (the one you initially entered in step 3). Follow the Password Guidelines to choose a new password and enter it</p>\n<p>9. Select \"<strong>Change password</strong>\" followed by clicking on \"<strong>Continue</strong>.\"</p>\n<p>Success! You’ve changed your password. Your Passport York account is now active. Please note:</p>\n<ul>\n<li>If this is your first time using <a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/\">Passport York</a> account, several services are being automatically activated</li>\n<li>Some services, such as <a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/internet-access/#air-york-plus\">AirYorkPLUS WiFi</a>, <a href=\"https://lthelp.yorku.ca/95441-instructor-faq/how-do-i-access-my-moodle-course\">eClass</a> and <a href=\"https://infosec.yorku.ca/services/two-factor-authentication/\">Duo 2FA</a>, will become active the following day after an <strong>overnight</strong> update</li>\n<li>Certain services, like your <a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/email-and-phone/#email\">YorkU email</a>, may take at least<strong> an hour </strong>to be ready</li>\n<li>Other services, such as <a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/storage/#fas\">FAS</a> (used to log into office computers, <a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/computer-services/#computer-labs\">computer lab computers</a>, and <a href=\"https://www.library.yorku.ca/web/ask-services/printing-and-computing/computing/computer-access-login/\">library computers</a>), will be ready in about 5 minutes</li>\n</ul>\n<p>10. If prompted to set security questions, proceed to complete steps 11 to 13 below. Please note that this feature is optional and may not be available for certain user types</p>\n<p>11. You will now be prompted to set up security questions, in the event that you lose your Passport York password. Click '<strong>OK'</strong></p>\n<p>12. Select security questions from each drop down menu, and type your answer in the space provided below each. All questions must be completed. Once finished, click Set Questions</p>\n<figure><img alt=\"Security questions setup \" loading=\"lazy\" src=\"https://www.yorku.ca/uit/wp-content/uploads/sites/805/2024/07/Screenshot15.png\"/></figure>\n<p><strong>**Please note </strong>if you would like to update your Passport York security questions, <a href=\"https://pypwreset.apps06.yorku.ca/questions/setup\">please click here&gt;&gt;</a></p>\n<p>13. You will be presented with a confirmation screen that confirms your security questions have been set. Click Logout</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "c7e9cafb4377e283:25",
+    "c7e9cafb4377e283:26",
+    "c7e9cafb4377e283:27",
+    "c7e9cafb4377e283:28",
+    "c7e9cafb4377e283:29",
+    "c7e9cafb4377e283:30",
+    "c7e9cafb4377e283:31",
+    "c7e9cafb4377e283:32",
+    "c7e9cafb4377e283:33",
+    "c7e9cafb4377e283:34",
+    "c7e9cafb4377e283:35",
+    "c7e9cafb4377e283:36",
+    "c7e9cafb4377e283:37",
+    "c7e9cafb4377e283:38",
+    "c7e9cafb4377e283:39",
+    "c7e9cafb4377e283:40",
+    "c7e9cafb4377e283:41",
+    "c7e9cafb4377e283:42",
+    "c7e9cafb4377e283:43",
+    "c7e9cafb4377e283:44",
+    "c7e9cafb4377e283:45",
+    "c7e9cafb4377e283:46",
+    "c7e9cafb4377e283:47",
+    "c7e9cafb4377e283:48",
+    "c7e9cafb4377e283:49",
+    "c7e9cafb4377e283:50",
+    "c7e9cafb4377e283:51",
+    "c7e9cafb4377e283:52",
+    "c7e9cafb4377e283:53",
+    "c7e9cafb4377e283:54",
+    "c7e9cafb4377e283:55"
+  ],
+  "captured_at": "2026-11-09T21:45:58.697932+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

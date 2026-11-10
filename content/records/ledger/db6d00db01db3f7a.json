@@ -1,0 +1,127 @@
+{
+  "source_id": "db6d00db01db3f7a",
+  "source_url": "https://www.yorku.ca/uit/infosec/1password/",
+  "title": "1Password at York",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/passport-york/",
+    "/knowledge/getting-started-8a8a6b/",
+    "/knowledge/1password-for-families-aa46ad/",
+    "/knowledge/1password-for-students-3e6965/",
+    "/knowledge/faqs-939af1/"
+  ],
+  "assignments": [
+    {
+      "block_id": "db6d00db01db3f7a:0",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "db6d00db01db3f7a:1",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "db6d00db01db3f7a:2",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "db6d00db01db3f7a:3",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "db6d00db01db3f7a:4",
+      "destination": "/knowledge/getting-started-8a8a6b/",
+      "article_id": "UIT-KA-2EDCD08A8A6B",
+      "anchors": []
+    },
+    {
+      "block_id": "db6d00db01db3f7a:5",
+      "destination": "/knowledge/getting-started-8a8a6b/",
+      "article_id": "UIT-KA-2EDCD08A8A6B",
+      "anchors": []
+    },
+    {
+      "block_id": "db6d00db01db3f7a:6",
+      "destination": "/knowledge/getting-started-8a8a6b/",
+      "article_id": "UIT-KA-2EDCD08A8A6B",
+      "anchors": []
+    },
+    {
+      "block_id": "db6d00db01db3f7a:7",
+      "destination": "/knowledge/getting-started-8a8a6b/",
+      "article_id": "UIT-KA-2EDCD08A8A6B",
+      "anchors": []
+    },
+    {
+      "block_id": "db6d00db01db3f7a:8",
+      "destination": "/knowledge/1password-for-families-aa46ad/",
+      "article_id": "UIT-KA-A72E76AA46AD",
+      "anchors": []
+    },
+    {
+      "block_id": "db6d00db01db3f7a:9",
+      "destination": "/knowledge/1password-for-families-aa46ad/",
+      "article_id": "UIT-KA-A72E76AA46AD",
+      "anchors": []
+    },
+    {
+      "block_id": "db6d00db01db3f7a:10",
+      "destination": "/knowledge/1password-for-families-aa46ad/",
+      "article_id": "UIT-KA-A72E76AA46AD",
+      "anchors": []
+    },
+    {
+      "block_id": "db6d00db01db3f7a:11",
+      "destination": "/knowledge/1password-for-families-aa46ad/",
+      "article_id": "UIT-KA-A72E76AA46AD",
+      "anchors": []
+    },
+    {
+      "block_id": "db6d00db01db3f7a:12",
+      "destination": "/knowledge/1password-for-students-3e6965/",
+      "article_id": "UIT-KA-14198D3E6965",
+      "anchors": []
+    },
+    {
+      "block_id": "db6d00db01db3f7a:13",
+      "destination": "/knowledge/1password-for-students-3e6965/",
+      "article_id": "UIT-KA-14198D3E6965",
+      "anchors": []
+    },
+    {
+      "block_id": "db6d00db01db3f7a:14",
+      "destination": "/knowledge/1password-for-students-3e6965/",
+      "article_id": "UIT-KA-14198D3E6965",
+      "anchors": []
+    },
+    {
+      "block_id": "db6d00db01db3f7a:15",
+      "destination": "/knowledge/1password-for-students-3e6965/",
+      "article_id": "UIT-KA-14198D3E6965",
+      "anchors": []
+    },
+    {
+      "block_id": "db6d00db01db3f7a:16",
+      "destination": "/knowledge/faqs-939af1/",
+      "article_id": "UIT-KA-D7E7D8939AF1",
+      "anchors": []
+    },
+    {
+      "block_id": "db6d00db01db3f7a:17",
+      "destination": "/knowledge/faqs-939af1/",
+      "article_id": "UIT-KA-D7E7D8939AF1",
+      "anchors": []
+    },
+    {
+      "block_id": "db6d00db01db3f7a:18",
+      "destination": "/knowledge/faqs-939af1/",
+      "article_id": "UIT-KA-D7E7D8939AF1",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 19
+}

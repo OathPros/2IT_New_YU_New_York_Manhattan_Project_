@@ -1,0 +1,84 @@
+{
+  "source_id": "c226f38e876548f7",
+  "source_url": "https://www.yorku.ca/uit/infosec/password-manager-guide/",
+  "title": "Password Manager Guide",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/passport-york/",
+    "/knowledge/what-is-a-password-manager-241371/",
+    "/knowledge/benefits-of-using-a-password-manager-4537fb/",
+    "/knowledge/risks-to-consider-when-using-a-password-manager-0d6a06/",
+    "/knowledge/other-considerations-when-thinking-about-using-a-password-manager-6378e5/",
+    "/knowledge/list-of-popular-password-manager-46bebe/"
+  ],
+  "assignments": [
+    {
+      "block_id": "c226f38e876548f7:0",
+      "destination": "/knowledge/what-is-a-password-manager-241371/",
+      "article_id": "UIT-KA-EAE093241371",
+      "anchors": []
+    },
+    {
+      "block_id": "c226f38e876548f7:1",
+      "destination": "/knowledge/what-is-a-password-manager-241371/",
+      "article_id": "UIT-KA-EAE093241371",
+      "anchors": []
+    },
+    {
+      "block_id": "c226f38e876548f7:2",
+      "destination": "/knowledge/benefits-of-using-a-password-manager-4537fb/",
+      "article_id": "UIT-KA-750C0B4537FB",
+      "anchors": []
+    },
+    {
+      "block_id": "c226f38e876548f7:3",
+      "destination": "/knowledge/benefits-of-using-a-password-manager-4537fb/",
+      "article_id": "UIT-KA-750C0B4537FB",
+      "anchors": []
+    },
+    {
+      "block_id": "c226f38e876548f7:4",
+      "destination": "/knowledge/risks-to-consider-when-using-a-password-manager-0d6a06/",
+      "article_id": "UIT-KA-64F86E0D6A06",
+      "anchors": []
+    },
+    {
+      "block_id": "c226f38e876548f7:5",
+      "destination": "/knowledge/risks-to-consider-when-using-a-password-manager-0d6a06/",
+      "article_id": "UIT-KA-64F86E0D6A06",
+      "anchors": []
+    },
+    {
+      "block_id": "c226f38e876548f7:6",
+      "destination": "/knowledge/other-considerations-when-thinking-about-using-a-password-manager-6378e5/",
+      "article_id": "UIT-KA-37C3C76378E5",
+      "anchors": []
+    },
+    {
+      "block_id": "c226f38e876548f7:7",
+      "destination": "/knowledge/other-considerations-when-thinking-about-using-a-password-manager-6378e5/",
+      "article_id": "UIT-KA-37C3C76378E5",
+      "anchors": []
+    },
+    {
+      "block_id": "c226f38e876548f7:8",
+      "destination": "/knowledge/list-of-popular-password-manager-46bebe/",
+      "article_id": "UIT-KA-05AFB146BEBE",
+      "anchors": []
+    },
+    {
+      "block_id": "c226f38e876548f7:9",
+      "destination": "/knowledge/list-of-popular-password-manager-46bebe/",
+      "article_id": "UIT-KA-05AFB146BEBE",
+      "anchors": []
+    },
+    {
+      "block_id": "c226f38e876548f7:10",
+      "destination": "/knowledge/list-of-popular-password-manager-46bebe/",
+      "article_id": "UIT-KA-05AFB146BEBE",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 11
+}

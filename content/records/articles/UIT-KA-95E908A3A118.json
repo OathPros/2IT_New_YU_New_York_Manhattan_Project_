@@ -1,0 +1,30 @@
+{
+  "id": "UIT-KA-95E908A3A118",
+  "slug": "sign-up-for-1password-a3a118",
+  "title": "Sign up for 1Password",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Sign up for 1Password",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>At this time, UIT is running the 1Password service as a pilot that is only  available to [<strong>insert department</strong>]. We plan to offer 1Password organization-wide in the near future, at which time an account will be provisioned for all faculty, staff, and students</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/1password-faqs/"
+  ],
+  "source_block_ids": [
+    "30954b824eecfbc6:0",
+    "30954b824eecfbc6:1"
+  ],
+  "captured_at": "2026-11-09T21:46:07.100659+00:00",
+  "source_modified_at": "2025-07-18T20:02:31+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "UIT-KA-64F86E0D6A06",
+  "slug": "risks-to-consider-when-using-a-password-manager-0d6a06",
+  "title": "Risks to Consider When Using a Password Manager",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Risks to Consider When Using a Password Manager",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Special care should be taken to secure the password manager, as it will hold all your passwords. The “master” password that grants access to the tool should be very strong and unique, and 2-factor/multi-factor authentication should be used if possible. Some password managers use secure cloud-based storage of the password manager database, and others only store that data on your local hard drive – there are pros/cons to each approach, but for most people cloud-based services are generally much easier to use, particularly across multiple devices, and you do not need to worry about making your own backups of your password database</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/password-manager-guide/",
+    "https://www.yorku.ca/uit/infosec/using-a-password-manager/"
+  ],
+  "source_block_ids": [
+    "aaf5feed55a9c0ff:4",
+    "aaf5feed55a9c0ff:5",
+    "c226f38e876548f7:4",
+    "c226f38e876548f7:5"
+  ],
+  "captured_at": "2026-11-09T21:47:03.800203+00:00",
+  "source_modified_at": "2025-05-22T18:05:22+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

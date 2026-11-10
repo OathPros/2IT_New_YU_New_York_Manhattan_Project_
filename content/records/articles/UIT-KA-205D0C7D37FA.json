@@ -1,0 +1,43 @@
+{
+  "id": "UIT-KA-205D0C7D37FA",
+  "slug": "obtaining-transcripts-7d37fa",
+  "title": "Obtaining Transcripts",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Obtaining Transcripts",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Alumni need a Passport York account in order to request a transcript. UIT can help you with any issues you may have with your Passport York account</p>\n<p><a href=\"https://www.yorku.ca/uit/student-services/passport-york/#current-students\">Click here to reset your password&gt;&gt;</a></p>\n<p><a href=\"https://apps7.sis.yorku.ca/Apps/WebObjects/SAM.woa/wa/DirectAction/maya\">Look up your username online&gt;&gt;</a></p>\n<p>For any additional help and information regarding transcripts please access York University's Registrar's Website</p>\n<p>Registrar's Office&gt;&gt;</p>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:37",
+    "a8531d59dcf118b8:38",
+    "a8531d59dcf118b8:39",
+    "a8531d59dcf118b8:40",
+    "a8531d59dcf118b8:41",
+    "a8531d59dcf118b8:42",
+    "b24187fb4550fd87:37",
+    "b24187fb4550fd87:38",
+    "b24187fb4550fd87:39",
+    "b24187fb4550fd87:40",
+    "b24187fb4550fd87:41",
+    "b24187fb4550fd87:42"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

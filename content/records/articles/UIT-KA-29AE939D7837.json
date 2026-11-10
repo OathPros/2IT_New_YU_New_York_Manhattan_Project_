@@ -1,0 +1,31 @@
+{
+  "id": "UIT-KA-29AE939D7837",
+  "slug": "can-i-store-my-personal-passwords-in-my-1password-account-9d7837",
+  "title": "Can I store my personal passwords in my 1Password account",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Can I store my personal passwords in my 1Password account",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>No, you <strong>should not</strong> be storing any of your personal, non-work, or non-school related information on your York Enterprise 1-Password account. Instead, please take advantage of the free family account provided to you after you register for 1Password at York</p>\n<p>For instructions on how to set up your 1Password Family account, please visit <a href=\"https://support.1password.com/link-family/\">https://support.1password.com/link-family/</a></p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/1password-faqs/"
+  ],
+  "source_block_ids": [
+    "30954b824eecfbc6:11",
+    "30954b824eecfbc6:12",
+    "30954b824eecfbc6:13"
+  ],
+  "captured_at": "2026-11-09T21:46:07.100659+00:00",
+  "source_modified_at": "2025-07-18T20:02:31+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

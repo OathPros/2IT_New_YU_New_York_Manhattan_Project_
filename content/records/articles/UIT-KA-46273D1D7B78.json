@@ -1,0 +1,30 @@
+{
+  "id": "UIT-KA-46273D1D7B78",
+  "slug": "how-secure-is-1password-and-what-measures-does-it-take-to-protect-my-data-1d7b78",
+  "title": "How secure is 1Password and what measures does it take to protect my data",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "How secure is 1Password and what measures does it take to protect my data",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>1Password protects your data with strong security mechanisms. It uses end-to-end encryption, which means that only you can decrypt and access your data. Data is encrypted locally on your device before being transferred to 1Password's servers. The encryption keys are never shared with 1Password, therefore even 1Password cannot read your data</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/1password-faqs/"
+  ],
+  "source_block_ids": [
+    "30954b824eecfbc6:42",
+    "30954b824eecfbc6:43"
+  ],
+  "captured_at": "2026-11-09T21:46:07.100659+00:00",
+  "source_modified_at": "2025-07-18T20:02:31+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

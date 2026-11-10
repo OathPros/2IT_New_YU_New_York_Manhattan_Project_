@@ -1,0 +1,33 @@
+{
+  "id": "UIT-KA-2F609C5A1CAD",
+  "slug": "in-person-5a1cad",
+  "title": "In Person",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "In Person",
+  "environment": [
+    "Passport York",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p><strong>Requirements to use this method:</strong></p>\n<ol>\n<li>You must have your YU-card (preferred). If not, then government-issued photo ID, such as a driver's license, passport, etc</li>\n<li>Your employee number. <strong>**Please note</strong> that it is normally on your YU-card, but otherwise it is also on your pay stub</li>\n<li>Be able to come to a UIT Service Desk Counter during our business hours. See our <a href=\"https://www.yorku.ca/uit/contact/#in-person\">hours of operation&gt;&gt;</a></li>\n</ol>\n<p><strong>If you have met this method's requirements:</strong></p>\n<ol>\n<li>Come to a UIT Service Desk Counter. We are located on the 1st floor of the Steacie Science Library building - see <a href=\"https://map.concept3d.com/?id=1200#!m/317161\"><strong>map</strong></a> for location. We also have another service desk inside Scott Library - see <a href=\"https://map.concept3d.com/?id=1200#!m/327439\"><strong>map</strong></a> for location</li>\n<li>The staff on duty will only be able to reset your Passport York password if appropriate photo ID is presented</li>\n</ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "c7e9cafb4377e283:17",
+    "c7e9cafb4377e283:18",
+    "c7e9cafb4377e283:19",
+    "c7e9cafb4377e283:20",
+    "c7e9cafb4377e283:21"
+  ],
+  "captured_at": "2026-11-09T21:45:58.697932+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

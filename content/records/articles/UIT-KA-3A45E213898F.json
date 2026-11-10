@@ -1,0 +1,34 @@
+{
+  "id": "UIT-KA-3A45E213898F",
+  "slug": "fixed-maintenance-window-13898f",
+  "title": "Fixed Maintenance Window",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Fixed Maintenance Window",
+  "environment": [
+    "Passport York",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>UIT has introduced a fixed maintenance window so that clients can plan around possible service disruptions when technical staff performs hardware or software maintenance which may affect Passport York authentication</p>\n<p>Maintenance may consist of any number of activities including hardware maintenance and renewal, applying software patches or installing upgrades to software</p>\n<p>Although the maintenance window may not be used on each occasion or for the full duration, general considerations should be to expect the service to be unavailable during the 2 hour period</p>\n<p>Services that might be unavailable during this time include all Student Record Services and Applications—REM, STAC, etc., Manage My Services, NoteBox, Atlas Updater, CEO-Deux, GEO-Deux, Roaming Access, Class Lists, eReports, AirYork, YorkNet, VPN, EVote, InfoMart, EForms, PTVNET, Go-Card, and Parking Services</p>\n<p>Direct relevant questions to UIT Client Services.<br/>Email: <a href=\"mailto:askit@yorku.ca\">askit@yorku.ca</a></p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "c7e9cafb4377e283:69",
+    "c7e9cafb4377e283:70",
+    "c7e9cafb4377e283:71",
+    "c7e9cafb4377e283:72",
+    "c7e9cafb4377e283:73",
+    "c7e9cafb4377e283:74"
+  ],
+  "captured_at": "2026-11-09T21:45:58.697932+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

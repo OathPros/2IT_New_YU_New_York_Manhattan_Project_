@@ -1,0 +1,33 @@
+{
+  "id": "UIT-KA-EAE093241371",
+  "slug": "what-is-a-password-manager-241371",
+  "title": "What Is a Password Manager",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "What Is a Password Manager",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>A password manager is software that helps you securely store and manage passwords, making it easy to protect all your different accounts with separate and strong passwords. You only need to remember the one master password that unlocks the password manager itself. The tool also helps you create strong and secure passwords, and remembers them for you automatically</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/password-manager-guide/",
+    "https://www.yorku.ca/uit/infosec/using-a-password-manager/"
+  ],
+  "source_block_ids": [
+    "aaf5feed55a9c0ff:0",
+    "aaf5feed55a9c0ff:1",
+    "c226f38e876548f7:0",
+    "c226f38e876548f7:1"
+  ],
+  "captured_at": "2026-11-09T21:47:03.800203+00:00",
+  "source_modified_at": "2025-05-22T18:05:22+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

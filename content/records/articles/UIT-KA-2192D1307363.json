@@ -1,0 +1,51 @@
+{
+  "id": "UIT-KA-2192D1307363",
+  "slug": "email-export-via-outlook-desktop-307363",
+  "title": "Email Export via Outlook Desktop",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Email Export via Outlook Desktop",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Outlook.com (web version) doesn't have a direct export option, but you can still save your emails by connecting your webmail to an email client like Outlook or Thunderbird. Here's how to do it: </p>\n<p><strong><em>Method 1: Export via Outlook Desktop</em> </strong></p>\n<ol start=\"1\">\n<li><strong>Set Up Outlook Desktop App</strong>: </li>\n</ol>\n<ul>\n<li>Download and install the <strong>Outlook desktop app</strong> if you don’t have it</li>\n</ul>\n<ul>\n<li>Add your <strong>Outlook.com</strong> email account (go to <strong>File</strong> &gt; <strong>Add Account</strong>)</li>\n</ul>\n<ol start=\"2\">\n<li><strong>Sync Your Emails</strong>: </li>\n</ol>\n<ul>\n<li>Wait for all your emails to sync into the desktop app</li>\n</ul>\n<ol start=\"3\">\n<li><strong>Export Your Emails to PST</strong>: </li>\n</ol>\n<ul>\n<li>Follow the steps above (see Method 1 under Outlook Desktop App)</li>\n</ul>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:73",
+    "a8531d59dcf118b8:74",
+    "a8531d59dcf118b8:75",
+    "a8531d59dcf118b8:76",
+    "a8531d59dcf118b8:77",
+    "a8531d59dcf118b8:78",
+    "a8531d59dcf118b8:79",
+    "a8531d59dcf118b8:80",
+    "a8531d59dcf118b8:81",
+    "a8531d59dcf118b8:82",
+    "b24187fb4550fd87:73",
+    "b24187fb4550fd87:74",
+    "b24187fb4550fd87:75",
+    "b24187fb4550fd87:76",
+    "b24187fb4550fd87:77",
+    "b24187fb4550fd87:78",
+    "b24187fb4550fd87:79",
+    "b24187fb4550fd87:80",
+    "b24187fb4550fd87:81",
+    "b24187fb4550fd87:82"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

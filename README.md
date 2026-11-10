@@ -1,8 +1,8 @@
 # York UIT replacement
 
-## Email checkpoint
+## Email and Passport York checkpoint
 
-This development checkpoint contains the homepage, one shared Email and calendar service, 92 source-backed article drafts, the contact resource, and 14 captured source pages
+This development checkpoint contains the homepage, two shared services, 160 source-backed article drafts, the contact resource, and 28 captured source pages
 
 Articles have accessible quick views and permanent URLs. The same record supplies both views. Student and employee guidance share a service page with audience filters
 
@@ -37,6 +37,6 @@ This is the first verified development checkpoint, not the finished UIT replacem
 
 Posts and historical advisories are excluded
 
-Password and Duo shortcuts continue to use the current York pages until those services are migrated
+The password shortcut opens the migrated Passport York service. The Duo shortcut continues to use the current York page
 
 See docs/MIGRATION_STATUS.md for the checkpoint and remaining work. The live York website has not been changed

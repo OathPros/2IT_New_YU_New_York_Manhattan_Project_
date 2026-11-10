@@ -1,0 +1,30 @@
+{
+  "id": "UIT-KA-1743A3D9F72C",
+  "slug": "select-your-browser-for-that-e-g-google-chrome-d9f72c",
+  "title": "Select your browser for that e g Google Chrome",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Select your browser for that e g Google Chrome",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<ol>\n<li><strong>Open Chrome:</strong>\n<ul>\n<li>Launch the Google Chrome browser on your computer</li>\n</ul>\n</li>\n<li><strong>Visit the Chrome Web Store:</strong>\n<ul>\n<li>Go to the Chrome Web Store at <a href=\"https://www.yorku.ca/uit/infosec/1password-faqs/\">chrome.google.com/webstore</a></li>\n</ul>\n</li>\n<li><strong>Search for 1Password:</strong>\n<ul>\n<li>In the search bar, type \"1Password\" and press Enter</li>\n</ul>\n</li>\n<li><strong>Select the 1Password Extension:</strong>\n<ul>\n<li>Find the official 1Password extension in the search results and click on it</li>\n</ul>\n</li>\n<li><strong>Add to Chrome:</strong>\n<ul>\n<li>Click the \"Add to Chrome\" button, then confirm by clicking \"Add Extension\" in the pop-up window</li>\n</ul>\n</li>\n<li><strong>Sign In:</strong>\n<ul>\n<li>Once the extension is installed, click on the 1Password icon in the browser toolbar and sign in with your 1Password account credentials</li>\n</ul>\n</li>\n</ol>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/1password-faqs/"
+  ],
+  "source_block_ids": [
+    "30954b824eecfbc6:23",
+    "30954b824eecfbc6:24"
+  ],
+  "captured_at": "2026-11-09T21:46:07.100659+00:00",
+  "source_modified_at": "2025-07-18T20:02:31+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

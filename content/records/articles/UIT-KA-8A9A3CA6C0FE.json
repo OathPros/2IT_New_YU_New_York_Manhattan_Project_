@@ -1,0 +1,41 @@
+{
+  "id": "UIT-KA-8A9A3CA6C0FE",
+  "slug": "option-2-a6c0fe",
+  "title": "Option 2",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Option 2",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Manage My Services &gt;&gt;</p>\n<p><strong>**Please note</strong> you must already know what your password is before using this option</p>\n<p>1. Click on the check box beside “Click this box before logging in to change your Passport York password”</p>\n<p>2. Log in using your Passport York username and password and follow the prompts to change your password</p>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:24",
+    "a8531d59dcf118b8:25",
+    "a8531d59dcf118b8:26",
+    "a8531d59dcf118b8:27",
+    "a8531d59dcf118b8:28",
+    "b24187fb4550fd87:24",
+    "b24187fb4550fd87:25",
+    "b24187fb4550fd87:26",
+    "b24187fb4550fd87:27",
+    "b24187fb4550fd87:28"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

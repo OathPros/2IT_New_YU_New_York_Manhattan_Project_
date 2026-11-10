@@ -1,0 +1,39 @@
+{
+  "id": "UIT-KA-425BFFDD0BEC",
+  "slug": "option-1-dd0bec",
+  "title": "Option 1",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Option 1",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Reset My Password &gt;&gt;</p>\n<p>To reset your password, you'll need to know the following</p>\n<ul>\n<li>Your student number</li>\n<li>Your date of birth</li>\n<li>The answers to your secure questions</li>\n</ul>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:20",
+    "a8531d59dcf118b8:21",
+    "a8531d59dcf118b8:22",
+    "a8531d59dcf118b8:23",
+    "b24187fb4550fd87:20",
+    "b24187fb4550fd87:21",
+    "b24187fb4550fd87:22",
+    "b24187fb4550fd87:23"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

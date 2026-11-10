@@ -1,0 +1,836 @@
+{
+  "source_id": "a8531d59dcf118b8",
+  "source_url": "https://www.yorku.ca/uit/student-services/passport-york/",
+  "title": "Passport York",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/passport-york/",
+    "/knowledge/set-up-your-passport-york-account-920116/",
+    "/knowledge/find-my-passport-york-username-a5d551/",
+    "/knowledge/option-1-dd0bec/",
+    "/knowledge/option-2-a6c0fe/",
+    "/knowledge/in-person-caa13b/",
+    "/knowledge/by-phone-ae135f/",
+    "/knowledge/obtaining-transcripts-7d37fa/",
+    "/knowledge/active-state-ec1d30/",
+    "/knowledge/expiring-state-65efab/",
+    "/knowledge/save-your-google-apps-data-125aa8/",
+    "/knowledge/save-your-outlook-and-onedrive-data-2d6902/",
+    "/knowledge/email-export-via-outlook-desktop-307363/",
+    "/knowledge/export-pst-files-to-thunderbird-free-option-200aed/",
+    "/knowledge/exporting-pst-files-for-gmail-e0bd44/",
+    "/knowledge/cancelled-state-449e9d/",
+    "/knowledge/removed-state-c08bc7/",
+    "/knowledge/choosing-a-secure-password-d15e5e/",
+    "/knowledge/set-up-your-security-questions-for-passport-york-f9cf47/",
+    "/knowledge/change-your-passport-york-password-1e1c01/",
+    "/knowledge/recover-your-passport-york-password-8374f4/",
+    "/knowledge/retrieving-your-forgotten-student-number-404464/",
+    "/knowledge/ordering-a-transcript-f847ef/"
+  ],
+  "assignments": [
+    {
+      "block_id": "a8531d59dcf118b8:0",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:1",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:2",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:3",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:4",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:5",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:6",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:7",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:8",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:9",
+      "destination": "/knowledge/set-up-your-passport-york-account-920116/",
+      "article_id": "UIT-KA-C0C4FF920116",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:10",
+      "destination": "/knowledge/set-up-your-passport-york-account-920116/",
+      "article_id": "UIT-KA-C0C4FF920116",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:11",
+      "destination": "/knowledge/set-up-your-passport-york-account-920116/",
+      "article_id": "UIT-KA-C0C4FF920116",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:12",
+      "destination": "/knowledge/set-up-your-passport-york-account-920116/",
+      "article_id": "UIT-KA-C0C4FF920116",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:13",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:14",
+      "destination": "/knowledge/find-my-passport-york-username-a5d551/",
+      "article_id": "UIT-KA-4B93B6A5D551",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:15",
+      "destination": "/knowledge/find-my-passport-york-username-a5d551/",
+      "article_id": "UIT-KA-4B93B6A5D551",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:16",
+      "destination": "/knowledge/find-my-passport-york-username-a5d551/",
+      "article_id": "UIT-KA-4B93B6A5D551",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:17",
+      "destination": "/knowledge/find-my-passport-york-username-a5d551/",
+      "article_id": "UIT-KA-4B93B6A5D551",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:18",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:19",
+      "destination": "navigation",
+      "anchors": [
+        "reset-password-online"
+      ]
+    },
+    {
+      "block_id": "a8531d59dcf118b8:20",
+      "destination": "/knowledge/option-1-dd0bec/",
+      "article_id": "UIT-KA-425BFFDD0BEC",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:21",
+      "destination": "/knowledge/option-1-dd0bec/",
+      "article_id": "UIT-KA-425BFFDD0BEC",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:22",
+      "destination": "/knowledge/option-1-dd0bec/",
+      "article_id": "UIT-KA-425BFFDD0BEC",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:23",
+      "destination": "/knowledge/option-1-dd0bec/",
+      "article_id": "UIT-KA-425BFFDD0BEC",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:24",
+      "destination": "/knowledge/option-2-a6c0fe/",
+      "article_id": "UIT-KA-8A9A3CA6C0FE",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:25",
+      "destination": "/knowledge/option-2-a6c0fe/",
+      "article_id": "UIT-KA-8A9A3CA6C0FE",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:26",
+      "destination": "/knowledge/option-2-a6c0fe/",
+      "article_id": "UIT-KA-8A9A3CA6C0FE",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:27",
+      "destination": "/knowledge/option-2-a6c0fe/",
+      "article_id": "UIT-KA-8A9A3CA6C0FE",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:28",
+      "destination": "/knowledge/option-2-a6c0fe/",
+      "article_id": "UIT-KA-8A9A3CA6C0FE",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:29",
+      "destination": "/knowledge/in-person-caa13b/",
+      "article_id": "UIT-KA-CC7835CAA13B",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:30",
+      "destination": "/knowledge/in-person-caa13b/",
+      "article_id": "UIT-KA-CC7835CAA13B",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:31",
+      "destination": "/knowledge/in-person-caa13b/",
+      "article_id": "UIT-KA-CC7835CAA13B",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:32",
+      "destination": "/knowledge/in-person-caa13b/",
+      "article_id": "UIT-KA-CC7835CAA13B",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:33",
+      "destination": "/knowledge/by-phone-ae135f/",
+      "article_id": "UIT-KA-32B0F0AE135F",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:34",
+      "destination": "/knowledge/by-phone-ae135f/",
+      "article_id": "UIT-KA-32B0F0AE135F",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:35",
+      "destination": "/knowledge/by-phone-ae135f/",
+      "article_id": "UIT-KA-32B0F0AE135F",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:36",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:37",
+      "destination": "/knowledge/obtaining-transcripts-7d37fa/",
+      "article_id": "UIT-KA-205D0C7D37FA",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:38",
+      "destination": "/knowledge/obtaining-transcripts-7d37fa/",
+      "article_id": "UIT-KA-205D0C7D37FA",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:39",
+      "destination": "/knowledge/obtaining-transcripts-7d37fa/",
+      "article_id": "UIT-KA-205D0C7D37FA",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:40",
+      "destination": "/knowledge/obtaining-transcripts-7d37fa/",
+      "article_id": "UIT-KA-205D0C7D37FA",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:41",
+      "destination": "/knowledge/obtaining-transcripts-7d37fa/",
+      "article_id": "UIT-KA-205D0C7D37FA",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:42",
+      "destination": "/knowledge/obtaining-transcripts-7d37fa/",
+      "article_id": "UIT-KA-205D0C7D37FA",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:43",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:44",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:45",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:46",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:47",
+      "destination": "/services/passport-york/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:48",
+      "destination": "/knowledge/active-state-ec1d30/",
+      "article_id": "UIT-KA-DC3D9DEC1D30",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:49",
+      "destination": "/knowledge/active-state-ec1d30/",
+      "article_id": "UIT-KA-DC3D9DEC1D30",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:50",
+      "destination": "/knowledge/expiring-state-65efab/",
+      "article_id": "UIT-KA-36C59B65EFAB",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:51",
+      "destination": "/knowledge/expiring-state-65efab/",
+      "article_id": "UIT-KA-36C59B65EFAB",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:52",
+      "destination": "/knowledge/expiring-state-65efab/",
+      "article_id": "UIT-KA-36C59B65EFAB",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:53",
+      "destination": "/knowledge/expiring-state-65efab/",
+      "article_id": "UIT-KA-36C59B65EFAB",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:54",
+      "destination": "/knowledge/expiring-state-65efab/",
+      "article_id": "UIT-KA-36C59B65EFAB",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:55",
+      "destination": "/knowledge/expiring-state-65efab/",
+      "article_id": "UIT-KA-36C59B65EFAB",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:56",
+      "destination": "/knowledge/expiring-state-65efab/",
+      "article_id": "UIT-KA-36C59B65EFAB",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:57",
+      "destination": "/knowledge/expiring-state-65efab/",
+      "article_id": "UIT-KA-36C59B65EFAB",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:58",
+      "destination": "/knowledge/expiring-state-65efab/",
+      "article_id": "UIT-KA-36C59B65EFAB",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:59",
+      "destination": "/knowledge/save-your-google-apps-data-125aa8/",
+      "article_id": "UIT-KA-08A28D125AA8",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:60",
+      "destination": "/knowledge/save-your-google-apps-data-125aa8/",
+      "article_id": "UIT-KA-08A28D125AA8",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:61",
+      "destination": "/knowledge/save-your-google-apps-data-125aa8/",
+      "article_id": "UIT-KA-08A28D125AA8",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:62",
+      "destination": "/knowledge/save-your-google-apps-data-125aa8/",
+      "article_id": "UIT-KA-08A28D125AA8",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:63",
+      "destination": "/knowledge/save-your-google-apps-data-125aa8/",
+      "article_id": "UIT-KA-08A28D125AA8",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:64",
+      "destination": "/knowledge/save-your-google-apps-data-125aa8/",
+      "article_id": "UIT-KA-08A28D125AA8",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:65",
+      "destination": "/knowledge/save-your-google-apps-data-125aa8/",
+      "article_id": "UIT-KA-08A28D125AA8",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:66",
+      "destination": "/knowledge/save-your-outlook-and-onedrive-data-2d6902/",
+      "article_id": "UIT-KA-2C82632D6902",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:67",
+      "destination": "/knowledge/save-your-outlook-and-onedrive-data-2d6902/",
+      "article_id": "UIT-KA-2C82632D6902",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:68",
+      "destination": "/knowledge/save-your-outlook-and-onedrive-data-2d6902/",
+      "article_id": "UIT-KA-2C82632D6902",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:69",
+      "destination": "/knowledge/save-your-outlook-and-onedrive-data-2d6902/",
+      "article_id": "UIT-KA-2C82632D6902",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:70",
+      "destination": "/knowledge/save-your-outlook-and-onedrive-data-2d6902/",
+      "article_id": "UIT-KA-2C82632D6902",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:71",
+      "destination": "/knowledge/save-your-outlook-and-onedrive-data-2d6902/",
+      "article_id": "UIT-KA-2C82632D6902",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:72",
+      "destination": "/knowledge/save-your-outlook-and-onedrive-data-2d6902/",
+      "article_id": "UIT-KA-2C82632D6902",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:73",
+      "destination": "/knowledge/email-export-via-outlook-desktop-307363/",
+      "article_id": "UIT-KA-2192D1307363",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:74",
+      "destination": "/knowledge/email-export-via-outlook-desktop-307363/",
+      "article_id": "UIT-KA-2192D1307363",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:75",
+      "destination": "/knowledge/email-export-via-outlook-desktop-307363/",
+      "article_id": "UIT-KA-2192D1307363",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:76",
+      "destination": "/knowledge/email-export-via-outlook-desktop-307363/",
+      "article_id": "UIT-KA-2192D1307363",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:77",
+      "destination": "/knowledge/email-export-via-outlook-desktop-307363/",
+      "article_id": "UIT-KA-2192D1307363",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:78",
+      "destination": "/knowledge/email-export-via-outlook-desktop-307363/",
+      "article_id": "UIT-KA-2192D1307363",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:79",
+      "destination": "/knowledge/email-export-via-outlook-desktop-307363/",
+      "article_id": "UIT-KA-2192D1307363",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:80",
+      "destination": "/knowledge/email-export-via-outlook-desktop-307363/",
+      "article_id": "UIT-KA-2192D1307363",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:81",
+      "destination": "/knowledge/email-export-via-outlook-desktop-307363/",
+      "article_id": "UIT-KA-2192D1307363",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:82",
+      "destination": "/knowledge/email-export-via-outlook-desktop-307363/",
+      "article_id": "UIT-KA-2192D1307363",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:83",
+      "destination": "/knowledge/export-pst-files-to-thunderbird-free-option-200aed/",
+      "article_id": "UIT-KA-C2E0DA200AED",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:84",
+      "destination": "/knowledge/export-pst-files-to-thunderbird-free-option-200aed/",
+      "article_id": "UIT-KA-C2E0DA200AED",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:85",
+      "destination": "/knowledge/export-pst-files-to-thunderbird-free-option-200aed/",
+      "article_id": "UIT-KA-C2E0DA200AED",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:86",
+      "destination": "/knowledge/export-pst-files-to-thunderbird-free-option-200aed/",
+      "article_id": "UIT-KA-C2E0DA200AED",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:87",
+      "destination": "/knowledge/export-pst-files-to-thunderbird-free-option-200aed/",
+      "article_id": "UIT-KA-C2E0DA200AED",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:88",
+      "destination": "/knowledge/export-pst-files-to-thunderbird-free-option-200aed/",
+      "article_id": "UIT-KA-C2E0DA200AED",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:89",
+      "destination": "/knowledge/export-pst-files-to-thunderbird-free-option-200aed/",
+      "article_id": "UIT-KA-C2E0DA200AED",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:90",
+      "destination": "/knowledge/export-pst-files-to-thunderbird-free-option-200aed/",
+      "article_id": "UIT-KA-C2E0DA200AED",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:91",
+      "destination": "/knowledge/export-pst-files-to-thunderbird-free-option-200aed/",
+      "article_id": "UIT-KA-C2E0DA200AED",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:92",
+      "destination": "/knowledge/exporting-pst-files-for-gmail-e0bd44/",
+      "article_id": "UIT-KA-59454CE0BD44",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:93",
+      "destination": "/knowledge/exporting-pst-files-for-gmail-e0bd44/",
+      "article_id": "UIT-KA-59454CE0BD44",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:94",
+      "destination": "/knowledge/exporting-pst-files-for-gmail-e0bd44/",
+      "article_id": "UIT-KA-59454CE0BD44",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:95",
+      "destination": "/knowledge/exporting-pst-files-for-gmail-e0bd44/",
+      "article_id": "UIT-KA-59454CE0BD44",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:96",
+      "destination": "/knowledge/cancelled-state-449e9d/",
+      "article_id": "UIT-KA-86FDB4449E9D",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:97",
+      "destination": "/knowledge/cancelled-state-449e9d/",
+      "article_id": "UIT-KA-86FDB4449E9D",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:98",
+      "destination": "/knowledge/cancelled-state-449e9d/",
+      "article_id": "UIT-KA-86FDB4449E9D",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:99",
+      "destination": "/knowledge/cancelled-state-449e9d/",
+      "article_id": "UIT-KA-86FDB4449E9D",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:100",
+      "destination": "/knowledge/cancelled-state-449e9d/",
+      "article_id": "UIT-KA-86FDB4449E9D",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:101",
+      "destination": "/knowledge/removed-state-c08bc7/",
+      "article_id": "UIT-KA-C2FB18C08BC7",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:102",
+      "destination": "/knowledge/removed-state-c08bc7/",
+      "article_id": "UIT-KA-C2FB18C08BC7",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:103",
+      "destination": "/knowledge/removed-state-c08bc7/",
+      "article_id": "UIT-KA-C2FB18C08BC7",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:104",
+      "destination": "/knowledge/removed-state-c08bc7/",
+      "article_id": "UIT-KA-C2FB18C08BC7",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:105",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:106",
+      "destination": "/knowledge/choosing-a-secure-password-d15e5e/",
+      "article_id": "UIT-KA-66088DD15E5E",
+      "anchors": [
+        "faqs-passport-york-students",
+        "secure-password"
+      ]
+    },
+    {
+      "block_id": "a8531d59dcf118b8:107",
+      "destination": "/knowledge/choosing-a-secure-password-d15e5e/",
+      "article_id": "UIT-KA-66088DD15E5E",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:108",
+      "destination": "/knowledge/choosing-a-secure-password-d15e5e/",
+      "article_id": "UIT-KA-66088DD15E5E",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:109",
+      "destination": "/knowledge/choosing-a-secure-password-d15e5e/",
+      "article_id": "UIT-KA-66088DD15E5E",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:110",
+      "destination": "/knowledge/choosing-a-secure-password-d15e5e/",
+      "article_id": "UIT-KA-66088DD15E5E",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:111",
+      "destination": "/knowledge/choosing-a-secure-password-d15e5e/",
+      "article_id": "UIT-KA-66088DD15E5E",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:112",
+      "destination": "/knowledge/set-up-your-security-questions-for-passport-york-f9cf47/",
+      "article_id": "UIT-KA-C16878F9CF47",
+      "anchors": [
+        "security-questions"
+      ]
+    },
+    {
+      "block_id": "a8531d59dcf118b8:113",
+      "destination": "/knowledge/set-up-your-security-questions-for-passport-york-f9cf47/",
+      "article_id": "UIT-KA-C16878F9CF47",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:114",
+      "destination": "/knowledge/set-up-your-security-questions-for-passport-york-f9cf47/",
+      "article_id": "UIT-KA-C16878F9CF47",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:115",
+      "destination": "/knowledge/set-up-your-security-questions-for-passport-york-f9cf47/",
+      "article_id": "UIT-KA-C16878F9CF47",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:116",
+      "destination": "/knowledge/change-your-passport-york-password-1e1c01/",
+      "article_id": "UIT-KA-ECE0EF1E1C01",
+      "anchors": [
+        "change-password"
+      ]
+    },
+    {
+      "block_id": "a8531d59dcf118b8:117",
+      "destination": "/knowledge/change-your-passport-york-password-1e1c01/",
+      "article_id": "UIT-KA-ECE0EF1E1C01",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:118",
+      "destination": "/knowledge/change-your-passport-york-password-1e1c01/",
+      "article_id": "UIT-KA-ECE0EF1E1C01",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:119",
+      "destination": "/knowledge/change-your-passport-york-password-1e1c01/",
+      "article_id": "UIT-KA-ECE0EF1E1C01",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:120",
+      "destination": "/knowledge/recover-your-passport-york-password-8374f4/",
+      "article_id": "UIT-KA-5869E88374F4",
+      "anchors": [
+        "recover-password"
+      ]
+    },
+    {
+      "block_id": "a8531d59dcf118b8:121",
+      "destination": "/knowledge/recover-your-passport-york-password-8374f4/",
+      "article_id": "UIT-KA-5869E88374F4",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:122",
+      "destination": "/knowledge/retrieving-your-forgotten-student-number-404464/",
+      "article_id": "UIT-KA-7D1457404464",
+      "anchors": [
+        "forgot-student-number"
+      ]
+    },
+    {
+      "block_id": "a8531d59dcf118b8:123",
+      "destination": "/knowledge/retrieving-your-forgotten-student-number-404464/",
+      "article_id": "UIT-KA-7D1457404464",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:124",
+      "destination": "/knowledge/retrieving-your-forgotten-student-number-404464/",
+      "article_id": "UIT-KA-7D1457404464",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:125",
+      "destination": "/knowledge/retrieving-your-forgotten-student-number-404464/",
+      "article_id": "UIT-KA-7D1457404464",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:126",
+      "destination": "/knowledge/ordering-a-transcript-f847ef/",
+      "article_id": "UIT-KA-F25820F847EF",
+      "anchors": [
+        "order-transcript"
+      ]
+    },
+    {
+      "block_id": "a8531d59dcf118b8:127",
+      "destination": "/knowledge/ordering-a-transcript-f847ef/",
+      "article_id": "UIT-KA-F25820F847EF",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:128",
+      "destination": "/knowledge/ordering-a-transcript-f847ef/",
+      "article_id": "UIT-KA-F25820F847EF",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:129",
+      "destination": "/knowledge/ordering-a-transcript-f847ef/",
+      "article_id": "UIT-KA-F25820F847EF",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:130",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:131",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:132",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:133",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "a8531d59dcf118b8:134",
+      "destination": "navigation",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 135
+}

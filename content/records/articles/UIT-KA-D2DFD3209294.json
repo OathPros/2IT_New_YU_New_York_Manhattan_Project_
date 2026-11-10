@@ -1,0 +1,33 @@
+{
+  "id": "UIT-KA-D2DFD3209294",
+  "slug": "by-email-209294",
+  "title": "By Email",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "By Email",
+  "environment": [
+    "Passport York",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p><strong>Requirements to use this method</strong>:</p>\n<ol>\n<li>You must have access to your York email address</li>\n</ol>\n<p><strong>If you have met this method's requirements:</strong></p>\n<ol>\n<li>Send a request from your York email address to <a href=\"mailto:askit@yorku.ca\">askit@yorku.ca</a> with your employee number</li>\n<li>We will reply to your email with instructions about how to reset the password</li>\n</ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "c7e9cafb4377e283:12",
+    "c7e9cafb4377e283:13",
+    "c7e9cafb4377e283:14",
+    "c7e9cafb4377e283:15",
+    "c7e9cafb4377e283:16"
+  ],
+  "captured_at": "2026-11-09T21:45:58.697932+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

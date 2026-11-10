@@ -1,0 +1,33 @@
+{
+  "id": "UIT-KA-37C3C76378E5",
+  "slug": "other-considerations-when-thinking-about-using-a-password-manager-6378e5",
+  "title": "Other Considerations When Thinking About Using a Password Manager",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Other Considerations When Thinking About Using a Password Manager",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<ul>\n<li>Does it create strong passwords?</li>\n<li>Does it have multifactor authentication?</li>\n<li>Does it help you assess security across multiple accounts?</li>\n<li>Does it offer you a way to securely share passwords on a team?</li>\n<li>Can you use it across devices?</li>\n<li>Where is data stored and how is it encrypted?</li>\n</ul>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/password-manager-guide/",
+    "https://www.yorku.ca/uit/infosec/using-a-password-manager/"
+  ],
+  "source_block_ids": [
+    "aaf5feed55a9c0ff:6",
+    "aaf5feed55a9c0ff:7",
+    "c226f38e876548f7:6",
+    "c226f38e876548f7:7"
+  ],
+  "captured_at": "2026-11-09T21:47:03.800203+00:00",
+  "source_modified_at": "2025-05-22T18:05:22+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

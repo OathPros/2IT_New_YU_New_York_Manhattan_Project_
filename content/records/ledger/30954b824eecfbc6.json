@@ -1,0 +1,343 @@
+{
+  "source_id": "30954b824eecfbc6",
+  "source_url": "https://www.yorku.ca/uit/infosec/1password-faqs/",
+  "title": "1Password FAQs",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/passport-york/",
+    "/knowledge/sign-up-for-1password-a3a118/",
+    "/knowledge/where-can-i-download-the-1password-application-and-browser-extension-af3812/",
+    "/knowledge/where-can-i-find-my-1password-secret-key-126820/",
+    "/knowledge/what-happens-to-my-1password-account-when-if-i-leave-york-fcc2d3/",
+    "/knowledge/i-forgot-my-master-password-how-do-i-recover-my-account-2ebe2e/",
+    "/knowledge/can-i-store-my-personal-passwords-in-my-1password-account-9d7837/",
+    "/knowledge/im-already-using-a-different-password-manager-how-can-i-move-all-my-passwords-to-1password-5d03df/",
+    "/knowledge/set-up-a-shared-vault-for-my-team-4bfa3e/",
+    "/knowledge/select-your-browser-for-that-e-g-google-chrome-d9f72c/",
+    "/knowledge/what-if-1password-gets-hacked-are-all-my-passwords-exposed-2eb7fb/",
+    "/knowledge/sign-up-for-a-1password-family-account-fad0f2/",
+    "/knowledge/can-i-link-my-old-1password-account-to-my-york-account-51501f/",
+    "/knowledge/how-secure-is-1password-and-what-measures-does-it-take-to-protect-my-data-1d7b78/",
+    "/knowledge/can-i-share-passwords-securely-with-other-users-through-1password-3afd9f/",
+    "/knowledge/can-i-recover-my-data-if-i-accidentally-delete-my-vault-2adacc/",
+    "/knowledge/does-it-require-2fa-authentication-9ed821/",
+    "/knowledge/can-i-sign-up-using-my-york-email-address-or-personal-email-address-c35e47/"
+  ],
+  "assignments": [
+    {
+      "block_id": "30954b824eecfbc6:0",
+      "destination": "/knowledge/sign-up-for-1password-a3a118/",
+      "article_id": "UIT-KA-95E908A3A118",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:1",
+      "destination": "/knowledge/sign-up-for-1password-a3a118/",
+      "article_id": "UIT-KA-95E908A3A118",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:2",
+      "destination": "/knowledge/where-can-i-download-the-1password-application-and-browser-extension-af3812/",
+      "article_id": "UIT-KA-C0D086AF3812",
+      "anchors": [
+        "1password-apps-and-extension"
+      ]
+    },
+    {
+      "block_id": "30954b824eecfbc6:3",
+      "destination": "/knowledge/where-can-i-download-the-1password-application-and-browser-extension-af3812/",
+      "article_id": "UIT-KA-C0D086AF3812",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:4",
+      "destination": "/knowledge/where-can-i-download-the-1password-application-and-browser-extension-af3812/",
+      "article_id": "UIT-KA-C0D086AF3812",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:5",
+      "destination": "/knowledge/where-can-i-find-my-1password-secret-key-126820/",
+      "article_id": "UIT-KA-61A010126820",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:6",
+      "destination": "/knowledge/where-can-i-find-my-1password-secret-key-126820/",
+      "article_id": "UIT-KA-61A010126820",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:7",
+      "destination": "/knowledge/what-happens-to-my-1password-account-when-if-i-leave-york-fcc2d3/",
+      "article_id": "UIT-KA-C83447FCC2D3",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:8",
+      "destination": "/knowledge/what-happens-to-my-1password-account-when-if-i-leave-york-fcc2d3/",
+      "article_id": "UIT-KA-C83447FCC2D3",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:9",
+      "destination": "/knowledge/i-forgot-my-master-password-how-do-i-recover-my-account-2ebe2e/",
+      "article_id": "UIT-KA-FD27112EBE2E",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:10",
+      "destination": "/knowledge/i-forgot-my-master-password-how-do-i-recover-my-account-2ebe2e/",
+      "article_id": "UIT-KA-FD27112EBE2E",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:11",
+      "destination": "/knowledge/can-i-store-my-personal-passwords-in-my-1password-account-9d7837/",
+      "article_id": "UIT-KA-29AE939D7837",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:12",
+      "destination": "/knowledge/can-i-store-my-personal-passwords-in-my-1password-account-9d7837/",
+      "article_id": "UIT-KA-29AE939D7837",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:13",
+      "destination": "/knowledge/can-i-store-my-personal-passwords-in-my-1password-account-9d7837/",
+      "article_id": "UIT-KA-29AE939D7837",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:14",
+      "destination": "/knowledge/im-already-using-a-different-password-manager-how-can-i-move-all-my-passwords-to-1password-5d03df/",
+      "article_id": "UIT-KA-007E315D03DF",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:15",
+      "destination": "/knowledge/im-already-using-a-different-password-manager-how-can-i-move-all-my-passwords-to-1password-5d03df/",
+      "article_id": "UIT-KA-007E315D03DF",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:16",
+      "destination": "/knowledge/im-already-using-a-different-password-manager-how-can-i-move-all-my-passwords-to-1password-5d03df/",
+      "article_id": "UIT-KA-007E315D03DF",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:17",
+      "destination": "/knowledge/im-already-using-a-different-password-manager-how-can-i-move-all-my-passwords-to-1password-5d03df/",
+      "article_id": "UIT-KA-007E315D03DF",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:18",
+      "destination": "/knowledge/set-up-a-shared-vault-for-my-team-4bfa3e/",
+      "article_id": "UIT-KA-642D5A4BFA3E",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:19",
+      "destination": "/knowledge/set-up-a-shared-vault-for-my-team-4bfa3e/",
+      "article_id": "UIT-KA-642D5A4BFA3E",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:20",
+      "destination": "/knowledge/set-up-a-shared-vault-for-my-team-4bfa3e/",
+      "article_id": "UIT-KA-642D5A4BFA3E",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:21",
+      "destination": "/knowledge/set-up-a-shared-vault-for-my-team-4bfa3e/",
+      "article_id": "UIT-KA-642D5A4BFA3E",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:22",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:23",
+      "destination": "/knowledge/select-your-browser-for-that-e-g-google-chrome-d9f72c/",
+      "article_id": "UIT-KA-1743A3D9F72C",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:24",
+      "destination": "/knowledge/select-your-browser-for-that-e-g-google-chrome-d9f72c/",
+      "article_id": "UIT-KA-1743A3D9F72C",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:25",
+      "destination": "/knowledge/what-if-1password-gets-hacked-are-all-my-passwords-exposed-2eb7fb/",
+      "article_id": "UIT-KA-AE3AAC2EB7FB",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:26",
+      "destination": "/knowledge/what-if-1password-gets-hacked-are-all-my-passwords-exposed-2eb7fb/",
+      "article_id": "UIT-KA-AE3AAC2EB7FB",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:27",
+      "destination": "/knowledge/sign-up-for-a-1password-family-account-fad0f2/",
+      "article_id": "UIT-KA-D21D3CFAD0F2",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:28",
+      "destination": "/knowledge/sign-up-for-a-1password-family-account-fad0f2/",
+      "article_id": "UIT-KA-D21D3CFAD0F2",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:29",
+      "destination": "/knowledge/sign-up-for-a-1password-family-account-fad0f2/",
+      "article_id": "UIT-KA-D21D3CFAD0F2",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:30",
+      "destination": "/knowledge/sign-up-for-a-1password-family-account-fad0f2/",
+      "article_id": "UIT-KA-D21D3CFAD0F2",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:31",
+      "destination": "/knowledge/can-i-link-my-old-1password-account-to-my-york-account-51501f/",
+      "article_id": "UIT-KA-719C9C51501F",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:32",
+      "destination": "/knowledge/can-i-link-my-old-1password-account-to-my-york-account-51501f/",
+      "article_id": "UIT-KA-719C9C51501F",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:33",
+      "destination": "/knowledge/can-i-link-my-old-1password-account-to-my-york-account-51501f/",
+      "article_id": "UIT-KA-719C9C51501F",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:34",
+      "destination": "/knowledge/can-i-link-my-old-1password-account-to-my-york-account-51501f/",
+      "article_id": "UIT-KA-719C9C51501F",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:35",
+      "destination": "/knowledge/can-i-link-my-old-1password-account-to-my-york-account-51501f/",
+      "article_id": "UIT-KA-719C9C51501F",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:36",
+      "destination": "/knowledge/can-i-link-my-old-1password-account-to-my-york-account-51501f/",
+      "article_id": "UIT-KA-719C9C51501F",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:37",
+      "destination": "/knowledge/can-i-link-my-old-1password-account-to-my-york-account-51501f/",
+      "article_id": "UIT-KA-719C9C51501F",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:38",
+      "destination": "/knowledge/can-i-link-my-old-1password-account-to-my-york-account-51501f/",
+      "article_id": "UIT-KA-719C9C51501F",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:39",
+      "destination": "/knowledge/can-i-link-my-old-1password-account-to-my-york-account-51501f/",
+      "article_id": "UIT-KA-719C9C51501F",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:40",
+      "destination": "/knowledge/can-i-link-my-old-1password-account-to-my-york-account-51501f/",
+      "article_id": "UIT-KA-719C9C51501F",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:41",
+      "destination": "/knowledge/can-i-link-my-old-1password-account-to-my-york-account-51501f/",
+      "article_id": "UIT-KA-719C9C51501F",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:42",
+      "destination": "/knowledge/how-secure-is-1password-and-what-measures-does-it-take-to-protect-my-data-1d7b78/",
+      "article_id": "UIT-KA-46273D1D7B78",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:43",
+      "destination": "/knowledge/how-secure-is-1password-and-what-measures-does-it-take-to-protect-my-data-1d7b78/",
+      "article_id": "UIT-KA-46273D1D7B78",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:44",
+      "destination": "/knowledge/can-i-share-passwords-securely-with-other-users-through-1password-3afd9f/",
+      "article_id": "UIT-KA-D83D523AFD9F",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:45",
+      "destination": "/knowledge/can-i-share-passwords-securely-with-other-users-through-1password-3afd9f/",
+      "article_id": "UIT-KA-D83D523AFD9F",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:46",
+      "destination": "/knowledge/can-i-recover-my-data-if-i-accidentally-delete-my-vault-2adacc/",
+      "article_id": "UIT-KA-F89C6D2ADACC",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:47",
+      "destination": "/knowledge/can-i-recover-my-data-if-i-accidentally-delete-my-vault-2adacc/",
+      "article_id": "UIT-KA-F89C6D2ADACC",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:48",
+      "destination": "/knowledge/does-it-require-2fa-authentication-9ed821/",
+      "article_id": "UIT-KA-A872EE9ED821",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:49",
+      "destination": "/knowledge/does-it-require-2fa-authentication-9ed821/",
+      "article_id": "UIT-KA-A872EE9ED821",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:50",
+      "destination": "/knowledge/can-i-sign-up-using-my-york-email-address-or-personal-email-address-c35e47/",
+      "article_id": "UIT-KA-68A267C35E47",
+      "anchors": []
+    },
+    {
+      "block_id": "30954b824eecfbc6:51",
+      "destination": "/knowledge/can-i-sign-up-using-my-york-email-address-or-personal-email-address-c35e47/",
+      "article_id": "UIT-KA-68A267C35E47",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 52
+}

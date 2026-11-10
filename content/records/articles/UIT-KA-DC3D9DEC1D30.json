@@ -1,0 +1,35 @@
+{
+  "id": "UIT-KA-DC3D9DEC1D30",
+  "slug": "active-state-ec1d30",
+  "title": "Active State",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Active State",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Your computing accounts are active when you are enrolled in York University courses</p>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:48",
+    "a8531d59dcf118b8:49",
+    "b24187fb4550fd87:48",
+    "b24187fb4550fd87:49"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

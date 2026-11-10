@@ -1,0 +1,32 @@
+{
+  "id": "UIT-KA-ECCA7A550CC1",
+  "slug": "tip-2-include-numbers-and-symbols-550cc1",
+  "title": "Tip 2 Include Numbers and Symbols",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Tip 2 Include Numbers and Symbols",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Incorporating numbers and symbols to your password increases the strength of your password. One common hacking technique is to try words and phrases  To further add complexity to your passwords, incorporate numbers and symbols into your passwords. If you're using passphrases as outlined in the first tip, an easy way to incorporate numbers and symbols is to substitute letters with symbols that look like the letters</p>\n<p><strong>Passphrase:</strong> mYsteaKIsWELLANDDONE</p>\n<p><strong>Passphrase with Numbers and Symbols: </strong>mYst3@K!sW3ANDD0N3</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/three-easy-tips-to-choose-a-strong-password/"
+  ],
+  "source_block_ids": [
+    "cb4626b8edeed5eb:8",
+    "cb4626b8edeed5eb:9",
+    "cb4626b8edeed5eb:10",
+    "cb4626b8edeed5eb:11"
+  ],
+  "captured_at": "2026-11-09T21:46:59.973452+00:00",
+  "source_modified_at": "2023-09-08T23:02:52+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

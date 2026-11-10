@@ -1,0 +1,39 @@
+{
+  "id": "UIT-KA-ECE0EF1E1C01",
+  "slug": "change-your-passport-york-password-1e1c01",
+  "title": "Change your Passport York password",
+  "type": "How to",
+  "service_id": "passport-york",
+  "issue": "Change your Passport York password",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>1. Go to <a href=\"http://mms.yorku.ca/\">Manage My Services&gt;&gt;</a></p>\n<p>2. Click on the check box beside “Click this box before logging in to change your Passport York password”</p>\n<p>3. Login using your Passport York username and password and follow the prompts to change your password</p>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:116",
+    "a8531d59dcf118b8:117",
+    "a8531d59dcf118b8:118",
+    "a8531d59dcf118b8:119",
+    "b24187fb4550fd87:116",
+    "b24187fb4550fd87:117",
+    "b24187fb4550fd87:118",
+    "b24187fb4550fd87:119"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

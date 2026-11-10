@@ -1,0 +1,30 @@
+{
+  "id": "UIT-KA-93FB987A165A",
+  "slug": "change-your-passport-york-password-7a165a",
+  "title": "Change your Passport York password",
+  "type": "How to",
+  "service_id": "passport-york",
+  "issue": "Change your Passport York password",
+  "environment": [
+    "Passport York",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ol>\n<li>Go to <a href=\"http://mms.yorku.ca/\">Manage My Services&gt;&gt;</a></li>\n<li>Click on the check box beside “<strong>Click this box before logging in to change your Passport York password</strong>”. Log in using your Passport York username and password</li>\n<li>Follow the prompts to change your password</li>\n</ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "c7e9cafb4377e283:89",
+    "c7e9cafb4377e283:90"
+  ],
+  "captured_at": "2026-11-09T21:45:58.697932+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

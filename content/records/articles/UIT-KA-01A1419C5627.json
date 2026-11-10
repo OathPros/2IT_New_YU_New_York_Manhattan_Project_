@@ -1,0 +1,34 @@
+{
+  "id": "UIT-KA-01A1419C5627",
+  "slug": "online-9c5627",
+  "title": "Online",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Online",
+  "environment": [
+    "Passport York",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p><strong>Requirements to use this method</strong></p>\n<ol>\n<li>You must<strong> not</strong> have access to advanced access levels (<strong>SIS, VPN Firewall, technical staff member, etc</strong>)</li>\n<li>You must have access to your York email address</li>\n</ol>\n<p><strong>If you have met this method's requirements:</strong></p>\n<ol>\n<li>Go to <a href=\"https://pypwreset.apps06.yorku.ca/\">Passport York Security Questions&gt;&gt;</a></li>\n<li>Enter your employee number and click \"<strong>Next Step</strong>\"</li>\n<li>An email will be sent to your York email address. Open this email and click on link in the message. You will be taken to a page where you will enter the answers for your security questions. After correctly answering your questions you will be prompted to pick a new password</li>\n</ol>\n<p><strong>**Please note </strong>if you would like to update your Passport York security questions, <a href=\"https://pypwreset.apps06.yorku.ca/questions/setup\">please click here&gt;&gt;</a></p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "c7e9cafb4377e283:6",
+    "c7e9cafb4377e283:7",
+    "c7e9cafb4377e283:8",
+    "c7e9cafb4377e283:9",
+    "c7e9cafb4377e283:10",
+    "c7e9cafb4377e283:11"
+  ],
+  "captured_at": "2026-11-09T21:45:58.697932+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

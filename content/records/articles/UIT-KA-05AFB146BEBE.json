@@ -1,0 +1,35 @@
+{
+  "id": "UIT-KA-05AFB146BEBE",
+  "slug": "list-of-popular-password-manager-46bebe",
+  "title": "List of Popular Password Manager",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "List of Popular Password Manager",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>The list below contains several popular password managers, most have free personal-use version or a paid/premium option, and some are open source and no charge. While Information Security is not able to provide support for these, we encourage you to learn more about them and choose the solution best for you</p>\n<ul>\n<li><a href=\"https://1password.com/\">1Password</a></li>\n<li><a href=\"https://bitwarden.com/\">Bitwarden</a></li>\n<li><a href=\"https://www.dashlane.com/\">Dashlane</a></li>\n<li><a href=\"https://www.enpass.io/\">EnPass</a></li>\n<li><a href=\"https://keepersecurity.com/\">Keeper</a></li>\n<li><a href=\"https://www.roboform.com/\">RoboForm</a></li>\n<li><a href=\"http://keepass.info/\">KeePass,</a> <a href=\"http://www.keepassx.org/\">KeePassX, </a><a href=\"https://keepassxc.org/\">KeePassXC</a> (free/open source)</li>\n</ul>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/password-manager-guide/",
+    "https://www.yorku.ca/uit/infosec/using-a-password-manager/"
+  ],
+  "source_block_ids": [
+    "aaf5feed55a9c0ff:8",
+    "aaf5feed55a9c0ff:9",
+    "aaf5feed55a9c0ff:10",
+    "c226f38e876548f7:8",
+    "c226f38e876548f7:9",
+    "c226f38e876548f7:10"
+  ],
+  "captured_at": "2026-11-09T21:47:03.800203+00:00",
+  "source_modified_at": "2025-05-22T18:05:22+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

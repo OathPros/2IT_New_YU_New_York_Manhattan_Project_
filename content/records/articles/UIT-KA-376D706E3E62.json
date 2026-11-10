@@ -1,0 +1,30 @@
+{
+  "id": "UIT-KA-376D706E3E62",
+  "slug": "via-your-department-admin-6e3e62",
+  "title": "Via your Department Admin",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Via your Department Admin",
+  "environment": [
+    "Passport York",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Department Admin can send an email on your behalf to <a href=\"mailto:askit@yorku.ca\">askit@yorku.ca</a>. Your Department Admin (someone that knows you) will be vouching for you and the information they are providing. Please make sure that the Department Admin provides your employee number and your alternative personal email address (Gmail, Hotmail, etc) so we can email your login instructions to you</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "c7e9cafb4377e283:22",
+    "c7e9cafb4377e283:23"
+  ],
+  "captured_at": "2026-11-09T21:45:58.697932+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

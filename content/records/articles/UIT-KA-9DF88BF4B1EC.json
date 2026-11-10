@@ -1,0 +1,35 @@
+{
+  "id": "UIT-KA-9DF88BF4B1EC",
+  "slug": "choosing-a-secure-password-f4b1ec",
+  "title": "Choosing a secure password",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "Choosing a secure password",
+  "environment": [
+    "Passport York",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>1. Use a passphrases. For example, string together words such as “<em>I love this winter weather in the springtime</em>” to create a passphrase ILoveThisWinterWeatherInTheSpringTime. It is stronger than RgFZV!RvgP@9QB7 and easier to remember</p>\n<p>2. Try incorporating numbers and symbols to your password increases the strength of your password. One common hacking technique is to try words and phrases.  To further add complexity to your passwords, use at least 15-character long password and incorporate numbers, symbols and uppercase</p>\n<p>3. Security experts recommend people to never reuse their passwords on different accounts</p>\n<p>4. Using a password manager negates the need to memorize multiple passwords by storing all your passwords in a virtual vault–you only have to memorize one password</p>\n<p>For more information on choosing a strong password, read <a href=\"https://infosec.yorku.ca/three-easy-tips-to-choose-a-strong-password/\">InfoSec's article&gt;&gt;</a> </p>\n<p><a href=\"https://infosec.yorku.ca/2024/07/passport-york-password-complexity-requirements/\">Passport York password complexity requirements update&gt;&gt; </a></p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "c7e9cafb4377e283:76",
+    "c7e9cafb4377e283:77",
+    "c7e9cafb4377e283:78",
+    "c7e9cafb4377e283:79",
+    "c7e9cafb4377e283:80",
+    "c7e9cafb4377e283:81",
+    "c7e9cafb4377e283:82"
+  ],
+  "captured_at": "2026-11-09T21:45:58.697932+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

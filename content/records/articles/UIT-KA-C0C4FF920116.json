@@ -1,0 +1,39 @@
+{
+  "id": "UIT-KA-C0C4FF920116",
+  "slug": "set-up-your-passport-york-account-920116",
+  "title": "Set up your Passport York Account",
+  "type": "How to",
+  "service_id": "passport-york",
+  "issue": "Set up your Passport York Account",
+  "environment": [
+    "Passport York",
+    "York students",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Log in to <a href=\"http://mms.yorku.ca\">http://mms.yorku.ca</a> (Manage My Services) using your student number for your username, and your date of birth for your password (in the format YYYYMMDD). Then, follow the directions to change your password</p>\n<p>You will be prompted to set up Two-Factor Authentication (2FA) soon after your initial Passport York login. Please check out the <a href=\"https://www.yorku.ca/uit/infosec/duo-two-factor-authentication/\">Duo 2FA page</a> for setup instructions</p>\n<p><strong>**Please note </strong>that the Two-Factor Authentication (2FA) setup takes approximately 5-10 minutes to complete, so please make sure you have enough time to complete it without leaving partway through</p>",
+  "audiences": [
+    "all",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services-2/passport-york/",
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "source_block_ids": [
+    "a8531d59dcf118b8:9",
+    "a8531d59dcf118b8:10",
+    "a8531d59dcf118b8:11",
+    "a8531d59dcf118b8:12",
+    "b24187fb4550fd87:9",
+    "b24187fb4550fd87:10",
+    "b24187fb4550fd87:11",
+    "b24187fb4550fd87:12"
+  ],
+  "captured_at": "2026-11-09T21:47:43.678488+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "UIT-KA-14198D3E6965",
+  "slug": "1password-for-students-3e6965",
+  "title": "1Password for Students",
+  "type": "Question and answer",
+  "service_id": "passport-york",
+  "issue": "1Password for Students",
+  "environment": [
+    "Passport York",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>If you are a Student interested in using 1Password, learn how to redeem your free 1Password Student account</p>\n<p><a href=\"https://www.yorku.ca/uit/infosec/1password-for-students/\">Learn More</a></p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2024/05/faq.png\"/></figure>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/1password/"
+  ],
+  "source_block_ids": [
+    "db6d00db01db3f7a:12",
+    "db6d00db01db3f7a:13",
+    "db6d00db01db3f7a:14",
+    "db6d00db01db3f7a:15"
+  ],
+  "captured_at": "2026-11-09T21:46:09.401215+00:00",
+  "source_modified_at": "2025-11-28T16:25:49+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

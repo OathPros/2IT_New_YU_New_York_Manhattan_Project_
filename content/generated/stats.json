@@ -1,16 +1,16 @@
 {
-  "checkpoint": "email",
+  "checkpoint": "email-and-passport-york",
   "posts_included": 0,
-  "discovered_sources": 14,
-  "captured_sources": 14,
-  "services": 1,
-  "articles": 92,
+  "discovered_sources": 28,
+  "captured_sources": 28,
+  "services": 2,
+  "articles": 160,
   "resources": 1,
   "prompts": 0,
-  "asset_references": 48,
+  "asset_references": 84,
   "source_states": {
     "reference": 1,
-    "structured": 13
+    "structured": 27
   },
   "pending_sources": 0,
   "priority_review_articles": 1
