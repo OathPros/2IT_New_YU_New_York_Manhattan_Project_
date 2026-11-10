@@ -1,0 +1,40 @@
+{
+  "id": "UIT-KA-D3B63D6CF647",
+  "slug": "change-the-list-of-subscribers-on-any-given-listserv-list-6cf647",
+  "title": "Change the list of subscribers on any given Listserv List",
+  "type": "How to",
+  "service_id": "email",
+  "issue": "Change the list of subscribers on any given Listserv List",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Follow the instructions in this document for <a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#remove\">removing a subscriber</a> and then <a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#add_sub\">adding a subscriber</a></p>\n<p><strong>OR</strong></p>\n<p>Using the <strong>Web interface</strong></p>\n<ol>\n<li>Go to <a href=\"http://listserv.yorku.ca\"><u>http://listserv.yorku.ca</u></a></li>\n<li>Open List Management and select Subscriber Management</li>\n<li>Select the list from drop down menu</li>\n<li>In the box under the Search for Subscribers enter the email address or name of subscriber and click search</li>\n<li>Can either change setting and click Update Settings or Delete to delete from list</li>\n</ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:76",
+    "292bdb4f070fdcc0:77",
+    "292bdb4f070fdcc0:78",
+    "292bdb4f070fdcc0:79",
+    "292bdb4f070fdcc0:80",
+    "746a0b6e02ae1da6:76",
+    "746a0b6e02ae1da6:77",
+    "746a0b6e02ae1da6:78",
+    "746a0b6e02ae1da6:79",
+    "746a0b6e02ae1da6:80"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

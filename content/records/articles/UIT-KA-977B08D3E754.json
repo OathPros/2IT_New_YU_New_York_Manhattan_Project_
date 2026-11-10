@@ -1,0 +1,31 @@
+{
+  "id": "UIT-KA-977B08D3E754",
+  "slug": "how-long-do-messages-remain-in-my-spam-folder-d3e754",
+  "title": "How long do messages remain in my Spam folder",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "How long do messages remain in my Spam folder",
+  "environment": [
+    "Email and calendar",
+    "Google Mail",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Messages remain in the Spam folder for 30 days. After that, Gmail permanently deletes them</p>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "source_block_ids": [
+    "d545c40ef8a2948d:88",
+    "d545c40ef8a2948d:89"
+  ],
+  "captured_at": "2026-11-09T21:47:40.608783+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

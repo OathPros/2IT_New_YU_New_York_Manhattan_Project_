@@ -1,0 +1,34 @@
+{
+  "id": "UIT-KA-69F423AA8648",
+  "slug": "who-can-request-that-a-list-be-created-aa8648",
+  "title": "Who can request that a LIST be created",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Who can request that a LIST be created",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ul>\n<li>Only faculty and staff can apply to have a list created</li>\n<li>Others who want to start and own a LIST must be sponsored by a faculty or staff member</li>\n</ul>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:10",
+    "292bdb4f070fdcc0:11",
+    "746a0b6e02ae1da6:10",
+    "746a0b6e02ae1da6:11"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

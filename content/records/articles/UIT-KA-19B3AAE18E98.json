@@ -1,0 +1,35 @@
+{
+  "id": "UIT-KA-19B3AAE18E98",
+  "slug": "what-kind-of-attachments-files-are-affected-e18e98",
+  "title": "What kind of attachments files are affected",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "What kind of attachments files are affected",
+  "environment": [
+    "Email and calendar",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ul><li>Attachment renaming or removal only occurs on attachment types that can easily carry malicious code (viruses) AND that are almost never used for real information exchange at York</li><li>Common attachment types such as those used by MS Word, Excel or Adobe, are NOT affected by this process</li></ul>\n<ol><li>Messages containing attachment types almost exclusively associated with viruses will be delivered, but the suspect attachment will be removed and a notice inserted into the message informing the recipient of the removed attachment. The list of file types includes: .pif .com .bat .cmd .scr .exe and .zip files which contain these</li><li>Other file types considered \"unsafe\", but are infrequently used will be renamed by adding \"_UNSAFE\" to the end of the file name. The list of file types includes: .reg .inf .hlp and others which are rarely, if ever, used for legitimate communication. Also, .zip files containing these unsafe types will also be renamed. A note will be inserted into the message informing about the file renaming</li></ol>\n<p><strong>If I have </strong>a legitimate need to receive such files, what can I do?</p>\n<ul><li>For files listed in #1 above, these types are mainly programs, and are rarely transmitted via email, however you can still receive these if the sender renames the attachment file name extension to something else (such as adding _UNSAFE to the end of the filename)before sending them</li><li>For files listed in #2 above, If the \"unsafe\" attachment is known to be legitimate, the recipient may save it, and then rename it back to the original type by removing \"_UNSAFE\"  from the end of the file name, and use it as usual at that point. For example \"driver.inf\" will be renamed to \"driver.inf_UNSAFE\" and will need to be renamed back to the original \"driver.inf\" before use</li></ul>\n<p>Before opening any such attachment, please be sure you are sure it is legitimate and that you have updated antivirus software running.  You can get <a href=\"https://www.yorku.ca/uit/antivirus-software/\">antivirus software free</a></p>\n<p>Submit a Service Request</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/handling-unsafe-email-attachments/"
+  ],
+  "source_block_ids": [
+    "b1b31e6cf58025ae:4",
+    "b1b31e6cf58025ae:5",
+    "b1b31e6cf58025ae:6",
+    "b1b31e6cf58025ae:7",
+    "b1b31e6cf58025ae:8",
+    "b1b31e6cf58025ae:9",
+    "b1b31e6cf58025ae:10"
+  ],
+  "captured_at": "2026-11-09T21:45:55.895454+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

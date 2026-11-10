@@ -1,0 +1,34 @@
+{
+  "id": "UIT-KA-F8F786A4ABDC",
+  "slug": "faq-video-adding-and-removing-subscribers-in-listserv-a4abdc",
+  "title": "FAQ Video Adding and removing subscribers in LISTSERV",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "FAQ Video Adding and removing subscribers in LISTSERV",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p><p><a href=\"https://www.youtube.com/embed/Xn9ZPGda2mI\">YouTube video player</a></p></p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:3",
+    "292bdb4f070fdcc0:4",
+    "746a0b6e02ae1da6:3",
+    "746a0b6e02ae1da6:4"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

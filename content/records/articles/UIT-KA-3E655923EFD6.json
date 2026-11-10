@@ -1,0 +1,32 @@
+{
+  "id": "UIT-KA-3E655923EFD6",
+  "slug": "faq-video-adding-and-removing-owners-in-listserv-23efd6",
+  "title": "FAQ Video Adding and removing owners in LISTSERV",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "FAQ Video Adding and removing owners in LISTSERV",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p><p><a href=\"https://www.youtube.com/embed/BPjzWJaHYdM\">YouTube video player</a></p></p>\n<ol>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#purpose\">What is the purpose of a LIST OWNER?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#owner\">Who can request that a LIST be created?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#owner_info\">How do I obtain a copy of the List Owner's Manual?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#request\">How do I request (start-up) a LIST?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#shutdown_list\">How do I permanently remove a LIST?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#rename\">How do I rename my LISTSERV LIST?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#password\">How do I set up a personal password?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#resetPassword\">How do I change my password or reset a password that has been forgotten?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#add_sub\">How do I add a subscriber to my LIST?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#add_mult\">How do I add multiple subscribers to my LIST?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#change_email_subscriber\">How do I change the name or email address of a subscriber?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#unsub\">How do I unsubscribe myself from a LIST?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#remove\">How do I remove/delete subscribers from my LIST?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#members\">How do I view the names of the people subscribed to my LIST?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#private\">How do I prevent my LIST from appearing on York's LISTSERV index?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#post\">How do I get a copy of my own posts back from the LIST after they are processed?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#increase_limit\">How do I increase the daily limit of postings on the LISTSERV?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#owner_only\">How do I send an email to the LIST owner only?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#change_header\">How do I change the LIST header information?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#co_owner\">How do I add or remove a LIST owner(s)?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#stop_posting\">How do I stop someone from subscribing and posting to my list?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#classlist\">How do I import email addresses from my class list to my LISTSERV?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#winmail_attach\">Why do winmail.dat attachments fail to be sent over LISTSERVES?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#visible_cc\">How do I setup the listserv so I can see the cc'd email addresses when I receive an email from a listserv?</a></li>\n</ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:5",
+    "292bdb4f070fdcc0:6",
+    "292bdb4f070fdcc0:7"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

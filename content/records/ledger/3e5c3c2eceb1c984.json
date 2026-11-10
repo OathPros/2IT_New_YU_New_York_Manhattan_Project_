@@ -1,0 +1,277 @@
+{
+  "source_id": "3e5c3c2eceb1c984",
+  "source_url": "https://www.yorku.ca/uit/infosec/report-phishing-email/",
+  "title": "Report Phishing Email",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/email/",
+    "/knowledge/how-does-the-report-phishing-button-work-2f69fa/",
+    "/knowledge/outlook-client-a71fcd/",
+    "/knowledge/outlook-webmail-62e6b5/",
+    "/knowledge/outlook-mobile-e17147/",
+    "/knowledge/android-e78a61/",
+    "/knowledge/ios-c8a78e/",
+    "/knowledge/gmail-f5a002/"
+  ],
+  "assignments": [
+    {
+      "block_id": "3e5c3c2eceb1c984:0",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:1",
+      "destination": "/knowledge/how-does-the-report-phishing-button-work-2f69fa/",
+      "article_id": "UIT-KA-97101F2F69FA",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:2",
+      "destination": "/knowledge/how-does-the-report-phishing-button-work-2f69fa/",
+      "article_id": "UIT-KA-97101F2F69FA",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:3",
+      "destination": "/knowledge/how-does-the-report-phishing-button-work-2f69fa/",
+      "article_id": "UIT-KA-97101F2F69FA",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:4",
+      "destination": "/knowledge/how-does-the-report-phishing-button-work-2f69fa/",
+      "article_id": "UIT-KA-97101F2F69FA",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:5",
+      "destination": "/knowledge/outlook-client-a71fcd/",
+      "article_id": "UIT-KA-81B09DA71FCD",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:6",
+      "destination": "/knowledge/outlook-client-a71fcd/",
+      "article_id": "UIT-KA-81B09DA71FCD",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:7",
+      "destination": "/knowledge/outlook-client-a71fcd/",
+      "article_id": "UIT-KA-81B09DA71FCD",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:8",
+      "destination": "/knowledge/outlook-client-a71fcd/",
+      "article_id": "UIT-KA-81B09DA71FCD",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:9",
+      "destination": "/knowledge/outlook-client-a71fcd/",
+      "article_id": "UIT-KA-81B09DA71FCD",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:10",
+      "destination": "/knowledge/outlook-client-a71fcd/",
+      "article_id": "UIT-KA-81B09DA71FCD",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:11",
+      "destination": "/knowledge/outlook-webmail-62e6b5/",
+      "article_id": "UIT-KA-5FC3BB62E6B5",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:12",
+      "destination": "/knowledge/outlook-webmail-62e6b5/",
+      "article_id": "UIT-KA-5FC3BB62E6B5",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:13",
+      "destination": "/knowledge/outlook-webmail-62e6b5/",
+      "article_id": "UIT-KA-5FC3BB62E6B5",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:14",
+      "destination": "/knowledge/outlook-webmail-62e6b5/",
+      "article_id": "UIT-KA-5FC3BB62E6B5",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:15",
+      "destination": "/knowledge/outlook-webmail-62e6b5/",
+      "article_id": "UIT-KA-5FC3BB62E6B5",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:16",
+      "destination": "/knowledge/outlook-webmail-62e6b5/",
+      "article_id": "UIT-KA-5FC3BB62E6B5",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:17",
+      "destination": "/knowledge/outlook-webmail-62e6b5/",
+      "article_id": "UIT-KA-5FC3BB62E6B5",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:18",
+      "destination": "/knowledge/outlook-webmail-62e6b5/",
+      "article_id": "UIT-KA-5FC3BB62E6B5",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:19",
+      "destination": "/knowledge/outlook-mobile-e17147/",
+      "article_id": "UIT-KA-DB15E2E17147",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:20",
+      "destination": "/knowledge/outlook-mobile-e17147/",
+      "article_id": "UIT-KA-DB15E2E17147",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:21",
+      "destination": "/knowledge/android-e78a61/",
+      "article_id": "UIT-KA-20F641E78A61",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:22",
+      "destination": "/knowledge/android-e78a61/",
+      "article_id": "UIT-KA-20F641E78A61",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:23",
+      "destination": "/knowledge/android-e78a61/",
+      "article_id": "UIT-KA-20F641E78A61",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:24",
+      "destination": "/knowledge/android-e78a61/",
+      "article_id": "UIT-KA-20F641E78A61",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:25",
+      "destination": "/knowledge/android-e78a61/",
+      "article_id": "UIT-KA-20F641E78A61",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:26",
+      "destination": "/knowledge/android-e78a61/",
+      "article_id": "UIT-KA-20F641E78A61",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:27",
+      "destination": "/knowledge/android-e78a61/",
+      "article_id": "UIT-KA-20F641E78A61",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:28",
+      "destination": "/knowledge/android-e78a61/",
+      "article_id": "UIT-KA-20F641E78A61",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:29",
+      "destination": "/knowledge/ios-c8a78e/",
+      "article_id": "UIT-KA-F05B0EC8A78E",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:30",
+      "destination": "/knowledge/ios-c8a78e/",
+      "article_id": "UIT-KA-F05B0EC8A78E",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:31",
+      "destination": "/knowledge/ios-c8a78e/",
+      "article_id": "UIT-KA-F05B0EC8A78E",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:32",
+      "destination": "/knowledge/ios-c8a78e/",
+      "article_id": "UIT-KA-F05B0EC8A78E",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:33",
+      "destination": "/knowledge/ios-c8a78e/",
+      "article_id": "UIT-KA-F05B0EC8A78E",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:34",
+      "destination": "/knowledge/ios-c8a78e/",
+      "article_id": "UIT-KA-F05B0EC8A78E",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:35",
+      "destination": "/knowledge/ios-c8a78e/",
+      "article_id": "UIT-KA-F05B0EC8A78E",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:36",
+      "destination": "/knowledge/ios-c8a78e/",
+      "article_id": "UIT-KA-F05B0EC8A78E",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:37",
+      "destination": "/knowledge/gmail-f5a002/",
+      "article_id": "UIT-KA-1D5E89F5A002",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:38",
+      "destination": "/knowledge/gmail-f5a002/",
+      "article_id": "UIT-KA-1D5E89F5A002",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:39",
+      "destination": "/knowledge/gmail-f5a002/",
+      "article_id": "UIT-KA-1D5E89F5A002",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:40",
+      "destination": "/knowledge/gmail-f5a002/",
+      "article_id": "UIT-KA-1D5E89F5A002",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:41",
+      "destination": "/knowledge/gmail-f5a002/",
+      "article_id": "UIT-KA-1D5E89F5A002",
+      "anchors": []
+    },
+    {
+      "block_id": "3e5c3c2eceb1c984:42",
+      "destination": "/knowledge/gmail-f5a002/",
+      "article_id": "UIT-KA-1D5E89F5A002",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 43
+}

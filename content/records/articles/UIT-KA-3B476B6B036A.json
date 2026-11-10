@@ -1,0 +1,62 @@
+{
+  "id": "UIT-KA-3B476B6B036A",
+  "slug": "automatically-forwarding-emails-to-another-account-6b036a",
+  "title": "Automatically forwarding emails to another account",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Automatically forwarding emails to another account",
+  "environment": [
+    "Email and calendar",
+    "Google Mail",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<p>You can have your emails automatically forwarded to another address. You can forward all of your new messages, or just specific kinds of messages. Note that spam messages aren't included when you choose to forward all new mail</p>\n<p><strong>To forward emails from another email provider to Gmail</strong>, you’ll have to change your settings in the other account, not in Gmail. Visit your other email provider’s help center to find out if automatic forwarding is available and how to set it up</p>\n<p><strong>Forward all new emails</strong>:</p>\n<p>1. Open the Gmail account that you want to forward <em>from</em> </p>\n<p>2. Click the gear in the top right</p>\n<figure><img alt=\"Gear icon \" loading=\"lazy\" src=\"https://www.yorku.ca/uit/wp-content/uploads/sites/805/2024/03/unnamed-2.png\"/></figure>\n<p>3. Select <strong>Settings</strong></p>\n<p>4. Select the <strong>Forwarding and POP/IMAP</strong> tab</p>\n<figure><img alt=\"Forwarding and POP/IMAP tab circled \" loading=\"lazy\" src=\"https://www.yorku.ca/uit/wp-content/uploads/sites/805/2024/03/unnamed-1-1.png\"/></figure>\n<p>5. Click <strong>Add a forwarding address</strong> in the “<strong>Forwarding</strong>” section</p>\n<p>6. Enter the email address you want to forward to</p>\n<p>7. For your security, we'll send a verification email to that address. Open your other email account and find the confirmation message from the Gmail team. If you’re having trouble finding it, check your Spam folder</p>\n<p>8. Click the verification link in that email</p>\n<p>9. Back in your Gmail account, reload the page in your web browser - look for the reload icon <img alt=\"Reload\" loading=\"lazy\" src=\"https://lh3.ggpht.com/ixLkHcLeQK7A2d-cnC3kAXYk_NHt6FTIMrLIZAjJqviC-pPAS66DPBKd1BFM=w18-h18\"/></p>\n<p>10. On the same <strong>Forwarding and POP/IMAP</strong> page in Settings, check that <strong>Forward a copy of incoming mail</strong> is selected and your email address is in the drop-down menu</p>\n<p>11. In the second drop-down menu, choose what you want Gmail to do with your messages after they’re forwarded, such as <strong>keep Gmail’s copy in the Inbox</strong> (recommended) or <strong>archive Gmail’s copy</strong></p>\n<p>12. Click <strong>Save Changes</strong> at the bottom of the page</p>\n<p><strong>Forward only some emails:</strong></p>\n<p>If you only want to forward certain kinds of messages to another account, use filters to forward messages that meet specific criteria. For example, a parent could automatically forward emails from their child’s school to the other parent. Learn more about <a href=\"https://support.google.com/mail/answer/6579\">filters</a></p>\n<p><strong>Forward to multiple accounts:</strong></p>\n<p>Gmail can only auto-forward all of your mail to one email address at a time. You can see what address Gmail is currently forwarding to in the <a href=\"https://mail.google.com/mail/#settings/fwdandpop\">Forwarding and POP/IMAP</a> tab of Settings</p>\n<p>To forward emails to multiple accounts, you can use filters to forward specific types of messages to each account. You can create up to 20 filters that forward to other addresses. Learn more about <a href=\"https://support.google.com/mail/answer/6579\">filters</a></p>\n<p><strong>Stop auto-forwarding:</strong></p>\n<p>If you no longer want to automatically forward your mail, follow these instructions:</p>\n<p>1. Open the Gmail account that you forward from</p>\n<p>2. Click the gear in the top right </p>\n<figure><img alt=\"Gear icon \" loading=\"lazy\" src=\"https://www.yorku.ca/uit/wp-content/uploads/sites/805/2024/03/unnamed.png\"/></figure>\n<p>3. Select <strong>Settings</strong> </p>\n<p>4. Select the <strong>Forwarding and POP/IMAP</strong> tab</p>\n<figure><img alt=\"Forwarding and POP/IMAP tab circled \" loading=\"lazy\" src=\"https://www.yorku.ca/uit/wp-content/uploads/sites/805/2024/03/unnamed-1.png\"/></figure>\n<p>5. Select <strong>Disable forwarding</strong> in the \"Forwarding\" section</p>\n<p>6. Click the first drop-down menu after “Forward a copy of incoming mail to” and check for any addresses listed as “(in use by a filter).” To disable the forwarding filter, choose the <strong>Remove</strong> option</p>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "source_block_ids": [
+    "d545c40ef8a2948d:31",
+    "d545c40ef8a2948d:32",
+    "d545c40ef8a2948d:33",
+    "d545c40ef8a2948d:34",
+    "d545c40ef8a2948d:35",
+    "d545c40ef8a2948d:36",
+    "d545c40ef8a2948d:37",
+    "d545c40ef8a2948d:38",
+    "d545c40ef8a2948d:39",
+    "d545c40ef8a2948d:40",
+    "d545c40ef8a2948d:41",
+    "d545c40ef8a2948d:42",
+    "d545c40ef8a2948d:43",
+    "d545c40ef8a2948d:44",
+    "d545c40ef8a2948d:45",
+    "d545c40ef8a2948d:46",
+    "d545c40ef8a2948d:47",
+    "d545c40ef8a2948d:48",
+    "d545c40ef8a2948d:49",
+    "d545c40ef8a2948d:50",
+    "d545c40ef8a2948d:51",
+    "d545c40ef8a2948d:52",
+    "d545c40ef8a2948d:53",
+    "d545c40ef8a2948d:54",
+    "d545c40ef8a2948d:55",
+    "d545c40ef8a2948d:56",
+    "d545c40ef8a2948d:57",
+    "d545c40ef8a2948d:58",
+    "d545c40ef8a2948d:59",
+    "d545c40ef8a2948d:60",
+    "d545c40ef8a2948d:61",
+    "d545c40ef8a2948d:62",
+    "d545c40ef8a2948d:63"
+  ],
+  "captured_at": "2026-11-09T21:47:40.608783+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

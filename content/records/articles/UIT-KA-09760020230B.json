@@ -1,0 +1,31 @@
+{
+  "id": "UIT-KA-09760020230B",
+  "slug": "why-does-a-message-i-archived-or-deleted-show-up-again-in-my-inbox-20230b",
+  "title": "Why does a message I archived or deleted show up again in my Inbox",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Why does a message I archived or deleted show up again in my Inbox",
+  "environment": [
+    "Email and calendar",
+    "Google Mail",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<p>If someone replies to a message you archived or trashed, that message reappears in your Inbox as a conversation, bringing the message you archived or deleted, with it. If the message has already been permanently deleted from the Trash, you'll see an option at the bottom of the message to view the deleted messages in the conversation</p>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "source_block_ids": [
+    "d545c40ef8a2948d:86",
+    "d545c40ef8a2948d:87"
+  ],
+  "captured_at": "2026-11-09T21:47:40.608783+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "UIT-KA-2547027CB9F6",
+  "slug": "recover-deleted-items-in-outlook-7cb9f6",
+  "title": "Recover deleted items in Outlook",
+  "type": "How to",
+  "service_id": "email",
+  "issue": "Recover deleted items in Outlook",
+  "environment": [
+    "Email and calendar",
+    "Microsoft Outlook",
+    "York students",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p><a href=\"https://support.microsoft.com/en-us/office/recover-deleted-items-in-outlook-for-windows-49e81f3c-c8f4-4426-a0b9-c0fd751d48ce?ui=en-us&amp;rs=en-us&amp;ad=us\">Please click here for instructions&gt;&gt;</a></p>",
+  "audiences": [
+    "employee",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/",
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "source_block_ids": [
+    "d545c40ef8a2948d:98",
+    "d545c40ef8a2948d:99",
+    "ed0c8c78eebe7f59:51",
+    "ed0c8c78eebe7f59:52"
+  ],
+  "captured_at": "2026-11-09T21:47:40.608783+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

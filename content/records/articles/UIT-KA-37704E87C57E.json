@@ -1,0 +1,38 @@
+{
+  "id": "UIT-KA-37704E87C57E",
+  "slug": "obtain-a-copy-of-the-list-owners-manual-87c57e",
+  "title": "Obtain a copy of the List Owners Manual",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Obtain a copy of the List Owners Manual",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>To obtain LIST OWNER information, request the List Owner's Manual as follows:</p>\n<ol>\n<li>Address your mail message to <a href=\"mailto:listserv@yorku.ca\">listserv@yorku.ca</a></li>\n<li>In the body of your email message issue the command:<strong>info owner</strong></li>\n<li>LISTSERV will reply with the List Owner's Manual</li>\n</ol>\n<p>You can also obtain the owner's manual in PDF format by clicking<br/><a href=\"http://www.lsoft.com/resources/manuals.asp\">http://www.lsoft.com/resources/manuals.asp</a></p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:12",
+    "292bdb4f070fdcc0:13",
+    "292bdb4f070fdcc0:14",
+    "292bdb4f070fdcc0:15",
+    "746a0b6e02ae1da6:12",
+    "746a0b6e02ae1da6:13",
+    "746a0b6e02ae1da6:14",
+    "746a0b6e02ae1da6:15"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

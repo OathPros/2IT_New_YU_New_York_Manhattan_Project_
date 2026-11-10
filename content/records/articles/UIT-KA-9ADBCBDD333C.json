@@ -1,0 +1,32 @@
+{
+  "id": "UIT-KA-9ADBCBDD333C",
+  "slug": "access-outlook-faqs-dd333c",
+  "title": "Access Outlook FAQs",
+  "type": "How to",
+  "service_id": "email",
+  "issue": "Access Outlook FAQs",
+  "environment": [
+    "Email and calendar",
+    "Microsoft Outlook",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<p>To add or remove users to or from a shared mailbox, the owner must submit a request to add/remove users to <a href=\"mailto:askit@yorku.ca\">askit@yorku.ca</a>. The request must include the Passport York username of each user being added/removed</p>\n<p>If you already have requested access a shared mailbox, you can view it by following the <a href=\"http://yuoffice.yorku.ca/accessing-outlook/#squelch-taas-tab-content-0-4\">steps listed here&gt;&gt; </a></p>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "source_block_ids": [
+    "d545c40ef8a2948d:102",
+    "d545c40ef8a2948d:103",
+    "d545c40ef8a2948d:104"
+  ],
+  "captured_at": "2026-11-09T21:47:40.608783+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

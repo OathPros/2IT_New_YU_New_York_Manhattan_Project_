@@ -1,0 +1,30 @@
+{
+  "id": "UIT-KA-96133D1FF9FC",
+  "slug": "why-are-some-attachments-sent-to-me-being-renamed-or-removed-1ff9fc",
+  "title": "Why are some attachments sent to me being renamed or removed",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Why are some attachments sent to me being renamed or removed",
+  "environment": [
+    "Email and calendar",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ul><li>To prevent infection by viruses which send themselves as certain file types attached to email messages, all messages sent to central York email accounts will be scanned for unsafe file types. Depending on the risk, these unsafe files are either renamed to prevent accidental infection, or removed entirely. In almost all cases, these are viruses, not legitimate files</li><li>Note that these unsafe attachments are only renamed or removed on incoming messages to @yorku.ca accounts</li></ul>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/handling-unsafe-email-attachments/"
+  ],
+  "source_block_ids": [
+    "b1b31e6cf58025ae:2",
+    "b1b31e6cf58025ae:3"
+  ],
+  "captured_at": "2026-11-09T21:45:55.895454+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "UIT-KA-20A3133201F7",
+  "slug": "preventing-messages-from-specific-senders-from-being-tagged-as-spam-3201f7",
+  "title": "Preventing messages from specific senders from being tagged as spam",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Preventing messages from specific senders from being tagged as spam",
+  "environment": [
+    "Email and calendar",
+    "Google Mail",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<p>If messages from a sender outside your domain are being incorrectly tagged as spam, you can prevent this from happening by creating an email filter using the <strong>Never send it to Spam</strong> option:</p>\n<p>1. In Gmail, click <strong>Settings &gt; Filters &gt; Create a new filter</strong></p>\n<p>2. Enter the person's address in the <strong>From</strong> field, and then click <strong>Next Step</strong></p>\n<p>3. Select <strong>Never send it to spam</strong>, and then click <strong>Create Filter</strong></p>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "source_block_ids": [
+    "d545c40ef8a2948d:90",
+    "d545c40ef8a2948d:91",
+    "d545c40ef8a2948d:92",
+    "d545c40ef8a2948d:93",
+    "d545c40ef8a2948d:94"
+  ],
+  "captured_at": "2026-11-09T21:47:40.608783+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

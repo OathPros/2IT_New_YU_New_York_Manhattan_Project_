@@ -1,0 +1,38 @@
+{
+  "id": "UIT-KA-D3A81C37377A",
+  "slug": "obtain-documentation-about-listserv-37377a",
+  "title": "Obtain documentation about Listserv",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Obtain documentation about Listserv",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>If you are a new Listserv user, you probably need some general information about Listserv. To obtain a list of available Listserv documentation, mail the command <strong>info<em> </em></strong>to <a href=\"mailto:listserv@yorku.ca\">listserv@yorku.ca</a>. Listserv will reply with a list of commands that you can use to retrieve Listserv information files. Here are some of the commands you will receive</p>\n<figure><table><thead><tr><th>Command</th><th>Description</th></tr></thead><tbody><tr><td><strong>REF</strong>card</td><td>Command Reference card</td></tr><tr><td><strong>PR</strong>esent</td><td>Presentation of Listserv for new users</td></tr><tr><td><strong><em>GEN</em></strong><em>i</em>ntro</td><td>General information about Listserv</td></tr><tr><td><strong>KEY</strong>words</td><td>Describes list header keywords</td></tr><tr><td><strong>FILE</strong>s</td><td>Describes file_server functions</td></tr><tr><td><strong>LP</strong>unch</td><td>Listserv-Punch format</td></tr><tr><td><strong>JOB</strong></td><td>Describes command Jobs feature</td></tr><tr><td><strong>OWN</strong>ers</td><td>Describes list-owners commands</td></tr></tbody></table></figure>\n<p><strong>Note:</strong> For a complete list, order your own <em>info</em> file. If you are new to Listserv, you should order the PResentation or GENintro guides.<br/>When retrieving a Listserv information file, in the body of your mail message issue the <strong>info</strong> command followed by the appropriate command for the document you want to retrieve. For example, to retrieve the GENintro guide, in the body of your mail message you would type <strong>info genintro</strong></p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/"
+  ],
+  "source_block_ids": [
+    "a09e593086326941:37",
+    "a09e593086326941:38",
+    "a09e593086326941:39",
+    "a09e593086326941:40",
+    "d9de6143883bfada:37",
+    "d9de6143883bfada:38",
+    "d9de6143883bfada:39",
+    "d9de6143883bfada:40"
+  ],
+  "captured_at": "2026-11-09T21:48:02.303143+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

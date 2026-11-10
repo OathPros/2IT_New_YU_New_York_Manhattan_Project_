@@ -1,0 +1,35 @@
+{
+  "id": "UIT-KA-FEB4798AE0B2",
+  "slug": "access-undergraduate-students-8ae0b2",
+  "title": "Access Undergraduate Students",
+  "type": "How to",
+  "service_id": "email",
+  "issue": "Access Undergraduate Students",
+  "environment": [
+    "Email and calendar",
+    "Google Mail",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<p>All new students get a Google Apps account automatically when they activate their <strong>Passport York</strong> account via <a href=\"http://mms.yorku.ca/\">Manage My Services</a>. Email address format is username@<strong>my.yorku.ca</strong>.<strong> </strong>In order to access Google Apps at York, Passport York login credentials are required</p>\n<p><a href=\"http://mail.my.yorku.ca/\"> Access Google Mail - mail.my.yorku.ca&gt;&gt;</a></p>\n<p><strong>**Please note</strong> your Undergraduate student email account (username@my.yorku.ca) will remain active and accessible to you until mid-October of the year you graduate or for as long as records reflect that you are an active student with the Registrar’s Office. The system will send out an automated message about the expiry of your computing accounts so that you will be given ample time to forward yourself important emails, and make contacts aware of this change. VP Student Communications will also be sending out reminders throughout the year in their <a href=\"https://thisweek.students.yorku.ca/\">weekly emails</a></p>\n<p><a href=\"https://www.yorku.ca/uit/student-services/passport-york/#accounts-lifecycle\">Click here for more information on accounts lifecycle&gt;&gt;</a></p>\n<p><a href=\"https://www.yorku.ca/uit/student-services/email/#faqs-gmail\"><strong>Click here for FAQs Regarding Email for Undergrad Students&gt;&gt;</strong></a></p>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "source_block_ids": [
+    "d545c40ef8a2948d:11",
+    "d545c40ef8a2948d:12",
+    "d545c40ef8a2948d:13",
+    "d545c40ef8a2948d:14",
+    "d545c40ef8a2948d:15",
+    "d545c40ef8a2948d:16"
+  ],
+  "captured_at": "2026-11-09T21:47:40.608783+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

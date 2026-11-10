@@ -1,0 +1,60 @@
+{
+  "id": "UIT-KA-3B732D8DA1ED",
+  "slug": "add-multiple-subscribers-to-my-list-8da1ed",
+  "title": "Add multiple subscribers to my LIST",
+  "type": "How to",
+  "service_id": "email",
+  "issue": "Add multiple subscribers to my LIST",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>To add multiple subscribers to your LIST send the <strong>bulk-add </strong>command:</p>\n<ol>\n<li>Address your email message to <a href=\"mailto:listserv@yorku.ca\">listserv@yorku.ca</a></li>\n<li>In the body of your email message issue the command:</li>\n</ol>\n<p><strong>QUIET ADD </strong><em>listname</em><strong> DD=X IMPORT PW=</strong><em>yourLISTSERVpassword</em><br/><strong>//X DD * </strong><br/><strong>user1@address </strong><em>Firstname Lastname</em><br/><strong>user2@address </strong><em>Firstname Lastname</em><br/><strong>/*</strong></p>\n<p>where:</p>\n<p><strong>QUIET</strong> is an <em>optional</em> parameter and indicates that no notification or WELCOME message will be sent. After you have added a group of people to a new list, you should send a message to the LIST telling everyone that the LIST is ready</p>\n<p><em>listname</em> is the name of your LIST</p>\n<p><em>yourLISTSERVpassword</em> is your LISTSERV password</p>\n<p><strong>userX@address</strong> is the email address of the user you want to add</p>\n<p><em>Firstname Lastname </em>is replaced with the corresponding subscriber's first and last name</p>\n<p><strong>OR</strong></p>\n<p>Using the <strong>Web interface</strong>:</p>\n<ol>\n<li>Go to <a href=\"http://listserv.yorku.ca\">http://listserv.yorku.ca</a></li>\n<li>Open List Management and select Subscriber Reports</li>\n<li>Select list from drop down menu</li>\n<li>Beside the Add subscriber, click on Bulk Operations</li>\n<li>Click on Browse and locate the plain text file (the input file) with the email addresses and names of the subscribers you want to add to your LIST. Further specifics about the input file see Note section below</li>\n<li>Click Import</li>\n</ol>\n<p><strong>Note:</strong></p>\n<ul>\n<li>The input file must be a <em>plain text</em>file (not a word processor document or spreadsheet) and must contain one address per line, optionally followed with a space (or TAB) and the subscriber's name</li>\n<li>The subscribers being added or deleted will not be notified</li>\n</ul>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:61",
+    "292bdb4f070fdcc0:62",
+    "292bdb4f070fdcc0:63",
+    "292bdb4f070fdcc0:64",
+    "292bdb4f070fdcc0:65",
+    "292bdb4f070fdcc0:66",
+    "292bdb4f070fdcc0:67",
+    "292bdb4f070fdcc0:68",
+    "292bdb4f070fdcc0:69",
+    "292bdb4f070fdcc0:70",
+    "292bdb4f070fdcc0:71",
+    "292bdb4f070fdcc0:72",
+    "292bdb4f070fdcc0:73",
+    "292bdb4f070fdcc0:74",
+    "292bdb4f070fdcc0:75",
+    "746a0b6e02ae1da6:61",
+    "746a0b6e02ae1da6:62",
+    "746a0b6e02ae1da6:63",
+    "746a0b6e02ae1da6:64",
+    "746a0b6e02ae1da6:65",
+    "746a0b6e02ae1da6:66",
+    "746a0b6e02ae1da6:67",
+    "746a0b6e02ae1da6:68",
+    "746a0b6e02ae1da6:69",
+    "746a0b6e02ae1da6:70",
+    "746a0b6e02ae1da6:71",
+    "746a0b6e02ae1da6:72",
+    "746a0b6e02ae1da6:73",
+    "746a0b6e02ae1da6:74",
+    "746a0b6e02ae1da6:75"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "UIT-KA-CE7486AE318E",
+  "slug": "unsubscribe-from-a-list-ae318e",
+  "title": "Unsubscribe from a LIST",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Unsubscribe from a LIST",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ol>\n<li>Address your email message to <a href=\"mailto:listserv@yorku.ca\">listserv@yorku.ca</a></li>\n<li>In the body of your email message issue <strong>one</strong> of the following commands:To remove yourself from <strong>one list</strong>, in the body of your email message issue the following command:<strong>SIGNOFF</strong> <em>listname</em></li>\n</ol>\n<p>To remove yourself from <strong>ALL @yorku.ca </strong>LISTSERVS, in the body of your email message issue the command:</p>\n<p><strong>SIGNOFF *</strong></p>\n<p>where:</p>\n<p><strong>SIGNOFF</strong> is the command you issue to signoff a LIST</p>\n<p><em>listname </em>is the name of the LIST from which you want to remove yourself</p>\n<p><em>*</em> is a wildcard character which indicates ALL lists</p>\n<p>To remove yourself from all lists on the network issue the command:</p>\n<p><strong>SIGNOFF * (NETWIDE F</strong></p>\n<p><strong>OR</strong><br/>Using the <strong>Web interface</strong></p>\n<ol>\n<li>Go to <a href=\"http://listserv.yorku.ca\"><u>http://listserv.yorku.ca</u></a></li>\n<li>open Subscriber Options and click subscriptions</li>\n<li>Select lists you want to unsubscribe from:                                                                                                                                                                              On drop down at bottom of List name column select unsubscribe and click update on bottom right</li>\n</ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:81",
+    "292bdb4f070fdcc0:82",
+    "292bdb4f070fdcc0:83",
+    "292bdb4f070fdcc0:84",
+    "292bdb4f070fdcc0:85",
+    "292bdb4f070fdcc0:86",
+    "292bdb4f070fdcc0:87",
+    "292bdb4f070fdcc0:88",
+    "292bdb4f070fdcc0:89",
+    "292bdb4f070fdcc0:90",
+    "292bdb4f070fdcc0:91",
+    "292bdb4f070fdcc0:92",
+    "746a0b6e02ae1da6:81",
+    "746a0b6e02ae1da6:82",
+    "746a0b6e02ae1da6:83",
+    "746a0b6e02ae1da6:84",
+    "746a0b6e02ae1da6:85",
+    "746a0b6e02ae1da6:86",
+    "746a0b6e02ae1da6:87",
+    "746a0b6e02ae1da6:88",
+    "746a0b6e02ae1da6:89",
+    "746a0b6e02ae1da6:90",
+    "746a0b6e02ae1da6:91",
+    "746a0b6e02ae1da6:92"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

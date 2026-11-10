@@ -1,0 +1,34 @@
+{
+  "id": "UIT-KA-A4ADDCDE2C4B",
+  "slug": "what-is-a-list-de2c4b",
+  "title": "What is a LIST",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "What is a LIST",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>A list is an email address associated with a specific group or subject. If you subscribe to a list you can post information to, and receive information from, other LIST members. Each LISTSERV LISTS is managed by a list owner. The owner defines what the list is about and is responsible for all administrative matters, including answering questions from list subscribers</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/"
+  ],
+  "source_block_ids": [
+    "a09e593086326941:4",
+    "a09e593086326941:5",
+    "d9de6143883bfada:4",
+    "d9de6143883bfada:5"
+  ],
+  "captured_at": "2026-11-09T21:48:02.303143+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

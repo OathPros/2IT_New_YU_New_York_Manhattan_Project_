@@ -1,0 +1,31 @@
+{
+  "id": "UIT-KA-FD6FB3FE76C3",
+  "slug": "size-of-outlook-email-quota-in-microsoft-365-fe76c3",
+  "title": "Size of Outlook email quota in Microsoft 365",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Size of Outlook email quota in Microsoft 365",
+  "environment": [
+    "Email and calendar",
+    "Microsoft Outlook",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>100 GB</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+  ],
+  "source_block_ids": [
+    "ed0c8c78eebe7f59:28",
+    "ed0c8c78eebe7f59:29"
+  ],
+  "captured_at": "2026-11-09T21:45:55.080021+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

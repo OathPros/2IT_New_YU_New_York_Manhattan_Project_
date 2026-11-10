@@ -1,0 +1,33 @@
+{
+  "id": "UIT-KA-C77D2126624D",
+  "slug": "recalling-a-message-that-is-already-sent-26624d",
+  "title": "Recalling a message that is already sent",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Recalling a message that is already sent",
+  "environment": [
+    "Email and calendar",
+    "Google Mail",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Gmail Labs has an early version of a new \"<strong>message undo</strong>\" feature that lets you recall a message within a few seconds after you send it. To enable the feature, open your Gmail <strong>Settings</strong>, go to the <strong>Labs</strong> tab, and enable the <strong>Undo Send</strong> tab</p>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "source_block_ids": [
+    "d545c40ef8a2948d:29",
+    "d545c40ef8a2948d:30"
+  ],
+  "captured_at": "2026-11-09T21:47:40.608783+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": [
+    "obsolete-gmail-interface"
+  ]
+}

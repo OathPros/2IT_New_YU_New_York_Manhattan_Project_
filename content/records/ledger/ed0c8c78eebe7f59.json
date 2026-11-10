@@ -1,0 +1,554 @@
+{
+  "source_id": "ed0c8c78eebe7f59",
+  "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/email/",
+  "title": "Email",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/email/",
+    "/knowledge/access-email-7a94d6/",
+    "/knowledge/faculty-supported-email-accounts-a3282c/",
+    "/knowledge/access-email-lists-listserv-03a0e0/",
+    "/knowledge/listserv-technical-info-d110e9/",
+    "/knowledge/size-of-outlook-email-quota-in-microsoft-365-fe76c3/",
+    "/knowledge/access-email-archive-fbb02a/",
+    "/knowledge/access-archived-calendar-entries-8feac4/",
+    "/knowledge/view-email-older-than-2-years-b9b858/",
+    "/knowledge/recover-deleted-items-in-outlook-7cb9f6/",
+    "/knowledge/sending-automatic-out-of-office-replies-from-outlook-com-or-outlook-on-the-web-2eec2a/",
+    "/knowledge/recover-deleted-items-in-outlook-for-windows-9ca221/",
+    "/knowledge/shared-mailboxes-and-how-to-access-them-814d38/",
+    "/knowledge/access-microsoft-outlook-faqs-934d4f/",
+    "/knowledge/requesting-access-57c2ce/",
+    "/knowledge/create-an-email-message-template-2b8b86/",
+    "/knowledge/delegating-access-to-your-email-a3ae6e/",
+    "/knowledge/create-an-email-signature-286cdc/",
+    "/knowledge/email-size-286108/",
+    "/knowledge/maximum-size-for-an-incoming-or-outgoing-message-e36c6e/",
+    "/knowledge/limit-to-postings-per-day-d72260/"
+  ],
+  "assignments": [
+    {
+      "block_id": "ed0c8c78eebe7f59:0",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:1",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:2",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:3",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:4",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:5",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:6",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:7",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:8",
+      "destination": "/knowledge/access-email-7a94d6/",
+      "article_id": "UIT-KA-91D12C7A94D6",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:9",
+      "destination": "/knowledge/access-email-7a94d6/",
+      "article_id": "UIT-KA-91D12C7A94D6",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:10",
+      "destination": "/knowledge/access-email-7a94d6/",
+      "article_id": "UIT-KA-91D12C7A94D6",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:11",
+      "destination": "/knowledge/faculty-supported-email-accounts-a3282c/",
+      "article_id": "UIT-KA-D09064A3282C",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:12",
+      "destination": "/knowledge/faculty-supported-email-accounts-a3282c/",
+      "article_id": "UIT-KA-D09064A3282C",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:13",
+      "destination": "/knowledge/faculty-supported-email-accounts-a3282c/",
+      "article_id": "UIT-KA-D09064A3282C",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:14",
+      "destination": "/knowledge/faculty-supported-email-accounts-a3282c/",
+      "article_id": "UIT-KA-D09064A3282C",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:15",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:16",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:17",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:18",
+      "destination": "/knowledge/access-email-lists-listserv-03a0e0/",
+      "article_id": "UIT-KA-4DBB1C03A0E0",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:19",
+      "destination": "/knowledge/access-email-lists-listserv-03a0e0/",
+      "article_id": "UIT-KA-4DBB1C03A0E0",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:20",
+      "destination": "/knowledge/access-email-lists-listserv-03a0e0/",
+      "article_id": "UIT-KA-4DBB1C03A0E0",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:21",
+      "destination": "/knowledge/access-email-lists-listserv-03a0e0/",
+      "article_id": "UIT-KA-4DBB1C03A0E0",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:22",
+      "destination": "/knowledge/access-email-lists-listserv-03a0e0/",
+      "article_id": "UIT-KA-4DBB1C03A0E0",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:23",
+      "destination": "/knowledge/listserv-technical-info-d110e9/",
+      "article_id": "UIT-KA-BF484DD110E9",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:24",
+      "destination": "/knowledge/listserv-technical-info-d110e9/",
+      "article_id": "UIT-KA-BF484DD110E9",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:25",
+      "destination": "/knowledge/listserv-technical-info-d110e9/",
+      "article_id": "UIT-KA-BF484DD110E9",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:26",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:27",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:28",
+      "destination": "/knowledge/size-of-outlook-email-quota-in-microsoft-365-fe76c3/",
+      "article_id": "UIT-KA-FD6FB3FE76C3",
+      "anchors": [
+        "faqs-outlook",
+        "outlook-email-quota"
+      ]
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:29",
+      "destination": "/knowledge/size-of-outlook-email-quota-in-microsoft-365-fe76c3/",
+      "article_id": "UIT-KA-FD6FB3FE76C3",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:30",
+      "destination": "/knowledge/access-email-archive-fbb02a/",
+      "article_id": "UIT-KA-5FCCE6FBB02A",
+      "anchors": [
+        "Accessing-email"
+      ]
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:31",
+      "destination": "/knowledge/access-email-archive-fbb02a/",
+      "article_id": "UIT-KA-5FCCE6FBB02A",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:32",
+      "destination": "/knowledge/access-archived-calendar-entries-8feac4/",
+      "article_id": "UIT-KA-B142BA8FEAC4",
+      "anchors": [
+        "Archived-Calendar"
+      ]
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:33",
+      "destination": "/knowledge/access-archived-calendar-entries-8feac4/",
+      "article_id": "UIT-KA-B142BA8FEAC4",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:34",
+      "destination": "/knowledge/access-archived-calendar-entries-8feac4/",
+      "article_id": "UIT-KA-B142BA8FEAC4",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:35",
+      "destination": "/knowledge/access-archived-calendar-entries-8feac4/",
+      "article_id": "UIT-KA-B142BA8FEAC4",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:36",
+      "destination": "/knowledge/access-archived-calendar-entries-8feac4/",
+      "article_id": "UIT-KA-B142BA8FEAC4",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:37",
+      "destination": "/knowledge/access-archived-calendar-entries-8feac4/",
+      "article_id": "UIT-KA-B142BA8FEAC4",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:38",
+      "destination": "/knowledge/access-archived-calendar-entries-8feac4/",
+      "article_id": "UIT-KA-B142BA8FEAC4",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:39",
+      "destination": "/knowledge/access-archived-calendar-entries-8feac4/",
+      "article_id": "UIT-KA-B142BA8FEAC4",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:40",
+      "destination": "/knowledge/access-archived-calendar-entries-8feac4/",
+      "article_id": "UIT-KA-B142BA8FEAC4",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:41",
+      "destination": "/knowledge/access-archived-calendar-entries-8feac4/",
+      "article_id": "UIT-KA-B142BA8FEAC4",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:42",
+      "destination": "/knowledge/access-archived-calendar-entries-8feac4/",
+      "article_id": "UIT-KA-B142BA8FEAC4",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:43",
+      "destination": "/knowledge/access-archived-calendar-entries-8feac4/",
+      "article_id": "UIT-KA-B142BA8FEAC4",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:44",
+      "destination": "/knowledge/access-archived-calendar-entries-8feac4/",
+      "article_id": "UIT-KA-B142BA8FEAC4",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:45",
+      "destination": "/knowledge/access-archived-calendar-entries-8feac4/",
+      "article_id": "UIT-KA-B142BA8FEAC4",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:46",
+      "destination": "/knowledge/access-archived-calendar-entries-8feac4/",
+      "article_id": "UIT-KA-B142BA8FEAC4",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:47",
+      "destination": "/knowledge/access-archived-calendar-entries-8feac4/",
+      "article_id": "UIT-KA-B142BA8FEAC4",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:48",
+      "destination": "/knowledge/view-email-older-than-2-years-b9b858/",
+      "article_id": "UIT-KA-B05690B9B858",
+      "anchors": [
+        "outlook-email-quota"
+      ]
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:49",
+      "destination": "/knowledge/view-email-older-than-2-years-b9b858/",
+      "article_id": "UIT-KA-B05690B9B858",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:50",
+      "destination": "/knowledge/view-email-older-than-2-years-b9b858/",
+      "article_id": "UIT-KA-B05690B9B858",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:51",
+      "destination": "/knowledge/recover-deleted-items-in-outlook-7cb9f6/",
+      "article_id": "UIT-KA-2547027CB9F6",
+      "anchors": [
+        "outlook-deleted-items"
+      ]
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:52",
+      "destination": "/knowledge/recover-deleted-items-in-outlook-7cb9f6/",
+      "article_id": "UIT-KA-2547027CB9F6",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:53",
+      "destination": "/knowledge/sending-automatic-out-of-office-replies-from-outlook-com-or-outlook-on-the-web-2eec2a/",
+      "article_id": "UIT-KA-0546302EEC2A",
+      "anchors": [
+        "outlook-automatic-reply"
+      ]
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:54",
+      "destination": "/knowledge/sending-automatic-out-of-office-replies-from-outlook-com-or-outlook-on-the-web-2eec2a/",
+      "article_id": "UIT-KA-0546302EEC2A",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:55",
+      "destination": "/knowledge/recover-deleted-items-in-outlook-for-windows-9ca221/",
+      "article_id": "UIT-KA-6C8DF99CA221",
+      "anchors": [
+        "outlook-recover-deleted"
+      ]
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:56",
+      "destination": "/knowledge/recover-deleted-items-in-outlook-for-windows-9ca221/",
+      "article_id": "UIT-KA-6C8DF99CA221",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:57",
+      "destination": "/knowledge/shared-mailboxes-and-how-to-access-them-814d38/",
+      "article_id": "UIT-KA-BDDFC8814D38",
+      "anchors": [
+        "outlook-shared-mailbox"
+      ]
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:58",
+      "destination": "/knowledge/shared-mailboxes-and-how-to-access-them-814d38/",
+      "article_id": "UIT-KA-BDDFC8814D38",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:59",
+      "destination": "/knowledge/shared-mailboxes-and-how-to-access-them-814d38/",
+      "article_id": "UIT-KA-BDDFC8814D38",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:60",
+      "destination": "/knowledge/shared-mailboxes-and-how-to-access-them-814d38/",
+      "article_id": "UIT-KA-BDDFC8814D38",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:61",
+      "destination": "/knowledge/access-microsoft-outlook-faqs-934d4f/",
+      "article_id": "UIT-KA-029AE4934D4F",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:62",
+      "destination": "/knowledge/access-microsoft-outlook-faqs-934d4f/",
+      "article_id": "UIT-KA-029AE4934D4F",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:63",
+      "destination": "/knowledge/access-microsoft-outlook-faqs-934d4f/",
+      "article_id": "UIT-KA-029AE4934D4F",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:64",
+      "destination": "/knowledge/requesting-access-57c2ce/",
+      "article_id": "UIT-KA-7E496B57C2CE",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:65",
+      "destination": "/knowledge/requesting-access-57c2ce/",
+      "article_id": "UIT-KA-7E496B57C2CE",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:66",
+      "destination": "/knowledge/create-an-email-message-template-2b8b86/",
+      "article_id": "UIT-KA-B81CAF2B8B86",
+      "anchors": [
+        "outlook-message-template"
+      ]
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:67",
+      "destination": "/knowledge/create-an-email-message-template-2b8b86/",
+      "article_id": "UIT-KA-B81CAF2B8B86",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:68",
+      "destination": "/knowledge/delegating-access-to-your-email-a3ae6e/",
+      "article_id": "UIT-KA-36FE38A3AE6E",
+      "anchors": [
+        "outlook-delegate-access"
+      ]
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:69",
+      "destination": "/knowledge/delegating-access-to-your-email-a3ae6e/",
+      "article_id": "UIT-KA-36FE38A3AE6E",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:70",
+      "destination": "/knowledge/create-an-email-signature-286cdc/",
+      "article_id": "UIT-KA-9B42BE286CDC",
+      "anchors": [
+        "outlook-email-signature"
+      ]
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:71",
+      "destination": "/knowledge/create-an-email-signature-286cdc/",
+      "article_id": "UIT-KA-9B42BE286CDC",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:72",
+      "destination": "/knowledge/email-size-286108/",
+      "article_id": "UIT-KA-B1C252286108",
+      "anchors": [
+        "outlook-email-signature"
+      ]
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:73",
+      "destination": "/knowledge/email-size-286108/",
+      "article_id": "UIT-KA-B1C252286108",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:74",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:75",
+      "destination": "/knowledge/maximum-size-for-an-incoming-or-outgoing-message-e36c6e/",
+      "article_id": "UIT-KA-4947F5E36C6E",
+      "anchors": [
+        "faqs-list-serv",
+        "listserve-max-size"
+      ]
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:76",
+      "destination": "/knowledge/maximum-size-for-an-incoming-or-outgoing-message-e36c6e/",
+      "article_id": "UIT-KA-4947F5E36C6E",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:77",
+      "destination": "/knowledge/limit-to-postings-per-day-d72260/",
+      "article_id": "UIT-KA-48FA49D72260",
+      "anchors": [
+        "listserve-limit-per-day"
+      ]
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:78",
+      "destination": "/knowledge/limit-to-postings-per-day-d72260/",
+      "article_id": "UIT-KA-48FA49D72260",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:79",
+      "destination": "/knowledge/limit-to-postings-per-day-d72260/",
+      "article_id": "UIT-KA-48FA49D72260",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:80",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:81",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:82",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:83",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "ed0c8c78eebe7f59:84",
+      "destination": "navigation",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 85
+}

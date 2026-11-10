@@ -1,0 +1,31 @@
+{
+  "id": "UIT-KA-91D12C7A94D6",
+  "slug": "access-email-7a94d6",
+  "title": "Access Email",
+  "type": "How to",
+  "service_id": "email",
+  "issue": "Access Email",
+  "environment": [
+    "Email and calendar",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>To download Outlook, please follow the <a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/software-and-apps/#microsoft-365\">instructions he</a><a href=\"https://www.yorku.ca/uit/faculty-staff-services/software-and-apps/#software-microsoft\">r</a><a href=\"https://www.yorku.ca/uit/student-services/software-and-apps-for-students/#microsoft-365\">e&gt;&gt;</a></p>\n<p>Log in to Outlook&gt;&gt;</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+  ],
+  "source_block_ids": [
+    "ed0c8c78eebe7f59:8",
+    "ed0c8c78eebe7f59:9",
+    "ed0c8c78eebe7f59:10"
+  ],
+  "captured_at": "2026-11-09T21:45:55.080021+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

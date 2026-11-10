@@ -1,0 +1,38 @@
+{
+  "id": "UIT-KA-9CF4D328E36F",
+  "slug": "send-email-to-the-list-owner-only-28e36f",
+  "title": "Send email to the LIST owner only",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Send email to the LIST owner only",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Send email to:</p>\n<p><strong><a href=\"mailto:listname-request@yorku.ca\">listname-request@yorku.ca</a></strong>where</p>\n<p><em><strong>listname</strong></em> is the name of the LISTSERV whose owner you wish to contact</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:145",
+    "292bdb4f070fdcc0:146",
+    "292bdb4f070fdcc0:147",
+    "292bdb4f070fdcc0:148",
+    "746a0b6e02ae1da6:145",
+    "746a0b6e02ae1da6:146",
+    "746a0b6e02ae1da6:147",
+    "746a0b6e02ae1da6:148"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

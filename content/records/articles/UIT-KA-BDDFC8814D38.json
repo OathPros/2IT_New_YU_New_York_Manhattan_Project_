@@ -1,0 +1,33 @@
+{
+  "id": "UIT-KA-BDDFC8814D38",
+  "slug": "shared-mailboxes-and-how-to-access-them-814d38",
+  "title": "Shared mailboxes and how to access them",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Shared mailboxes and how to access them",
+  "environment": [
+    "Email and calendar",
+    "Microsoft Outlook",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ul>\n<li>A shared mailbox is a term for a secondary account. These accounts are typically accessed by multiple people</li>\n<li>Users who are granted access to a shared mailbox will see the shared account below their primary account when they log in to Outlook</li>\n</ul>\n<p>The table below explains the differences between Primary and Secondary accounts:</p>\n<figure><table><tbody><tr><td><strong><em>Account Features</em></strong></td><td><strong>Primary Account (Personal Email)</strong></td><td><strong>Secondary Account (Shared Mailbox)</strong></td></tr><tr><td><em>Login directly to M365</em></td><td>Yes (Passport York authenticated)</td><td>No (users with permissions can access the shared mail via their personal account. Must be on M365)</td></tr><tr><td><em>Mailbox size</em></td><td>100 GB</td><td>50 GB</td></tr><tr><td><em>Archive mail (no quota)</em></td><td>Yes</td><td>No</td></tr><tr><td><em>Granting access</em></td><td>User can delegate access to other users</td><td>User must submit a ticket requesting access</td></tr><tr><td><em>Delegation features</em></td><td>Users can provide folder-level access, and granular calendar access (view/edit access)</td><td>Only users with full access permissions can provide shared mailboxes multi-level or granular access to folders and calendars</td></tr><tr><td><em>Send As / Send on Behalf of</em></td><td>Yes</td><td>Yes</td></tr><tr><td><em>Auto-reply</em></td><td>Can be set by primary users</td><td>Can be set by primary users through the Outlook Web App</td></tr><tr><td><em>Forwarding</em></td><td>Yes</td><td>Yes</td></tr><tr><td><em>Group membership</em></td><td>Can be added as a member to all group types</td><td>Can be added as a member of a distribution list but not a security group</td></tr><tr><td><em>Accessible via Mobile Client</em></td><td>Yes. Can be accessed via IOS/Android client, and can have multiple accounts attached</td><td>Can be accessed via IOS/Android client, and can have multiple accounts attached</td></tr><tr><td><em>Outlook desktop configuration impact</em></td><td>Yes. If multiple accounts are configured, may become temporarily unstable</td><td>Yes. During the adding process, the Outlook client freezes temporarily. Normal function will restore automatically shortly after</td></tr><tr><td><em>Mail sent from account</em></td><td>By default, stored in the user’s personal <strong>Sent Folder</strong>, but by request (via ticket) sent mail can be stored in a delegate’s sent folder</td><td>By default, sent mail is stored in the sender’s personal <strong>Sent Folder</strong>, but by request (via ticket) sent mail can be stored in the shared mailbox’s sent folder</td></tr><tr><td><em>IMAP access</em></td><td>Yes</td><td>No</td></tr><tr><td><em>Account Type</em></td><td>Requires a PY account associated with the owner</td><td>A secondary account is generally used by a department or for a course</td></tr><tr><td><em>Granted York Services</em></td><td>Yes</td><td>Central Web and Shared Mailbox services only</td></tr></tbody></table></figure>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+  ],
+  "source_block_ids": [
+    "ed0c8c78eebe7f59:57",
+    "ed0c8c78eebe7f59:58",
+    "ed0c8c78eebe7f59:59",
+    "ed0c8c78eebe7f59:60"
+  ],
+  "captured_at": "2026-11-09T21:45:55.080021+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

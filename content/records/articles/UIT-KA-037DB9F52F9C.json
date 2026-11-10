@@ -1,0 +1,46 @@
+{
+  "id": "UIT-KA-037DB9F52F9C",
+  "slug": "get-a-copy-of-my-own-posts-back-from-the-list-after-they-are-processed-f52f9c",
+  "title": "Get a copy of my own posts back from the LIST after they are processed",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Get a copy of my own posts back from the LIST after they are processed",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ul>\n<li>For subscribers to get copies of their posts back from the LIST after they are processed, the LIST OWNER must set the REPRO command</li>\n<li>If the OWNER has set the default to REPRO <strong>before</strong> subscribers join the LIST, then the subscribers will receive a copy of the all the emails that they send to the list</li>\n<li>However, if the OWNER does not set the default to REPRO, or if it is set <strong>after</strong> subscribes join the LIST, all subscribers that had joined prior to the default being set to REPRO must set the REPRO command for themselves or have the list owner set it for them</li>\n</ul>\n<p>To set your own REPRO command a subscriber must:</p>\n<ol>\n<li>Address an email message to <a href=\"mailto:listserv@yorku.ca\">listserv@yorku.ca</a></li>\n<li>In the body of the email message issue the command:<strong>SET </strong><em>listname</em><strong> REPRO </strong>where: <em>listname</em> is the actual LIST name</li>\n</ol>\n<p>To set the default option to REPRO for <strong>every future subscriber</strong>, the LIST OWNER must:</p>\n<ol>\n<li>Go to <a href=\"http://listserv.yorku.ca\">http://listserv.yorku.ca</a></li>\n<li>open List Management and select List Configuration</li>\n<li>select list from drop down menu</li>\n<li>click Subscriptions</li>\n<li>In the box beside Default-Options= add REPRO and click update</li>\n</ol>\n<p>To set the REPRO command for <strong>current individual subscribers </strong>(or subscribers who joined the list prior to you setting the default option to REPRO)</p>\n<ol>\n<li>Go to <a href=\"http://listserv.yorku.ca/\">http://listserv.yorku.ca</a></li>\n<li>Open List Management and Select Subscriber Reports</li>\n<li>Select List from drop down menu</li>\n<li>Select the Subscriber</li>\n<li>Beside the Acknowledgements Heading ensure Receive Copy of Own Posting is selected then click the update Settings button</li>\n</ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:134",
+    "292bdb4f070fdcc0:135",
+    "292bdb4f070fdcc0:136",
+    "292bdb4f070fdcc0:137",
+    "292bdb4f070fdcc0:138",
+    "292bdb4f070fdcc0:139",
+    "292bdb4f070fdcc0:140",
+    "292bdb4f070fdcc0:141",
+    "746a0b6e02ae1da6:134",
+    "746a0b6e02ae1da6:135",
+    "746a0b6e02ae1da6:136",
+    "746a0b6e02ae1da6:137",
+    "746a0b6e02ae1da6:138",
+    "746a0b6e02ae1da6:139",
+    "746a0b6e02ae1da6:140",
+    "746a0b6e02ae1da6:141"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

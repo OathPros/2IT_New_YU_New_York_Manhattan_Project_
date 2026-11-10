@@ -1,0 +1,46 @@
+{
+  "id": "UIT-KA-A01163B819E1",
+  "slug": "stop-someone-from-subscribing-or-posting-to-my-list-b819e1",
+  "title": "Stop someone from subscribing or posting to my LIST",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Stop someone from subscribing or posting to my LIST",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>To stop someone from subscribing or posting to your LIST, you must add the Filter command to your LIST header</p>\n<ol>\n<li>Proceed to <a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#change_header\">obtain your LIST header information</a> as outlined above</li>\n<li>Once the LISTSERV sends you your LIST header, add the following command to the header:<strong>Filter= Also</strong>, <em>email@address, email@address</em>where:<em>email@address </em>represents the email address(es) you would like to stop from subscribing or posting to your LIST.You can filter as many email addresses as you like, just make sure you place a comma after each address.The following is a sample LIST header with the <strong>filter</strong> command added. The filter command appears at the bottom of the list (appears in bold):<em>PUT TEST2 PW=* * * * * * * * </em>(replace ' * 's with your current LIST password)*<br/><em>* Title of sample LISTSERV list -- SAMPLELIST<br/>*<br/>* Review= OWNER Send= PRIVATE<br/>* Subscription= By_owner<br/>* Notify= Yes Reply-to= List,Respect Files= No<br/>* Stats= Normal,Private<br/>* Notebook= Yes,/usr/users/LISTSERV/archive/test2,Monthly,Public<br/>* Default-Options= REPRO<br/>* Loopcheck= Nobody<br/>*<br/>* <strong>Filter= Also, @yorku.ca, test@yorku.ca, xyz@yorku.ca</strong><br/>*</em></li>\n<li>Forward the message back to LISTSERV after making desired changes to the header information.<br/>Make sure to replace <strong>' * '</strong>s in <strong>PW=******</strong> with your current LIST password</li>\n</ol>\n<p><strong>OR</strong></p>\n<p>Using the <strong>Web Interface</strong> (i.e. web browser)</p>\n<p>Go to <a href=\"http://listserv.yorku.ca\"><u>http://listserv.yorku.ca</u></a></p>\n<ol>\n<li>Open List Management and select List Configuration</li>\n<li>Select list from drop down menu</li>\n<li>Click My Configuration and select Edit Manually</li>\n<li>Edit list header by adding Filter = Also, followed by the email addresses that you want to block from subscribing from your list and click update</li>\n</ol>\n<p>Note: If an email address you wish to filter is currently subscribed to your LIST, you must <u>unsubscribe</u> that address from the LIST manually after setting the filter command</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:161",
+    "292bdb4f070fdcc0:162",
+    "292bdb4f070fdcc0:163",
+    "292bdb4f070fdcc0:164",
+    "292bdb4f070fdcc0:165",
+    "292bdb4f070fdcc0:166",
+    "292bdb4f070fdcc0:167",
+    "292bdb4f070fdcc0:168",
+    "746a0b6e02ae1da6:161",
+    "746a0b6e02ae1da6:162",
+    "746a0b6e02ae1da6:163",
+    "746a0b6e02ae1da6:164",
+    "746a0b6e02ae1da6:165",
+    "746a0b6e02ae1da6:166",
+    "746a0b6e02ae1da6:167",
+    "746a0b6e02ae1da6:168"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

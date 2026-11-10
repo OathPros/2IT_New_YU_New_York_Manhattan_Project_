@@ -1,0 +1,31 @@
+{
+  "id": "UIT-KA-0546302EEC2A",
+  "slug": "sending-automatic-out-of-office-replies-from-outlook-com-or-outlook-on-the-web-2eec2a",
+  "title": "Sending automatic out of office replies from Outlook com or Outlook on the web",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Sending automatic out of office replies from Outlook com or Outlook on the web",
+  "environment": [
+    "Email and calendar",
+    "Microsoft Outlook",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p><a href=\"https://support.microsoft.com/en-us/office/send-automatic-out-of-office-replies-from-outlook-com-or-outlook-on-the-web-0c193ab0-b9e1-4058-84be-a5b014242290?ui=en-us&amp;rs=en-us&amp;ad=us\">Instructions&gt;&gt;</a> </p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+  ],
+  "source_block_ids": [
+    "ed0c8c78eebe7f59:53",
+    "ed0c8c78eebe7f59:54"
+  ],
+  "captured_at": "2026-11-09T21:45:55.080021+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

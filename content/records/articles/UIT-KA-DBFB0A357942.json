@@ -1,0 +1,31 @@
+{
+  "id": "UIT-KA-DBFB0A357942",
+  "slug": "organize-messages-in-gmail-357942",
+  "title": "Organize messages in Gmail",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Organize messages in Gmail",
+  "environment": [
+    "Email and calendar",
+    "Google Mail",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Instead of folders, Gmail has a \"<strong>labels</strong>\" feature. Labels are similar to folders, but are more powerful and flexible, because you can add multiple labels to a message to categorize it in several ways. Gmail supports a maximum of 5,000 labels, including sub-labels. For details, see the <a href=\"http://mail.google.com/support/bin/answer.py?hl=en&amp;answer=6560\">Gmail Help Center&gt;&gt;</a></p>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "source_block_ids": [
+    "d545c40ef8a2948d:73",
+    "d545c40ef8a2948d:74"
+  ],
+  "captured_at": "2026-11-09T21:47:40.608783+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

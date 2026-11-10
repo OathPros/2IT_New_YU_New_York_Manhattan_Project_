@@ -1,0 +1,32 @@
+{
+  "id": "UIT-KA-8AD1D77DF30D",
+  "slug": "size-or-type-limitation-for-file-attachments-in-gmail-7df30d",
+  "title": "Size or type limitation for file attachments in Gmail",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Size or type limitation for file attachments in Gmail",
+  "environment": [
+    "Email and calendar",
+    "Google Mail",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<p>To help prevent viruses, Gmail won't accept file attachments that are executable files. There's also a 25 MB size limitation for attachments. For details, see the <a href=\"http://mail.google.com/support/bin/answer.py?hl=en&amp;answer=6590\">Gmail Help Center&gt;&gt;</a></p>\n<p>If you would like to send a larger attachment you can use <a href=\"https://www.yorku.ca/uit/student-services/software-and-apps/#myapps\">MyApps</a> to access and transfer files</p>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "source_block_ids": [
+    "d545c40ef8a2948d:70",
+    "d545c40ef8a2948d:71",
+    "d545c40ef8a2948d:72"
+  ],
+  "captured_at": "2026-11-09T21:47:40.608783+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

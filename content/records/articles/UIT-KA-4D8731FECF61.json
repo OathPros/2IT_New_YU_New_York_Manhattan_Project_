@@ -1,0 +1,36 @@
+{
+  "id": "UIT-KA-4D8731FECF61",
+  "slug": "prevent-my-list-from-appearing-on-yorks-listserv-index-fecf61",
+  "title": "Prevent my LIST from appearing on Yorks LISTSERV index",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Prevent my LIST from appearing on Yorks LISTSERV index",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Using the <strong>Web interface</strong></p>\n<ol>\n<li>Go to <a href=\"http://listserv.yorku.ca/\">http://listserv.yorku.ca</a></li>\n<li>Open List Management and select List Configuration</li>\n<li>Select list from drop down menu</li>\n<li>Click Security</li>\n<li>Set drop down menu by Confidential= to Yes and click Update</li>\n</ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:131",
+    "292bdb4f070fdcc0:132",
+    "292bdb4f070fdcc0:133",
+    "746a0b6e02ae1da6:131",
+    "746a0b6e02ae1da6:132",
+    "746a0b6e02ae1da6:133"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

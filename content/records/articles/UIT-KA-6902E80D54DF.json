@@ -1,0 +1,40 @@
+{
+  "id": "UIT-KA-6902E80D54DF",
+  "slug": "setup-the-listserv-so-i-can-see-the-ccd-email-addresses-when-i-receive-an-email-from-a-listserv-0d54df",
+  "title": "Setup the LISTSERV so I can see the ccd email addresses when I receive an email from a LISTSERV",
+  "type": "How to",
+  "service_id": "email",
+  "issue": "Setup the LISTSERV so I can see the ccd email addresses when I receive an email from a LISTSERV",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>By default cc'd email addresses are not visible. To make them visible you can send the following email to <a href=\"mailto:listserv@yorku.ca\">listserv@yorku.ca</a> to be able to view the cc'd email addresses going forward:</p>\n<p>set [listname] IETFHDR</p>\n<p>There should be nothing else in the subject or body of the email</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/wp-content/plugins/yu-blockpatterns/img/learnmore.png\"/></figure>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/"
+  ],
+  "source_block_ids": [
+    "a09e593086326941:41",
+    "a09e593086326941:42",
+    "a09e593086326941:43",
+    "a09e593086326941:44",
+    "a09e593086326941:45",
+    "d9de6143883bfada:41",
+    "d9de6143883bfada:42",
+    "d9de6143883bfada:43",
+    "d9de6143883bfada:44",
+    "d9de6143883bfada:45"
+  ],
+  "captured_at": "2026-11-09T21:48:02.303143+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

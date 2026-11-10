@@ -1,0 +1,32 @@
+{
+  "id": "UIT-KA-1A9CEB42A7E7",
+  "slug": "messages-in-trash-42a7e7",
+  "title": "Messages in trash",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Messages in trash",
+  "environment": [
+    "Email and calendar",
+    "Google Mail",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Messages remain in the Trash for 30 days. After that, Gmail permanently deletes them</p>\n<p>If you want to remove a message from trash find the message in the Trash and select it. Then, in the <strong>Move to</strong> drop-down list at the top of the Mail window, select <strong>Inbox</strong></p>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "source_block_ids": [
+    "d545c40ef8a2948d:83",
+    "d545c40ef8a2948d:84",
+    "d545c40ef8a2948d:85"
+  ],
+  "captured_at": "2026-11-09T21:47:40.608783+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

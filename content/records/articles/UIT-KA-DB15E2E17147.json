@@ -1,0 +1,31 @@
+{
+  "id": "UIT-KA-DB15E2E17147",
+  "slug": "outlook-mobile-e17147",
+  "title": "Outlook Mobile",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Outlook Mobile",
+  "environment": [
+    "Email and calendar",
+    "Microsoft Outlook",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>As soon as you suspect that you received a phishing email, report it</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/report-phishing-email/"
+  ],
+  "source_block_ids": [
+    "3e5c3c2eceb1c984:19",
+    "3e5c3c2eceb1c984:20"
+  ],
+  "captured_at": "2026-11-09T21:46:49.779182+00:00",
+  "source_modified_at": "2026-05-06T20:13:38+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

@@ -1,0 +1,177 @@
+{
+  "source_id": "5be1d0a8e0fa1e16",
+  "source_url": "https://www.yorku.ca/uit/infosec/issues-with-email-on-my-smartphone-tablet/",
+  "title": "Issues with email on my smartphone/tablet.",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/email/",
+    "/knowledge/android-users-4c729c/",
+    "/knowledge/ios-users-30c1e6/"
+  ],
+  "assignments": [
+    {
+      "block_id": "5be1d0a8e0fa1e16:0",
+      "destination": "/knowledge/android-users-4c729c/",
+      "article_id": "UIT-KA-00EBDB4C729C",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:1",
+      "destination": "/knowledge/android-users-4c729c/",
+      "article_id": "UIT-KA-00EBDB4C729C",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:2",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:3",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:4",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:5",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:6",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:7",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:8",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:9",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:10",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:11",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:12",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:13",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:14",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:15",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:16",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:17",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:18",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:19",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:20",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:21",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:22",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:23",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:24",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:25",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    },
+    {
+      "block_id": "5be1d0a8e0fa1e16:26",
+      "destination": "/knowledge/ios-users-30c1e6/",
+      "article_id": "UIT-KA-4A988830C1E6",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 27
+}

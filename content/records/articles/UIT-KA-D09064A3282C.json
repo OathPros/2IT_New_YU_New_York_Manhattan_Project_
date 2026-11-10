@@ -1,0 +1,32 @@
+{
+  "id": "UIT-KA-D09064A3282C",
+  "slug": "faculty-supported-email-accounts-a3282c",
+  "title": "Faculty Supported Email Accounts",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Faculty Supported Email Accounts",
+  "environment": [
+    "Email and calendar",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Please contact your faculty helpdesk for assistance with Faculty-specific email accounts</p>\n<ul>\n<li><a href=\"https://schulich.yorku.ca/ist/\">Schulich Email</a> - ends in @schulich.yorku.ca </li>\n<li><a href=\"https://www.osgoode.yorku.ca/my/information-technology-services/services-faculty-staff/collaboration-and-messaging/email-calendar/\">Osgoode Email</a> - ends in @osgoode.yorku.ca </li>\n<li><a href=\"https://www.yorku.ca/edu/students/it-services/\">Faculty of Education Email</a> - ends in @edu.yorku.ca </li>\n</ul>\n<p><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/email/#faqs-outlook\"><strong>Click here for Email FAQs&gt;&gt;</strong></a></p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+  ],
+  "source_block_ids": [
+    "ed0c8c78eebe7f59:11",
+    "ed0c8c78eebe7f59:12",
+    "ed0c8c78eebe7f59:13",
+    "ed0c8c78eebe7f59:14"
+  ],
+  "captured_at": "2026-11-09T21:45:55.080021+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

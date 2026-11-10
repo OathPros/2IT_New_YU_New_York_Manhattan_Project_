@@ -1,0 +1,42 @@
+{
+  "id": "UIT-KA-D129B5038CBD",
+  "slug": "add-or-remove-a-list-owner-s-038cbd",
+  "title": "Add or remove a LIST Owner s",
+  "type": "How to",
+  "service_id": "email",
+  "issue": "Add or remove a LIST Owner s",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>To add or remove a LIST owner(s):</p>\n<ol>\n<li>Proceed to <a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#change_header\">obtain your LIST header information</a> as outlined above</li>\n<li>Once the LISTSERV sends you your LIST header, you can edit the header information</li>\n<li>To add a co-owner(s), issue the command:<strong>Owner = </strong><em>co-owner@address</em>where:<strong>Owner =</strong> is the owner command option in the LIST header.<em>co-owner@address</em> is the email address of the person you want to make the co-owner of your LIST.You can add as many owners as you like, just make sure you enter each one on a separate line.The following is a sample LIST header with co-owners added. The new owner information is added at the bottom of the LIST (appears in bold). To remove a LIST owner, delete the email address of the owner to be removed.<br/>\n<p><em>PUT TEST2 PW=* * * * * * * * </em>(replace ' * 's with your current LIST password)</p>\n<p>*<br/><em>* Title of sample LISTSERV list -- SAMPLELIST<br/>*<br/>* Review= OWNER Subscription= By_owner Send= PRIVATE<br/>* Notify= Yes Reply-to= List,Respect Files= No<br/>* Stats= Normal,Private<br/>* Notebook= Yes,/usr/users/LISTSERV/archive/test2,Monthly,Public<br/>* Default-Options=<br/>* Loopcheck= Nobody<br/>*<br/>* <strong>Owner= xyz@example.com</strong><br/>* <strong>Owner= abc@example.com</strong><br/>*</em></p>\n</li>\n<li>Forward the message back to LISTSERV after making desired changes to the header information.<br/>Make sure to replace <strong>' * '</strong>s in <strong>PW=******</strong> with your current LIST password</li>\n</ol>\n<p><strong>OR</strong></p>\n<p>Using the <strong>Web Interface</strong> (i.e. web browser)</p>\n<ol>\n<li>Go to <a href=\"http://listserv.yorku.ca/\">http://listserv.yorku.ca</a></li>\n<li>Open List Management and select List Configuration</li>\n<li>Select list from drop down menu</li>\n<li>Click Administrators</li>\n<li>Edit entries beside Owner= and click update</li>\n</ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:155",
+    "292bdb4f070fdcc0:156",
+    "292bdb4f070fdcc0:157",
+    "292bdb4f070fdcc0:158",
+    "292bdb4f070fdcc0:159",
+    "292bdb4f070fdcc0:160",
+    "746a0b6e02ae1da6:155",
+    "746a0b6e02ae1da6:156",
+    "746a0b6e02ae1da6:157",
+    "746a0b6e02ae1da6:158",
+    "746a0b6e02ae1da6:159",
+    "746a0b6e02ae1da6:160"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

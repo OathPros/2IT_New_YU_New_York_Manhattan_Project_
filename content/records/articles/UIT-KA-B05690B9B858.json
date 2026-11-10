@@ -1,0 +1,32 @@
+{
+  "id": "UIT-KA-B05690B9B858",
+  "slug": "view-email-older-than-2-years-b9b858",
+  "title": "View Email Older Than 2 Years",
+  "type": "How to",
+  "service_id": "email",
+  "issue": "View Email Older Than 2 Years",
+  "environment": [
+    "Email and calendar",
+    "Microsoft Outlook",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>If you're looking to view emails older than two years in your mailbox, you'll need to enable Cached Exchange Mode in Outlook. This feature stores a copy of your mailbox on your computer, making it easier to access older emails without requiring a constant connection to the server</p>\n<p><strong>Important:</strong> Cached Exchange Mode is only available for Outlook on Windows desktop clients. If you're using another platform, such as macOS or webmail, this option won't be available. For detailed instructions on enabling Cached Exchange Mode, visit <a href=\"https://support.microsoft.com/en-us/office/turn-on-cached-exchange-mode-7885af08-9a60-4ec3-850a-e221c1ed0c1c\">Microsoft's guide&gt;&gt;</a></p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+  ],
+  "source_block_ids": [
+    "ed0c8c78eebe7f59:48",
+    "ed0c8c78eebe7f59:49",
+    "ed0c8c78eebe7f59:50"
+  ],
+  "captured_at": "2026-11-09T21:45:55.080021+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "UIT-KA-1930F2935879",
+  "slug": "request-start-up-my-own-list-935879",
+  "title": "Request start up my own LIST",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Request start up my own LIST",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ol>\n<li>Click <em><a href=\"https://askus.yorku.ca/portal\">Listserv Request Form</a></em></li>\n<li>Complete the online <em>LISTSERV Creation Request Form</em></li>\n</ol>\n<p>When the LIST is created, you will receive an email confirmation message from UIT. At this point you must <a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#password\">set up a password for your LIST</a></p>\n<p><strong>Note:</strong> A password is required to access the LIST</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:16",
+    "292bdb4f070fdcc0:17",
+    "292bdb4f070fdcc0:18",
+    "292bdb4f070fdcc0:19",
+    "746a0b6e02ae1da6:16",
+    "746a0b6e02ae1da6:17",
+    "746a0b6e02ae1da6:18",
+    "746a0b6e02ae1da6:19"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

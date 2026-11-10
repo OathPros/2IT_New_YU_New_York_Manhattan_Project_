@@ -1,0 +1,36 @@
+{
+  "id": "UIT-KA-36FE38A3AE6E",
+  "slug": "delegating-access-to-your-email-a3ae6e",
+  "title": "Delegating access to your email",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Delegating access to your email",
+  "environment": [
+    "Email and calendar",
+    "Microsoft Outlook",
+    "York students",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p><a href=\"https://support.microsoft.com/en-us/office/allow-someone-else-to-manage-your-mail-and-calendar-41c40c04-3bd1-4d22-963a-28eafec25926?ui=en-us&amp;rs=en-us&amp;ad=us\">Click here for instructions&gt;&gt;</a></p>",
+  "audiences": [
+    "employee",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/",
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "source_block_ids": [
+    "d545c40ef8a2948d:105",
+    "d545c40ef8a2948d:106",
+    "ed0c8c78eebe7f59:68",
+    "ed0c8c78eebe7f59:69"
+  ],
+  "captured_at": "2026-11-09T21:47:40.608783+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

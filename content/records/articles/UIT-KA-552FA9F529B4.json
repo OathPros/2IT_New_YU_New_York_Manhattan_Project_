@@ -1,0 +1,38 @@
+{
+  "id": "UIT-KA-552FA9F529B4",
+  "slug": "import-email-addresses-from-my-classlist-to-my-listserv-f529b4",
+  "title": "Import email addresses from my Classlist to my LISTSERV",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Import email addresses from my Classlist to my LISTSERV",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p><strong>Note:</strong> You must have Classlist access in order to be able to use the Classlist application</p>\n<ol>\n<li>Go to <a href=\"http://classlist.yorku.ca/\">http://classlist.yorku.ca</a></li>\n<li>Enter your Passport York username and password and click <em>Login</em> button</li>\n<li>Locate and display the class list that you wish to import into the LISTSERV</li>\n<li>From the classlist download options click on <em>Display this class list in listserv format</em></li>\n<li>A new window should open containing the list of emails and names of all students in the class. In this window click on <em>File</em>, click <em>Save As..</em></li>\n<li>Save dialogue box should open.\n<ul>\n<li>Chose the location where you wish to save the file from the <em>Save In:</em> dropdown box at the top</li>\n<li>In the <em>File Name:</em> field enter a name for the file that will be created</li>\n<li>From the <em>Save As Type:</em> dropdown box select <em>Text File (*.txt)</em></li>\n<li>Click the <em>Save</em> button</li>\n</ul>\n</li>\n<li>Now follow the steps in the <a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#add_mult\">How do I add multiple subscribers to my LIST?</a> section to import the text that you have just saved to your LIST</li>\n</ol>\n<p><strong>Note:</strong> Students who have not activated their <em>@yorku.ca</em> Electronic Mail accounts will have <em>none</em> listed as their email address on the Classlist and therefore will not be added as a LISTSERV subscriber when you import the text file</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:169",
+    "292bdb4f070fdcc0:170",
+    "292bdb4f070fdcc0:171",
+    "292bdb4f070fdcc0:172",
+    "746a0b6e02ae1da6:169",
+    "746a0b6e02ae1da6:170",
+    "746a0b6e02ae1da6:171",
+    "746a0b6e02ae1da6:172"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

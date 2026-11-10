@@ -1,0 +1,31 @@
+{
+  "id": "UIT-KA-601A8A77FE00",
+  "slug": "best-practices-for-encrypted-email-communication-77fe00",
+  "title": "Best Practices for Encrypted Email Communication",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Best Practices for Encrypted Email Communication",
+  "environment": [
+    "Email and calendar",
+    "Microsoft Outlook",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<ul>\n<li><strong>Notify the recipient in advance</strong>: Let them know to expect an encrypted email so they don’t mistake it for phishing</li>\n<li><strong>Verify recipient identity</strong>: Ensure you have the correct email address before sending</li>\n<li><strong>Limit sensitive content</strong>: Share only what is necessary</li>\n<li><strong>Follow University policies</strong> for compliance and retention: <a href=\"https://www.yorku.ca/secretariat/policies/\">Policies, Procedures and Regulations - Secretariat Policies</a></li>\n</ul>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/encrypting-email-in-microsoft-outlook-when-how-and-best-practices/"
+  ],
+  "source_block_ids": [
+    "bcedf41487d799ce:23",
+    "bcedf41487d799ce:24"
+  ],
+  "captured_at": "2026-11-09T21:46:25.552540+00:00",
+  "source_modified_at": "2026-02-04T22:30:38+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

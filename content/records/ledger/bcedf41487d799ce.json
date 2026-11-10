@@ -1,0 +1,167 @@
+{
+  "source_id": "bcedf41487d799ce",
+  "source_url": "https://www.yorku.ca/uit/infosec/encrypting-email-in-microsoft-outlook-when-how-and-best-practices/",
+  "title": "Encrypting Email in Microsoft Outlook: When, How, and Best Practices",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/email/",
+    "/knowledge/when-should-you-encrypt-an-email-4e68bf/",
+    "/knowledge/steps-to-encrypt-an-email-external-to-york-recipients-in-microsoft-outlook-feb340/",
+    "/knowledge/banner-7f7181/",
+    "/knowledge/best-practices-for-encrypted-email-communication-77fe00/"
+  ],
+  "assignments": [
+    {
+      "block_id": "bcedf41487d799ce:0",
+      "destination": "/knowledge/when-should-you-encrypt-an-email-4e68bf/",
+      "article_id": "UIT-KA-0BC87D4E68BF",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:1",
+      "destination": "/knowledge/when-should-you-encrypt-an-email-4e68bf/",
+      "article_id": "UIT-KA-0BC87D4E68BF",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:2",
+      "destination": "/knowledge/when-should-you-encrypt-an-email-4e68bf/",
+      "article_id": "UIT-KA-0BC87D4E68BF",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:3",
+      "destination": "/knowledge/when-should-you-encrypt-an-email-4e68bf/",
+      "article_id": "UIT-KA-0BC87D4E68BF",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:4",
+      "destination": "/knowledge/when-should-you-encrypt-an-email-4e68bf/",
+      "article_id": "UIT-KA-0BC87D4E68BF",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:5",
+      "destination": "/knowledge/when-should-you-encrypt-an-email-4e68bf/",
+      "article_id": "UIT-KA-0BC87D4E68BF",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:6",
+      "destination": "/knowledge/when-should-you-encrypt-an-email-4e68bf/",
+      "article_id": "UIT-KA-0BC87D4E68BF",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:7",
+      "destination": "/knowledge/when-should-you-encrypt-an-email-4e68bf/",
+      "article_id": "UIT-KA-0BC87D4E68BF",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:8",
+      "destination": "/knowledge/when-should-you-encrypt-an-email-4e68bf/",
+      "article_id": "UIT-KA-0BC87D4E68BF",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:9",
+      "destination": "/knowledge/when-should-you-encrypt-an-email-4e68bf/",
+      "article_id": "UIT-KA-0BC87D4E68BF",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:10",
+      "destination": "/knowledge/when-should-you-encrypt-an-email-4e68bf/",
+      "article_id": "UIT-KA-0BC87D4E68BF",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:11",
+      "destination": "/knowledge/steps-to-encrypt-an-email-external-to-york-recipients-in-microsoft-outlook-feb340/",
+      "article_id": "UIT-KA-2BD2F8FEB340",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:12",
+      "destination": "/knowledge/steps-to-encrypt-an-email-external-to-york-recipients-in-microsoft-outlook-feb340/",
+      "article_id": "UIT-KA-2BD2F8FEB340",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:13",
+      "destination": "/knowledge/steps-to-encrypt-an-email-external-to-york-recipients-in-microsoft-outlook-feb340/",
+      "article_id": "UIT-KA-2BD2F8FEB340",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:14",
+      "destination": "/knowledge/steps-to-encrypt-an-email-external-to-york-recipients-in-microsoft-outlook-feb340/",
+      "article_id": "UIT-KA-2BD2F8FEB340",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:15",
+      "destination": "/knowledge/steps-to-encrypt-an-email-external-to-york-recipients-in-microsoft-outlook-feb340/",
+      "article_id": "UIT-KA-2BD2F8FEB340",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:16",
+      "destination": "/knowledge/steps-to-encrypt-an-email-external-to-york-recipients-in-microsoft-outlook-feb340/",
+      "article_id": "UIT-KA-2BD2F8FEB340",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:17",
+      "destination": "/knowledge/steps-to-encrypt-an-email-external-to-york-recipients-in-microsoft-outlook-feb340/",
+      "article_id": "UIT-KA-2BD2F8FEB340",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:18",
+      "destination": "/knowledge/steps-to-encrypt-an-email-external-to-york-recipients-in-microsoft-outlook-feb340/",
+      "article_id": "UIT-KA-2BD2F8FEB340",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:19",
+      "destination": "/knowledge/banner-7f7181/",
+      "article_id": "UIT-KA-26AE067F7181",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:20",
+      "destination": "/knowledge/banner-7f7181/",
+      "article_id": "UIT-KA-26AE067F7181",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:21",
+      "destination": "/knowledge/banner-7f7181/",
+      "article_id": "UIT-KA-26AE067F7181",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:22",
+      "destination": "/knowledge/banner-7f7181/",
+      "article_id": "UIT-KA-26AE067F7181",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:23",
+      "destination": "/knowledge/best-practices-for-encrypted-email-communication-77fe00/",
+      "article_id": "UIT-KA-601A8A77FE00",
+      "anchors": []
+    },
+    {
+      "block_id": "bcedf41487d799ce:24",
+      "destination": "/knowledge/best-practices-for-encrypted-email-communication-77fe00/",
+      "article_id": "UIT-KA-601A8A77FE00",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 25
+}

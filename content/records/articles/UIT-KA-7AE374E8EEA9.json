@@ -1,0 +1,34 @@
+{
+  "id": "UIT-KA-7AE374E8EEA9",
+  "slug": "send-email-to-the-list-owner-only-e8eea9",
+  "title": "Send email to the List Owner only",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Send email to the List Owner only",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<blockquote>\n<p>Send email to:<a href=\"mailto:Listname-request@yorku.ca\">Listname-request@yorku.ca</a><br/>where<br/><strong>Listname</strong> is replaced with the name of the LIST whose owner you want to contact</p>\n</blockquote>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/"
+  ],
+  "source_block_ids": [
+    "a09e593086326941:35",
+    "a09e593086326941:36",
+    "d9de6143883bfada:35",
+    "d9de6143883bfada:36"
+  ],
+  "captured_at": "2026-11-09T21:48:02.303143+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

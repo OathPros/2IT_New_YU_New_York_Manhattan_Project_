@@ -1,0 +1,33 @@
+{
+  "id": "UIT-KA-7DB99DE577A7",
+  "slug": "delete-messages-from-a-conversation-e577a7",
+  "title": "Delete messages from a conversation",
+  "type": "How to",
+  "service_id": "email",
+  "issue": "Delete messages from a conversation",
+  "environment": [
+    "Email and calendar",
+    "Google Mail",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<p>1. Open the conversation and expand the message you want to delete</p>\n<p>2. Open the drop-menu at the top-right of the message</p>\n<p>3. Select <strong>Delete this message</strong></p>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "source_block_ids": [
+    "d545c40ef8a2948d:66",
+    "d545c40ef8a2948d:67",
+    "d545c40ef8a2948d:68",
+    "d545c40ef8a2948d:69"
+  ],
+  "captured_at": "2026-11-09T21:47:40.608783+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

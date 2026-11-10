@@ -1,0 +1,345 @@
+{
+  "source_id": "d9de6143883bfada",
+  "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/",
+  "title": "Quick Start instructions for LISTSERV Subscribers",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/email/",
+    "/knowledge/what-is-listserv-51b0a2/",
+    "/knowledge/what-is-a-list-de2c4b/",
+    "/knowledge/what-does-the-information-in-the-list-header-tell-me-386804/",
+    "/knowledge/where-do-i-mail-my-listserv-requests-commands-a4cc06/",
+    "/knowledge/obtain-a-copy-of-listserv-commands-164a16/",
+    "/knowledge/find-out-what-mailing-lists-are-available-d6eeec/",
+    "/knowledge/subscribe-to-a-list-fe74fb/",
+    "/knowledge/unsubscribe-to-a-list-10e2c6/",
+    "/knowledge/send-email-to-the-list-owner-only-e8eea9/",
+    "/knowledge/obtain-documentation-about-listserv-37377a/",
+    "/knowledge/setup-the-listserv-so-i-can-see-the-ccd-email-addresses-when-i-receive-an-email-from-a-listserv-0d54df/"
+  ],
+  "assignments": [
+    {
+      "block_id": "d9de6143883bfada:0",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:1",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:2",
+      "destination": "/knowledge/what-is-listserv-51b0a2/",
+      "article_id": "UIT-KA-C4EF6251B0A2",
+      "anchors": [
+        "whatis"
+      ]
+    },
+    {
+      "block_id": "d9de6143883bfada:3",
+      "destination": "/knowledge/what-is-listserv-51b0a2/",
+      "article_id": "UIT-KA-C4EF6251B0A2",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:4",
+      "destination": "/knowledge/what-is-a-list-de2c4b/",
+      "article_id": "UIT-KA-A4ADDCDE2C4B",
+      "anchors": [
+        "list"
+      ]
+    },
+    {
+      "block_id": "d9de6143883bfada:5",
+      "destination": "/knowledge/what-is-a-list-de2c4b/",
+      "article_id": "UIT-KA-A4ADDCDE2C4B",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:6",
+      "destination": "/knowledge/what-does-the-information-in-the-list-header-tell-me-386804/",
+      "article_id": "UIT-KA-E2D0DA386804",
+      "anchors": [
+        "header"
+      ]
+    },
+    {
+      "block_id": "d9de6143883bfada:7",
+      "destination": "/knowledge/what-does-the-information-in-the-list-header-tell-me-386804/",
+      "article_id": "UIT-KA-E2D0DA386804",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:8",
+      "destination": "/knowledge/what-does-the-information-in-the-list-header-tell-me-386804/",
+      "article_id": "UIT-KA-E2D0DA386804",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:9",
+      "destination": "/knowledge/what-does-the-information-in-the-list-header-tell-me-386804/",
+      "article_id": "UIT-KA-E2D0DA386804",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:10",
+      "destination": "/knowledge/what-does-the-information-in-the-list-header-tell-me-386804/",
+      "article_id": "UIT-KA-E2D0DA386804",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:11",
+      "destination": "/knowledge/what-does-the-information-in-the-list-header-tell-me-386804/",
+      "article_id": "UIT-KA-E2D0DA386804",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:12",
+      "destination": "/knowledge/what-does-the-information-in-the-list-header-tell-me-386804/",
+      "article_id": "UIT-KA-E2D0DA386804",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:13",
+      "destination": "/knowledge/what-does-the-information-in-the-list-header-tell-me-386804/",
+      "article_id": "UIT-KA-E2D0DA386804",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:14",
+      "destination": "/knowledge/what-does-the-information-in-the-list-header-tell-me-386804/",
+      "article_id": "UIT-KA-E2D0DA386804",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:15",
+      "destination": "/knowledge/where-do-i-mail-my-listserv-requests-commands-a4cc06/",
+      "article_id": "UIT-KA-F6E85FA4CC06",
+      "anchors": [
+        "send_list_mail"
+      ]
+    },
+    {
+      "block_id": "d9de6143883bfada:16",
+      "destination": "/knowledge/where-do-i-mail-my-listserv-requests-commands-a4cc06/",
+      "article_id": "UIT-KA-F6E85FA4CC06",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:17",
+      "destination": "/knowledge/obtain-a-copy-of-listserv-commands-164a16/",
+      "article_id": "UIT-KA-8EA83C164A16",
+      "anchors": [
+        "commands"
+      ]
+    },
+    {
+      "block_id": "d9de6143883bfada:18",
+      "destination": "/knowledge/obtain-a-copy-of-listserv-commands-164a16/",
+      "article_id": "UIT-KA-8EA83C164A16",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:19",
+      "destination": "/knowledge/obtain-a-copy-of-listserv-commands-164a16/",
+      "article_id": "UIT-KA-8EA83C164A16",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:20",
+      "destination": "/knowledge/find-out-what-mailing-lists-are-available-d6eeec/",
+      "article_id": "UIT-KA-426A21D6EEEC",
+      "anchors": [
+        "find_lists"
+      ]
+    },
+    {
+      "block_id": "d9de6143883bfada:21",
+      "destination": "/knowledge/find-out-what-mailing-lists-are-available-d6eeec/",
+      "article_id": "UIT-KA-426A21D6EEEC",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:22",
+      "destination": "/knowledge/find-out-what-mailing-lists-are-available-d6eeec/",
+      "article_id": "UIT-KA-426A21D6EEEC",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:23",
+      "destination": "/knowledge/find-out-what-mailing-lists-are-available-d6eeec/",
+      "article_id": "UIT-KA-426A21D6EEEC",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:24",
+      "destination": "/knowledge/find-out-what-mailing-lists-are-available-d6eeec/",
+      "article_id": "UIT-KA-426A21D6EEEC",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:25",
+      "destination": "/knowledge/subscribe-to-a-list-fe74fb/",
+      "article_id": "UIT-KA-B5C979FE74FB",
+      "anchors": [
+        "subscribe"
+      ]
+    },
+    {
+      "block_id": "d9de6143883bfada:26",
+      "destination": "/knowledge/subscribe-to-a-list-fe74fb/",
+      "article_id": "UIT-KA-B5C979FE74FB",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:27",
+      "destination": "/knowledge/subscribe-to-a-list-fe74fb/",
+      "article_id": "UIT-KA-B5C979FE74FB",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:28",
+      "destination": "/knowledge/subscribe-to-a-list-fe74fb/",
+      "article_id": "UIT-KA-B5C979FE74FB",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:29",
+      "destination": "/knowledge/subscribe-to-a-list-fe74fb/",
+      "article_id": "UIT-KA-B5C979FE74FB",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:30",
+      "destination": "/knowledge/unsubscribe-to-a-list-10e2c6/",
+      "article_id": "UIT-KA-73591910E2C6",
+      "anchors": [
+        "unsubscribe"
+      ]
+    },
+    {
+      "block_id": "d9de6143883bfada:31",
+      "destination": "/knowledge/unsubscribe-to-a-list-10e2c6/",
+      "article_id": "UIT-KA-73591910E2C6",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:32",
+      "destination": "/knowledge/unsubscribe-to-a-list-10e2c6/",
+      "article_id": "UIT-KA-73591910E2C6",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:33",
+      "destination": "/knowledge/unsubscribe-to-a-list-10e2c6/",
+      "article_id": "UIT-KA-73591910E2C6",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:34",
+      "destination": "/knowledge/unsubscribe-to-a-list-10e2c6/",
+      "article_id": "UIT-KA-73591910E2C6",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:35",
+      "destination": "/knowledge/send-email-to-the-list-owner-only-e8eea9/",
+      "article_id": "UIT-KA-7AE374E8EEA9",
+      "anchors": [
+        "owner"
+      ]
+    },
+    {
+      "block_id": "d9de6143883bfada:36",
+      "destination": "/knowledge/send-email-to-the-list-owner-only-e8eea9/",
+      "article_id": "UIT-KA-7AE374E8EEA9",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:37",
+      "destination": "/knowledge/obtain-documentation-about-listserv-37377a/",
+      "article_id": "UIT-KA-D3A81C37377A",
+      "anchors": [
+        "manual"
+      ]
+    },
+    {
+      "block_id": "d9de6143883bfada:38",
+      "destination": "/knowledge/obtain-documentation-about-listserv-37377a/",
+      "article_id": "UIT-KA-D3A81C37377A",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:39",
+      "destination": "/knowledge/obtain-documentation-about-listserv-37377a/",
+      "article_id": "UIT-KA-D3A81C37377A",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:40",
+      "destination": "/knowledge/obtain-documentation-about-listserv-37377a/",
+      "article_id": "UIT-KA-D3A81C37377A",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:41",
+      "destination": "/knowledge/setup-the-listserv-so-i-can-see-the-ccd-email-addresses-when-i-receive-an-email-from-a-listserv-0d54df/",
+      "article_id": "UIT-KA-6902E80D54DF",
+      "anchors": [
+        "visible_cc"
+      ]
+    },
+    {
+      "block_id": "d9de6143883bfada:42",
+      "destination": "/knowledge/setup-the-listserv-so-i-can-see-the-ccd-email-addresses-when-i-receive-an-email-from-a-listserv-0d54df/",
+      "article_id": "UIT-KA-6902E80D54DF",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:43",
+      "destination": "/knowledge/setup-the-listserv-so-i-can-see-the-ccd-email-addresses-when-i-receive-an-email-from-a-listserv-0d54df/",
+      "article_id": "UIT-KA-6902E80D54DF",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:44",
+      "destination": "/knowledge/setup-the-listserv-so-i-can-see-the-ccd-email-addresses-when-i-receive-an-email-from-a-listserv-0d54df/",
+      "article_id": "UIT-KA-6902E80D54DF",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:45",
+      "destination": "/knowledge/setup-the-listserv-so-i-can-see-the-ccd-email-addresses-when-i-receive-an-email-from-a-listserv-0d54df/",
+      "article_id": "UIT-KA-6902E80D54DF",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:46",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:47",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:48",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:49",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "d9de6143883bfada:50",
+      "destination": "navigation",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 51
+}

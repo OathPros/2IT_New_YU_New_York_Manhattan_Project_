@@ -1,0 +1,38 @@
+{
+  "id": "UIT-KA-E090C1429971",
+  "slug": "why-do-winmail-dat-attachments-fail-to-be-sent-over-listserves-429971",
+  "title": "Why do winmail dat attachments fail to be sent over listserves",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Why do winmail dat attachments fail to be sent over listserves",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>When someone is sending winmail.dat attachments (Microsoft proprietary format) through listserv they get blocked by default. If they wish to let them through the listserv list they can add the following to the listserv list header:</p>\n<p>Language= Exchange</p>\n<p>Note that these attachments will be allowed through but any client that cannot read those type of attachments will not be able to read them. There are particular setups for the Outlook client to try to avoid sending these type of attachments</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:173",
+    "292bdb4f070fdcc0:174",
+    "292bdb4f070fdcc0:175",
+    "292bdb4f070fdcc0:176",
+    "746a0b6e02ae1da6:173",
+    "746a0b6e02ae1da6:174",
+    "746a0b6e02ae1da6:175",
+    "746a0b6e02ae1da6:176"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

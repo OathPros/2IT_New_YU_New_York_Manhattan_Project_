@@ -1,0 +1,34 @@
+{
+  "id": "UIT-KA-3D97C332C97E",
+  "slug": "rename-my-listserv-list-32c97e",
+  "title": "Rename my LISTSERV LIST",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Rename my LISTSERV LIST",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ul>\n<li>To rename a LISTSERV LIST the list owner must send email to <a href=\"mailto:askit@yorku.ca\">askit@yorku.ca</a> requesting the name change. The email must include the new name, which can be up to 16 characters long</li>\n</ul>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:22",
+    "292bdb4f070fdcc0:23",
+    "746a0b6e02ae1da6:22",
+    "746a0b6e02ae1da6:23"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "UIT-KA-93E60CE8A242",
+  "slug": "see-an-unfamiliar-address-e8a242",
+  "title": "See an unfamiliar address",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "See an unfamiliar address",
+  "environment": [
+    "Email and calendar",
+    "Google Mail",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<p>If you suspect that forwarding was added without your permission, <a href=\"https://www.google.com/accounts/b/0/EditPasswd\">change your password</a> immediately and go through the <a href=\"https://support.google.com/mail/checklist/2986618\">Gmail security checklist&gt;&gt;</a></p>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "source_block_ids": [
+    "d545c40ef8a2948d:64",
+    "d545c40ef8a2948d:65"
+  ],
+  "captured_at": "2026-11-09T21:47:40.608783+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}
