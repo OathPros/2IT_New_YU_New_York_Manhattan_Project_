@@ -4,10 +4,30 @@ export async function loadContent(name){
  if(!/^[a-z-]+$/.test(name))throw new Error('Invalid content collection')
  const value=JSON.parse(await fs.readFile(new URL('generated/'+name+'.json',contentRoot),'utf8'))
  if(!Array.isArray(value)||!value.length||typeof value[0]!=='string')return value
- return Promise.all(value.map(async relative=>{
+ const records=await Promise.all(value.map(async relative=>{
   if(typeof relative!=='string'||!/^records\/[a-z-]+\/[A-Za-z0-9_-]+\.json$/.test(relative))throw new Error('Invalid content reference')
   return JSON.parse(await fs.readFile(new URL(relative,contentRoot),'utf8'))
  }))
+ if(name==='offerings'){
+  const descriptions=JSON.parse(await fs.readFile(new URL('editorial-offering-details.json',contentRoot),'utf8'))
+  const seen=new Set()
+  for(const offer of records){
+   const detail=descriptions[offer.id]
+   if(!detail)throw new Error('Missing service description '+offer.id)
+   seen.add(offer.id)
+   for(const key of ['what_it_is','who_uses_it','use_cases','access_note'])if(!detail[key])throw new Error('Missing '+key+' for '+offer.id)
+   offer.description=detail.what_it_is
+   offer.who_uses_it=detail.who_uses_it
+   offer.use_cases=detail.use_cases
+   offer.access_note=detail.access_note
+   offer.summary=detail.what_it_is
+   if(detail.actions)offer.actions=detail.actions
+   offer.editorial_status=detail.editorial_status
+   offer.reviewed_at=detail.reviewed_at
+  }
+  for(const id of Object.keys(descriptions))if(!seen.has(id))throw new Error('Description for nonexistent offering '+id)
+ }
+ return records
 }
 export async function loadArticles(){
  const articles=await loadContent('articles'),byId=new Map(articles.map(a=>[a.id,a]))

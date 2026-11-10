@@ -50,3 +50,24 @@ test('offering cards escape input and do not nest action links inside another li
  assert.ok(html.includes('<article'))
  assert.ok(!html.includes('<a class="oc-card"'))
 })
+
+test('all offerings explain what they are, who uses them, and what users can do',async()=>{
+ const offers=await loadContent('offerings')
+ assert.equal(offers.length,75)
+ for(const offer of offers){
+  assert.ok(offer.description.length>85,'Description missing for '+offer.id)
+  assert.ok(offer.who_uses_it.length>20,'Audience context missing for '+offer.id)
+  assert.ok(offer.use_cases.length>=3,'Use cases missing for '+offer.id)
+  assert.ok(offer.access_note.length>20,'Access note missing for '+offer.id)
+ }
+ const sharepoint=offers.find(x=>x.id==='sharepoint')
+ assert.equal(sharepoint.actions[0].url,'https://yuoffice.sharepoint.com/')
+ assert.ok(sharepoint.description.includes('team sites'))
+ const outlook=offers.find(x=>x.id==='outlook')
+ assert.equal(outlook.actions[0].url,'https://outlook.office.com/')
+ const detail=offeringDetail(sharepoint,await loadContent('services'),await loadArticles(),offers)
+ assert.ok(detail.includes('Who can use it'))
+ assert.ok(detail.includes('What you can do'))
+ assert.ok(detail.includes('Open York SharePoint'))
+ assert.ok(detail.includes('yuoffice.sharepoint.com'))
+})
