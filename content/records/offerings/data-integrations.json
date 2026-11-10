@@ -1,0 +1,23 @@
+{
+  "id": "data-integrations",
+  "name": "Data management and integration",
+  "parent_service_id": "data-reporting",
+  "summary": "Institutional data integration and managed analytics support",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/data-and-reporting-services/"
+  ],
+  "actions": [
+    {
+      "label": "Request data integration",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-DATA_INTEGRATIONS"
+  ],
+  "review_state": "not_validated"
+}

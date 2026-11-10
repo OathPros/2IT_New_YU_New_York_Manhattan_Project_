@@ -1,0 +1,23 @@
+{
+  "id": "managed-printing",
+  "name": "Managed departmental printing",
+  "parent_service_id": "printing",
+  "summary": "Department printer configuration and authorized shared print queues",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/printing-services/"
+  ],
+  "actions": [
+    {
+      "label": "Request printer support",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-MANAGED_PRINTING"
+  ],
+  "review_state": "not_validated"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "UIT-KA-OFFER-MACHFORM",
+  "slug": "use-machform",
+  "title": "Access and use MachForm",
+  "type": "How to",
+  "service_id": "web-media",
+  "offering_id": "machform",
+  "issue": "You need to access or request MachForm",
+  "environment": [
+    "MachForm",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Document your form purpose and the classification of information collected</li><li>Confirm the supported MachForm environment and form ownership with IT</li><li>Build and test the approved form before publishing its link</li></ol><p>For a problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> and include the service and any error shown</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/web-and-media-management/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

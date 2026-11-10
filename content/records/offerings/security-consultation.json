@@ -1,0 +1,23 @@
+{
+  "id": "security-consultation",
+  "name": "Information security consultation",
+  "parent_service_id": "security",
+  "summary": "Get guidance on protecting university information and responding to cyber risks",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/information-security/"
+  ],
+  "actions": [
+    {
+      "label": "Contact information security",
+      "url": "mailto:infosec@yorku.ca",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000018"
+  ],
+  "review_state": "not_validated"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "campus-printers",
+  "name": "Campus print stations",
+  "parent_service_id": "printing",
+  "summary": "Release and pay for student print jobs at supported libraries and computer areas",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/printing-for-students/"
+  ],
+  "actions": [
+    {
+      "label": "Find printing help",
+      "url": "mailto:askIT@yorku.ca",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-00000000000F"
+  ],
+  "review_state": "not_validated"
+}

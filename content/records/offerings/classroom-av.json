@@ -1,0 +1,23 @@
+{
+  "id": "classroom-av",
+  "name": "Classroom technology",
+  "parent_service_id": "audio-visual",
+  "summary": "Projectors, podium controls, microphones and presentation technology in equipped rooms",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/audio-visual-services-and-technology/"
+  ],
+  "actions": [
+    {
+      "label": "Get classroom support",
+      "url": "https://ceo.yorku.ca/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000023"
+  ],
+  "review_state": "not_validated"
+}

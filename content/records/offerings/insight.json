@@ -1,0 +1,23 @@
+{
+  "id": "insight",
+  "name": "Insight dashboards",
+  "parent_service_id": "data-reporting",
+  "summary": "Explore admissions and enrolment information with approved faculty access",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/data-and-reporting-services/"
+  ],
+  "actions": [
+    {
+      "label": "Request Insight access",
+      "url": "mailto:askIT@yorku.ca",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000025"
+  ],
+  "review_state": "not_validated"
+}

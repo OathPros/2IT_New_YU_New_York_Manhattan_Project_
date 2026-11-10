@@ -1,0 +1,23 @@
+{
+  "id": "ereports",
+  "name": "eReports",
+  "parent_service_id": "data-reporting",
+  "summary": "Review authorized operational reporting for institutional business functions",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/data-and-reporting-services/"
+  ],
+  "actions": [
+    {
+      "label": "Request eReports access",
+      "url": "mailto:askIT@yorku.ca",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000026"
+  ],
+  "review_state": "not_validated"
+}

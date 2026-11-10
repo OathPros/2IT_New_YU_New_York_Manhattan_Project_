@@ -1,0 +1,23 @@
+{
+  "id": "mobile-phones",
+  "name": "University mobile phones",
+  "parent_service_id": "phones",
+  "summary": "Institutional mobile-device plans and approved devices",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/desk-phones/"
+  ],
+  "actions": [
+    {
+      "label": "Request mobile plan help",
+      "url": "mailto:askIT@yorku.ca",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-MOBILE_PHONES"
+  ],
+  "review_state": "not_validated"
+}

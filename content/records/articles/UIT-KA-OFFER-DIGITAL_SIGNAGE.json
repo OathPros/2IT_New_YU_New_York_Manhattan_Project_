@@ -1,0 +1,28 @@
+{
+  "id": "UIT-KA-OFFER-DIGITAL_SIGNAGE",
+  "slug": "use-digital-signage",
+  "title": "Access and use Digital signage",
+  "type": "How to",
+  "service_id": "audio-visual",
+  "offering_id": "digital-signage",
+  "issue": "You need to access or request Digital signage",
+  "environment": [
+    "Digital signage",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Choose a community rotation message, temporary full-screen takeover or new display installation</li><li>Prepare accessible content suitable for campus displays</li><li>Email askIT with the desired locations, dates and content for approval</li></ol><p>For a problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> and include the service and any error shown</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/audio-visual-services-and-technology/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "halo-itsm",
+  "name": "HaloITSM",
+  "parent_service_id": "administrative-systems",
+  "summary": "Submit IT requests and access supported service management workflows",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/administrative-systems/"
+  ],
+  "actions": [
+    {
+      "label": "Open IT service portal",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-00000000001E"
+  ],
+  "review_state": "not_validated"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "student-copilot",
+  "name": "Microsoft Copilot for students",
+  "parent_service_id": "ai",
+  "summary": "Use York-supported web-based Microsoft Copilot for eligible study activities",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/artificial-intelligence/"
+  ],
+  "actions": [
+    {
+      "label": "Open Copilot",
+      "url": "https://copilot.microsoft.com/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-00000000001A"
+  ],
+  "review_state": "not_validated"
+}

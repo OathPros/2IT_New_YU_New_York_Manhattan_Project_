@@ -1,0 +1,23 @@
+{
+  "id": "google-drive",
+  "name": "Google Drive",
+  "parent_service_id": "storage",
+  "summary": "Save and share files through eligible undergraduate York Google Workspace accounts",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/storage-for-students/"
+  ],
+  "actions": [
+    {
+      "label": "Open Google Drive",
+      "url": "https://drive.google.com/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-08A28D125AA8"
+  ],
+  "review_state": "not_validated"
+}

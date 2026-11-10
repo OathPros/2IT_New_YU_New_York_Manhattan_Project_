@@ -1,0 +1,23 @@
+{
+  "id": "voicemail",
+  "name": "Voicemail and call forwarding",
+  "parent_service_id": "phones",
+  "summary": "Configure supported desk-phone voice messages and call routing",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/desk-phones/"
+  ],
+  "actions": [
+    {
+      "label": "Get telephone help",
+      "url": "mailto:askIT@yorku.ca",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000029"
+  ],
+  "review_state": "not_validated"
+}

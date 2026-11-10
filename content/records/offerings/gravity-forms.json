@@ -1,0 +1,23 @@
+{
+  "id": "gravity-forms",
+  "name": "Gravity Forms",
+  "parent_service_id": "web-media",
+  "summary": "Publish supported WordPress forms and collect approved institutional responses",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/web-and-media-management/"
+  ],
+  "actions": [
+    {
+      "label": "Request form support",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000020"
+  ],
+  "review_state": "not_validated"
+}

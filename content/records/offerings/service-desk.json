@@ -1,0 +1,24 @@
+{
+  "id": "service-desk",
+  "name": "UIT Service Desk",
+  "parent_service_id": "support",
+  "summary": "Get help with central IT services by email, phone or service request",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/contact/"
+  ],
+  "actions": [
+    {
+      "label": "Email askIT",
+      "url": "mailto:askIT@yorku.ca",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-00000000002E"
+  ],
+  "review_state": "not_validated"
+}

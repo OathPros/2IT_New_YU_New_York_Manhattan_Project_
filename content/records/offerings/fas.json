@@ -1,0 +1,24 @@
+{
+  "id": "fas",
+  "name": "File Access Service",
+  "parent_service_id": "storage",
+  "summary": "Managed departmental file shares with approved read or modify permissions",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/storage/"
+  ],
+  "actions": [
+    {
+      "label": "Request file share access",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000012",
+    "UIT-KA-000000000013"
+  ],
+  "review_state": "not_validated"
+}

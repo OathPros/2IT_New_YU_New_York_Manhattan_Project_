@@ -1,0 +1,28 @@
+{
+  "id": "UIT-KA-OFFER-MANAGED_PRINTING",
+  "slug": "use-managed-printing",
+  "title": "Access and use Managed departmental printing",
+  "type": "How to",
+  "service_id": "printing",
+  "offering_id": "managed-printing",
+  "issue": "You need to access or request Managed departmental printing",
+  "environment": [
+    "Managed departmental printing",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Identify the department printer or print queue and its location</li><li>Confirm the department's authorization for the printer</li><li>Request queue setup or repair through the responsible IT team</li></ol><p>For a problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> and include the service and any error shown</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/printing-services/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

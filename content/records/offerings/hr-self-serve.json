@@ -1,0 +1,24 @@
+{
+  "id": "hr-self-serve",
+  "name": "HR Self-Serve",
+  "parent_service_id": "administrative-systems",
+  "summary": "View pay statements, benefits, personal information and eligible leave or hours workflows",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/administrative-systems/"
+  ],
+  "actions": [
+    {
+      "label": "Open HR Self-Serve",
+      "url": "https://hrselfserve.yorku.ca/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-00000000001C",
+    "UIT-KA-00000000001D"
+  ],
+  "review_state": "not_validated"
+}

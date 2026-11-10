@@ -1,0 +1,28 @@
+{
+  "id": "UIT-KA-OFFER-MAXIMO",
+  "slug": "use-maximo",
+  "title": "Access and use Maximo",
+  "type": "How to",
+  "service_id": "administrative-systems",
+  "offering_id": "maximo",
+  "issue": "You need to access or request Maximo",
+  "environment": [
+    "Maximo",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Sign in to the authorized York Maximo Self Service interface with Passport York</li><li>Open the facilities request function and provide the affected location and issue</li><li>Submit the request and retain the reference number to track progress</li></ol><p>For a problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> and include the service and any error shown</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/administrative-systems/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

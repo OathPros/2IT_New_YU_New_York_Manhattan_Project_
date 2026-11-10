@@ -1,0 +1,24 @@
+{
+  "id": "remote-labs",
+  "name": "Remote computer labs",
+  "parent_service_id": "devices-labs",
+  "summary": "Use eligible York computing labs remotely through approved access",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/computer-labs/"
+  ],
+  "actions": [
+    {
+      "label": "Request remote lab help",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000015"
+  ],
+  "review_state": "not_validated"
+}

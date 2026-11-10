@@ -1,0 +1,24 @@
+{
+  "id": "phishing-reporting",
+  "name": "Phishing reporting",
+  "parent_service_id": "security",
+  "summary": "Report suspicious email and potential credential theft",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/report-phishing-email/"
+  ],
+  "actions": [
+    {
+      "label": "Report suspicious email",
+      "url": "mailto:askIT@yorku.ca",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000017"
+  ],
+  "review_state": "not_validated"
+}

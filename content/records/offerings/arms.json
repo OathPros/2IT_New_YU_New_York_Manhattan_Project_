@@ -1,0 +1,23 @@
+{
+  "id": "arms",
+  "name": "ARMS",
+  "parent_service_id": "administrative-systems",
+  "summary": "Use approved administrative records management workflows",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/administrative-systems/"
+  ],
+  "actions": [
+    {
+      "label": "Request ARMS access",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-ARMS"
+  ],
+  "review_state": "not_validated"
+}

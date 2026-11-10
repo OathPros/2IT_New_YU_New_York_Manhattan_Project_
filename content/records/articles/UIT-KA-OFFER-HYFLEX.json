@@ -1,0 +1,28 @@
+{
+  "id": "UIT-KA-OFFER-HYFLEX",
+  "slug": "use-hyflex",
+  "title": "Access and use HyFlex classrooms",
+  "type": "How to",
+  "service_id": "audio-visual",
+  "offering_id": "hyflex",
+  "issue": "You need to access or request HyFlex classrooms",
+  "environment": [
+    "HyFlex classrooms",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Use the built-in classroom computer and sign in with Passport York</li><li>Open Zoom and start the meeting</li><li>Use the classroom touch panel to enable Broadcast for remote camera and microphone feeds</li><li>Check that PC audio is selected and the room microphone is working</li></ol><p>For a problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> and include the service and any error shown</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/audio-visual-services-and-technology/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

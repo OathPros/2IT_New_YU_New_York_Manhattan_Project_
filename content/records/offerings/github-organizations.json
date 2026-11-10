@@ -1,0 +1,23 @@
+{
+  "id": "github-organizations",
+  "name": "GitHub organizations",
+  "parent_service_id": "github",
+  "summary": "Manage approved York GitHub members, repositories and access policies",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/github/"
+  ],
+  "actions": [
+    {
+      "label": "Request organization",
+      "url": "mailto:askIT@yorku.ca",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-00000000002C"
+  ],
+  "review_state": "not_validated"
+}
