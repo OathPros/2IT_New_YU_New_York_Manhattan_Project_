@@ -1,0 +1,28 @@
+{
+  "id": "UIT-KA-YORK-1P-STU",
+  "slug": "redeem-york-1password-student-licence",
+  "title": "Redeem your York 1Password student licence",
+  "issue": "You need to activate your student 1Password account",
+  "environment": [
+    "1Password",
+    "York students",
+    "MySoftware"
+  ],
+  "audiences": [
+    "student"
+  ],
+  "service_id": "1password",
+  "resolution_html": "<ol><li>Sign in to <a href=\"https://mysoftware.apps01.yorku.ca/\">York MySoftware</a> using Passport York</li><li>Open Personal, then Software Order Form and select the 1Password student licence for your program</li><li>Request one licence code and complete the no-payment order confirmation</li><li>Open the resulting licence email and follow the redemption instructions</li><li>Redeem the code at <a href=\"https://1password.com/promo/\">1Password’s redemption page</a> using your York student email address and follow the verification email</li></ol><p>See the <a href=\"https://www.yorku.ca/uit/infosec/1password-for-students/\">York student setup guide</a> for current ordering details</p>",
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/1password-for-students/"
+  ],
+  "type": "How to",
+  "cause": null,
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T14:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "verified_reference_draft",
+  "review_flags": []
+}

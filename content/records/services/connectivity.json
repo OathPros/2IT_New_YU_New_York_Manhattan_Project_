@@ -15,7 +15,8 @@
   "source_urls": [
     "https://www.yorku.ca/uit/student-services/internet-access/",
     "https://www.yorku.ca/uit/faculty-and-staff-services/internet-access/",
-    "https://www.yorku.ca/uit/faculty-and-staff-services/off-campus-computing/"
+    "https://www.yorku.ca/uit/faculty-and-staff-services/off-campus-computing/",
+    "https://www.yorku.ca/uit/infosec/i-cannot-log-in-to-vpn-due-to-invalid-password/"
   ],
   "article_ids": [
     "UIT-KA-000000000001",
@@ -47,6 +48,14 @@
       ],
       "html": "<p>Wired residence connections generally use automatic network settings. Residence connectivity is subject to a subscriber agreement covering safe use, device security and network restrictions. Personal routers, access points, hubs and network switches are restricted by the residence network rules, so confirm eligibility before installing networking equipment</p>",
       "source_url": "https://www.yorku.ca/uit/student-services/internet-access/"
+    },
+    {
+      "title": "I cannot log in to VPN due to invalid password",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>If you cannot connect to the VPN after following the <a href=\"https://www.yorku.ca/uit/infosec/how-do-i-connect-to-pulse-secure-vpn-with-duo-2fa/\">How-Do-I-Connect-to-Pulse-Secure-VPN-with-Duo-2FA</a> instructions, you may need to reset your VPN profile settings. To clear the saved settings, follow the steps below:</p>\n<p><strong>Step 1.</strong> Open the Pulse Secure client</p>\n<p><strong>Step 2</strong>. Right click on the VPN profile and choose <strong>Forget Saved Settings</strong></p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2024/01/7-29-2021-11-56-38-AM.png\"/></figure>\n<p><strong>Step 3.</strong> In the pop-up window, click OK</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2024/01/7-29-2021-11-58-53-AM.png\"/></figure>\n<p><strong>Step 4</strong>. Click Connect on the VPN Profile</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2024/01/7-29-2021-11-59-47-AM.png\"/></figure>\n<p><strong>Step 5.</strong> Enter your <a href=\"https://www.yorku.ca/uit/infosec/how-do-i-connect-to-pulse-secure-vpn-with-duo-2fa/\">credentials</a> and click Connect. Do not click Save Settings</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2024/01/7-29-2021-12-01-10-PM.png\"/></figure>\n<p>Back to <a href=\"https://www.yorku.ca/uit/infosec/duo-two-factor-authentication/#tab-strongfrequentlyaskedquestionsstrong\">FAQ page</a></p>",
+      "source_url": "https://www.yorku.ca/uit/infosec/i-cannot-log-in-to-vpn-due-to-invalid-password/"
     }
   ],
   "actions": [

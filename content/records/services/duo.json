@@ -1,0 +1,49 @@
+{
+  "id": "duo",
+  "name": "Duo two-factor authentication",
+  "summary": "Verify your identity and manage your Duo authentication methods",
+  "aliases": [
+    "mfa",
+    "2fa",
+    "duo mobile",
+    "two factor",
+    "multifactor",
+    "authenticator",
+    "verification"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/duo-two-factor-authentication/",
+    "https://www.yorku.ca/uit/infosec/2fa-authentication-methods/"
+  ],
+  "article_ids": [
+    "UIT-KA-000000000016",
+    "UIT-KA-YORK-DUO-GUIDE"
+  ],
+  "details": [
+    {
+      "title": "Duo and Passport York",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>Duo is the second-factor authentication service used to protect Passport York and other York sign-ins. It is not Passport York itself and does not replace the Passport York username and password</p>",
+      "source_url": "https://www.yorku.ca/uit/infosec/duo-two-factor-authentication/"
+    },
+    {
+      "title": "Methods",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>Depending on eligibility and configuration, approved methods include Duo Mobile, hardware tokens, passcodes and phone-call verification. Follow the instructions for your method and contact IT if you can no longer access your enrolled device</p>",
+      "source_url": "https://www.yorku.ca/uit/infosec/2fa-authentication-methods/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Duo setup and support",
+      "url": "https://www.yorku.ca/uit/infosec/duo-two-factor-authentication/",
+      "audiences": [
+        "all"
+      ]
+    }
+  ]
+}

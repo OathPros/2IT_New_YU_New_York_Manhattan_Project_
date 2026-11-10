@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-YORK-1P-EMP",
+  "slug": "request-and-activate-york-1password-employee-account",
+  "title": "Request and activate your York 1Password employee account",
+  "issue": "You need a York 1Password account for work",
+  "environment": [
+    "1Password Business",
+    "York faculty and staff"
+  ],
+  "audiences": [
+    "employee"
+  ],
+  "service_id": "1password",
+  "resolution_html": "<ol><li>Email <a href=\"mailto:askit@yorku.ca\">askIT@yorku.ca</a> from your primary York email address and request 1Password access</li><li>After York activates the account, open the invitation sent from 1Password and select Join now</li><li>Complete the setup with a unique 1Password account password and retain recovery information securely</li><li>Sign in through <a href=\"https://team-yorkuniversity.1password.ca/signin\">York’s 1Password sign-in page</a></li></ol><p>For screenshots and account-specific steps, use the <a href=\"https://www.yorku.ca/uit/infosec/getting-started/\">maintained York onboarding instructions</a></p>",
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/getting-started/"
+  ],
+  "type": "How to",
+  "cause": null,
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T14:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "verified_reference_draft",
+  "review_flags": []
+}

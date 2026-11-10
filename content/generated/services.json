@@ -18,5 +18,7 @@
   "records/services/computer-purchase.json",
   "records/services/phones.json",
   "records/services/github.json",
-  "records/services/support.json"
+  "records/services/support.json",
+  "records/services/1password.json",
+  "records/services/duo.json"
 ]

@@ -64,5 +64,151 @@
     "resolution_html": "<p>Choose a reset method and check its requirements before starting</p><ul><li><a href=\"/knowledge/by-phone-ae135f/\">Reset a student Passport York password by phone</a></li><li><a href=\"/knowledge/in-person-caa13b/\">Reset a student Passport York password in person</a></li></ul>",
     "editorial_status": "rewritten_draft",
     "editorial_notes": "Replaced a self-referencing source anchor with links to the captured method articles. Original wording remains in the source record. Service owner validation remains outstanding"
+  },
+  {
+    "id": "UIT-KA-95E908A3A118",
+    "resolution_html": "<p>For York employees, request a 1Password account from <a href=\"mailto:askit@yorku.ca\">askIT using your primary York email address</a>. Once your account is activated you will receive an invitation to complete registration</p><p>Follow <a href=\"https://www.yorku.ca/uit/infosec/getting-started/\">York’s current 1Password getting-started instructions</a>. Eligible students should instead <a href=\"https://www.yorku.ca/uit/infosec/1password-for-students/\">obtain a student licence through MySoftware</a></p>",
+    "editorial_status": "verified_reference_draft",
+    "review_flags": [],
+    "editorial_notes": "Edited against maintained York or 1Password guidance on November 10, 2026; owner validation outstanding",
+    "title": "Sign up for York 1Password",
+    "issue": "Sign up for York 1Password"
+  },
+  {
+    "id": "UIT-KA-A72E76AA46AD",
+    "resolution_html": "<p>Eligible 1Password Business users can redeem a separate complimentary Families membership for personal credentials</p><ol><li>Sign in to your business 1Password account</li><li>Open Manage Account and find the Families benefit</li><li>Select Redeem Now and use a personal email address for the Families account</li></ol><p><a href=\"https://support.1password.com/link-family/\">Follow the maintained 1Password Families redemption guide</a></p>",
+    "editorial_status": "verified_reference_draft",
+    "review_flags": [],
+    "editorial_notes": "Edited against maintained York or 1Password guidance on November 10, 2026; owner validation outstanding",
+    "title": "Redeem 1Password Families with your York account",
+    "issue": "Redeem 1Password Families with your York account"
+  },
+  {
+    "id": "UIT-KA-14198D3E6965",
+    "resolution_html": "<ol><li>Sign in to <a href=\"https://mysoftware.apps01.yorku.ca/\">York MySoftware</a> with Passport York</li><li>Request the student 1Password licence corresponding to your program</li><li>Complete the no-payment order and open the licence email</li><li>Redeem the licence code at <a href=\"https://1password.com/promo/\">1Password</a> using your student email</li></ol><p><a href=\"https://www.yorku.ca/uit/infosec/1password-for-students/\">See York’s complete student activation instructions</a></p>",
+    "editorial_status": "verified_reference_draft",
+    "review_flags": [],
+    "editorial_notes": "Edited against maintained York or 1Password guidance on November 10, 2026; owner validation outstanding",
+    "title": "Activate 1Password for York students",
+    "issue": "Activate 1Password for York students"
+  },
+  {
+    "id": "UIT-KA-2EDCD08A8A6B",
+    "resolution_html": "<p>Start with <a href=\"https://www.yorku.ca/uit/infosec/getting-started/\">York’s maintained 1Password account setup instructions</a> if you have an employee account or <a href=\"https://www.yorku.ca/uit/infosec/1password-for-students/\">York’s student licence instructions</a> if you are a student</p><p>After activation, <a href=\"https://support.1password.com/explore/get-started/\">use 1Password’s getting-started guide</a> to install the app and save credentials</p>",
+    "editorial_status": "verified_reference_draft",
+    "review_flags": [],
+    "editorial_notes": "Edited against maintained York or 1Password guidance on November 10, 2026; owner validation outstanding",
+    "title": "Get started with York 1Password",
+    "issue": "Get started with York 1Password"
+  },
+  {
+    "id": "UIT-KA-D7E7D8939AF1",
+    "resolution_html": "<p>For specific 1Password tasks, open the <a href=\"https://support.1password.com/explore/get-started/\">vendor-maintained getting-started guide</a>, or <a href=\"https://www.yorku.ca/uit/infosec/1password-faqs/\">York’s 1Password service FAQs</a> for York-specific eligibility and support</p>",
+    "editorial_status": "verified_reference_draft",
+    "review_flags": [
+      "reference-not-resolution"
+    ],
+    "editorial_notes": "Edited against maintained York or 1Password guidance on November 10, 2026; owner validation outstanding",
+    "title": "Find 1Password support answers",
+    "issue": "Find 1Password support answers"
+  },
+  {
+    "id": "UIT-KA-007E315D03DF",
+    "resolution_html": "<ol><li>Open <a href=\"https://support.1password.com/import/\">1Password’s import instructions</a> and choose your existing password manager</li><li>Follow that vendor-specific export and import method; export formats and steps differ by product</li><li>If you create an unencrypted CSV file, prevent it being backed up or shared and delete it securely after confirming the import</li><li>Verify the imported logins in the correct 1Password vault before removing old data</li></ol>",
+    "editorial_status": "verified_reference_draft",
+    "review_flags": [],
+    "editorial_notes": "Edited against maintained York or 1Password guidance on November 10, 2026; owner validation outstanding",
+    "title": "Import passwords from another password manager",
+    "issue": "Import passwords from another password manager"
+  },
+  {
+    "id": "UIT-KA-F89C6D2ADACC",
+    "resolution_html": "<p>If you deleted an <strong>item</strong>, open Recently Deleted in 1Password and restore the item if it is within the recovery period. A deleted <strong>vault</strong> is different and may require help from your team administrator; do not assume a vault can always be recovered</p><p><a href=\"https://support.1password.com/archive-delete-items/\">Follow 1Password’s maintained archive and deletion guidance</a></p>",
+    "editorial_status": "verified_reference_draft",
+    "review_flags": [],
+    "editorial_notes": "Edited against maintained York or 1Password guidance on November 10, 2026; owner validation outstanding",
+    "title": "Restore a deleted 1Password item",
+    "issue": "Restore a deleted 1Password item"
+  },
+  {
+    "id": "UIT-KA-719C9C51501F",
+    "resolution_html": "<p>You can use more than one 1Password account in the same app while keeping work and personal credentials in separate vaults</p><ol><li>Open and unlock 1Password</li><li>Open Manage Accounts and choose Add an Account</li><li>Follow the sign-in prompts for the second account</li></ol><p><a href=\"https://support.1password.com/add-account/\">Follow the vendor instructions for your device</a></p>",
+    "editorial_status": "verified_reference_draft",
+    "review_flags": [],
+    "editorial_notes": "Edited against maintained York or 1Password guidance on November 10, 2026; owner validation outstanding",
+    "title": "Add a second 1Password account",
+    "issue": "Add a second 1Password account"
+  },
+  {
+    "id": "UIT-KA-D83D523AFD9F",
+    "resolution_html": "<p>Use a shared team vault for credentials colleagues need for work. Vault access and permission levels are controlled by York’s 1Password administrators and designated vault managers</p><p><a href=\"https://support.1password.com/create-share-vaults-teams/\">Follow the maintained shared-vault and permission guide</a></p>",
+    "editorial_status": "verified_reference_draft",
+    "review_flags": [],
+    "editorial_notes": "Edited against maintained York or 1Password guidance on November 10, 2026; owner validation outstanding",
+    "title": "Share work passwords through a 1Password team vault",
+    "issue": "Share work passwords through a 1Password team vault"
+  },
+  {
+    "id": "UIT-KA-68A267C35E47",
+    "resolution_html": "<p>Use your primary York email address when requesting an institutional 1Password Business account through York. For the complimentary 1Password Families membership, use a personal email address to separate ownership from your York employment</p><p><a href=\"https://www.yorku.ca/uit/infosec/getting-started/\">York account setup</a>; <a href=\"https://support.1password.com/link-family/\">1Password Families guidance</a></p>",
+    "editorial_status": "verified_reference_draft",
+    "review_flags": [],
+    "editorial_notes": "Edited against maintained York or 1Password guidance on November 10, 2026; owner validation outstanding",
+    "title": "Which email address to use for York 1Password",
+    "issue": "Which email address to use for York 1Password"
+  },
+  {
+    "id": "UIT-KA-A872EE9ED821",
+    "resolution_html": "<p>Two-factor authentication for a 1Password account is distinct from the Duo protection used for Passport York sign-in. Your organization may enforce its own 1Password authentication policy; do not assume that Duo is automatically enabled for 1Password</p><p><a href=\"https://support.1password.com/two-factor-authentication/\">Follow the vendor’s 1Password two-factor authentication guidance</a></p>",
+    "editorial_status": "verified_reference_draft",
+    "review_flags": [],
+    "editorial_notes": "Edited against maintained York or 1Password guidance on November 10, 2026; owner validation outstanding",
+    "title": "Set up two-factor authentication for 1Password",
+    "issue": "Set up two-factor authentication for 1Password"
+  },
+  {
+    "id": "UIT-KA-642D5A4BFA3E",
+    "resolution_html": "<ol><li>Open 1Password and create a new vault if your York organization permits it</li><li>Give the vault a clear work-specific name</li><li>In Vaults, select the vault and manage access for the colleagues or groups who need it</li><li>Assign only necessary permissions and confirm their account activation</li></ol><p><a href=\"https://support.1password.com/create-share-vaults-teams/\">Use the maintained 1Password business vault guide</a></p>",
+    "editorial_status": "verified_reference_draft",
+    "review_flags": [],
+    "editorial_notes": "Edited against maintained York or 1Password guidance on November 10, 2026; owner validation outstanding",
+    "title": "Create and share a team vault in 1Password",
+    "issue": "Create and share a team vault in 1Password"
+  },
+  {
+    "id": "UIT-KA-1743A3D9F72C",
+    "resolution_html": "<ol><li>Open <a href=\"https://support.1password.com/getting-started-browser/\">1Password’s browser extension setup guide</a></li><li>Select the instructions for your supported browser and install the official extension</li><li>Pin the extension and sign in with your existing 1Password account</li><li>Save and fill a login to confirm the extension is working</li></ol>",
+    "editorial_status": "verified_reference_draft",
+    "review_flags": [],
+    "editorial_notes": "Edited against maintained York or 1Password guidance on November 10, 2026; owner validation outstanding",
+    "title": "Install and use the 1Password browser extension",
+    "issue": "Install and use the 1Password browser extension"
+  },
+  {
+    "id": "UIT-KA-C0D086AF3812",
+    "resolution_html": "<p>Install the official 1Password application or extension for your device using the <a href=\"https://support.1password.com/explore/get-started/\">vendor-maintained installation guide</a>. Choose the relevant operating system or browser and sign in with your activated account</p>",
+    "editorial_status": "verified_reference_draft",
+    "review_flags": [],
+    "editorial_notes": "Edited against maintained York or 1Password guidance on November 10, 2026; owner validation outstanding",
+    "title": "Download 1Password apps and extensions",
+    "issue": "Download 1Password apps and extensions"
+  },
+  {
+    "id": "UIT-KA-61A010126820",
+    "resolution_html": "<p>Find your Secret Key in 1Password on a device already signed in, in a previously used web browser, or in your Emergency Kit, if available. Some SSO-managed accounts do not use a Secret Key or Emergency Kit</p><p><a href=\"https://support.1password.com/secret-key/\">Follow 1Password’s current Secret Key instructions</a></p>",
+    "editorial_status": "verified_reference_draft",
+    "review_flags": [],
+    "editorial_notes": "Edited against maintained York or 1Password guidance on November 10, 2026; owner validation outstanding",
+    "title": "Find your 1Password Secret Key",
+    "issue": "Find your 1Password Secret Key"
+  },
+  {
+    "id": "UIT-KA-FD27112EBE2E",
+    "resolution_html": "<p>For a York-managed 1Password account, <a href=\"mailto:askit@yorku.ca\">request account recovery through askIT</a> or contact <a href=\"mailto:infosec@yorku.ca\">Information Security</a>. Recovery may require an authorized 1Password administrator and a new Secret Key or account password</p><p><a href=\"https://support.1password.com/recovery/\">1Password’s maintained account recovery procedure</a></p>",
+    "editorial_status": "verified_reference_draft",
+    "review_flags": [],
+    "editorial_notes": "Edited against maintained York or 1Password guidance on November 10, 2026; owner validation outstanding",
+    "title": "Recover access to a York 1Password account",
+    "issue": "Recover access to a York 1Password account"
   }
 ]
