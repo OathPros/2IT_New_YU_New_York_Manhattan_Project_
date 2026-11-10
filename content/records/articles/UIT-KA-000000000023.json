@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000023",
+  "slug": "request-a-classroom-av-demonstration-000023",
+  "title": "Request a classroom AV demonstration",
+  "type": "How to",
+  "service_id": "audio-visual",
+  "issue": "Request a classroom AV demonstration",
+  "environment": [
+    "Audio visual technology",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Identify your classroom and teaching dates</li><li>Review the equipment listed for the location</li><li>Submit a request for an instructor demonstration through York’s classroom support process</li><li>Test the equipment before the scheduled session</li></ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/audio-visual-services-and-technology/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

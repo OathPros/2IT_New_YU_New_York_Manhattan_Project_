@@ -47,3 +47,15 @@ Recovery entry articles now link to complete method articles instead of linking 
 Combined checkpoint counts: 160 articles, 28 sources, 2 services
 
 New work is verified separately from the first Email checkpoint. Mobile and accessibility checks remain outstanding
+
+## Remaining service routes checkpoint — November 10, 2026
+
+- Added 18 service records to reach 20 canonical service pages
+- Added 46 focused task and troubleshooting article drafts; total 206
+- Reviewed 29 additional public source URLs and added partial-coverage migration ledger records
+- Kept all existing Email and Passport York records and their permanent article IDs unchanged
+- Reused existing audience filters, quick-view article reader, permanent article links, and search
+- Protected employee catalogue content was not accessed
+- Source-level completeness is **not** asserted for the newly covered services; full legacy content, individual FAQs, and media require further transfer
+- New editorial summaries are marked not validated and excluded from release approval
+

@@ -1,0 +1,16 @@
+{
+  "source_id": "editorial-000000000042",
+  "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/administrative-systems/",
+  "title": "Administrative systems",
+  "capture_status": "editorial_live_page_review",
+  "state": "editorial_partial",
+  "destinations": [
+    "/services/administrative-systems/",
+    "/knowledge/sign-in-to-hr-self-serve-00001c/",
+    "/knowledge/find-your-pay-statements-or-tax-forms-00001d/",
+    "/knowledge/get-access-to-an-administrative-system-00001e/"
+  ],
+  "assignments": [],
+  "editorial_note": "Public source consulted to author service overview and selected tasks. Full source block capture and content parity not yet complete",
+  "reviewed_source_at": "2026-11-10T13:00:00Z"
+}

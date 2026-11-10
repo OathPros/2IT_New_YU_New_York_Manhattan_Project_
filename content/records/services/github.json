@@ -1,0 +1,57 @@
+{
+  "id": "github",
+  "name": "GitHub",
+  "summary": "Use York GitHub Enterprise repositories and development tools",
+  "aliases": [
+    "git",
+    "repo",
+    "repository",
+    "coding",
+    "source",
+    "copilot",
+    "actions"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/github/"
+  ],
+  "article_ids": [
+    "UIT-KA-00000000002A",
+    "UIT-KA-00000000002B",
+    "UIT-KA-00000000002C"
+  ],
+  "details": [
+    {
+      "title": "Enterprise GitHub",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>York GitHub Enterprise gives faculty and staff version control, collaboration, pull requests, project management, issues and organizational administration. Access is included for eligible employees; organization membership determines which repositories you can use</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/github/"
+    },
+    {
+      "title": "GitHub organizations",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>Organization owners manage members, GitHub Actions availability, policies and GitHub Copilot assignments. Existing organization members should ask an owner for access; managers can request a new organization through the York process</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/github/"
+    },
+    {
+      "title": "Copilot and paid features",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>GitHub Copilot is a separate paid AI coding capability. Enabling it requires organizational setup and individual licence assignment. The published service page describes a departmental Azure subscription and per-user billing; verify rates and approvals before purchasing</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/github/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Open York GitHub Enterprise",
+      "url": "https://github.com/enterprises/YorkUCA/sso",
+      "audiences": [
+        "employee"
+      ]
+    }
+  ]
+}

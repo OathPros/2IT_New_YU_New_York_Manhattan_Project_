@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-00000000001D",
+  "slug": "find-your-pay-statements-or-tax-forms-00001d",
+  "title": "Find your pay statements or tax forms",
+  "type": "How to",
+  "service_id": "administrative-systems",
+  "issue": "Find your pay statements or tax forms",
+  "environment": [
+    "Administrative systems",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Sign in to HR Self-Serve</li><li>Open the relevant payroll or tax document function</li><li>View or print the available statements or T4/T4A forms</li><li>For HR record or payroll questions, use the Human Resources support resources</li></ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/administrative-systems/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

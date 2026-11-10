@@ -1,0 +1,58 @@
+{
+  "id": "security",
+  "name": "Cybersecurity and Duo",
+  "summary": "Set up multifactor authentication and protect university information",
+  "aliases": [
+    "duo",
+    "twofactor",
+    "authentication",
+    "phishing",
+    "malware",
+    "certificate",
+    "cybersecurity"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/duo-and-report-phishing/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/information-security/"
+  ],
+  "article_ids": [
+    "UIT-KA-000000000016",
+    "UIT-KA-000000000017",
+    "UIT-KA-000000000018"
+  ],
+  "details": [
+    {
+      "title": "Protect your account",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>York requires two-factor authentication for active student, employee, sponsored affiliate and eligible retiree accounts. Duo supplements the Passport York password with a second factor such as an app approval, code or supported hardware device</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/duo-and-report-phishing/"
+    },
+    {
+      "title": "Report suspicious mail",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>York Gmail and Outlook include a Report Phishing control to send suspicious messages to Information Security. Do not interact with suspicious links, attachments or unexpected authentication prompts before reporting</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/duo-and-report-phishing/"
+    },
+    {
+      "title": "Security services",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>UIT Information Security provides security consultation, incident handling, monitoring and vulnerability management, as well as processes for requesting certificates and guidance on malware and safe computing</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/duo-and-report-phishing/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Contact security support",
+      "url": "mailto:askIT@yorku.ca",
+      "audiences": [
+        "all"
+      ]
+    }
+  ]
+}

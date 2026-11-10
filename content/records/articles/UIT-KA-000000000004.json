@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000004",
+  "slug": "troubleshoot-a-campus-wi-fi-connection-000004",
+  "title": "Troubleshoot a campus Wi-Fi connection",
+  "type": "How to",
+  "service_id": "connectivity",
+  "issue": "Troubleshoot a campus Wi-Fi connection",
+  "environment": [
+    "Wi-Fi and internet",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Check that your Passport York account is active and the password is correct</li><li>Remove an outdated AirYorkPLUS or eduroam Wi-Fi profile if the device shows a limited connection</li><li>Reconnect using York’s currently published security settings</li><li>If it still fails, report the device, building, network name, time and error to UIT</li></ol>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/internet-access/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

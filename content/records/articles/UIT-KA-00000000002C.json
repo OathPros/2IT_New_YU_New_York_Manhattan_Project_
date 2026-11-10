@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-00000000002C",
+  "slug": "allow-an-external-github-collaborator-00002c",
+  "title": "Allow an external GitHub collaborator",
+  "type": "How to",
+  "service_id": "github",
+  "issue": "Allow an external GitHub collaborator",
+  "environment": [
+    "GitHub",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>External contributors need the appropriate York account before they can access York GitHub Enterprise. Contact askIT about sponsored Passport York access before an organization owner invites them</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/github/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

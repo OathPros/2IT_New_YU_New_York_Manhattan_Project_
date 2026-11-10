@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000028",
+  "slug": "request-a-department-desk-phone-000028",
+  "title": "Request a department desk phone",
+  "type": "How to",
+  "service_id": "phones",
+  "issue": "Request a department desk phone",
+  "environment": [
+    "Desk and mobile phones",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Contact your department’s designated telephone contact</li><li>Describe the new line, move, change or equipment requirement</li><li>Provide the appropriate York budget number</li><li>Coordinate installation or changes with Telecommunications</li></ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/desk-phones/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

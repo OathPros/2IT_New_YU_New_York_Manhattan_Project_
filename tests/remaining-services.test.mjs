@@ -1,0 +1,6 @@
+import test from 'node:test'
+import assert from 'node:assert/strict'
+import {loadContent,loadArticles} from '../src/load-content.mjs'
+test('all canonical service routes exist and preserve shared audience pages',async()=>{const services=await loadContent('services');assert.equal(services.length,20);assert.equal(new Set(services.map(s=>s.id)).size,20);for(const s of services){assert.ok(s.summary);assert.ok(s.source_urls?.length);assert.ok(s.details?.length);assert.ok(Array.isArray(s.actions));assert.ok(s.article_ids.length>0,s.id)}})
+test('new article destinations are valid and do not pretend to have been reviewed',async()=>{const services=await loadContent('services'),articles=await loadArticles(),lookup=new Map(articles.map(a=>[a.id,a]));for(const s of services)for(const id of s.article_ids){const a=lookup.get(id);assert.ok(a,id);assert.equal(a.service_id,s.id)}for(const a of articles.filter(a=>a.editorial_status==='editorial_summary_needs_full_source_migration')){assert.equal(a.state,'not_validated');assert.ok(!a.reviewed_at);assert.ok(a.resolution_html.length>60)}})
+test('additional source pages are marked editorial partial, not full capture',async()=>{const ledger=await loadContent('ledger');const partial=ledger.filter(x=>x.state==='editorial_partial');assert.ok(partial.length>=18);assert.ok(partial.every(x=>x.editorial_note&&x.destinations.length));})

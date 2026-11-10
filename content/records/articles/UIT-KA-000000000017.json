@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000017",
+  "slug": "report-a-phishing-message-000017",
+  "title": "Report a phishing message",
+  "type": "How to",
+  "service_id": "security",
+  "issue": "Report a phishing message",
+  "environment": [
+    "Cybersecurity and Duo",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Open the suspicious message without following links or opening unexpected attachments</li><li>Use Report Phishing in your York Gmail or Outlook client</li><li>Follow any instructions from York Information Security if the message has already been opened or credentials entered</li></ol>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/information-security/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

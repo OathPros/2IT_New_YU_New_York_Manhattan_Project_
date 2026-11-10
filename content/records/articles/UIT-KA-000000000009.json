@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000009",
+  "slug": "choose-the-right-york-email-app-000009",
+  "title": "Choose the right York email app",
+  "type": "How to",
+  "service_id": "microsoft-365",
+  "issue": "Choose the right York email app",
+  "environment": [
+    "Microsoft 365",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Undergraduate students use Google Mail for their main student inbox. Graduate students and employees use Outlook. Microsoft 365 eligibility does not mean every undergraduate mailbox is hosted in Outlook</p><p><a href=\"/services/email/\">View York email guidance</a></p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/microsoft-365-for-students/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

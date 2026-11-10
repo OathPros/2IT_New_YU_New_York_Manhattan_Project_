@@ -1,0 +1,66 @@
+{
+  "id": "microsoft-365",
+  "name": "Microsoft 365",
+  "summary": "Use Word, Excel, Teams, OneDrive and other Microsoft tools",
+  "aliases": [
+    "m365",
+    "office",
+    "excel",
+    "word",
+    "powerpoint",
+    "onedrive",
+    "teams",
+    "microsoft"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/microsoft-365-for-students/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/microsoft-365/"
+  ],
+  "article_ids": [
+    "UIT-KA-000000000008",
+    "UIT-KA-000000000009",
+    "UIT-KA-00000000000A"
+  ],
+  "details": [
+    {
+      "title": "Included apps",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>Microsoft 365 provides browser-based productivity and collaboration tools, including Word, Excel, PowerPoint, OneNote, Teams, Forms and OneDrive. Application installation and entitlements depend on the user’s York licence. Outlook is the email service for graduate students and employees; undergraduate email remains on Google Mail</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/microsoft-365-for-students/"
+    },
+    {
+      "title": "Student sign-in",
+      "audiences": [
+        "student"
+      ],
+      "html": "<p>Active York students receive Microsoft 365 Education access. Sign in using your Passport York username followed by <strong>@yorku.ca</strong>, not @my.yorku.ca, and your Passport York password</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/microsoft-365-for-students/"
+    },
+    {
+      "title": "Work and collaboration",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>Faculty and staff use Microsoft 365 for work documents, messaging, online meetings, email and file collaboration. Use the appropriate York-authorized location for files according to their information classification</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/microsoft-365-for-students/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Open Microsoft 365",
+      "url": "https://www.microsoft365.com/",
+      "audiences": [
+        "all"
+      ]
+    },
+    {
+      "label": "Open Teams",
+      "url": "https://teams.microsoft.com/",
+      "audiences": [
+        "all"
+      ]
+    }
+  ]
+}

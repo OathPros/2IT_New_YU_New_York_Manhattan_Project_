@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-00000000000A",
+  "slug": "find-word-excel-and-powerpoint-00000a",
+  "title": "Find Word Excel and PowerPoint",
+  "type": "How to",
+  "service_id": "microsoft-365",
+  "issue": "Find Word Excel and PowerPoint",
+  "environment": [
+    "Microsoft 365",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Sign in to Microsoft 365 with your York account</li><li>Open the application launcher</li><li>Choose Word, Excel, PowerPoint or another available app</li><li>Use the application’s installation option only where your York licence makes it available</li></ol>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/microsoft-365-for-students/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

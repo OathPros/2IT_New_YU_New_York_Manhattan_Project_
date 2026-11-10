@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000008",
+  "slug": "sign-in-to-microsoft-365-000008",
+  "title": "Sign in to Microsoft 365",
+  "type": "How to",
+  "service_id": "microsoft-365",
+  "issue": "Sign in to Microsoft 365",
+  "environment": [
+    "Microsoft 365",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Open the Microsoft 365 sign-in page</li><li>Use your Passport York username followed by <strong>@yorku.ca</strong></li><li>Enter your Passport York password and complete any required multifactor authentication</li><li>Open the app you need from the Microsoft 365 home screen</li></ol>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/microsoft-365-for-students/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

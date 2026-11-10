@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000026",
+  "slug": "request-ereports-access-000026",
+  "title": "Request eReports access",
+  "type": "How to",
+  "service_id": "data-reporting",
+  "issue": "Request eReports access",
+  "environment": [
+    "Data and reporting",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Identify the employee name, employee ID and Passport York username</li><li>List the specific Finance, Human Resources or Advancement reports needed</li><li>Obtain the required business authorization from the appropriate officer</li><li>Submit the approved request to askIT</li></ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/data-and-reporting-services/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000019",
+  "slug": "choose-a-york-ai-tool-for-your-task-000019",
+  "title": "Choose a York AI tool for your task",
+  "type": "How to",
+  "service_id": "ai",
+  "issue": "Choose a York AI tool for your task",
+  "environment": [
+    "Artificial intelligence",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Identify whether you are studying, teaching, researching or completing University work</li><li>Check which York-supported tools are available to your role</li><li>Confirm the data classification and allowed uses</li><li>Open the supported service using your York access</li></ol>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/AI/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

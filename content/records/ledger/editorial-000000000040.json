@@ -1,0 +1,15 @@
+{
+  "source_id": "editorial-000000000040",
+  "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/AI/",
+  "title": "Artificial intelligence",
+  "capture_status": "editorial_live_page_review",
+  "state": "editorial_partial",
+  "destinations": [
+    "/services/ai/",
+    "/knowledge/choose-a-york-ai-tool-for-your-task-000019/",
+    "/knowledge/protect-confidential-data-when-using-ai-00001b/"
+  ],
+  "assignments": [],
+  "editorial_note": "Public source consulted to author service overview and selected tasks. Full source block capture and content parity not yet complete",
+  "reviewed_source_at": "2026-11-10T13:00:00Z"
+}

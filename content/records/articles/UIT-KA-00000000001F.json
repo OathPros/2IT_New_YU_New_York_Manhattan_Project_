@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-00000000001F",
+  "slug": "request-a-new-york-wordpress-website-00001f",
+  "title": "Request a new York WordPress website",
+  "type": "How to",
+  "service_id": "web-media",
+  "issue": "Request a new York WordPress website",
+  "environment": [
+    "Web and media",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Identify the sponsoring faculty, department or academic unit</li><li>Define the public purpose, audience and site ownership</li><li>Submit a WordPress site request through the established approval process</li><li>Confirm who will maintain content and provide ongoing support</li></ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/web-and-media-management/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

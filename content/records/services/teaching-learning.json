@@ -1,0 +1,65 @@
+{
+  "id": "teaching-learning",
+  "name": "Teaching and learning",
+  "summary": "Use eClass, assessments, lecture capture and course technology",
+  "aliases": [
+    "eclass",
+    "moodle",
+    "teaching",
+    "classroom",
+    "learningspaces",
+    "turnitin",
+    "iclicker"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/learning-technologies/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/teaching-and-learning/"
+  ],
+  "article_ids": [
+    "UIT-KA-00000000000B",
+    "UIT-KA-00000000000C",
+    "UIT-KA-00000000000D"
+  ],
+  "details": [
+    {
+      "title": "eClass",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>eClass is York’s Moodle-based learning management system. Students use it for course content, assessments and discussion activities. Instructors can manage course materials, quizzes, discussions and multimedia resources</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/learning-technologies/"
+    },
+    {
+      "title": "Teaching applications",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>York supports learning technology such as Turnitin, iClicker, course evaluation tools, lecture recording and other teaching systems. Availability and configuration vary by course, instructor and approved teaching environment</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/learning-technologies/"
+    },
+    {
+      "title": "Support",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>For issues with the setup or operation of learning technology, use the Learning Technology Services help centre. Assignment-specific questions and course requirements should also be discussed with the instructor</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/learning-technologies/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Open eClass",
+      "url": "https://eclass.yorku.ca/",
+      "audiences": [
+        "all"
+      ]
+    },
+    {
+      "label": "Learning technology help centre",
+      "url": "https://lthelp.yorku.ca/",
+      "audiences": [
+        "all"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000024",
+  "slug": "request-av-support-for-an-event-000024",
+  "title": "Request AV support for an event",
+  "type": "How to",
+  "service_id": "audio-visual",
+  "issue": "Request AV support for an event",
+  "environment": [
+    "Audio visual technology",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Describe the event location, date, attendance and presentation needs</li><li>Identify any recording, streaming, microphones or on-site operators required</li><li>Ask AVSS for service availability and any applicable departmental charges</li></ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/audio-visual-services-and-technology/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

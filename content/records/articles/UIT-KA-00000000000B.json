@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-00000000000B",
+  "slug": "open-your-eclass-course-00000b",
+  "title": "Open your eClass course",
+  "type": "How to",
+  "service_id": "teaching-learning",
+  "issue": "Open your eClass course",
+  "environment": [
+    "Teaching and learning",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Visit eClass and sign in using your York account</li><li>Open the relevant course from your dashboard or course list</li><li>Locate the course materials, activities or assignment provided by your instructor</li><li>If the course is missing, confirm registration and course availability before contacting support</li></ol>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/learning-technologies/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

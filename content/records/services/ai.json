@@ -1,0 +1,57 @@
+{
+  "id": "ai",
+  "name": "Artificial intelligence",
+  "summary": "Choose York-supported AI tools and guidance",
+  "aliases": [
+    "ai",
+    "copilot",
+    "aura",
+    "generative",
+    "intelligence",
+    "prompts"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/AI/",
+    "https://www.yorku.ca/uit/student-services/artificial-intelligence/"
+  ],
+  "article_ids": [
+    "UIT-KA-000000000019",
+    "UIT-KA-00000000001A",
+    "UIT-KA-00000000001B"
+  ],
+  "details": [
+    {
+      "title": "Find the right AI tool",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>York provides access to supported AI tools for learning, teaching, research and administrative work. Student access includes Microsoft Copilot through their Microsoft 365 account; other tools and premium features have different eligibility or licensing requirements</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/AI/"
+    },
+    {
+      "title": "York AI services",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>The published employee service describes YU AURA, Microsoft Copilot, Microsoft 365 Copilot, GitHub Copilot and Zoom AI Companion. These are distinct products with different capabilities, approved uses and access conditions</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/AI/"
+    },
+    {
+      "title": "Handle university information safely",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>Do not enter confidential, proprietary or sensitive York data into public consumer AI services. Check York’s approved tools and data-use requirements before submitting any institutional content to an AI system</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/AI/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Ask IT about AI access",
+      "url": "mailto:askIT@yorku.ca",
+      "audiences": [
+        "all"
+      ]
+    }
+  ]
+}

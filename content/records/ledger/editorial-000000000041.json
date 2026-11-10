@@ -1,0 +1,14 @@
+{
+  "source_id": "editorial-000000000041",
+  "source_url": "https://www.yorku.ca/uit/student-services/artificial-intelligence/",
+  "title": "Artificial intelligence",
+  "capture_status": "editorial_live_page_review",
+  "state": "editorial_partial",
+  "destinations": [
+    "/services/ai/",
+    "/knowledge/understand-student-copilot-access-00001a/"
+  ],
+  "assignments": [],
+  "editorial_note": "Public source consulted to author service overview and selected tasks. Full source block capture and content parity not yet complete",
+  "reviewed_source_at": "2026-11-10T13:00:00Z"
+}

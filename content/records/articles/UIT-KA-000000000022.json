@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000022",
+  "slug": "choose-storage-for-a-hosted-server-000022",
+  "title": "Choose storage for a hosted server",
+  "type": "How to",
+  "service_id": "servers",
+  "issue": "Choose storage for a hosted server",
+  "environment": [
+    "Servers and hosting",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>SDS can expose storage through an NFS connection or as a virtual disk. Discuss performance, backup, recoverability and security needs with Systems Management Services before choosing a storage class</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/servers/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

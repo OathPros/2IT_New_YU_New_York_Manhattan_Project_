@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000007",
+  "slug": "fix-a-myapps-remote-launch-browser-error-000007",
+  "title": "Fix a MyApps remote launch browser error",
+  "type": "How to",
+  "service_id": "software",
+  "issue": "Fix a MyApps remote launch browser error",
+  "environment": [
+    "Software and apps",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Close other browser sessions using HR Self-Serve or SIS Web Apps</li><li>Sign out of MyApps and close the browser</li><li>Clear cookies for the affected session, then open a fresh browser window</li><li>Sign back in to MyApps and launch the application again</li></ol><p>These steps address the documented browser-session conflict, not every possible MyApps error</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/software-and-apps/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

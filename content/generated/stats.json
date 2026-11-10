@@ -1,17 +1,20 @@
 {
-  "checkpoint": "email-and-passport-york",
+  "checkpoint": "remaining-services-structured-first-pass",
   "posts_included": 0,
-  "discovered_sources": 28,
+  "discovered_sources": 57,
   "captured_sources": 28,
-  "services": 2,
-  "articles": 160,
+  "services": 20,
+  "articles": 206,
   "resources": 1,
   "prompts": 0,
   "asset_references": 84,
   "source_states": {
     "reference": 1,
-    "structured": 27
+    "structured": 27,
+    "editorial_partial": 29
   },
-  "pending_sources": 0,
-  "priority_review_articles": 1
+  "pending_sources": 29,
+  "priority_review_articles": 1,
+  "editorial_partial_sources": 29,
+  "editorial_summary_articles": 46
 }

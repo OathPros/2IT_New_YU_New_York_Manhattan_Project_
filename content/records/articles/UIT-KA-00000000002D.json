@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-00000000002D",
+  "slug": "submit-an-effective-it-support-request-00002d",
+  "title": "Submit an effective IT support request",
+  "type": "How to",
+  "service_id": "support",
+  "issue": "Submit an effective IT support request",
+  "environment": [
+    "IT support",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Choose your faculty IT team or UIT based on who supports your service</li><li>Explain the task and what is not working</li><li>Include the relevant device, operating system, location and error message</li><li>List troubleshooting already attempted and attach safe screenshots where useful</li><li>Use the existing ticket thread for follow-up instead of creating duplicates</li></ol>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/contact/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

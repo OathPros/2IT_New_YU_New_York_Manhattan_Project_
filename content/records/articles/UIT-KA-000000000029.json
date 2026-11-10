@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000029",
+  "slug": "find-voicemail-and-call-forwarding-help-000029",
+  "title": "Find voicemail and call-forwarding help",
+  "type": "How to",
+  "service_id": "phones",
+  "issue": "Find voicemail and call-forwarding help",
+  "environment": [
+    "Desk and mobile phones",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>York’s desk phone system supports voicemail, forwarding, conferencing and related telephone functions. Check which phone model and extension type you use before applying configuration steps; contact the telephone designate for model-specific assistance</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/desk-phones/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

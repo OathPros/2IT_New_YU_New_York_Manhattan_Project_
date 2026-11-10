@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-00000000002E",
+  "slug": "find-the-steacie-help-desk-00002e",
+  "title": "Find the Steacie Help Desk",
+  "type": "How to",
+  "service_id": "support",
+  "issue": "Find the Steacie Help Desk",
+  "environment": [
+    "IT support",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>The in-person UIT Help Desk is listed at Steacie Science and Engineering Building, main floor, Room 107C, 136 Campus Walk, Toronto. Contact askIT@yorku.ca or 416-736-5800 for assistance and current operating hours</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/contact/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

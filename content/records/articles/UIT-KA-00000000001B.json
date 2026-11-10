@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-00000000001B",
+  "slug": "protect-confidential-data-when-using-ai-00001b",
+  "title": "Protect confidential data when using AI",
+  "type": "Question and answer",
+  "service_id": "ai",
+  "issue": "Protect confidential data when using AI",
+  "environment": [
+    "Artificial intelligence",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Only use a York-approved tool and configuration for the classification of information involved. Public accounts for consumer AI tools are not approved for entering confidential, proprietary or sensitive University content</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/AI/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

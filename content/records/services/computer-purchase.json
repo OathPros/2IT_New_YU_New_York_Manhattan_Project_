@@ -1,0 +1,54 @@
+{
+  "id": "computer-purchase",
+  "name": "Computer purchases",
+  "summary": "Get guidance on university laptops, desktops and peripherals",
+  "aliases": [
+    "computer",
+    "purchase",
+    "desktop",
+    "laptop",
+    "hardware",
+    "equipment"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/computer-purchase/"
+  ],
+  "article_ids": [
+    "UIT-KA-000000000027"
+  ],
+  "details": [
+    {
+      "title": "Purchasing computers",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>York provides a supported computer purchase process for laptops, desktops and peripherals intended for University work. The available configurations and procurement route depend on the department and applicable purchasing policy</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/computer-purchase/"
+    },
+    {
+      "title": "Quotes and delivery",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>The published catalogue notice states that pricing cannot currently be displayed because of market volatility and supply shortages. Request a quote and estimated delivery timeline from askIT rather than treating older prices as current</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/computer-purchase/"
+    },
+    {
+      "title": "Account-protected purchasing detail",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>Some purchasing catalogue pages require Passport York sign-in. Those authenticated details are not reproduced here and must be incorporated only from an approved source once reviewed</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/computer-purchase/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Request a quote",
+      "url": "mailto:askIT@yorku.ca",
+      "audiences": [
+        "employee"
+      ]
+    }
+  ]
+}

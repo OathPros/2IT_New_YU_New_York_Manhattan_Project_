@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000025",
+  "slug": "request-insight-access-000025",
+  "title": "Request Insight access",
+  "type": "How to",
+  "service_id": "data-reporting",
+  "issue": "Request Insight access",
+  "environment": [
+    "Data and reporting",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Contact your faculty’s Insight access designate for authorization</li><li>Send askIT a request containing your employee Passport York username and evidence of approval</li><li>After access is enabled, sign in through Insight using your employee account</li></ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/data-and-reporting-services/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

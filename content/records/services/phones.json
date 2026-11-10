@@ -1,0 +1,57 @@
+{
+  "id": "phones",
+  "name": "Desk and mobile phones",
+  "summary": "Manage university phone service, voicemail and mobile devices",
+  "aliases": [
+    "phone",
+    "telephone",
+    "mobile",
+    "cellphone",
+    "desk",
+    "voicemail",
+    "telecom"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/desk-phones/",
+    "https://www.yorku.ca/uit/py-staff-area/cell-phones/"
+  ],
+  "article_ids": [
+    "UIT-KA-000000000028",
+    "UIT-KA-000000000029"
+  ],
+  "details": [
+    {
+      "title": "Desk phone services",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>York Telecommunications supports desk phone service, voicemail, call forwarding, conference calling and related features for eligible University units</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/desk-phones/"
+    },
+    {
+      "title": "Request a desk phone",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>The published desk phone guidance requires working with a department telephone designate and supplying a York budget number. Features and service eligibility depend on the departmental telephone arrangement</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/desk-phones/"
+    },
+    {
+      "title": "Mobile phone services",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>Mobile device plans and purchase information are available through a Passport York-protected employee area. No tariff, eligibility or device pricing is reproduced without a verified authorized source</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/desk-phones/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Find your telephone designate",
+      "url": "https://designates.apps06.yorku.ca/",
+      "audiences": [
+        "employee"
+      ]
+    }
+  ]
+}

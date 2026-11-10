@@ -1,0 +1,16 @@
+{
+  "source_id": "editorial-00000000002f",
+  "source_url": "https://www.yorku.ca/uit/student-services/internet-access/",
+  "title": "Wi-Fi and internet",
+  "capture_status": "editorial_live_page_review",
+  "state": "editorial_partial",
+  "destinations": [
+    "/services/connectivity/",
+    "/knowledge/connect-to-airyorkplus-on-windows-000001/",
+    "/knowledge/connect-to-eduroam-using-your-york-account-000002/",
+    "/knowledge/connect-to-airyorkguest-000003/"
+  ],
+  "assignments": [],
+  "editorial_note": "Public source consulted to author service overview and selected tasks. Full source block capture and content parity not yet complete",
+  "reviewed_source_at": "2026-11-10T13:00:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000003",
+  "slug": "connect-to-airyorkguest-000003",
+  "title": "Connect to AirYorkGUEST",
+  "type": "How to",
+  "service_id": "connectivity",
+  "issue": "Connect to AirYorkGUEST",
+  "environment": [
+    "Wi-Fi and internet",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Select the AirYorkGUEST wireless network</li><li>Open the registration page and provide the requested information</li><li>Choose email or text message verification and accept the terms</li><li>Complete verification to activate guest access</li></ol><p>Guest sessions are time-limited and the network is not intended for members who can use AirYorkPLUS or eduroam</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/internet-access/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

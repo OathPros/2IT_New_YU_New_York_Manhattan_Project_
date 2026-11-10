@@ -1,0 +1,56 @@
+{
+  "id": "web-media",
+  "name": "Web and media",
+  "summary": "Create York websites, publish content and manage web forms",
+  "aliases": [
+    "wordpress",
+    "web",
+    "media",
+    "website",
+    "gravity",
+    "forms",
+    "machform"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/web-and-media-management/"
+  ],
+  "article_ids": [
+    "UIT-KA-00000000001F",
+    "UIT-KA-000000000020"
+  ],
+  "details": [
+    {
+      "title": "WordPress websites",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>York’s centrally managed WordPress service supports official departmental and academic sites, University themes and approved plugins, and a www.yorku.ca address. Sites and approvals depend on the sponsoring unit and its technical support model</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/web-and-media-management/"
+    },
+    {
+      "title": "Web forms",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>Gravity Forms is offered with the centrally managed WordPress platform. MachForm is another form-building option that can be linked or embedded in web pages. Select the tool according to the service requirements, data classification and supported environment</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/web-and-media-management/"
+    },
+    {
+      "title": "Specialized hosting",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>A shared application server is described for requirements that cannot be met by central WordPress, but site owners are responsible for maintenance and support of independently managed WordPress instances. Internal employee sites may belong on YU Link instead of public WordPress</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/web-and-media-management/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Request web support",
+      "url": "mailto:askIT@yorku.ca",
+      "audiences": [
+        "employee"
+      ]
+    }
+  ]
+}
