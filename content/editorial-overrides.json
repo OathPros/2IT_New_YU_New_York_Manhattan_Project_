@@ -425,7 +425,7 @@
     "id": "UIT-KA-DC3D9DEC1D30",
     "title": "When a student Passport York account is active",
     "issue": "When a student Passport York account is active",
-    "resolution_html": "<p>A student's Passport York account is normally active while their enrolment status is active in York's student records. Account access is governed by the official student account lifecycle, and specific services may expire at different stages</p><p><a href=\"https://www.yorku.ca/uit/student-services/passport-york/\">Review York's current account lifecycle guidance</a></p>",
+    "resolution_html": "<p>Your student computing accounts are normally active when you are enrolled in York University courses. Account eligibility and service availability depend on the student records and lifecycle state</p><ol><li>Check your course registration status through York's student records</li><li>Review <a href=\"https://www.yorku.ca/uit/student-services/passport-york/\">the current Passport York account lifecycle guidance</a></li><li>Contact <a href=\"mailto:askit@yorku.ca\">askIT</a> if access is missing despite active registration</li></ol>",
     "editorial_status": "rewritten_draft",
     "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
     "review_flags": []
