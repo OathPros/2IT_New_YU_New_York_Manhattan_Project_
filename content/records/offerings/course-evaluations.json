@@ -1,0 +1,24 @@
+{
+  "id": "course-evaluations",
+  "name": "Course evaluations",
+  "parent_service_id": "teaching-learning",
+  "summary": "Course feedback surveys managed through the University's evaluation process",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/teaching-and-learning/"
+  ],
+  "actions": [
+    {
+      "label": "Get evaluation help",
+      "url": "https://lthelp.yorku.ca/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-COURSE_EVALUATIONS"
+  ],
+  "review_state": "not_validated"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "nvivo",
+  "name": "NVivo",
+  "parent_service_id": "software",
+  "summary": "Qualitative research analysis software for authorized York use",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/software-and-apps/"
+  ],
+  "actions": [
+    {
+      "label": "Request NVivo",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-NVIVO"
+  ],
+  "review_state": "not_validated"
+}

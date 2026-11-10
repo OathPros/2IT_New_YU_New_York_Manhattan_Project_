@@ -1,0 +1,25 @@
+{
+  "id": "passport-account",
+  "name": "Passport York account",
+  "parent_service_id": "passport-york",
+  "summary": "Manage your York sign-in identity, password and account lifecycle",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/passport-york/"
+  ],
+  "actions": [
+    {
+      "label": "Manage account",
+      "url": "https://mms.yorku.ca/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-C0C4FF920116",
+    "UIT-KA-ECE0EF1E1C01"
+  ],
+  "review_state": "not_validated"
+}

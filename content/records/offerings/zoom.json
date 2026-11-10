@@ -1,0 +1,23 @@
+{
+  "id": "zoom",
+  "name": "Zoom Meetings",
+  "parent_service_id": "software",
+  "summary": "Licensed online meetings with video, screen sharing and recording",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/software-and-apps/"
+  ],
+  "actions": [
+    {
+      "label": "Open York Zoom",
+      "url": "https://yorku.zoom.us/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-ZOOM"
+  ],
+  "review_state": "not_validated"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "UIT-KA-OFFER-AMOS",
+  "slug": "use-amos",
+  "title": "Access and use IBM SPSS Amos",
+  "type": "How to",
+  "service_id": "software",
+  "offering_id": "amos",
+  "issue": "You need to access or request IBM SPSS Amos",
+  "environment": [
+    "IBM SPSS Amos",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Confirm an available IBM SPSS Amos entitlement</li><li>Request the supported Windows package through the York software process</li><li>Install and activate the authorized package according to the supplied licence guidance</li></ol><p>For an access problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> with the service name and relevant error</p>",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/software-and-apps/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

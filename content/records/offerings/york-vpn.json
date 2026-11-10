@@ -1,0 +1,24 @@
+{
+  "id": "york-vpn",
+  "name": "York VPN",
+  "parent_service_id": "connectivity",
+  "summary": "Use Ivanti Secure Access for approved off-campus access to protected York systems",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/off-campus-computing/"
+  ],
+  "actions": [
+    {
+      "label": "Request VPN help",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-YORK_VPN"
+  ],
+  "review_state": "not_validated"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "UIT-KA-OFFER-GRADE_SUBMISSION",
+  "slug": "use-grade-submission",
+  "title": "Access and use Grade submission",
+  "type": "How to",
+  "service_id": "teaching-learning",
+  "offering_id": "grade-submission",
+  "issue": "You need to access or request Grade submission",
+  "environment": [
+    "Grade submission",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Confirm the current grade submission process and deadline for your course</li><li>Open the authorized application with your instructor credentials</li><li>Follow your academic unit's grade submission procedure</li><li>Contact the unit designate if the course or access is missing</li></ol><p>For an access problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> with the service name and relevant error</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/teaching-and-learning/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

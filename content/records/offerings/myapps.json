@@ -1,0 +1,26 @@
+{
+  "id": "myapps",
+  "name": "MyApps",
+  "parent_service_id": "software",
+  "summary": "Use licensed applications remotely through York's virtual app portal",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/software-and-apps/"
+  ],
+  "actions": [
+    {
+      "label": "Open MyApps",
+      "url": "https://myapps.yorku.ca/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-000000000005",
+    "UIT-KA-000000000006",
+    "UIT-KA-000000000007"
+  ],
+  "review_state": "not_validated"
+}

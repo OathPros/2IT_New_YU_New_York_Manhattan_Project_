@@ -1,0 +1,24 @@
+{
+  "id": "microsoft-forms",
+  "name": "Microsoft Forms",
+  "parent_service_id": "microsoft-365",
+  "summary": "Create authorized surveys, quizzes and simple feedback forms",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/microsoft-365-for-faculty-and-staff/"
+  ],
+  "actions": [
+    {
+      "label": "Open Forms",
+      "url": "https://forms.office.com/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-MICROSOFT_FORMS"
+  ],
+  "review_state": "not_validated"
+}

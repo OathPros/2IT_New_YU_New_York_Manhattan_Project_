@@ -1,0 +1,23 @@
+{
+  "id": "grade-submission",
+  "name": "Grade submission",
+  "parent_service_id": "teaching-learning",
+  "summary": "Submit and manage course grades using authorized York systems",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/teaching-and-learning/"
+  ],
+  "actions": [
+    {
+      "label": "Get grade submission help",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-GRADE_SUBMISSION"
+  ],
+  "review_state": "not_validated"
+}

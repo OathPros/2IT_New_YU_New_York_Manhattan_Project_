@@ -1,0 +1,29 @@
+{
+  "id": "UIT-KA-OFFER-MICROSOFT_TEAMS",
+  "slug": "use-microsoft-teams",
+  "title": "Access and use Microsoft Teams",
+  "type": "How to",
+  "service_id": "microsoft-365",
+  "offering_id": "microsoft-teams",
+  "issue": "You need to access or request Microsoft Teams",
+  "environment": [
+    "Microsoft Teams",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Open Teams through the York Microsoft 365 account</li><li>Sign in with your Passport York username followed by @yorku.ca</li><li>Choose Chat, Teams or Calendar for the task</li><li>Confirm access permissions before sharing restricted University files</li></ol><p>For an access problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> with the service name and relevant error</p>",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/microsoft-365-for-faculty-and-staff/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

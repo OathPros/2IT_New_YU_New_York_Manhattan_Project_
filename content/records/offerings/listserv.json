@@ -1,0 +1,26 @@
+{
+  "id": "listserv",
+  "name": "LISTSERV mailing lists",
+  "parent_service_id": "email",
+  "summary": "Distribute messages to mailing lists and manage list subscriptions or owners",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+  ],
+  "actions": [
+    {
+      "label": "Request list assistance",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-F6E85FA4CC06",
+    "UIT-KA-8EA83C164A16",
+    "UIT-KA-30FB51DFEB91",
+    "UIT-KA-F8F786A4ABDC"
+  ],
+  "review_state": "not_validated"
+}

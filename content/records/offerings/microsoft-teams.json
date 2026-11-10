@@ -1,0 +1,24 @@
+{
+  "id": "microsoft-teams",
+  "name": "Microsoft Teams",
+  "parent_service_id": "microsoft-365",
+  "summary": "Meet, chat, call and collaborate through York Microsoft Teams",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/microsoft-365-for-faculty-and-staff/"
+  ],
+  "actions": [
+    {
+      "label": "Open Teams",
+      "url": "https://teams.microsoft.com/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-MICROSOFT_TEAMS"
+  ],
+  "review_state": "not_validated"
+}

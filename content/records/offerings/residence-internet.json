@@ -1,0 +1,23 @@
+{
+  "id": "residence-internet",
+  "name": "Residence wired internet",
+  "parent_service_id": "connectivity",
+  "summary": "Wired internet connectivity for eligible residents in York housing",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/internet-access/"
+  ],
+  "actions": [
+    {
+      "label": "Report residence network problem",
+      "url": "https://uitcs.apps01.yorku.ca/",
+      "kind": "access"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-RESIDENCE_INTERNET"
+  ],
+  "review_state": "not_validated"
+}

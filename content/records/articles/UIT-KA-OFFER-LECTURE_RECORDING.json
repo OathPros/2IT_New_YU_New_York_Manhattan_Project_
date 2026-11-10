@@ -1,0 +1,29 @@
+{
+  "id": "UIT-KA-OFFER-LECTURE_RECORDING",
+  "slug": "use-lecture-recording",
+  "title": "Access and use Lecture recording",
+  "type": "How to",
+  "service_id": "teaching-learning",
+  "offering_id": "lecture-recording",
+  "issue": "You need to access or request Lecture recording",
+  "environment": [
+    "Lecture recording",
+    "York University"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Confirm that the course or room supports recording and that permission has been arranged</li><li>Instructors should arrange recording setup through the classroom or learning technology team</li><li>Students should open the recording published in their eClass course</li></ol><p>For an access problem, contact <a href=\"mailto:askIT@yorku.ca\">askIT</a> with the service name and relevant error</p>",
+  "audiences": [
+    "student",
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/teaching-and-learning/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T15:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "source_based_offering_draft",
+  "review_flags": []
+}

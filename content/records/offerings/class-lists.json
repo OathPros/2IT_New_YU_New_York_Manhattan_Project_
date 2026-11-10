@@ -1,0 +1,23 @@
+{
+  "id": "class-lists",
+  "name": "Class lists",
+  "parent_service_id": "teaching-learning",
+  "summary": "Authorized access to course enrolment rosters for instruction",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/teaching-and-learning/"
+  ],
+  "actions": [
+    {
+      "label": "Request access",
+      "url": "https://askus.yorku.ca/portal/",
+      "kind": "request"
+    }
+  ],
+  "article_ids": [
+    "UIT-KA-OFFER-CLASS_LISTS"
+  ],
+  "review_state": "not_validated"
+}
