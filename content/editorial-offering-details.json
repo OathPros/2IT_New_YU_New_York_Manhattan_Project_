@@ -1,0 +1,1027 @@
+{
+  "passport-account": {
+    "what_it_is": "Passport York is York University's institutional account and sign-in service. It establishes the identity used to access eligible University systems and manages account credentials and lifecycle",
+    "who_uses_it": "Current students, faculty, staff and other approved account holders, with access determined by their affiliation",
+    "use_cases": [
+      "Activate an account",
+      "Change a password",
+      "Recover access when locked out",
+      "Manage the account's security details"
+    ],
+    "access_note": "Use Manage My Services for available account operations. Eligibility and recovery methods differ for students, employees and privileged users",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "sponsored-accounts": {
+    "what_it_is": "Sponsored accounts allow York to grant time-limited computing access to approved people who do not qualify for an ordinary student or employee account",
+    "who_uses_it": "Authorized sponsors request access for eligible guests, visiting researchers, affiliates and other approved collaborators",
+    "use_cases": [
+      "Request guest or affiliate credentials",
+      "Identify the sponsoring unit and period of access",
+      "Enable only the resources approved for the guest"
+    ],
+    "access_note": "A York sponsor must authorize the request. Guest Wi-Fi and sponsored computing accounts are different services",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "1password-vault": {
+    "what_it_is": "1Password is York's password manager for storing and generating unique credentials. Business, student and personal Families memberships are different offerings",
+    "who_uses_it": "Eligible students and employees through their applicable York licence; personal Families use is separate from an institutional vault",
+    "use_cases": [
+      "Save and autofill logins",
+      "Generate strong unique passwords",
+      "Share credentials using approved team vaults",
+      "Use the eligible Families benefit"
+    ],
+    "access_note": "Activate the account through York's instructions before signing in. 1Password is not Passport York",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "duo-authentication": {
+    "what_it_is": "Duo is the verification service York uses to add a second security factor after a password is entered",
+    "who_uses_it": "York account holders subject to multifactor authentication requirements, including students and employees",
+    "use_cases": [
+      "Approve sign-ins with Duo Mobile",
+      "Use an approved alternative authentication method",
+      "Replace a lost or changed authentication device"
+    ],
+    "access_note": "Enrol a supported method before you need it. If all enrolled methods are unavailable, contact IT for recovery",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "airyorkplus": {
+    "what_it_is": "AirYorkPLUS is York's encrypted wireless network for devices used by current members of the University community",
+    "who_uses_it": "Current students and employees with an active Passport York account and a compatible device",
+    "use_cases": [
+      "Connect laptops and phones to secure campus Wi-Fi",
+      "Access online academic and work resources",
+      "Reconnect after changing a password"
+    ],
+    "access_note": "Connect to the AirYorkPLUS network using your York credentials and verify network security settings",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "eduroam": {
+    "what_it_is": "eduroam provides secure Wi-Fi roaming across participating education and research institutions",
+    "who_uses_it": "York students and employees with eligible credentials, and visitors from other participating institutions",
+    "use_cases": [
+      "Connect on campus with a participating institution's account",
+      "Use Wi-Fi while visiting other universities",
+      "Maintain a roaming wireless profile"
+    ],
+    "access_note": "York members authenticate using their institutional eduroam sign-in format, which may differ from their usual email address",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "airyorkguest": {
+    "what_it_is": "AirYorkGUEST provides temporary wireless access to visitors who cannot use AirYorkPLUS or eduroam",
+    "who_uses_it": "Eligible campus visitors and guests, not the primary network for current York members",
+    "use_cases": [
+      "Register for temporary internet access",
+      "Verify a guest session",
+      "Access visitor-appropriate online services"
+    ],
+    "access_note": "Select AirYorkGUEST and follow the on-screen registration instructions. Guest sessions have limits",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "residence-internet": {
+    "what_it_is": "Residence wired internet connects supported in-room devices to York's campus network",
+    "who_uses_it": "Residents in eligible York housing locations with a compatible network-connected device",
+    "use_cases": [
+      "Connect a computer using Ethernet",
+      "Troubleshoot a wired network connection",
+      "Report an outage affecting a room or residence"
+    ],
+    "access_note": "Availability varies by residence. Follow housing network rules and avoid unauthorized networking equipment",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "york-vpn": {
+    "what_it_is": "York VPN creates a secure remote connection to internal University resources that are not available from the public internet",
+    "who_uses_it": "Students and employees authorized for systems that require VPN access",
+    "use_cases": [
+      "Open protected departmental file shares",
+      "Access restricted administrative systems from off campus",
+      "Connect securely to approved remote resources"
+    ],
+    "access_note": "Install the currently supported client and use the VPN configuration authorized for your role. Not every York website requires VPN",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "google-mail": {
+    "what_it_is": "Google Mail is the centrally supported Gmail mailbox for eligible York undergraduate students",
+    "who_uses_it": "Undergraduate students with an active student email account; employees and graduate students generally use Outlook instead",
+    "use_cases": [
+      "Send and organize student email",
+      "Search messages and attachments",
+      "Manage labels, spam and forwarding where permitted"
+    ],
+    "access_note": "Sign in to your York Google mailbox, not a personal Gmail account",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "outlook": {
+    "what_it_is": "Outlook is York's Microsoft Exchange Online email and calendar service, with web and desktop clients and delegated mailbox features",
+    "who_uses_it": "Faculty, staff and graduate students with a York-hosted Outlook mailbox; undergraduate students generally use Google Mail",
+    "use_cases": [
+      "Send and organize email",
+      "Manage meetings and calendars",
+      "Open shared mailboxes when granted access",
+      "Set automatic replies and delegate permissions"
+    ],
+    "access_note": "Open Outlook directly with your York Microsoft 365 identity. Shared mailboxes require explicit access",
+    "actions": [
+      {
+        "label": "Open Outlook",
+        "url": "https://outlook.office.com/",
+        "kind": "access"
+      },
+      {
+        "label": "Outlook help",
+        "url": "https://support.microsoft.com/outlook",
+        "kind": "documentation"
+      }
+    ],
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "listserv": {
+    "what_it_is": "LISTSERV distributes email to managed mailing lists and gives list owners tools to maintain subscribers and posting rules",
+    "who_uses_it": "Approved York mailing-list subscribers, moderators and owners",
+    "use_cases": [
+      "Send messages to a mailing list",
+      "Join or leave a list",
+      "Approve posts and manage subscriptions",
+      "Review delivery problems and list settings"
+    ],
+    "access_note": "List owners and ordinary subscribers have different permissions. Administrative requests go through the supported list owner or IT",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "zoom": {
+    "what_it_is": "Zoom supports online video meetings, teaching sessions and webinars using York's institutional service",
+    "who_uses_it": "Eligible York employees and other users who are assigned access under York's Zoom arrangements",
+    "use_cases": [
+      "Schedule and host video meetings",
+      "Share screens and presentations",
+      "Invite external participants",
+      "Record a session when authorized"
+    ],
+    "access_note": "Use York's Zoom sign-in for institutional meeting controls and licensing",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "microsoft-365-apps": {
+    "what_it_is": "Microsoft 365 is York's suite of online and desktop productivity apps, including Word, Excel and PowerPoint",
+    "who_uses_it": "Current York students, faculty and staff, with individual app features depending on their assigned licence",
+    "use_cases": [
+      "Create and collaborate on documents",
+      "Analyze information in spreadsheets",
+      "Build presentations",
+      "Install desktop apps when your licence permits"
+    ],
+    "access_note": "Sign in with your York Microsoft 365 account and choose the app you need",
+    "actions": [
+      {
+        "label": "Microsoft 365 apps",
+        "url": "https://m365.cloud.microsoft/apps",
+        "kind": "access"
+      },
+      {
+        "label": "Open Word",
+        "url": "https://word.cloud.microsoft/",
+        "kind": "access"
+      },
+      {
+        "label": "Open Excel",
+        "url": "https://excel.cloud.microsoft/",
+        "kind": "access"
+      },
+      {
+        "label": "Open PowerPoint",
+        "url": "https://powerpoint.cloud.microsoft/",
+        "kind": "access"
+      }
+    ],
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "microsoft-teams": {
+    "what_it_is": "Microsoft Teams brings workplace chat, video meetings, calls, channels and file collaboration together in one application",
+    "who_uses_it": "Eligible York students and employees, with membership in individual teams controlled by team owners",
+    "use_cases": [
+      "Chat with colleagues and classmates",
+      "Hold scheduled and ad hoc meetings",
+      "Organize files and discussions in channels",
+      "Collaborate on shared work"
+    ],
+    "access_note": "Open Teams with your York account. Being eligible for Teams does not automatically add you to a particular team",
+    "actions": [
+      {
+        "label": "Open Teams",
+        "url": "https://teams.microsoft.com/",
+        "kind": "access"
+      },
+      {
+        "label": "Teams help",
+        "url": "https://support.microsoft.com/teams",
+        "kind": "documentation"
+      }
+    ],
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "onedrive": {
+    "what_it_is": "OneDrive is the personal cloud file-storage space associated with an eligible York Microsoft 365 account",
+    "who_uses_it": "Current students and employees with a York OneDrive entitlement",
+    "use_cases": [
+      "Store and sync working files",
+      "Share documents with named collaborators",
+      "Recover previous file versions",
+      "Access documents across devices"
+    ],
+    "access_note": "Open your York OneDrive rather than a personal Microsoft storage account. Sharing remains subject to University information rules",
+    "actions": [
+      {
+        "label": "Open OneDrive",
+        "url": "https://www.microsoft365.com/launch/onedrive",
+        "kind": "access"
+      },
+      {
+        "label": "OneDrive help",
+        "url": "https://support.microsoft.com/onedrive",
+        "kind": "documentation"
+      }
+    ],
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "sharepoint": {
+    "what_it_is": "SharePoint Online is York's platform for team sites, departmental information and shared document libraries. Unlike OneDrive, content is organized around a team or site rather than an individual's personal file space",
+    "who_uses_it": "Faculty and staff working in departmental, project or team sites, plus other invited collaborators where a site owner grants permission. Access to a specific site is not automatic",
+    "use_cases": [
+      "Open departmental and project sites",
+      "Publish and find team information or procedures",
+      "Store, organize and co-edit shared documents",
+      "Manage access, version history and approved lists"
+    ],
+    "access_note": "Sign in to York's SharePoint environment. To open a specific team site, you must have its address or access granted by its owner",
+    "actions": [
+      {
+        "label": "Open York SharePoint",
+        "url": "https://yuoffice.sharepoint.com/",
+        "kind": "access"
+      },
+      {
+        "label": "SharePoint help",
+        "url": "https://support.microsoft.com/sharepoint",
+        "kind": "documentation"
+      }
+    ],
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "microsoft-forms": {
+    "what_it_is": "Microsoft Forms lets eligible Microsoft 365 users build simple online forms, quizzes, surveys and polls",
+    "who_uses_it": "York students and employees with Microsoft Forms available in their institutional account",
+    "use_cases": [
+      "Collect survey responses",
+      "Create simple quizzes and polls",
+      "Review response summaries",
+      "Export response data for analysis"
+    ],
+    "access_note": "Use Forms for information approved for this platform; highly sensitive institutional data may require another service",
+    "actions": [
+      {
+        "label": "Open Microsoft Forms",
+        "url": "https://forms.office.com/",
+        "kind": "access"
+      },
+      {
+        "label": "Forms help",
+        "url": "https://support.microsoft.com/forms",
+        "kind": "documentation"
+      }
+    ],
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "myapps": {
+    "what_it_is": "MyApps is York's portal for running supported academic and workplace applications through remote sessions or web delivery",
+    "who_uses_it": "Eligible students, faculty and staff, subject to each application's licence and access rules",
+    "use_cases": [
+      "Launch software without installing it locally",
+      "Open a remote app or browser session",
+      "Access specialized course or work software"
+    ],
+    "access_note": "Sign in to MyApps and choose the launch option available for your application",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "software-licences": {
+    "what_it_is": "York's software licensing services distribute approved applications and provide access to institutionally licensed or discounted products",
+    "who_uses_it": "Students and employees where a product licence permits; installation rights vary by affiliation and device ownership",
+    "use_cases": [
+      "Check software availability",
+      "Request a licence or installer",
+      "Find eligible versions for Windows or Mac",
+      "Get help installing licensed applications"
+    ],
+    "access_note": "Licences and prices are product-specific. Software for a York-owned computer may require an IT installation request",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "spss": {
+    "what_it_is": "IBM SPSS Statistics is software for statistical data management, analysis and reporting",
+    "who_uses_it": "Eligible York students, instructors and researchers with an appropriate software entitlement",
+    "use_cases": [
+      "Run descriptive and inferential statistics",
+      "Manage and transform datasets",
+      "Generate statistical charts and output"
+    ],
+    "access_note": "Check York's current SPSS licence and installation route before downloading software",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "sas": {
+    "what_it_is": "SAS is a statistical and analytical computing platform used for data processing and advanced analysis",
+    "who_uses_it": "York users in programs or units with an approved SAS entitlement",
+    "use_cases": [
+      "Process and transform datasets",
+      "Run statistical procedures",
+      "Create reproducible analytic workflows"
+    ],
+    "access_note": "Access and supported version depend on your department or program's software arrangements",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "nvivo": {
+    "what_it_is": "NVivo supports qualitative research by organizing and analysing text, interviews and other research materials",
+    "who_uses_it": "Eligible York researchers, instructors and students with the required licence",
+    "use_cases": [
+      "Code interview transcripts",
+      "Organize research sources",
+      "Compare themes across qualitative data"
+    ],
+    "access_note": "Confirm licence eligibility and the current supported version through York's software catalogue",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "amos": {
+    "what_it_is": "IBM SPSS Amos is a Windows application for structural equation modelling and related statistical analysis",
+    "who_uses_it": "Eligible York users with Amos licensing, usually for research or advanced coursework",
+    "use_cases": [
+      "Build structural equation models",
+      "Estimate model relationships",
+      "Evaluate model fit"
+    ],
+    "access_note": "Check product eligibility and Windows support before installing",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "eclass": {
+    "what_it_is": "eClass is York's Moodle-based learning management system for courses and academic activities",
+    "who_uses_it": "Enrolled students, instructors and designated teaching staff with course access",
+    "use_cases": [
+      "Read course material",
+      "Submit assignments and quizzes",
+      "Participate in discussions",
+      "Publish and manage course activities"
+    ],
+    "access_note": "Sign in with Passport York. A course appears when your academic registration and instructor availability permit",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "turnitin": {
+    "what_it_is": "Turnitin provides text similarity checking and supported assignment workflows integrated with courses",
+    "who_uses_it": "Students and instructors in courses where the instructor has enabled Turnitin",
+    "use_cases": [
+      "Submit eligible written work",
+      "Review similarity feedback when released",
+      "Assess submitted documents using instructor tools"
+    ],
+    "access_note": "Open Turnitin through the assignment inside your course's approved learning environment",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "iclicker": {
+    "what_it_is": "iClicker is a classroom response tool for quizzes, polls and participation activities chosen by an instructor",
+    "who_uses_it": "Students in courses using iClicker and instructors operating those activities",
+    "use_cases": [
+      "Answer live in-class questions",
+      "Take part in polls",
+      "View participation feedback",
+      "Run instructor engagement activities"
+    ],
+    "access_note": "Follow your course's iClicker registration and participation instructions",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "lecture-recording": {
+    "what_it_is": "Lecture recording services capture and distribute authorized teaching sessions and course media",
+    "who_uses_it": "Instructors using supported recording facilities and students enrolled in courses with published recordings",
+    "use_cases": [
+      "Capture lectures in equipped rooms",
+      "Publish course media",
+      "Watch and review recordings"
+    ],
+    "access_note": "Recording availability and access are controlled by the instructor, room and approved course distribution settings",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "course-evaluations": {
+    "what_it_is": "Course evaluations give students a structured way to provide feedback on teaching and course experiences",
+    "who_uses_it": "Eligible students invited to complete evaluations, and authorized administrators managing the process",
+    "use_cases": [
+      "Complete an evaluation",
+      "Review available evaluation windows",
+      "Administer course feedback workflows"
+    ],
+    "access_note": "An evaluation is available only during its scheduled period and for eligible courses",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "class-lists": {
+    "what_it_is": "Class-list tools provide authorized access to enrolment information for teaching and course administration",
+    "who_uses_it": "Instructors and designated staff with approved access to a particular course",
+    "use_cases": [
+      "Check course rosters",
+      "Identify registered students",
+      "Support permitted course administration"
+    ],
+    "access_note": "Course access is controlled by academic appointments and student-record permissions",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "grade-submission": {
+    "what_it_is": "Grade submission systems allow authorized academic staff to submit final course results into University records",
+    "who_uses_it": "Course instructors and designated academic administrators with grading authorization",
+    "use_cases": [
+      "Enter and submit final grades",
+      "Review grade submissions",
+      "Resolve access issues before deadlines"
+    ],
+    "access_note": "Follow your faculty's current academic records process and published grading deadlines",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "webprint": {
+    "what_it_is": "WebPrint lets eligible users upload documents through a browser for printing on supported York printers",
+    "who_uses_it": "Students and other users with eligibility and sufficient print balance for participating devices",
+    "use_cases": [
+      "Upload documents for printing",
+      "Choose a printer and print options",
+      "Release and pay for print jobs"
+    ],
+    "access_note": "Sign in through York's WebPrint portal; check the destination printer and account balance before submitting",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "campus-printers": {
+    "what_it_is": "Public campus print stations provide paid black-and-white or colour output in designated labs and library spaces",
+    "who_uses_it": "Students and eligible visitors using supported campus print locations",
+    "use_cases": [
+      "Print course material",
+      "Collect uploaded print jobs",
+      "Use supported campus print payment methods"
+    ],
+    "access_note": "Printer availability, equipment and charges vary by location",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "managed-printing": {
+    "what_it_is": "Unified Print Management manages print and copy activity on enrolled York departmental devices",
+    "who_uses_it": "Faculty and staff in units onboarded to managed printing; access is not universal across every department",
+    "use_cases": [
+      "Print securely to departmental queues",
+      "Copy on enrolled equipment",
+      "Track print and copy use",
+      "Support departmental cost recovery"
+    ],
+    "access_note": "Ask local IT whether your unit participates before requesting a printer or print queue",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "google-drive": {
+    "what_it_is": "Google Drive is a cloud file-storage and collaboration space available through eligible York Google Workspace accounts",
+    "who_uses_it": "Eligible undergraduate students using their York Google account",
+    "use_cases": [
+      "Store course files",
+      "Share documents with collaborators",
+      "Create and edit Google Docs, Sheets and Slides"
+    ],
+    "access_note": "Use your institutional Google account and follow its storage and sharing restrictions",
+    "actions": [
+      {
+        "label": "Open York Google Drive",
+        "url": "https://drive.google.com/",
+        "kind": "access"
+      },
+      {
+        "label": "Google Drive help",
+        "url": "https://support.google.com/drive/",
+        "kind": "documentation"
+      }
+    ],
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "fas": {
+    "what_it_is": "File Access Service provides centrally managed shared file storage for approved York teams and administrative processes",
+    "who_uses_it": "Employees and authorized collaborators with access approved by the file-share owner",
+    "use_cases": [
+      "Store files on departmental shared drives",
+      "Grant read or modify access",
+      "Support team file workflows with controlled permissions"
+    ],
+    "access_note": "A file share and its access permissions must be provisioned or approved; access is not automatic",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "computer-labs": {
+    "what_it_is": "York computing labs provide shared computers and course-specific software in designated teaching or drop-in spaces",
+    "who_uses_it": "Students enrolled in courses or faculties with access to the particular lab",
+    "use_cases": [
+      "Use shared campus computers",
+      "Run specialist software",
+      "Access supported learning technology"
+    ],
+    "access_note": "Lab access and hours vary by location, course and faculty",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "remote-labs": {
+    "what_it_is": "Remote lab access lets eligible York users connect to a supported campus computer or hosted lab session from another location",
+    "who_uses_it": "Students and employees approved for a specific remote computing lab",
+    "use_cases": [
+      "Run lab-only software remotely",
+      "Use specialized computing resources away from campus",
+      "Access a classroom workstation where enabled"
+    ],
+    "access_note": "Your faculty must provide the appropriate lab connection method and permission; some labs also require York VPN",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "workstation-support": {
+    "what_it_is": "Managed workstation support helps with setup, operation and troubleshooting of University-owned laptops and desktops",
+    "who_uses_it": "York employees whose devices are supported by UIT or their faculty or unit IT team",
+    "use_cases": [
+      "Set up an assigned computer",
+      "Troubleshoot hardware or software issues",
+      "Request repair or replacement guidance"
+    ],
+    "access_note": "Support ownership depends on the device and department; provide asset information with a request",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "phishing-reporting": {
+    "what_it_is": "York's phishing reporting service receives and investigates suspicious messages that could steal information or compromise accounts",
+    "who_uses_it": "Students and employees receiving messages through University email",
+    "use_cases": [
+      "Report suspicious email",
+      "Flag malicious attachments or links",
+      "Request help after a suspected credential exposure"
+    ],
+    "access_note": "Use the Report Phishing option in your supported mail client when available. Do not interact with suspicious messages first",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "security-consultation": {
+    "what_it_is": "Information Security consultation supports security risk assessment, advice and response planning for University systems and data",
+    "who_uses_it": "York employees and technical teams responsible for applications, information or infrastructure",
+    "use_cases": [
+      "Ask about security controls",
+      "Review planned systems and risks",
+      "Report a possible information-security incident"
+    ],
+    "access_note": "Consult Information Security before introducing high-risk services or handling restricted institutional information",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "security-certificates": {
+    "what_it_is": "Digital certificate services support approved certificates that establish trusted encrypted connections for York-managed systems",
+    "who_uses_it": "Authorized system and application owners and their technical administrators",
+    "use_cases": [
+      "Request a certificate for a managed service",
+      "Renew an expiring certificate",
+      "Coordinate certificate installation and ownership"
+    ],
+    "access_note": "Certificate requests must identify the authorized service, hostname and technical owner",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "student-copilot": {
+    "what_it_is": "Microsoft Copilot is an AI assistant available through eligible student Microsoft accounts for general drafting, research support and study tasks",
+    "who_uses_it": "Current York students with the standard Copilot offering available to their account",
+    "use_cases": [
+      "Brainstorm ideas and explanations",
+      "Summarize non-restricted material",
+      "Draft and refine study content"
+    ],
+    "access_note": "Student Copilot is not the same as licensed Microsoft 365 Copilot or GitHub Copilot. Course rules and data restrictions still apply",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "employee-copilot": {
+    "what_it_is": "Microsoft Copilot offers AI-assisted drafting, summarization and web-supported productivity through York's approved Microsoft access",
+    "who_uses_it": "Faculty and staff with eligible York-supported Copilot access; premium integrations depend on licences",
+    "use_cases": [
+      "Draft and revise communications",
+      "Explore ideas or research topics",
+      "Summarize approved non-restricted material"
+    ],
+    "access_note": "Use the York-approved Copilot experience and check data classification before sharing information",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "m365-copilot": {
+    "what_it_is": "Microsoft 365 Copilot adds licensed AI features within eligible Word, Outlook, Teams and other Microsoft 365 apps",
+    "who_uses_it": "Employees assigned the required premium Microsoft 365 Copilot licence",
+    "use_cases": [
+      "Summarize eligible meetings and messages",
+      "Draft documents in supported apps",
+      "Work with approved organizational content"
+    ],
+    "access_note": "This is a separately licensed offering; standard Microsoft Copilot access does not grant the premium features",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "github-copilot": {
+    "what_it_is": "GitHub Copilot is an AI coding assistant used in approved York development environments",
+    "who_uses_it": "Eligible faculty and staff assigned a GitHub Copilot licence under York's enterprise arrangement",
+    "use_cases": [
+      "Generate code suggestions",
+      "Discuss code and tests",
+      "Assist development in supported IDEs"
+    ],
+    "access_note": "Licences and authorized use depend on your GitHub organization. Personal Copilot subscriptions have different data permissions",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "yu-aura": {
+    "what_it_is": "YU AURA is a York-supported AI assistant for approved institutional tasks and workflows",
+    "who_uses_it": "Eligible York employees with access approved for the current deployment",
+    "use_cases": [
+      "Ask questions in the authorized AI environment",
+      "Draft approved workplace content",
+      "Explore workflows supported by the tool"
+    ],
+    "access_note": "Use the York-provided AURA access channel. Access and permitted information types depend on current institutional settings",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "hr-self-serve": {
+    "what_it_is": "HR Self-Serve is York's employee portal for personal HR records, payroll documents and applicable benefits and time workflows",
+    "who_uses_it": "Active employees, with functions varying by employment category and role",
+    "use_cases": [
+      "View pay statements and tax slips",
+      "Update eligible personal information",
+      "Review benefits",
+      "Submit applicable time or absence records"
+    ],
+    "access_note": "Some functions require an active employee account and an approved network connection; off-campus access may require York VPN",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "halo-itsm": {
+    "what_it_is": "HaloITSM is York's IT service-management system for requesting assistance and managing tickets",
+    "who_uses_it": "People eligible to submit support requests, and authorized IT agents handling service work",
+    "use_cases": [
+      "Submit and track requests",
+      "Communicate on support tickets",
+      "Search available knowledge",
+      "Manage assigned IT workflows if authorized"
+    ],
+    "access_note": "The end-user portal and IT-agent interface have different permissions",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "maximo": {
+    "what_it_is": "Maximo supports facilities maintenance and work-request processes for approved York operations",
+    "who_uses_it": "Authorized York employees and service operators who need the relevant facilities functions",
+    "use_cases": [
+      "Report a maintenance issue",
+      "Create or monitor work requests",
+      "Coordinate facilities services"
+    ],
+    "access_note": "Use the York-managed Maximo application and the access route supplied to your unit",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "sis": {
+    "what_it_is": "The Student Information System supports authorized student-records and academic administration activities",
+    "who_uses_it": "Employees with role-specific access granted by the responsible academic or administrative unit",
+    "use_cases": [
+      "Look up permitted student records",
+      "Complete approved enrolment-related tasks",
+      "Run authorized student administration workflows"
+    ],
+    "access_note": "Student records are protected. Access requires explicit authorization and should match work responsibilities",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "finance-apps": {
+    "what_it_is": "York finance applications support expense, purchasing and other administrative financial workflows",
+    "who_uses_it": "Employees assigned a role in approved Finance or departmental business processes",
+    "use_cases": [
+      "Submit approved expenses",
+      "Complete authorized finance transactions",
+      "Review departmental financial information"
+    ],
+    "access_note": "The specific application and permissions depend on business role; use the designated finance system rather than a generic portal",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "arms": {
+    "what_it_is": "ARMS is an institutionally managed administrative application used in designated York business processes",
+    "who_uses_it": "Employees authorized by the ARMS business owner; the precise functions depend on assigned permissions",
+    "use_cases": [
+      "Open the authorized ARMS environment",
+      "Complete role-specific records tasks",
+      "Request access changes through the responsible unit"
+    ],
+    "access_note": "The legacy catalogue does not adequately explain ARMS's function. Its business purpose and app URL require owner confirmation before publishing detailed claims",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "wordpress": {
+    "what_it_is": "York's managed WordPress platform hosts official public websites and supported editing tools for departments and academic units",
+    "who_uses_it": "Designated University site owners, editors and other authorized publishing staff",
+    "use_cases": [
+      "Create or update public content",
+      "Use University themes and approved plugins",
+      "Manage accessible departmental information"
+    ],
+    "access_note": "A sponsoring unit must own the website and maintain its content. New sites follow the University's approval process",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "gravity-forms": {
+    "what_it_is": "Gravity Forms is the form builder available within supported York WordPress websites",
+    "who_uses_it": "Authorized WordPress editors and form owners with appropriate site permissions",
+    "use_cases": [
+      "Build enquiry or registration forms",
+      "Configure permitted notifications",
+      "Review or route form submissions"
+    ],
+    "access_note": "Use the York-managed WordPress installation and check data classification before collecting information",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "machform": {
+    "what_it_is": "MachForm provides a hosted form-building option for approved online data collection that is not part of a WordPress plugin",
+    "who_uses_it": "York employees whose unit is authorized to use the hosted form platform",
+    "use_cases": [
+      "Create a standalone web form",
+      "Publish a shareable form link",
+      "Manage approved responses"
+    ],
+    "access_note": "A responsible form owner and approved data collection purpose are required",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "web-hosting": {
+    "what_it_is": "Application web hosting supports approved department websites and web applications that need infrastructure beyond managed WordPress",
+    "who_uses_it": "University application owners and technical teams with approved hosting requirements",
+    "use_cases": [
+      "Host a supported application",
+      "Request server and domain configuration",
+      "Plan operations, maintenance and security"
+    ],
+    "access_note": "Hosting must have a named owner and a viable support model; custom apps are reviewed individually",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "virtual-servers": {
+    "what_it_is": "Virtual server hosting provides managed computing capacity for approved applications, research and administrative systems",
+    "who_uses_it": "Authorized system owners and technical teams requiring server infrastructure",
+    "use_cases": [
+      "Provision a virtual server",
+      "Host approved workloads",
+      "Set resource and security requirements"
+    ],
+    "access_note": "Server size, network access, backups and support responsibilities are defined during service intake",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "server-storage": {
+    "what_it_is": "Server Data Storage provides managed capacity for applications hosted in York's server environments",
+    "who_uses_it": "IT and application teams running authorized institutional workloads",
+    "use_cases": [
+      "Attach virtual disks",
+      "Use supported network file storage",
+      "Plan data recovery and backup requirements"
+    ],
+    "access_note": "Choose storage through infrastructure consultation; backup coverage is not assumed for every arrangement",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "classroom-av": {
+    "what_it_is": "Classroom AV services support podium computers, projectors, microphones, displays and control systems in equipped teaching spaces",
+    "who_uses_it": "York instructors and authorized staff using supported classrooms",
+    "use_cases": [
+      "Present on room displays",
+      "Use classroom microphones and speakers",
+      "Get help when teaching equipment fails"
+    ],
+    "access_note": "Support is tied to the specific classroom and installed technology",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "hyflex": {
+    "what_it_is": "HyFlex classroom technology supports teaching sessions with participants both in a room and online",
+    "who_uses_it": "Instructors assigned to equipped rooms with the appropriate teaching arrangement",
+    "use_cases": [
+      "Share classroom audio and video with remote learners",
+      "Present content to both audiences",
+      "Support live interaction across locations"
+    ],
+    "access_note": "HyFlex functions are only available in suitably equipped rooms and may require orientation",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "digital-signage": {
+    "what_it_is": "Digital signage distributes approved news, notices and event information to institutional display screens",
+    "who_uses_it": "York departments and communications staff authorized to use participating signage networks",
+    "use_cases": [
+      "Display announcements",
+      "Promote eligible events",
+      "Schedule time-limited messages"
+    ],
+    "access_note": "Content, locations and scheduling are subject to the screen network's approval process",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "tech-library": {
+    "what_it_is": "The technology lending library makes selected AV and computing accessories available for short-term University use",
+    "who_uses_it": "Eligible instructors and employees subject to lending conditions",
+    "use_cases": [
+      "Borrow presentation equipment",
+      "Access temporary webcams or audio devices",
+      "Return loan equipment under agreed conditions"
+    ],
+    "access_note": "Availability, lending periods and required identification depend on the item and lending desk",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "meeting-room-av": {
+    "what_it_is": "Event and meeting AV services provide supported presentation, sound and recording equipment for University gatherings",
+    "who_uses_it": "York organizers booking approved spaces and technical support",
+    "use_cases": [
+      "Plan meeting-room audio and projection",
+      "Request microphones or recording",
+      "Arrange an AV operator for an event"
+    ],
+    "access_note": "Request support ahead of the event; specialized services may have costs",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "insight": {
+    "what_it_is": "Insight is York's reporting environment for authorized admissions and enrolment data",
+    "who_uses_it": "Employees approved by their faculty or unit to view the relevant reporting information",
+    "use_cases": [
+      "View admissions data",
+      "Analyze enrolment trends",
+      "Use permitted reports for academic planning"
+    ],
+    "access_note": "Access requires approval from the faculty's designated authority",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "ereports": {
+    "what_it_is": "eReports provides authorized operational reporting across University business information",
+    "who_uses_it": "Employees granted report-specific access for their administrative functions",
+    "use_cases": [
+      "View business reports",
+      "Export authorized data",
+      "Support departmental monitoring and decisions"
+    ],
+    "access_note": "Report availability and data freshness vary by source; users receive only approved report access",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "power-bi": {
+    "what_it_is": "Microsoft Power BI is a reporting and data visualization platform for creating interactive dashboards and analyzing approved datasets",
+    "who_uses_it": "Employees with access to the appropriate Microsoft account, Power BI licence and institutional data",
+    "use_cases": [
+      "Build charts and dashboards",
+      "Explore approved datasets",
+      "Share reports with authorized audiences"
+    ],
+    "access_note": "A licence does not by itself grant access to restricted organizational datasets",
+    "actions": [
+      {
+        "label": "Open Power BI",
+        "url": "https://app.powerbi.com/",
+        "kind": "access"
+      },
+      {
+        "label": "Power BI help",
+        "url": "https://learn.microsoft.com/en-us/power-bi/",
+        "kind": "documentation"
+      }
+    ],
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "data-integrations": {
+    "what_it_is": "Data management and integration services connect approved institutional systems and datasets for reporting and business use",
+    "who_uses_it": "University application owners, analysts and technical staff with a legitimate data-sharing requirement",
+    "use_cases": [
+      "Plan data transfers between systems",
+      "Develop managed reporting feeds",
+      "Review data ownership and quality"
+    ],
+    "access_note": "Requests require a defined data purpose, source-system approval and security review",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "computer-purchases": {
+    "what_it_is": "Computer purchasing provides departmental routes for ordering approved laptops, desktop computers and peripherals",
+    "who_uses_it": "York employees making authorized work-related technology purchases",
+    "use_cases": [
+      "Request quotes and configuration advice",
+      "Order supported equipment",
+      "Coordinate hardware procurement and delivery"
+    ],
+    "access_note": "Current prices and delivery timelines require a fresh quote and departmental purchasing authorization",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "desk-phones": {
+    "what_it_is": "University desk telephone services provide work extensions and supported calling functions at York locations",
+    "who_uses_it": "Faculty and staff in departments with phone service and a designated contact",
+    "use_cases": [
+      "Request or move an extension",
+      "Use desk-phone calling features",
+      "Obtain help with hardware or line issues"
+    ],
+    "access_note": "New lines and service changes usually require the departmental telephone designate",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "voicemail": {
+    "what_it_is": "Voicemail and forwarding tools control how supported University telephone extensions receive and route calls",
+    "who_uses_it": "Employees assigned a supported desk-phone extension",
+    "use_cases": [
+      "Set up voicemail greetings",
+      "Access messages",
+      "Forward calls to an approved number"
+    ],
+    "access_note": "Settings differ by telephone model and extension configuration",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "mobile-phones": {
+    "what_it_is": "Managed mobile phone services support approved University-issued devices and cellular plans",
+    "who_uses_it": "Employees with departmental authorization for institutional mobile service",
+    "use_cases": [
+      "Request an approved cellular plan",
+      "Order or replace a managed phone",
+      "Coordinate changes to an existing mobile service"
+    ],
+    "access_note": "Plans, devices and costs follow York's procurement and departmental approval rules",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "york-github": {
+    "what_it_is": "York GitHub Enterprise provides hosted Git repositories and collaborative software development tools under institutional administration",
+    "who_uses_it": "Current York faculty and staff with institutional GitHub access; repositories depend on organization membership",
+    "use_cases": [
+      "Store and review source code",
+      "Collaborate using pull requests",
+      "Manage issues and projects",
+      "Apply organizational controls"
+    ],
+    "access_note": "Sign in using York's GitHub Enterprise single sign-on. Organization access is granted separately",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "github-organizations": {
+    "what_it_is": "A GitHub organization groups repositories, teams, access permissions and development policies within York's enterprise",
+    "who_uses_it": "Approved organization owners and contributors with a legitimate project or team",
+    "use_cases": [
+      "Organize repositories",
+      "Manage member permissions",
+      "Set workflow policies",
+      "Request GitHub Actions or Copilot access"
+    ],
+    "access_note": "A manager or designated owner must sponsor a new organization and configure membership",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  },
+  "service-desk": {
+    "what_it_is": "The UIT Service Desk coordinates central IT support requests and directs users to the appropriate technical team",
+    "who_uses_it": "Students, employees and other users supported by University IT",
+    "use_cases": [
+      "Report a technical problem",
+      "Request service access",
+      "Track an existing issue",
+      "Find the correct support channel"
+    ],
+    "access_note": "Include the affected service, error, device and location; never include passwords or verification codes",
+    "editorial_status": "description_rewrite_pending_service_owner_review",
+    "reviewed_at": null
+  }
+}
