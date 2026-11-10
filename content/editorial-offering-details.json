@@ -86,7 +86,7 @@
     "reviewed_at": null
   },
   "residence-internet": {
-    "what_it_is": "Residence wired internet connects supported in-room devices to York's campus network",
+    "what_it_is": "Residence wired internet is York's in-room Ethernet service for supported student housing locations. It connects eligible computers and other approved devices to the campus network without relying on wireless coverage",
     "who_uses_it": "Residents in eligible York housing locations with a compatible network-connected device",
     "use_cases": [
       "Connect a computer using Ethernet",
@@ -758,7 +758,7 @@
     "reviewed_at": null
   },
   "gravity-forms": {
-    "what_it_is": "Gravity Forms is the form builder available within supported York WordPress websites",
+    "what_it_is": "Gravity Forms is a form-building plugin within York's centrally supported WordPress websites. Authorized site editors can create online forms, control the questions and submission workflow, and manage approved responses",
     "who_uses_it": "Authorized WordPress editors and form owners with appropriate site permissions",
     "use_cases": [
       "Build enquiry or registration forms",
@@ -878,7 +878,7 @@
     "reviewed_at": null
   },
   "insight": {
-    "what_it_is": "Insight is York's reporting environment for authorized admissions and enrolment data",
+    "what_it_is": "Insight is York's institutional reporting environment for admissions and enrolment information. Authorized employees use its dashboards and reports to understand recruitment, student activity and enrolment trends",
     "who_uses_it": "Employees approved by their faculty or unit to view the relevant reporting information",
     "use_cases": [
       "View admissions data",
