@@ -1,0 +1,28 @@
+{
+  "id": "UIT-KA-YORK-DUO-GUIDE",
+  "slug": "understand-duo-sign-in-and-authentication-methods",
+  "title": "Understand Duo sign-in and authentication methods",
+  "issue": "You need to verify your York sign-in with Duo",
+  "environment": [
+    "Duo two-factor authentication",
+    "Passport York",
+    "York community"
+  ],
+  "audiences": [
+    "all"
+  ],
+  "service_id": "duo",
+  "resolution_html": "<ol><li>Sign in to the York system with your Passport York username and password</li><li>When prompted by Duo, use the authentication method already enrolled for your account</li><li>If you cannot use that method, check the <a href=\"https://www.yorku.ca/uit/infosec/2fa-authentication-methods/\">supported authentication methods</a>, including hardware tokens and telephone options</li><li>For first-time setup or a lost device, follow <a href=\"https://www.yorku.ca/uit/infosec/duo-two-factor-authentication/\">York’s maintained Duo setup and troubleshooting instructions</a> or contact <a href=\"mailto:askit@yorku.ca\">askIT</a> if you are locked out</li></ol>",
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/duo-two-factor-authentication/"
+  ],
+  "type": "How to",
+  "cause": null,
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T14:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "verified_reference_draft",
+  "review_flags": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "UIT-KA-YORK-1P-FAMILY",
+  "slug": "redeem-york-1password-families-benefit",
+  "title": "Redeem your 1Password Families benefit",
+  "issue": "You want the family subscription available with an eligible York 1Password Business account",
+  "environment": [
+    "1Password Business",
+    "1Password Families",
+    "York employees"
+  ],
+  "audiences": [
+    "employee"
+  ],
+  "service_id": "1password",
+  "resolution_html": "<ol><li>Sign in to your York 1Password Business account</li><li>Open your account menu and select Manage Account</li><li>Find the free family account section and select Redeem Now</li><li>Choose whether to create a new family account or apply the benefit to an existing account</li><li>Use a personal email address for the family account</li></ol><p>Follow <a href=\"https://support.1password.com/link-family/\">1Password’s maintained Families redemption instructions</a> for current screens and eligibility</p>",
+  "source_urls": [
+    "https://support.1password.com/link-family/"
+  ],
+  "type": "How to",
+  "cause": null,
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T14:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "verified_reference_draft",
+  "review_flags": []
+}

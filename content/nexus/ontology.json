@@ -1,0 +1,176 @@
+{
+  "version": "2026-11-10",
+  "scheme": "NEXUS CORE",
+  "description": "Governed service graph. A service is not an authentication method, application, or vendor; offerings and knowledge attach to a canonical service ID",
+  "entities": [
+    {
+      "id": "service:passport-york",
+      "type": "Service",
+      "name": "Passport York",
+      "description": "Institutional identity and account lifecycle",
+      "external_ids": [
+        "passport-york"
+      ]
+    },
+    {
+      "id": "service:1password",
+      "type": "Service",
+      "name": "1Password",
+      "description": "Managed password vault and subscription",
+      "external_ids": [
+        "1password"
+      ]
+    },
+    {
+      "id": "service:duo",
+      "type": "Service",
+      "name": "Duo two-factor authentication",
+      "description": "Second-factor authentication service",
+      "external_ids": [
+        "duo"
+      ]
+    },
+    {
+      "id": "service:security",
+      "type": "Service",
+      "name": "Cybersecurity",
+      "description": "Security awareness, policy and incident response",
+      "external_ids": [
+        "security"
+      ]
+    },
+    {
+      "id": "service:connectivity",
+      "type": "Service",
+      "name": "Wi-Fi and internet",
+      "description": "Network and remote access",
+      "external_ids": [
+        "connectivity"
+      ]
+    },
+    {
+      "id": "application:1password",
+      "type": "Application",
+      "name": "1Password"
+    },
+    {
+      "id": "application:duo-mobile",
+      "type": "Application",
+      "name": "Duo Mobile"
+    },
+    {
+      "id": "vendor:1password",
+      "type": "Vendor",
+      "name": "1Password"
+    },
+    {
+      "id": "vendor:cisco",
+      "type": "Vendor",
+      "name": "Cisco"
+    },
+    {
+      "id": "audience:student",
+      "type": "Audience",
+      "name": "Students"
+    },
+    {
+      "id": "audience:employee",
+      "type": "Audience",
+      "name": "Faculty and staff"
+    },
+    {
+      "id": "offering:1password-student",
+      "type": "Offering",
+      "name": "Student licence",
+      "parent_service": "1password"
+    },
+    {
+      "id": "offering:1password-business",
+      "type": "Offering",
+      "name": "Employee Business",
+      "parent_service": "1password"
+    },
+    {
+      "id": "offering:1password-family",
+      "type": "Offering",
+      "name": "Families benefit",
+      "parent_service": "1password"
+    },
+    {
+      "id": "offering:duo-mfa",
+      "type": "Offering",
+      "name": "Second-factor verification",
+      "parent_service": "duo"
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "service:1password",
+      "predicate": "USES_APPLICATION",
+      "object": "application:1password"
+    },
+    {
+      "subject": "service:1password",
+      "predicate": "PROVIDED_BY",
+      "object": "vendor:1password"
+    },
+    {
+      "subject": "service:duo",
+      "predicate": "USES_APPLICATION",
+      "object": "application:duo-mobile"
+    },
+    {
+      "subject": "service:duo",
+      "predicate": "PROVIDED_BY",
+      "object": "vendor:cisco"
+    },
+    {
+      "subject": "service:duo",
+      "predicate": "PROTECTS",
+      "object": "service:passport-york"
+    },
+    {
+      "subject": "service:1password",
+      "predicate": "RELATED_TO",
+      "object": "service:security"
+    },
+    {
+      "subject": "service:connectivity",
+      "predicate": "AUTHENTICATES_WITH",
+      "object": "service:passport-york"
+    },
+    {
+      "subject": "offering:1password-student",
+      "predicate": "AVAILABLE_TO",
+      "object": "audience:student"
+    },
+    {
+      "subject": "offering:1password-business",
+      "predicate": "AVAILABLE_TO",
+      "object": "audience:employee"
+    },
+    {
+      "subject": "offering:1password-family",
+      "predicate": "AVAILABLE_TO",
+      "object": "audience:employee"
+    },
+    {
+      "subject": "offering:duo-mfa",
+      "predicate": "AVAILABLE_TO",
+      "object": "audience:student"
+    },
+    {
+      "subject": "offering:duo-mfa",
+      "predicate": "AVAILABLE_TO",
+      "object": "audience:employee"
+    }
+  ],
+  "source_system": "UIT website editorial migration",
+  "reviewed_at": null,
+  "validation": "needs_service_owner_review",
+  "provenance": [
+    "https://www.yorku.ca/uit/infosec/1password/",
+    "https://www.yorku.ca/uit/infosec/getting-started/",
+    "https://www.yorku.ca/uit/infosec/duo-two-factor-authentication/"
+  ]
+}

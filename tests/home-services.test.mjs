@@ -4,11 +4,11 @@ import {home,homeServiceCard} from '../src/render.mjs'
 import {audiencesForService,serviceAudiences} from '../src/service-audiences.mjs'
 import {loadContent} from '../src/load-content.mjs'
 
-test('homepage shows all 20 service preview cards by default',async()=>{
+test('homepage shows all 22 service preview cards by default',async()=>{
  const services=await loadContent('services')
  const html=home(services,'/uit')
- assert.equal(services.length,20)
- assert.equal((html.match(/data-service-card/g)||[]).length,20)
+ assert.equal(services.length,22)
+ assert.equal((html.match(/data-service-card/g)||[]).length,22)
  for(const s of services){
   assert.ok(html.includes('href="/uit/services/'+s.id+'/"'),s.id)
   assert.ok(html.includes(s.summary),s.id)
@@ -24,7 +24,7 @@ test('homepage shows all 20 service preview cards by default',async()=>{
 })
 test('audience categories cover every service without inventing student access',async()=>{
  const services=await loadContent('services')
- assert.equal(Object.keys(serviceAudiences).length,20)
+ assert.equal(Object.keys(serviceAudiences).length,22)
  const valid=['student','employee']
  for(const s of services){
   const roles=audiencesForService(s)

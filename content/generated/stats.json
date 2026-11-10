@@ -1,10 +1,10 @@
 {
-  "checkpoint": "remaining-services-structured-first-pass",
+  "checkpoint": "nexus-service-ownership-and-kcs-quality",
   "posts_included": 0,
   "discovered_sources": 57,
   "captured_sources": 28,
-  "services": 20,
-  "articles": 206,
+  "services": 22,
+  "articles": 210,
   "resources": 1,
   "prompts": 0,
   "asset_references": 84,
