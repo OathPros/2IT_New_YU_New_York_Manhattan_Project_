@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-00000000001E",
+  "slug": "get-access-to-an-administrative-system-00001e",
+  "title": "Get access to an administrative system",
+  "type": "How to",
+  "service_id": "administrative-systems",
+  "issue": "Get access to an administrative system",
+  "environment": [
+    "Administrative systems",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Several administrative systems require department, manager or business-owner authorization in addition to a Passport York account. Identify the application and business need, then work with the responsible unit to request access</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/administrative-systems/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

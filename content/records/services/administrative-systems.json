@@ -1,0 +1,57 @@
+{
+  "id": "administrative-systems",
+  "name": "Administrative systems",
+  "summary": "Access business applications, HR tools and enterprise systems",
+  "aliases": [
+    "hrselfserve",
+    "halo",
+    "finance",
+    "maximo",
+    "sis",
+    "arms",
+    "administrative"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/administrative-systems/"
+  ],
+  "article_ids": [
+    "UIT-KA-00000000001C",
+    "UIT-KA-00000000001D",
+    "UIT-KA-00000000001E"
+  ],
+  "details": [
+    {
+      "title": "Employee applications",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>York administrative systems include HR Self-Serve, Halo, finance applications, Maximo, Student Information System tools and ARMS. Access is tied to your York affiliation and may require specific role authorization</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/administrative-systems/"
+    },
+    {
+      "title": "HR Self-Serve",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>HR Self-Serve provides active employees with pay statements, tax slips, personal information, benefits information, training profiles and applicable time or absence reporting functions. Some tools vary by employee category</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/administrative-systems/"
+    },
+    {
+      "title": "Finance and service management",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>Authorized employees can access finance applications such as Concur and budgeting systems. Halo provides an enterprise IT service-management portal for support requests and related processes</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/administrative-systems/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Open HR Self-Serve",
+      "url": "https://hrselfserve.yorku.ca/",
+      "audiences": [
+        "employee"
+      ]
+    }
+  ]
+}

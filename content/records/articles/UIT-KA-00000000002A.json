@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-00000000002A",
+  "slug": "sign-in-to-york-github-enterprise-00002a",
+  "title": "Sign in to York GitHub Enterprise",
+  "type": "How to",
+  "service_id": "github",
+  "issue": "Sign in to York GitHub Enterprise",
+  "environment": [
+    "GitHub",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Open York’s GitHub Enterprise single sign-on page</li><li>Authenticate with Passport York</li><li>Join an existing organization through its owner or request a new organization through your manager</li><li>Open repositories and projects made available to your role</li></ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/github/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

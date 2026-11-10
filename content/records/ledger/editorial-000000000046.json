@@ -1,0 +1,15 @@
+{
+  "source_id": "editorial-000000000046",
+  "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/data-and-reporting-services/",
+  "title": "Data and reporting",
+  "capture_status": "editorial_live_page_review",
+  "state": "editorial_partial",
+  "destinations": [
+    "/services/data-reporting/",
+    "/knowledge/request-insight-access-000025/",
+    "/knowledge/request-ereports-access-000026/"
+  ],
+  "assignments": [],
+  "editorial_note": "Public source consulted to author service overview and selected tasks. Full source block capture and content parity not yet complete",
+  "reviewed_source_at": "2026-11-10T13:00:00Z"
+}

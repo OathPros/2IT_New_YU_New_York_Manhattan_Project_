@@ -1,0 +1,56 @@
+{
+  "id": "printing",
+  "name": "Printing",
+  "summary": "Print from campus computers and personal devices",
+  "aliases": [
+    "print",
+    "webprint",
+    "printer",
+    "yucard",
+    "photocopy"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/printing-for-students/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/printing-services/"
+  ],
+  "article_ids": [
+    "UIT-KA-00000000000E",
+    "UIT-KA-00000000000F",
+    "UIT-KA-000000000010"
+  ],
+  "details": [
+    {
+      "title": "Student printing",
+      "audiences": [
+        "student"
+      ],
+      "html": "<p>Active students can print in participating labs and libraries using a YU-card or supported mobile credential for payment. The current source page lists black-and-white printing at 10 cents per page and colour at 25 cents per page. Verify charges before submitting large jobs</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/printing-for-students/"
+    },
+    {
+      "title": "WebPrint",
+      "audiences": [
+        "student"
+      ],
+      "html": "<p>WebPrint lets students submit documents from a laptop or desktop browser to supported public campus printers over the campus network. You need an active Passport York account and sufficient printing balance</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/printing-for-students/"
+    },
+    {
+      "title": "Departmental printing",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>Staff and faculty printing, network printer setup and associated access depend on the department’s managed printing arrangements and equipment. Contact your local IT team for printer provisioning and permissions</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/printing-for-students/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Open WebPrint",
+      "url": "https://webprint.uit.yorku.ca/",
+      "audiences": [
+        "student"
+      ]
+    }
+  ]
+}

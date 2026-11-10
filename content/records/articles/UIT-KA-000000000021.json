@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000021",
+  "slug": "plan-a-server-hosting-request-000021",
+  "title": "Plan a server hosting request",
+  "type": "How to",
+  "service_id": "servers",
+  "issue": "Plan a server hosting request",
+  "environment": [
+    "Servers and hosting",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Describe the application or workload and its service owner</li><li>Document storage, compute, network, security and backup requirements</li><li>Identify integration dependencies and anticipated data classification</li><li>Submit the request for review by the relevant UIT infrastructure team</li></ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/servers/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

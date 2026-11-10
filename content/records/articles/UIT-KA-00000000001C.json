@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-00000000001C",
+  "slug": "sign-in-to-hr-self-serve-00001c",
+  "title": "Sign in to HR Self-Serve",
+  "type": "How to",
+  "service_id": "administrative-systems",
+  "issue": "Sign in to HR Self-Serve",
+  "environment": [
+    "Administrative systems",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Open HR Self-Serve</li><li>Sign in using your Passport York credentials</li><li>Complete Duo authentication when required, particularly from off campus</li><li>Choose the employee self-service function you need</li></ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/administrative-systems/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000012",
+  "slug": "request-access-to-a-fas-file-share-000012",
+  "title": "Request access to a FAS file share",
+  "type": "How to",
+  "service_id": "storage",
+  "issue": "Request access to a FAS file share",
+  "environment": [
+    "Files and storage",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Identify the share, the files you need and your required permission level</li><li>Ask the share owner or responsible department to authorize your access</li><li>Use your Passport York credentials to connect after access is granted</li><li>Contact local IT or askIT if permissions are missing</li></ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/storage/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

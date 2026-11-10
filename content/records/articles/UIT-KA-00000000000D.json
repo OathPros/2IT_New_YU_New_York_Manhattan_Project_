@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-00000000000D",
+  "slug": "prepare-to-use-classroom-learning-technology-00000d",
+  "title": "Prepare to use classroom learning technology",
+  "type": "How to",
+  "service_id": "teaching-learning",
+  "issue": "Prepare to use classroom learning technology",
+  "environment": [
+    "Teaching and learning",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Check the technology installed in the assigned classroom</li><li>Request a short orientation through York’s classroom support process if you are unfamiliar with the controls</li><li>Test your audio, display and lecture materials before instruction begins</li><li>Contact classroom support if equipment is not working</li></ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/teaching-and-learning/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

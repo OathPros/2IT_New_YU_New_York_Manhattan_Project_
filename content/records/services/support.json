@@ -1,0 +1,63 @@
+{
+  "id": "support",
+  "name": "IT support",
+  "summary": "Contact the right team and track a support request",
+  "aliases": [
+    "support",
+    "ticket",
+    "askit",
+    "help",
+    "service",
+    "desk",
+    "assistance"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/contact/"
+  ],
+  "article_ids": [
+    "UIT-KA-00000000002D",
+    "UIT-KA-00000000002E"
+  ],
+  "details": [
+    {
+      "title": "Find your support team",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>Support at York is decentralized. Faculty and departmental IT groups are the first contact for many local services and classroom issues. UIT Client Services handles requests for communities supported directly by UIT</p>",
+      "source_url": "https://www.yorku.ca/uit/contact/"
+    },
+    {
+      "title": "Contact the service desk",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>UIT provides support through the Steacie Help Desk, phone, email and online service request channels. For urgent teaching-room problems, use the relevant classroom or local technology support process</p>",
+      "source_url": "https://www.yorku.ca/uit/contact/"
+    },
+    {
+      "title": "What to include in a request",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>Describe the affected service, what you were trying to do, the exact error, when it began, the equipment or browser involved and the campus or room if relevant. Never include passwords, verification codes or other secrets in a support ticket</p>",
+      "source_url": "https://www.yorku.ca/uit/contact/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Submit a service request",
+      "url": "https://askus.yorku.ca/",
+      "audiences": [
+        "all"
+      ]
+    },
+    {
+      "label": "Email askIT",
+      "url": "mailto:askIT@yorku.ca",
+      "audiences": [
+        "all"
+      ]
+    }
+  ]
+}

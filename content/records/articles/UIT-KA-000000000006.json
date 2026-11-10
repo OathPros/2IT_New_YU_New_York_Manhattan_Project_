@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000006",
+  "slug": "understand-the-myapps-launch-options-000006",
+  "title": "Understand the MyApps launch options",
+  "type": "How to",
+  "service_id": "software",
+  "issue": "Understand the MyApps launch options",
+  "environment": [
+    "Software and apps",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p><strong>Launch Remote</strong> starts a session in York’s data centre. <strong>Launch in Browser</strong> runs the remote session in your browser. <strong>Web Portal</strong> opens a web application. <strong>Launch</strong> is the virtualized Windows application option when offered</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/software-and-apps/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

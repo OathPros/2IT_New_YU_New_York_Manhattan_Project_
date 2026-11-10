@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-00000000001A",
+  "slug": "understand-student-copilot-access-00001a",
+  "title": "Understand student Copilot access",
+  "type": "How to",
+  "service_id": "ai",
+  "issue": "Understand student Copilot access",
+  "environment": [
+    "Artificial intelligence",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Active students have access to Microsoft Copilot through their Microsoft 365 account. This is distinct from licensed Microsoft 365 Copilot premium functionality and from GitHub Copilot</p>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/artificial-intelligence/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

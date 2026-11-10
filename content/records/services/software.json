@@ -1,0 +1,58 @@
+{
+  "id": "software",
+  "name": "Software and apps",
+  "summary": "Access licensed software, virtual applications and installation guidance",
+  "aliases": [
+    "apps",
+    "software",
+    "myapps",
+    "spss",
+    "sas",
+    "zoom",
+    "licensing"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/software-and-apps/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/software-and-apps/"
+  ],
+  "article_ids": [
+    "UIT-KA-000000000005",
+    "UIT-KA-000000000006",
+    "UIT-KA-000000000007"
+  ],
+  "details": [
+    {
+      "title": "Find software at York",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>Software access depends on whether you are a student, faculty member or staff member and on the individual product licence. York provides eligible users with selected download options, Microsoft applications, collaboration software and virtualized applications through MyApps</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/software-and-apps/"
+    },
+    {
+      "title": "MyApps launch methods",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>MyApps may present <strong>Launch Remote</strong> for a remote application session, <strong>Launch in Browser</strong> for a browser-hosted session, <strong>Web Portal</strong> for the application’s website, or <strong>Launch</strong> for a virtual application on supported Windows devices. Which choices appear depends on the app and operating system</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/software-and-apps/"
+    },
+    {
+      "title": "Access and support",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>MyApps uses Passport York and Duo 2FA. For access to an application already published in MyApps, contact askIT@yorku.ca. Software installation and licence terms must be checked for the product and user group before use</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/software-and-apps/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Open MyApps",
+      "url": "https://myapps.yorku.ca/",
+      "audiences": [
+        "all"
+      ]
+    }
+  ]
+}

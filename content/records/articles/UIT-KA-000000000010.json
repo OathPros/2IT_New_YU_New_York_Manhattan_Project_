@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000010",
+  "slug": "print-selected-pages-through-webprint-000010",
+  "title": "Print selected pages through WebPrint",
+  "type": "How to",
+  "service_id": "printing",
+  "issue": "Print selected pages through WebPrint",
+  "environment": [
+    "Printing",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<p>The source guidance states that WebPrint does not directly support selecting only individual pages within a larger upload. Save the required pages into a separate document first, then upload that file as the print job</p>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/printing-for-students/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

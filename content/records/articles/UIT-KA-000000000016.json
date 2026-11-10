@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000016",
+  "slug": "choose-a-duo-authentication-method-000016",
+  "title": "Choose a Duo authentication method",
+  "type": "How to",
+  "service_id": "security",
+  "issue": "Choose a Duo authentication method",
+  "environment": [
+    "Cybersecurity and Duo",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>UIT recommends enrolling a smartphone with the Duo app where available. Users without a smartphone can obtain a supported Duo hardware token through the York University Bookstore using a York email address</p><p>Enrollment and replacement steps depend on your current Duo status</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/duo-and-report-phishing/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

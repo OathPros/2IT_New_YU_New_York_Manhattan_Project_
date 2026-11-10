@@ -1,0 +1,55 @@
+{
+  "id": "servers",
+  "name": "Servers and hosting",
+  "summary": "Plan server hosting, managed infrastructure and data storage",
+  "aliases": [
+    "server",
+    "host",
+    "vm",
+    "virtualization",
+    "datacenter",
+    "infrastructure"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/servers/"
+  ],
+  "article_ids": [
+    "UIT-KA-000000000021",
+    "UIT-KA-000000000022"
+  ],
+  "details": [
+    {
+      "title": "Hosting and virtualization",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>UIT Systems Management Services provides server hosting and virtual server management for academic, research and administrative needs. Available platforms and service levels are determined through consultation and infrastructure requirements</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/servers/"
+    },
+    {
+      "title": "Server Data Storage",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>Server Data Storage (SDS) supports server workloads in York data centres, including NFS storage and disks presented to virtual machines. Services can be provisioned with or without backup depending on requirements</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/servers/"
+    },
+    {
+      "title": "Resilience and security",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>The published SDS service describes redundant enterprise storage, restricted datacentre network access, point-in-time snapshots and optional backup or replication. Custom solutions can be developed where standard offerings do not meet research or institutional needs</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/servers/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Contact infrastructure support",
+      "url": "mailto:askIT@yorku.ca",
+      "audiences": [
+        "employee"
+      ]
+    }
+  ]
+}

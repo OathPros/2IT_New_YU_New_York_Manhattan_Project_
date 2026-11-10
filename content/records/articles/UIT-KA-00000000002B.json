@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-00000000002B",
+  "slug": "get-github-copilot-access-00002b",
+  "title": "Get GitHub Copilot access",
+  "type": "How to",
+  "service_id": "github",
+  "issue": "Get GitHub Copilot access",
+  "environment": [
+    "GitHub",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Confirm that your GitHub organization has Copilot enabled</li><li>Ask your organization owner to assign an available Copilot licence</li><li>If Copilot is not enabled, have the owner follow the York request and departmental billing process</li><li>After assignment, sign in to Copilot in an approved IDE or GitHub interface</li></ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/github/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000027",
+  "slug": "request-a-computer-purchase-quote-000027",
+  "title": "Request a computer purchase quote",
+  "type": "How to",
+  "service_id": "computer-purchase",
+  "issue": "Request a computer purchase quote",
+  "environment": [
+    "Computer purchases",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Describe the role and work requirements for the device</li><li>Identify whether you need a laptop, desktop or peripherals</li><li>Provide the department and available purchasing authorization</li><li>Ask askIT for current configuration options, pricing and delivery estimates</li></ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/computer-purchase/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

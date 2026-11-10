@@ -1,0 +1,56 @@
+{
+  "id": "data-reporting",
+  "name": "Data and reporting",
+  "summary": "Find dashboards, reporting applications and data integration services",
+  "aliases": [
+    "data",
+    "reporting",
+    "insights",
+    "ereports",
+    "powerbi",
+    "warehouse",
+    "analytics"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/data-and-reporting-services/"
+  ],
+  "article_ids": [
+    "UIT-KA-000000000025",
+    "UIT-KA-000000000026"
+  ],
+  "details": [
+    {
+      "title": "Enterprise data services",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>UIT Data Management and Analytics supports institutional reporting, data management and systems integration. Services include Insight, eReports, Power BI and data-management support</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/data-and-reporting-services/"
+    },
+    {
+      "title": "Insight",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>Insight provides admissions and enrolment reporting for authorized employees. Faculties manage access through designated approvers; an employee Passport York account is required</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/data-and-reporting-services/"
+    },
+    {
+      "title": "eReports",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>eReports provides operational reporting combining finance, employee and fundraising data. Reports are generally based on the prior business day and can be exported as PDF or Excel, subject to authorization</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/data-and-reporting-services/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Open Insight",
+      "url": "https://insight.yorku.ca/",
+      "audiences": [
+        "employee"
+      ]
+    }
+  ]
+}

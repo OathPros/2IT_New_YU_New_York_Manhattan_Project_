@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000005",
+  "slug": "open-a-virtual-application-in-myapps-000005",
+  "title": "Open a virtual application in MyApps",
+  "type": "How to",
+  "service_id": "software",
+  "issue": "Open a virtual application in MyApps",
+  "environment": [
+    "Software and apps",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Sign in to MyApps with Passport York and Duo where prompted</li><li>Find the software in the application catalogue</li><li>Choose an available launch method appropriate to your device</li><li>Follow the on-screen launch prompts</li></ol>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/software-and-apps/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

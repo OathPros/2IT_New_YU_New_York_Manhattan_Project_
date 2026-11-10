@@ -1,0 +1,58 @@
+{
+  "id": "storage",
+  "name": "Files and storage",
+  "summary": "Store, share and protect your York files",
+  "aliases": [
+    "files",
+    "storage",
+    "drive",
+    "onedrive",
+    "fas",
+    "cloud",
+    "share"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/storage-for-students/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/storage/"
+  ],
+  "article_ids": [
+    "UIT-KA-000000000011",
+    "UIT-KA-000000000012",
+    "UIT-KA-000000000013"
+  ],
+  "details": [
+    {
+      "title": "Student cloud storage",
+      "audiences": [
+        "student"
+      ],
+      "html": "<p>Undergraduate students receive Google Drive and Microsoft OneDrive access; the published UIT guide lists 50 GB in each. Graduate students receive Microsoft OneDrive access, with 50 GB listed in the source. Availability and storage allocations may change with account status</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/storage-for-students/"
+    },
+    {
+      "title": "File Access Service",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>File Access Service (FAS) provides managed file shares for York academic, research and administrative work. Access is controlled by Passport York authentication and share permissions. FAS can be used for departmental collaboration and appropriately governed sensitive information</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/storage-for-students/"
+    },
+    {
+      "title": "Storage governance",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>Choose a storage service based on the data classification, required sharing permissions and institutional guidance. The published source lists a FAS charge of $0.105 per GB per month, a 50 GB minimum allocation and 10 GB adjustment increments; confirm pricing before submitting a request</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/storage-for-students/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Open OneDrive",
+      "url": "https://www.microsoft365.com/",
+      "audiences": [
+        "all"
+      ]
+    }
+  ]
+}

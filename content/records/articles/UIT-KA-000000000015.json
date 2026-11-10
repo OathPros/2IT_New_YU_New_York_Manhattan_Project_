@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000015",
+  "slug": "fix-remote-desktop-connection-failures-000015",
+  "title": "Fix Remote Desktop connection failures",
+  "type": "How to",
+  "service_id": "devices-labs",
+  "issue": "Fix Remote Desktop connection failures",
+  "environment": [
+    "Computers and labs",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Confirm you are eligible for the specific remote lab</li><li>Connect to York VPN where the lab requires it</li><li>Confirm that you selected an approved lab computer for your faculty</li><li>If the session reports that the account is not authorized, contact the responsible faculty support team</li></ol>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/computer-services/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

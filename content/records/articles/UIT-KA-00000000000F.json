@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-00000000000F",
+  "slug": "find-a-campus-printer-00000f",
+  "title": "Find a campus printer",
+  "type": "How to",
+  "service_id": "printing",
+  "issue": "Find a campus printer",
+  "environment": [
+    "Printing",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Publicly accessible printers are listed at Scott Library, Bronfman Business Library, Osgoode Hall Law School Library, Frost Library, Steacie Science Library, the Steacie hallway and Markham Campus Library</p><p>Use the York campus map and signage to find a suitable current location</p>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/printing-for-students/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

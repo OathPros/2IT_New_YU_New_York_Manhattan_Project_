@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000013",
+  "slug": "understand-fas-access-permissions-000013",
+  "title": "Understand FAS access permissions",
+  "type": "How to",
+  "service_id": "storage",
+  "issue": "Understand FAS access permissions",
+  "environment": [
+    "Files and storage",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>FAS supports permissions such as read access and modify or write access. Request only the level needed for your work, and do not assume access to a department share is automatic</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/storage/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

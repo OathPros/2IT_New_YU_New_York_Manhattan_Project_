@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-00000000000C",
+  "slug": "get-help-with-turnitin-submissions-00000c",
+  "title": "Get help with Turnitin submissions",
+  "type": "How to",
+  "service_id": "teaching-learning",
+  "issue": "Get help with Turnitin submissions",
+  "environment": [
+    "Teaching and learning",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Confirm that your document meets Turnitin’s accepted file and size requirements</li><li>Try saving the document in another supported format if the file is corrupt or unusually formatted</li><li>Check your browser and device against the published system requirements</li><li>If the problem persists, try a second supported browser and inform your instructor</li></ol>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/learning-technologies/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

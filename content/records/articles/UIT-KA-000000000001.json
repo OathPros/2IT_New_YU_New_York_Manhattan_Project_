@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000001",
+  "slug": "connect-to-airyorkplus-on-windows-000001",
+  "title": "Connect to AirYorkPLUS on Windows",
+  "type": "How to",
+  "service_id": "connectivity",
+  "issue": "Connect to AirYorkPLUS on Windows",
+  "environment": [
+    "Wi-Fi and internet",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Open the Wi-Fi network list on your Windows device</li><li>Select <strong>AirYorkPLUS</strong> and choose Connect</li><li>Enter your Passport York username and password</li><li>Confirm the connection only after checking that the certificate details match York’s published network information</li></ol>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/internet-access/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000002",
+  "slug": "connect-to-eduroam-using-your-york-account-000002",
+  "title": "Connect to eduroam using your York account",
+  "type": "How to",
+  "service_id": "connectivity",
+  "issue": "Connect to eduroam using your York account",
+  "environment": [
+    "Wi-Fi and internet",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Find the <strong>eduroam</strong> wireless network at York or a participating institution</li><li>Enter your Passport York username followed by <strong>@yorku.ca</strong></li><li>Enter your Passport York password</li><li>Verify the server certificate details before accepting the connection</li></ol>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/internet-access/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000020",
+  "slug": "choose-a-tool-for-a-york-web-form-000020",
+  "title": "Choose a tool for a York web form",
+  "type": "How to",
+  "service_id": "web-media",
+  "issue": "Choose a tool for a York web form",
+  "environment": [
+    "Web and media",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Use Gravity Forms when the form belongs on an approved centrally managed York WordPress site. Consider MachForm when a separate form needs to be linked or embedded. Confirm whether the planned data collection is permitted before publishing</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/web-and-media-management/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

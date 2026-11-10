@@ -1,0 +1,14 @@
+{
+  "source_id": "editorial-00000000003e",
+  "source_url": "https://www.yorku.ca/uit/student-services/duo-and-report-phishing/",
+  "title": "Cybersecurity and Duo",
+  "capture_status": "editorial_live_page_review",
+  "state": "editorial_partial",
+  "destinations": [
+    "/services/security/",
+    "/knowledge/choose-a-duo-authentication-method-000016/"
+  ],
+  "assignments": [],
+  "editorial_note": "Public source consulted to author service overview and selected tasks. Full source block capture and content parity not yet complete",
+  "reviewed_source_at": "2026-11-10T13:00:00Z"
+}

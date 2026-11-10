@@ -1,0 +1,57 @@
+{
+  "id": "devices-labs",
+  "name": "Computers and labs",
+  "summary": "Use campus computer labs and get device support",
+  "aliases": [
+    "computer",
+    "lab",
+    "pc",
+    "desktop",
+    "remote",
+    "repair",
+    "facilities"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/computer-labs/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/computer-services/"
+  ],
+  "article_ids": [
+    "UIT-KA-000000000014",
+    "UIT-KA-000000000015"
+  ],
+  "details": [
+    {
+      "title": "Computer labs",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>York operates drop-in computing spaces and course-specific teaching labs, with software for learning and research. Lab access depends on student status and faculty or course eligibility. The Steacie hallway computers are identified as an active-student service</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/computer-labs/"
+    },
+    {
+      "title": "Remote labs",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>Eligible users can access certain lab computers remotely where the faculty offers this service. Remote Desktop access can require an active VPN connection and authorization to the specific lab or computer</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/computer-labs/"
+    },
+    {
+      "title": "Managed workstations",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>Desktop support and workstation services depend on the faculty or department. For a York-owned device, contact your local IT support team for support with equipment, setup, account access or software problems</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/computer-labs/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Get IT help",
+      "url": "mailto:askIT@yorku.ca",
+      "audiences": [
+        "all"
+      ]
+    }
+  ]
+}

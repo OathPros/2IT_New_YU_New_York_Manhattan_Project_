@@ -1,0 +1,61 @@
+{
+  "id": "connectivity",
+  "name": "Wi-Fi and internet",
+  "summary": "Connect to campus Wi-Fi, residence networks and VPN",
+  "aliases": [
+    "wifi",
+    "wireless",
+    "internet",
+    "airyork",
+    "eduroam",
+    "vpn",
+    "remote",
+    "residence"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/internet-access/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/internet-access/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/off-campus-computing/"
+  ],
+  "article_ids": [
+    "UIT-KA-000000000001",
+    "UIT-KA-000000000002",
+    "UIT-KA-000000000003",
+    "UIT-KA-000000000004"
+  ],
+  "details": [
+    {
+      "title": "Choose the right network",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>AirYorkPLUS is the encrypted campus network for current York community members using Passport York credentials. Eduroam connects York members at participating institutions and eligible visitors at York. AirYorkGUEST is for visitors who cannot use AirYorkPLUS or eduroam. Residence students may have wired access and may register eligible smart devices that cannot use Passport York credentials</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/internet-access/"
+    },
+    {
+      "title": "Connect from off campus",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>York VPN provides a secure connection to selected university resources from off campus. A VPN is not needed for every York website. Use the VPN service only for systems that require it and confirm the installed client and required profile with UIT</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/internet-access/"
+    },
+    {
+      "title": "Residence internet",
+      "audiences": [
+        "student"
+      ],
+      "html": "<p>Wired residence connections generally use automatic network settings. Residence connectivity is subject to a subscriber agreement covering safe use, device security and network restrictions. Personal routers, access points, hubs and network switches are restricted by the residence network rules, so confirm eligibility before installing networking equipment</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/internet-access/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Report an internet issue",
+      "url": "https://uitcs.apps01.yorku.ca/",
+      "audiences": [
+        "all"
+      ]
+    }
+  ]
+}

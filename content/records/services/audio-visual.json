@@ -1,0 +1,57 @@
+{
+  "id": "audio-visual",
+  "name": "Audio visual technology",
+  "summary": "Get technology support for classrooms, meeting rooms and events",
+  "aliases": [
+    "av",
+    "avss",
+    "lecture",
+    "recording",
+    "meeting",
+    "classroom",
+    "signage",
+    "hyflex"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/audio-visual-services-and-technology/"
+  ],
+  "article_ids": [
+    "UIT-KA-000000000023",
+    "UIT-KA-000000000024"
+  ],
+  "details": [
+    {
+      "title": "Classroom technology",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>AVSS supports installed technology in equipped classrooms. Instructors can request a brief demonstration of classroom controls before a term begins, and dedicated classroom support is available for teaching disruptions</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/audio-visual-services-and-technology/"
+    },
+    {
+      "title": "Meetings and events",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>Meeting rooms and events may need microphones, projection, presentation systems, recording or on-site operators. Specialized equipment and services may carry departmental charges</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/audio-visual-services-and-technology/"
+    },
+    {
+      "title": "Additional services",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>The source catalogue also includes HyFlex classrooms, digital signage, a technology lending library and classroom equipment guidance. Equipment access and eligibility depend on the location and use case</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/audio-visual-services-and-technology/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Classroom equipment support",
+      "url": "https://ceo.yorku.ca/",
+      "audiences": [
+        "employee"
+      ]
+    }
+  ]
+}

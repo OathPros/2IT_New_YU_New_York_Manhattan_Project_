@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000011",
+  "slug": "choose-storage-for-your-student-account-000011",
+  "title": "Choose storage for your student account",
+  "type": "How to",
+  "service_id": "storage",
+  "issue": "Choose storage for your student account",
+  "environment": [
+    "Files and storage",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Undergraduate students can use their York Google Drive or Microsoft OneDrive accounts. Graduate students can use York Microsoft OneDrive. Save course and University work in the account associated with your York affiliation and plan for access changes after graduation</p>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/storage-for-students/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

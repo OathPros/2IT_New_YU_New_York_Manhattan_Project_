@@ -1,0 +1,14 @@
+{
+  "source_id": "editorial-00000000003c",
+  "source_url": "https://www.yorku.ca/uit/student-services/computer-labs/",
+  "title": "Computers and labs",
+  "capture_status": "editorial_live_page_review",
+  "state": "editorial_partial",
+  "destinations": [
+    "/services/devices-labs/",
+    "/knowledge/find-a-computer-lab-000014/"
+  ],
+  "assignments": [],
+  "editorial_note": "Public source consulted to author service overview and selected tasks. Full source block capture and content parity not yet complete",
+  "reviewed_source_at": "2026-11-10T13:00:00Z"
+}

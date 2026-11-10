@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000014",
+  "slug": "find-a-computer-lab-000014",
+  "title": "Find a computer lab",
+  "type": "How to",
+  "service_id": "devices-labs",
+  "issue": "Find a computer lab",
+  "environment": [
+    "Computers and labs",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Identify whether you need a drop-in lab or a course-specific teaching lab</li><li>Check your faculty’s listed lab facilities and eligibility</li><li>Use your active York credentials where required</li><li>If you need accommodations, contact the relevant accessibility service</li></ol>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/computer-labs/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

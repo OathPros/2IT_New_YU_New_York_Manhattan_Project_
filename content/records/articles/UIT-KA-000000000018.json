@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-000000000018",
+  "slug": "recognize-spyware-and-adware-symptoms-000018",
+  "title": "Recognize spyware and adware symptoms",
+  "type": "Question and answer",
+  "service_id": "security",
+  "issue": "Recognize spyware and adware symptoms",
+  "environment": [
+    "Cybersecurity and Duo",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Warning signs may include unexpected advertising pop-ups, browser redirects, unexplained toolbars, unusually slow performance or system crashes. Keep software updated, avoid unknown downloads and report suspected compromise through IT support</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/information-security/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

@@ -1,0 +1,15 @@
+{
+  "source_id": "editorial-00000000004b",
+  "source_url": "https://www.yorku.ca/uit/contact/",
+  "title": "IT support",
+  "capture_status": "editorial_live_page_review",
+  "state": "editorial_partial",
+  "destinations": [
+    "/services/support/",
+    "/knowledge/submit-an-effective-it-support-request-00002d/",
+    "/knowledge/find-the-steacie-help-desk-00002e/"
+  ],
+  "assignments": [],
+  "editorial_note": "Public source consulted to author service overview and selected tasks. Full source block capture and content parity not yet complete",
+  "reviewed_source_at": "2026-11-10T13:00:00Z"
+}

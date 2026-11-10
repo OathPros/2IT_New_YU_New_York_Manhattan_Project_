@@ -1,0 +1,27 @@
+{
+  "id": "UIT-KA-00000000000E",
+  "slug": "print-a-document-with-webprint-00000e",
+  "title": "Print a document with WebPrint",
+  "type": "How to",
+  "service_id": "printing",
+  "issue": "Print a document with WebPrint",
+  "environment": [
+    "Printing",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<ol><li>Check that your YU-card or supported mobile printing account has sufficient funds</li><li>Sign in to WebPrint with your Passport York account</li><li>Select Submit a Job and choose the required printer</li><li>Choose print options and the number of copies</li><li>Upload the document and submit it for printing</li><li>Release or collect the job according to instructions posted at the printer</li></ol>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/printing-for-students/"
+  ],
+  "source_block_ids": [],
+  "captured_at": "2026-11-10T13:00:00Z",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "editorial_summary_needs_full_source_migration",
+  "review_flags": []
+}

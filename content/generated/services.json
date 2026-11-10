@@ -1,4 +1,22 @@
 [
   "records/services/email.json",
-  "records/services/passport-york.json"
+  "records/services/passport-york.json",
+  "records/services/connectivity.json",
+  "records/services/software.json",
+  "records/services/microsoft-365.json",
+  "records/services/teaching-learning.json",
+  "records/services/printing.json",
+  "records/services/storage.json",
+  "records/services/devices-labs.json",
+  "records/services/security.json",
+  "records/services/ai.json",
+  "records/services/administrative-systems.json",
+  "records/services/web-media.json",
+  "records/services/servers.json",
+  "records/services/audio-visual.json",
+  "records/services/data-reporting.json",
+  "records/services/computer-purchase.json",
+  "records/services/phones.json",
+  "records/services/github.json",
+  "records/services/support.json"
 ]
