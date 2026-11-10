@@ -1,0 +1,38 @@
+{
+  "source_id": "b9cf27e78bfae143",
+  "source_url": "https://www.yorku.ca/uit/infosec/can-i-use-my-android-ios-mail-client-after-completing-my-duo-setup/",
+  "title": "Can I use my Android, iOS mail client after completing my Duo setup?",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/email/"
+  ],
+  "assignments": [
+    {
+      "block_id": "b9cf27e78bfae143:0",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "b9cf27e78bfae143:1",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "b9cf27e78bfae143:2",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "b9cf27e78bfae143:3",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "b9cf27e78bfae143:4",
+      "destination": "/services/email/#details",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 5
+}

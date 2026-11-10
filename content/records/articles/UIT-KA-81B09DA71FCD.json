@@ -1,0 +1,35 @@
+{
+  "id": "UIT-KA-81B09DA71FCD",
+  "slug": "outlook-client-a71fcd",
+  "title": "Outlook Client",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Outlook Client",
+  "environment": [
+    "Email and calendar",
+    "Microsoft Outlook",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>As soon as you suspect that you received a phishing email, report it immediately by clicking the <strong>Report Phishing</strong> ribbon. See below illustrations</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2023/07/7-19-2022-3-45-18-PM-1.jpg\"/></figure>\n<p>Click <strong>Report</strong>. A copy of the email will be sent to the Information Security Team for review</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2023/07/7-21-2022-11-41-25-AM-1.jpg\"/></figure>\n<p><strong>Note:</strong> If you have mistakenly reported an email, you can retrieve it from the <strong>Deleted Items folder</strong></p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/report-phishing-email/"
+  ],
+  "source_block_ids": [
+    "3e5c3c2eceb1c984:5",
+    "3e5c3c2eceb1c984:6",
+    "3e5c3c2eceb1c984:7",
+    "3e5c3c2eceb1c984:8",
+    "3e5c3c2eceb1c984:9",
+    "3e5c3c2eceb1c984:10"
+  ],
+  "captured_at": "2026-11-09T21:46:49.779182+00:00",
+  "source_modified_at": "2026-05-06T20:13:38+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

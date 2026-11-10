@@ -1,0 +1,32 @@
+{
+  "id": "UIT-KA-E28165789BE3",
+  "slug": "access-graduate-students-789be3",
+  "title": "Access Graduate Students",
+  "type": "How to",
+  "service_id": "email",
+  "issue": "Access Graduate Students",
+  "environment": [
+    "Email and calendar",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<p>To download Outlook please follow the <a href=\"https://www.yorku.ca/uit/student-services/microsoft-365-for-students/#access\">instructions here&gt;&gt;</a></p>\n<p>M365 Resource Page&gt;&gt;</p>\n<p><a href=\"https://www.yorku.ca/uit/student-services/email/#faqs-outlook\"><strong>Click here for FAQs Regarding Outlook&gt;&gt;</strong></a></p>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "source_block_ids": [
+    "d545c40ef8a2948d:23",
+    "d545c40ef8a2948d:24",
+    "d545c40ef8a2948d:25",
+    "d545c40ef8a2948d:26"
+  ],
+  "captured_at": "2026-11-09T21:47:40.608783+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

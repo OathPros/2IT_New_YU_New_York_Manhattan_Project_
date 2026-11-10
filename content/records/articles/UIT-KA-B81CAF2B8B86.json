@@ -1,0 +1,30 @@
+{
+  "id": "UIT-KA-B81CAF2B8B86",
+  "slug": "create-an-email-message-template-2b8b86",
+  "title": "Create an email message template",
+  "type": "How to",
+  "service_id": "email",
+  "issue": "Create an email message template",
+  "environment": [
+    "Email and calendar",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p><a href=\"https://support.microsoft.com/en-us/office/create-an-email-message-template-43ec7142-4dd0-4351-8727-bd0977b6b2d1?ui=en-us&amp;rs=en-us&amp;ad=us\">Instructions&gt;&gt;</a></p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+  ],
+  "source_block_ids": [
+    "ed0c8c78eebe7f59:66",
+    "ed0c8c78eebe7f59:67"
+  ],
+  "captured_at": "2026-11-09T21:45:55.080021+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

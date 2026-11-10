@@ -1,0 +1,36 @@
+{
+  "id": "UIT-KA-9B42BE286CDC",
+  "slug": "create-an-email-signature-286cdc",
+  "title": "Create an email signature",
+  "type": "How to",
+  "service_id": "email",
+  "issue": "Create an email signature",
+  "environment": [
+    "Email and calendar",
+    "Microsoft Outlook",
+    "York students",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p><a href=\"https://support.microsoft.com/en-us/office/create-and-add-an-email-signature-in-outlook-for-windows-8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2?ui=en-us&amp;rs=en-us&amp;ad=us\">Click here for instructions&gt;&gt;</a></p>",
+  "audiences": [
+    "employee",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/",
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "source_block_ids": [
+    "d545c40ef8a2948d:107",
+    "d545c40ef8a2948d:108",
+    "ed0c8c78eebe7f59:70",
+    "ed0c8c78eebe7f59:71"
+  ],
+  "captured_at": "2026-11-09T21:47:40.608783+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

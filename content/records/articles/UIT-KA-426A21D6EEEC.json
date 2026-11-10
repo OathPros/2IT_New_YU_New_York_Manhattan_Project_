@@ -1,0 +1,40 @@
+{
+  "id": "UIT-KA-426A21D6EEEC",
+  "slug": "find-out-what-mailing-lists-are-available-d6eeec",
+  "title": "Find out what mailing lists are available",
+  "type": "How to",
+  "service_id": "email",
+  "issue": "Find out what mailing lists are available",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Listserv maintains files of discussion lists for specific nodes, and for the entire network. The Listserv <strong><em>lists</em></strong> command allows you to obtain a file of Listserv lists. You can specify one of three options with the lists command: <em>short</em>, <em>detailed</em> or <em>global</em></p>\n<ul>\n<li><strong>Short</strong> (the default) produces a file of available lists and a brief description of each list</li>\n<li><strong>Detailed</strong> produces a file of available lists; a brief description of each list; and keyword information about each list</li>\n<li><strong>Global</strong> produces a file containing all the lists on the network</li>\n</ul>\n<ol>\n<li>To obtain a file of the discussion lists <em>at York</em>, mail the <strong>lists</strong> command to <a href=\"mailto:listserv@yorku.ca\">listserv@yorku.ca</a></li>\n<li>To obtain a file of the lists available at another node, specify the correct node name in the mail address. For example, to get a file of the Listserv lists at the University of Toronto, mail the<em> </em><strong>lists</strong> command to listserv<strong>@Listserv.utoronto.ca</strong>.<strong> Note: </strong>Make sure you know the correct node name before sending a Listserv command. You can search for Listserv lists through the Web interface at <strong>http://www.lsoft.com/lists/listref.html</strong>. This will allow you to view lists by host or country, and to check the node names</li>\n<li>To obtain a more detailed list, regardless of the node, include the detailed option with your lists command. Type <strong>lists detailed</strong> in the body of your mail message</li>\n<li>To obtain a list of Listserv lists for the entire network, the command format is <strong>lists global</strong>. However, because there are thousands of lists, it is suggested you use a search string to limit the size of the file that will be returned to you. For example, <strong>list global medicine</strong>will return a description of all the lists related to medicine (lists whose name or topic contains the string \"medicine\")</li>\n</ol>\n<p>You can also search for Listserv lists through the Web interface at <a href=\"http://www.lsoft.com/lists/listref.html\">http://www.lsoft.com/lists/listref.html</a>.<br/><strong>Note:</strong> When requesting a global (network) Listserv list, you can mail the<em> </em><strong>lists global</strong> command to any Listserv node</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/"
+  ],
+  "source_block_ids": [
+    "a09e593086326941:20",
+    "a09e593086326941:21",
+    "a09e593086326941:22",
+    "a09e593086326941:23",
+    "a09e593086326941:24",
+    "d9de6143883bfada:20",
+    "d9de6143883bfada:21",
+    "d9de6143883bfada:22",
+    "d9de6143883bfada:23",
+    "d9de6143883bfada:24"
+  ],
+  "captured_at": "2026-11-09T21:48:02.303143+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

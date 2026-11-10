@@ -1,0 +1,33 @@
+{
+  "id": "UIT-KA-27F09BE9E94C",
+  "slug": "apply-more-than-one-label-to-a-single-email-message-e9e94c",
+  "title": "Apply more than one label to a single email message",
+  "type": "How to",
+  "service_id": "email",
+  "issue": "Apply more than one label to a single email message",
+  "environment": [
+    "Email and calendar",
+    "Google Mail",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<p>You can apply any number of labels to a message: </p>\n<p>1. Select the message in your Inbox, or open it</p>\n<p>2. Select one or more labels in the <strong>Labels</strong> drop-down list at the top of your Mail window</p>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "source_block_ids": [
+    "d545c40ef8a2948d:75",
+    "d545c40ef8a2948d:76",
+    "d545c40ef8a2948d:77",
+    "d545c40ef8a2948d:78"
+  ],
+  "captured_at": "2026-11-09T21:47:40.608783+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

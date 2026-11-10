@@ -1,0 +1,40 @@
+{
+  "id": "UIT-KA-B5C979FE74FB",
+  "slug": "subscribe-to-a-list-fe74fb",
+  "title": "SUBSCRIBE to a LIST",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "SUBSCRIBE to a LIST",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ol>\n<li>Address your email message to <a href=\"mailto:listserv@yorku.ca\">listserv@yorku.ca</a></li>\n<li>In the body of your email message, issue the command:</li>\n</ol>\n<blockquote>\n<p><strong>SUBSCRIBE </strong><em>listname LastName FirstName</em></p>\n</blockquote>\n<p>where</p>\n<blockquote>\n<p><strong>SUBSCRIBE </strong>is the command you issue to subscribe to a list.<br/><em>listname </em>is the name of the list to which you want to subscribe.<br/><em>LastName FirstName </em>is your last and first name</p>\n</blockquote>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/"
+  ],
+  "source_block_ids": [
+    "a09e593086326941:25",
+    "a09e593086326941:26",
+    "a09e593086326941:27",
+    "a09e593086326941:28",
+    "a09e593086326941:29",
+    "d9de6143883bfada:25",
+    "d9de6143883bfada:26",
+    "d9de6143883bfada:27",
+    "d9de6143883bfada:28",
+    "d9de6143883bfada:29"
+  ],
+  "captured_at": "2026-11-09T21:48:02.303143+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

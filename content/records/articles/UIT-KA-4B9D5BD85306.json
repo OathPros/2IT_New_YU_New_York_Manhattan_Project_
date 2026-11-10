@@ -1,0 +1,36 @@
+{
+  "id": "UIT-KA-4B9D5BD85306",
+  "slug": "increase-the-daily-limit-of-postings-on-the-listserv-d85306",
+  "title": "Increase the daily limit of postings on the LISTSERV",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Increase the daily limit of postings on the LISTSERV",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Using the <strong>Web Interface</strong> (i.e. Web browser):</p>\n<ol>\n<li>Go to <a href=\"http://listserv.yorku.ca/\">http://listserv.yorku.ca</a></li>\n<li>Open List Management and select List Configuration</li>\n<li>Select list from drop down menu</li>\n<li>Click Subscriptions</li>\n<li>In the box beside Daily-Threshold= enter the number of messages (default is 100) and click update</li>\n</ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:142",
+    "292bdb4f070fdcc0:143",
+    "292bdb4f070fdcc0:144",
+    "746a0b6e02ae1da6:142",
+    "746a0b6e02ae1da6:143",
+    "746a0b6e02ae1da6:144"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

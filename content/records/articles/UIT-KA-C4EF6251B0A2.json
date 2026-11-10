@@ -1,0 +1,34 @@
+{
+  "id": "UIT-KA-C4EF6251B0A2",
+  "slug": "what-is-listserv-51b0a2",
+  "title": "What is LISTSERV",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "What is LISTSERV",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>LISTSERV is an electronic mailing list server designed to make group communication easier. It allows you to create, manage and control electronic \"mailing lists\" on the internet. Listserv distributes mail and files to predefined distribution lists and automatically notifies its users of updated files</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/"
+  ],
+  "source_block_ids": [
+    "a09e593086326941:2",
+    "a09e593086326941:3",
+    "d9de6143883bfada:2",
+    "d9de6143883bfada:3"
+  ],
+  "captured_at": "2026-11-09T21:48:02.303143+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

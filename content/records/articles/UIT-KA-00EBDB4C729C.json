@@ -1,0 +1,30 @@
+{
+  "id": "UIT-KA-00EBDB4C729C",
+  "slug": "android-users-4c729c",
+  "title": "Android Users",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Android Users",
+  "environment": [
+    "Email and calendar",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Some native and third-party mail apps do not support Modern Authentication. Please install the Microsoft Outlook app on your Android device</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/issues-with-email-on-my-smartphone-tablet/"
+  ],
+  "source_block_ids": [
+    "5be1d0a8e0fa1e16:0",
+    "5be1d0a8e0fa1e16:1"
+  ],
+  "captured_at": "2026-11-09T21:46:41.366260+00:00",
+  "source_modified_at": "2025-11-27T21:45:28+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

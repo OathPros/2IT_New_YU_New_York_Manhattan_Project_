@@ -1,0 +1,82 @@
+{
+  "source_id": "b1b31e6cf58025ae",
+  "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/handling-unsafe-email-attachments/",
+  "title": "Handling Unsafe Email Attachments",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/email/",
+    "/knowledge/i-was-directed-to-this-page-by-a-note-in-an-email-sent-to-me-what-is-this-all-about-0322c0/",
+    "/knowledge/why-are-some-attachments-sent-to-me-being-renamed-or-removed-1ff9fc/",
+    "/knowledge/what-kind-of-attachments-files-are-affected-e18e98/"
+  ],
+  "assignments": [
+    {
+      "block_id": "b1b31e6cf58025ae:0",
+      "destination": "/knowledge/i-was-directed-to-this-page-by-a-note-in-an-email-sent-to-me-what-is-this-all-about-0322c0/",
+      "article_id": "UIT-KA-A376250322C0",
+      "anchors": []
+    },
+    {
+      "block_id": "b1b31e6cf58025ae:1",
+      "destination": "/knowledge/i-was-directed-to-this-page-by-a-note-in-an-email-sent-to-me-what-is-this-all-about-0322c0/",
+      "article_id": "UIT-KA-A376250322C0",
+      "anchors": []
+    },
+    {
+      "block_id": "b1b31e6cf58025ae:2",
+      "destination": "/knowledge/why-are-some-attachments-sent-to-me-being-renamed-or-removed-1ff9fc/",
+      "article_id": "UIT-KA-96133D1FF9FC",
+      "anchors": []
+    },
+    {
+      "block_id": "b1b31e6cf58025ae:3",
+      "destination": "/knowledge/why-are-some-attachments-sent-to-me-being-renamed-or-removed-1ff9fc/",
+      "article_id": "UIT-KA-96133D1FF9FC",
+      "anchors": []
+    },
+    {
+      "block_id": "b1b31e6cf58025ae:4",
+      "destination": "/knowledge/what-kind-of-attachments-files-are-affected-e18e98/",
+      "article_id": "UIT-KA-19B3AAE18E98",
+      "anchors": []
+    },
+    {
+      "block_id": "b1b31e6cf58025ae:5",
+      "destination": "/knowledge/what-kind-of-attachments-files-are-affected-e18e98/",
+      "article_id": "UIT-KA-19B3AAE18E98",
+      "anchors": []
+    },
+    {
+      "block_id": "b1b31e6cf58025ae:6",
+      "destination": "/knowledge/what-kind-of-attachments-files-are-affected-e18e98/",
+      "article_id": "UIT-KA-19B3AAE18E98",
+      "anchors": []
+    },
+    {
+      "block_id": "b1b31e6cf58025ae:7",
+      "destination": "/knowledge/what-kind-of-attachments-files-are-affected-e18e98/",
+      "article_id": "UIT-KA-19B3AAE18E98",
+      "anchors": []
+    },
+    {
+      "block_id": "b1b31e6cf58025ae:8",
+      "destination": "/knowledge/what-kind-of-attachments-files-are-affected-e18e98/",
+      "article_id": "UIT-KA-19B3AAE18E98",
+      "anchors": []
+    },
+    {
+      "block_id": "b1b31e6cf58025ae:9",
+      "destination": "/knowledge/what-kind-of-attachments-files-are-affected-e18e98/",
+      "article_id": "UIT-KA-19B3AAE18E98",
+      "anchors": []
+    },
+    {
+      "block_id": "b1b31e6cf58025ae:10",
+      "destination": "/knowledge/what-kind-of-attachments-files-are-affected-e18e98/",
+      "article_id": "UIT-KA-19B3AAE18E98",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 11
+}

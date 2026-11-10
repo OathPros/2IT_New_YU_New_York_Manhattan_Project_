@@ -1,0 +1,30 @@
+{
+  "id": "UIT-KA-A376250322C0",
+  "slug": "i-was-directed-to-this-page-by-a-note-in-an-email-sent-to-me-what-is-this-all-about-0322c0",
+  "title": "I was directed to this page by a note in an email sent to me what is this all about",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "I was directed to this page by a note in an email sent to me what is this all about",
+  "environment": [
+    "Email and calendar",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ul><li>If you receive a renamed attachment and have been directed to this web page you should assume the attachment contains malicious computer code. BEFORE USING ANY RENAMED ATTACHMENT - CHECK THE FILE FOR VIRUSES WITH UP-TO-DATE VIRUS CHECKING SOFTWARE! Details are below</li></ul>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/handling-unsafe-email-attachments/"
+  ],
+  "source_block_ids": [
+    "b1b31e6cf58025ae:0",
+    "b1b31e6cf58025ae:1"
+  ],
+  "captured_at": "2026-11-09T21:45:55.895454+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

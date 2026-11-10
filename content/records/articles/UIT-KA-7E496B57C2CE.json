@@ -1,0 +1,30 @@
+{
+  "id": "UIT-KA-7E496B57C2CE",
+  "slug": "requesting-access-57c2ce",
+  "title": "Requesting Access",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Requesting Access",
+  "environment": [
+    "Email and calendar",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>To add or remove users to or from a shared mailbox, the owner must submit a request to add/remove users to <a href=\"mailto:askit@yorku.ca\">askit@yorku.ca</a>. The request must include the Passport York username of each user being added/removed</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+  ],
+  "source_block_ids": [
+    "ed0c8c78eebe7f59:64",
+    "ed0c8c78eebe7f59:65"
+  ],
+  "captured_at": "2026-11-09T21:45:55.080021+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

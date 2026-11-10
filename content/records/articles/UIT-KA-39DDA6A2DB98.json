@@ -1,0 +1,34 @@
+{
+  "id": "UIT-KA-39DDA6A2DB98",
+  "slug": "what-is-the-purpose-of-a-list-owner-a2db98",
+  "title": "What is the purpose of a LIST OWNER",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "What is the purpose of a LIST OWNER",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ul>\n<li>Each LISTSERV list must have at least one LIST OWNER</li>\n<li>The LIST OWNER(s) maintains the LIST and performs LIST maintenance functions (like adding and removing subscribers from the LIST)</li>\n<li>Only the list owner has access to certain administrative functions of the list</li>\n<li>The LIST OWNER is the person you contact when you have a problem with a LIST</li>\n<li>The owner’s email address appears in the LIST HEADER</li>\n</ul>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:8",
+    "292bdb4f070fdcc0:9",
+    "746a0b6e02ae1da6:8",
+    "746a0b6e02ae1da6:9"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

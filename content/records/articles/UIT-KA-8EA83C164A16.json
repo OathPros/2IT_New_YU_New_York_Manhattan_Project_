@@ -1,0 +1,36 @@
+{
+  "id": "UIT-KA-8EA83C164A16",
+  "slug": "obtain-a-copy-of-listserv-commands-164a16",
+  "title": "Obtain a copy of LISTSERV commands",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Obtain a copy of LISTSERV commands",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>To obtain a list of Listserv commands, issue the Listserv <em>help</em> command. Address the mail message to listserv@yorku.ca, type <strong>help</strong> in the body of your mail message and then send the message. Listserv will reply with a list of the most useful Listserv commands and their functions. The list will look like this</p>\n<figure><table><thead><tr><th>Commands</th><th>Options</th><th>Description</th></tr></thead><tbody><tr><td><strong>Info</strong></td><td>&lt;topic|listname&gt;</td><td>Order information about Listserv</td></tr><tr><td><strong>Lists</strong></td><td>&lt;Detailed|Short|Global&gt;</td><td>Obtain a list of LISTSERV lists</td></tr><tr><td><strong>Subscribe</strong></td><td>listname &lt;full name&gt;</td><td>Subscribe to a list</td></tr><tr><td><strong>Signoff</strong></td><td>listname</td><td>Signoff a list</td></tr><tr><td><strong>Signoff</strong></td><td>* (NETWIDE</td><td>Signoff from all lists on all servers</td></tr><tr><td><strong>Review</strong></td><td>listname &lt;options&gt;</td><td>Review a list</td></tr><tr><td><strong>Query</strong></td><td>listname</td><td>Query your subscription options</td></tr><tr><td><strong>Set</strong></td><td>listname options</td><td>Update your subscription options</td></tr><tr><td><strong>INdex</strong></td><td>&lt;filelist_name&gt;</td><td>Order a list of Listserv files</td></tr><tr><td><strong>Get</strong></td><td>filename filetype</td><td>Order a file from Listserv</td></tr><tr><td><strong>Register</strong></td><td>full_name|OFF</td><td>Register your name with Listserv</td></tr></tbody></table></figure>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/"
+  ],
+  "source_block_ids": [
+    "a09e593086326941:17",
+    "a09e593086326941:18",
+    "a09e593086326941:19",
+    "d9de6143883bfada:17",
+    "d9de6143883bfada:18",
+    "d9de6143883bfada:19"
+  ],
+  "captured_at": "2026-11-09T21:48:02.303143+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

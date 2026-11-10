@@ -1,0 +1,32 @@
+{
+  "id": "UIT-KA-029AE4934D4F",
+  "slug": "access-microsoft-outlook-faqs-934d4f",
+  "title": "Access Microsoft Outlook FAQs",
+  "type": "How to",
+  "service_id": "email",
+  "issue": "Access Microsoft Outlook FAQs",
+  "environment": [
+    "Email and calendar",
+    "Microsoft Outlook",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>If you have already requested access to a shared mailbox, you can view it by following these steps:</p>\n<ul>\n<li><strong>Windows Desktop: </strong>Open and use a shared mailbox using the Windows Outlook desktop client, <a href=\"https://support.office.com/en-us/article/open-and-use-a-shared-mailbox-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd\">click here&gt;&gt;</a></li>\n<li><strong>Mac Desktop:</strong> Open and use a shared mailbox using the Mac Outlook desktop client, <a href=\"https://support.microsoft.com/en-us/help/3040749/how-to-open-a-shared-folder-or-mailbox-in-outlook-for-mac\">click here&gt;&gt;</a></li>\n<li><strong>Web: </strong>Open and use a shared mailbox using the Outlook web client, <a href=\"https://support.office.com/en-us/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207\">click here&gt;&gt;</a></li>\n<li><strong>Mobile: </strong>Open and use a shared mailbox using the Outlook mobile app, <a href=\"https://support.office.com/en-us/article/open-and-use-a-shared-mailbox-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd\">click here&gt;&gt;</a></li>\n</ul>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+  ],
+  "source_block_ids": [
+    "ed0c8c78eebe7f59:61",
+    "ed0c8c78eebe7f59:62",
+    "ed0c8c78eebe7f59:63"
+  ],
+  "captured_at": "2026-11-09T21:45:55.080021+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "UIT-KA-2BD2F8FEB340",
+  "slug": "steps-to-encrypt-an-email-external-to-york-recipients-in-microsoft-outlook-feb340",
+  "title": "Steps to Encrypt an Email External to York Recipients in Microsoft Outlook",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Steps to Encrypt an Email External to York Recipients in Microsoft Outlook",
+  "environment": [
+    "Email and calendar",
+    "Microsoft Outlook",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<ol start=\"1\">\n<li>Open <strong>Outlook</strong> and click <strong>New Email</strong></li>\n</ol>\n<ol start=\"2\">\n<li>Go to the <strong>Options</strong> tab in the toolbar</li>\n</ol>\n<ol start=\"3\">\n<li>Click <strong>Encrypt</strong> (lock icon)</li>\n</ol>\n<ul>\n<li>If you see “Connect to Rights Management Servers and Get templates”, select it and wait for Outlook to update</li>\n</ul>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2026/02/1-400x160.png\"/></figure>\n<ul>\n<li>Choose <strong>Encrypt</strong> to protect content. A banner will appear at the top of your email stating that the message is encrypted and recipients can’t remove it. Visit Microsoft’s support page to read more about the <a href=\"https://support.microsoft.com/en-us/office/send-encrypted-messages-with-a-microsoft-365-personal-or-family-subscription-3521aa01-77e3-4cfd-8a13-299eb60b1957\">encryption options</a></li>\n</ul>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2026/02/2-4-2026-9-58-04-AM-2-400x297.png\"/></figure>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/encrypting-email-in-microsoft-outlook-when-how-and-best-practices/"
+  ],
+  "source_block_ids": [
+    "bcedf41487d799ce:11",
+    "bcedf41487d799ce:12",
+    "bcedf41487d799ce:13",
+    "bcedf41487d799ce:14",
+    "bcedf41487d799ce:15",
+    "bcedf41487d799ce:16",
+    "bcedf41487d799ce:17",
+    "bcedf41487d799ce:18"
+  ],
+  "captured_at": "2026-11-09T21:46:25.552540+00:00",
+  "source_modified_at": "2026-02-04T22:30:38+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

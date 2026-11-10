@@ -1,0 +1,31 @@
+{
+  "id": "UIT-KA-4947F5E36C6E",
+  "slug": "maximum-size-for-an-incoming-or-outgoing-message-e36c6e",
+  "title": "Maximum size for an incoming or outgoing message",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Maximum size for an incoming or outgoing message",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>A message must not exceed 35MB</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+  ],
+  "source_block_ids": [
+    "ed0c8c78eebe7f59:75",
+    "ed0c8c78eebe7f59:76"
+  ],
+  "captured_at": "2026-11-09T21:45:55.080021+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

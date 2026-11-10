@@ -1,0 +1,32 @@
+{
+  "id": "UIT-KA-BF484DD110E9",
+  "slug": "listserv-technical-info-d110e9",
+  "title": "ListServ Technical Info",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "ListServ Technical Info",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ul>\n<li>ListServs can be posted by \"public\" or \"private\" owners</li>\n<li>\"Public\" allows non-members to post information to ListServ, \"private\" is restricted to the members who have subscribed to a particular ListServ, and \"owner\" allows only owners of ListServ to post</li>\n<li>The maximum size for an incoming or outgoing message must not exceed 35MB. Some email attachments sent to ListServ may be removed or renamed for security reasons</li>\n<li>By default, ListServs are restricted to a maximum of 50 postings per day</li>\n</ul>\n<p><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/email/#faqs-list-serv\"><strong>Click here for ListServ FAQs&gt;&gt;</strong></a></p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+  ],
+  "source_block_ids": [
+    "ed0c8c78eebe7f59:23",
+    "ed0c8c78eebe7f59:24",
+    "ed0c8c78eebe7f59:25"
+  ],
+  "captured_at": "2026-11-09T21:45:55.080021+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

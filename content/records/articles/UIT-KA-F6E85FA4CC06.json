@@ -1,0 +1,34 @@
+{
+  "id": "UIT-KA-F6E85FA4CC06",
+  "slug": "where-do-i-mail-my-listserv-requests-commands-a4cc06",
+  "title": "Where do I mail my LISTSERV requests commands",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Where do I mail my LISTSERV requests commands",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>When you send mail to LISTSERV, you are actually sending a LISTSERV command. To send a command to LISTSERV, address your mail to<strong>listserv@node</strong> (where <em>node</em> can be any node, for example listserv@yorku.ca) and then type the appropriate LISTSERV command in the body of your mail message. You can issue more than one command provided each command appears on a separate line</p>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/"
+  ],
+  "source_block_ids": [
+    "a09e593086326941:15",
+    "a09e593086326941:16",
+    "d9de6143883bfada:15",
+    "d9de6143883bfada:16"
+  ],
+  "captured_at": "2026-11-09T21:48:02.303143+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

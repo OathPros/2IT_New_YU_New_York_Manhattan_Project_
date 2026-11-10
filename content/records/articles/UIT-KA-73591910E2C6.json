@@ -1,0 +1,40 @@
+{
+  "id": "UIT-KA-73591910E2C6",
+  "slug": "unsubscribe-to-a-list-10e2c6",
+  "title": "UNSUBSCRIBE to a LIST",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "UNSUBSCRIBE to a LIST",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ol>\n<li>Address your email message to <a href=\"mailto:listserv@yorku.ca\">listserv@yorku.ca</a></li>\n<li>In the body of your email message, issue the command:</li>\n</ol>\n<blockquote>\n<p><strong>SIGNOFF</strong> <em>listname</em></p>\n</blockquote>\n<p>where</p>\n<blockquote>\n<p><strong>SIGNOFF</strong> is the command you issue to signoff a list.<br/><em>listname </em>is the name of the list from which you want to signoff</p>\n</blockquote>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/"
+  ],
+  "source_block_ids": [
+    "a09e593086326941:30",
+    "a09e593086326941:31",
+    "a09e593086326941:32",
+    "a09e593086326941:33",
+    "a09e593086326941:34",
+    "d9de6143883bfada:30",
+    "d9de6143883bfada:31",
+    "d9de6143883bfada:32",
+    "d9de6143883bfada:33",
+    "d9de6143883bfada:34"
+  ],
+  "captured_at": "2026-11-09T21:48:02.303143+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

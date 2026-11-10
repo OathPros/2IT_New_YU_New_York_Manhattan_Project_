@@ -1,0 +1,10 @@
+{
+  "url": "https://askus.yorku.ca/api/attachment/image?token=REDACTED_TEMPORARY_MEDIA_TOKEN",
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+  ],
+  "status": "authoritative_reference"
+}

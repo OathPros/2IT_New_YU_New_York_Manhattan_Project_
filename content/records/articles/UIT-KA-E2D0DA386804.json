@@ -1,0 +1,48 @@
+{
+  "id": "UIT-KA-E2D0DA386804",
+  "slug": "what-does-the-information-in-the-list-header-tell-me-386804",
+  "title": "What does the information in the LIST HEADER tell me",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "What does the information in the LIST HEADER tell me",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Every Listserv list has a header that displays keywords. These keywords are important because they determine whether a user has the authority to view or subscribe to a list. If you want to subscribe to a list, it is a good idea to review the list header first. To review the information in a list header, issue the Listserv <strong><em>REView</em></strong> command. The format of the REView command is:</p>\n<dl>\n<dd><strong>REView listname</strong></dd>\n</dl>\n<p>For example, to review the header of the ACADCOM list at York, you would send mail to <em>listserv@yorku.ca</em> and in the body of you mail message you would type:</p>\n<dl>\n<dd><strong>REV acadcom</strong></dd>\n</dl>\n<p>Listserv will reply by sending you a copy of the ACADCOM list header. As a new user you will be concerned with the following keywords</p>\n<figure><table><tbody><tr><th scope=\"row\"><strong>Review</strong></th><td>Review indicates who may obtain information about the list, and it specifies the network addresses and names of list subscribers. The level of review varies from list to list. Review may be defined as <strong>public</strong>(which is the default), <strong>private</strong>, <strong>postmaster</strong>, <strong>owner</strong>, etc. If review is defined as <strong>public</strong>, anyone can view the information in the list. If review is defined as <strong>private</strong>, only those who are subscribed to the list have access to the information in the list. If review is defined as <strong>owner</strong>, it means that only the list owner has access to the information in the list</td></tr><tr><th scope=\"row\"><strong>Owner</strong></th><td>Every Listserv list has at least one list owner, whether the list is owner controlled or not. The owner’s name and network address appear in the list header under the label owner. The owner maintains the list and has authority to perform list maintenance functions (add and remove subscribers). The list owner can also suspend and resume distribution of mail and other files. Contact the list owner when you have a problem with a list</td></tr><tr><th scope=\"row\"><strong>Subscription</strong></th><td>Subscription indicates whether or not you can subscribe to a list, and if not, whether your request will be forwarded to the list owner. Subscriptions to a list can be <strong>open</strong>, <strong>by owner</strong> (which is the default) or closed. If subscription is <strong>open</strong>, it means that anybody who would like to subscribe to the list may do so. A subscription to an open list is immediate. If subscription is <strong>by owner</strong>, you cannot subscribe to the list, but your request will be forwarded to the list owner. The owner will decide to accept or reject your request. A<strong> closed</strong> subscription means that you cannot subscribe to the list; nor will your request for subscription be sent to the list owner</td></tr></tbody></table></figure>\n<p>To obtain further information on list control keywords, send the following command to Listserv:</p>\n<dl>\n<dd><strong>info KEYword</strong></dd>\n</dl>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/"
+  ],
+  "source_block_ids": [
+    "a09e593086326941:6",
+    "a09e593086326941:7",
+    "a09e593086326941:8",
+    "a09e593086326941:9",
+    "a09e593086326941:10",
+    "a09e593086326941:11",
+    "a09e593086326941:12",
+    "a09e593086326941:13",
+    "a09e593086326941:14",
+    "d9de6143883bfada:6",
+    "d9de6143883bfada:7",
+    "d9de6143883bfada:8",
+    "d9de6143883bfada:9",
+    "d9de6143883bfada:10",
+    "d9de6143883bfada:11",
+    "d9de6143883bfada:12",
+    "d9de6143883bfada:13",
+    "d9de6143883bfada:14"
+  ],
+  "captured_at": "2026-11-09T21:48:02.303143+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

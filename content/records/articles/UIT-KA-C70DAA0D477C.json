@@ -1,0 +1,34 @@
+{
+  "id": "UIT-KA-C70DAA0D477C",
+  "slug": "permanently-remove-shut-down-a-list-0d477c",
+  "title": "Permanently remove shut down a LIST",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Permanently remove shut down a LIST",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<ul>\n<li>To completely shutdown an old LISTSERV LIST the owner must send an email to <a href=\"mailto:askit@yorku.ca\">askit@yorku.ca</a> requesting that the LIST be removed</li>\n</ul>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:20",
+    "292bdb4f070fdcc0:21",
+    "746a0b6e02ae1da6:20",
+    "746a0b6e02ae1da6:21"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

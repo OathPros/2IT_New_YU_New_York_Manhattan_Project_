@@ -1,0 +1,37 @@
+{
+  "id": "UIT-KA-5FC3BB62E6B5",
+  "slug": "outlook-webmail-62e6b5",
+  "title": "Outlook Webmail",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Outlook Webmail",
+  "environment": [
+    "Email and calendar",
+    "Microsoft Outlook",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>To report a suspicious email, click on the <strong>More apps</strong> icon</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2023/07/7-19-2022-4-27-47-PM.jpg\"/></figure>\n<p>Click <strong>Report Phishing</strong> button</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2023/07/7-19-2022-4-28-13-PM.jpg\"/></figure>\n<p>Click <strong>Report</strong>. A copy of the email will be sent to the Information Security Team for review</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2023/07/7-21-2022-11-41-25-AM-1.jpg\"/></figure>\n<p><strong>Note:</strong> If you have mistakenly reported an email, you can retrieve it from the <strong>Deleted Items folder</strong></p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/report-phishing-email/"
+  ],
+  "source_block_ids": [
+    "3e5c3c2eceb1c984:11",
+    "3e5c3c2eceb1c984:12",
+    "3e5c3c2eceb1c984:13",
+    "3e5c3c2eceb1c984:14",
+    "3e5c3c2eceb1c984:15",
+    "3e5c3c2eceb1c984:16",
+    "3e5c3c2eceb1c984:17",
+    "3e5c3c2eceb1c984:18"
+  ],
+  "captured_at": "2026-11-09T21:46:49.779182+00:00",
+  "source_modified_at": "2026-05-06T20:13:38+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

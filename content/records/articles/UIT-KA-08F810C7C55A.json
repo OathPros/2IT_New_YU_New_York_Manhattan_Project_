@@ -1,0 +1,42 @@
+{
+  "id": "UIT-KA-08F810C7C55A",
+  "slug": "change-list-header-information-c7c55a",
+  "title": "Change LIST header information",
+  "type": "How to",
+  "service_id": "email",
+  "issue": "Change LIST header information",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>To change LIST header information, you require a password</p>\n<ul>\n<li>If you do not have a LIST password, follow the instructions above to <a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#password\">set up a personal password</a></li>\n<li>If you have forgotten your LIST password, follow the instructions above to <a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/#resetPassword\">reset your LIST password</a></li>\n<li>If you know your LIST password, you can request your LIST header information as follows:\n<ol>\n<li>Address an email message to <a href=\"mailto:listserv@yorku.ca\">listserv@yorku.ca</a></li>\n<li>In the body of the message issue the command:<strong>GET </strong><em>listname</em> <strong>(HEADER NOLOCK PW=</strong><em>yourLISTSERVpassword</em>where:<em>listname</em> is the name of the LIST.<em>yourLISTSERVpassword</em> is your current LISTSERV password</li>\n<li>The LISTSERV will reply with an email that contains the current header settings for your LIST.The following is a sample of the LIST header information:<em>PUT TEST2 PW=* * * * * * * *</em><em>*<br/>* Title of sample LISTSERV list -- SAMPLELIST<br/>*<br/>* Review= OWNER Send= PRIVATE<br/>* Subscription= By_owner </em><br/><em>* Notify= Yes Reply-to= List,Respect Files= No<br/>* Stats= Normal,Private<br/>* Notebook= Yes,/usr/users/LISTSERV/archive/test2,Monthly,Public </em><br/><em>* Default-Options= REPRO<br/>* Loopcheck= Nobody<br/>*<br/>* Owner= xyz@example.com<br/>* Owner= abc@example.com<br/>*</em></li>\n<li>Forward the message back to LISTSERV after making desired changes to the header information.<br/>Make sure to replace <strong>' * '</strong>s in <strong>PW=******</strong> with your current LIST password</li>\n</ol>\n</li>\n</ul>\n<p><strong>OR</strong></p>\n<p>Using the <strong>Web Interface</strong> (i.e. web browser)</p>\n<ol>\n<li>Go to <a href=\"http://listserv.yorku.ca/\">http://listserv.yorku.ca</a></li>\n<li>Open List Management and select List Configuration</li>\n<li>Select list from drop down menu</li>\n<li>Click My Configuration and select Edit Manually</li>\n<li>Edit list header and click update</li>\n</ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:149",
+    "292bdb4f070fdcc0:150",
+    "292bdb4f070fdcc0:151",
+    "292bdb4f070fdcc0:152",
+    "292bdb4f070fdcc0:153",
+    "292bdb4f070fdcc0:154",
+    "746a0b6e02ae1da6:149",
+    "746a0b6e02ae1da6:150",
+    "746a0b6e02ae1da6:151",
+    "746a0b6e02ae1da6:152",
+    "746a0b6e02ae1da6:153",
+    "746a0b6e02ae1da6:154"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

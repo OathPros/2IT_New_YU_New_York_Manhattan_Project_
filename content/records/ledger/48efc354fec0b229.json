@@ -1,0 +1,118 @@
+{
+  "source_id": "48efc354fec0b229",
+  "source_url": "https://www.yorku.ca/uit/infosec/abuse-via-email-and-social-media-online-safety-plan/",
+  "title": "Abuse via Email and Social Media Online Safety Plan",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/email/"
+  ],
+  "assignments": [
+    {
+      "block_id": "48efc354fec0b229:0",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:1",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:2",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:3",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:4",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:5",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:6",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:7",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:8",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:9",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:10",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:11",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:12",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:13",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:14",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:15",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:16",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:17",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:18",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:19",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "48efc354fec0b229:20",
+      "destination": "/services/email/#details",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 21
+}

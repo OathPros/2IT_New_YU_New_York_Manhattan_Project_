@@ -1,0 +1,45 @@
+{
+  "id": "UIT-KA-B142BA8FEAC4",
+  "slug": "access-archived-calendar-entries-8feac4",
+  "title": "Access Archived Calendar Entries",
+  "type": "How to",
+  "service_id": "email",
+  "issue": "Access Archived Calendar Entries",
+  "environment": [
+    "Email and calendar",
+    "Microsoft Outlook",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>Accessing the archived calendar is only supported on <strong>Classic Outlook for Windows</strong></p>\n<p>Currently, there is no support for accessing it through the Outlook Web App or Outlook for Mac. See the following for more information</p>\n<p><a href=\"https://learn.microsoft.com/en-us/microsoft-365/troubleshoot/archive-mailboxes/cannot-see-calendar-folder\">https://learn.microsoft.com/en-us/microsoft-365/troubleshoot/archive-mailboxes/cannot-see-calendar-folder</a></p>\n<p><a href=\"https://support.microsoft.com/en-us/office/use-your-online-archive-with-outlook-for-mac-f3ee42bd-f8b3-441f-b938-bf77aaee8a24\">https://support.microsoft.com/en-us/office/use-your-online-archive-with-outlook-for-mac-f3ee42bd-f8b3-441f-b938-bf77aaee8a24</a></p>\n<p><strong>Instructions for accessing your archived calendar entries </strong></p>\n<ol>\n<li>Confirm that you are using Classic Outlook</li>\n</ol>\n<ol start=\"2\">\n<li>In the top-right corner of the Outlook window, you should see a switch labelled “Try the new Outlook”. If the switch is <strong>off</strong>, you're using Classic Outlook. Proceed to step 3</li>\n</ol>\n<figure><figure><figcaption>Screenshot pending migration</figcaption></figure></figure>\n<p>If you see the New Outlook switch, you must revert to Classic Outlook</p>\n<figure><figure><figcaption>Screenshot pending migration</figcaption></figure></figure>\n<p>To revert, click on the <strong>Help </strong>menu, then select <strong>Go to classic Outlook</strong></p>\n<figure><figure><figcaption>Screenshot pending migration</figcaption></figure></figure>\n<ol start=\"3\">\n<li>Open Classic Outlook</li>\n</ol>\n<ul>\n<li>In the left navigation pane, click on the calendar icon</li>\n<li>Scroll down and click <strong>Calendar - Online Archive </strong><strong><em>username</em></strong><strong>@yorku.ca</strong></li>\n</ul>\n<figure><figure><figcaption>Screenshot pending migration</figcaption></figure></figure>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+  ],
+  "source_block_ids": [
+    "ed0c8c78eebe7f59:32",
+    "ed0c8c78eebe7f59:33",
+    "ed0c8c78eebe7f59:34",
+    "ed0c8c78eebe7f59:35",
+    "ed0c8c78eebe7f59:36",
+    "ed0c8c78eebe7f59:37",
+    "ed0c8c78eebe7f59:38",
+    "ed0c8c78eebe7f59:39",
+    "ed0c8c78eebe7f59:40",
+    "ed0c8c78eebe7f59:41",
+    "ed0c8c78eebe7f59:42",
+    "ed0c8c78eebe7f59:43",
+    "ed0c8c78eebe7f59:44",
+    "ed0c8c78eebe7f59:45",
+    "ed0c8c78eebe7f59:46",
+    "ed0c8c78eebe7f59:47"
+  ],
+  "captured_at": "2026-11-09T21:45:55.080021+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

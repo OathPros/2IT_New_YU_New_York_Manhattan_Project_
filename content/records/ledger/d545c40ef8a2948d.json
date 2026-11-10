@@ -1,0 +1,752 @@
+{
+  "source_id": "d545c40ef8a2948d",
+  "source_url": "https://www.yorku.ca/uit/student-services/email/",
+  "title": "Email",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/email/",
+    "/knowledge/access-undergraduate-students-8ae0b2/",
+    "/knowledge/access-graduate-students-789be3/",
+    "/knowledge/recalling-a-message-that-is-already-sent-26624d/",
+    "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+    "/knowledge/see-an-unfamiliar-address-e8a242/",
+    "/knowledge/delete-messages-from-a-conversation-e577a7/",
+    "/knowledge/size-or-type-limitation-for-file-attachments-in-gmail-7df30d/",
+    "/knowledge/organize-messages-in-gmail-357942/",
+    "/knowledge/apply-more-than-one-label-to-a-single-email-message-e9e94c/",
+    "/knowledge/does-deleting-a-label-delete-any-messages-that-have-that-label-3dae0d/",
+    "/knowledge/messages-in-archive-a963fa/",
+    "/knowledge/messages-in-trash-42a7e7/",
+    "/knowledge/why-does-a-message-i-archived-or-deleted-show-up-again-in-my-inbox-20230b/",
+    "/knowledge/how-long-do-messages-remain-in-my-spam-folder-d3e754/",
+    "/knowledge/preventing-messages-from-specific-senders-from-being-tagged-as-spam-3201f7/",
+    "/knowledge/outlook-email-quota-in-m365-09351b/",
+    "/knowledge/recover-deleted-items-in-outlook-7cb9f6/",
+    "/knowledge/shared-mailbox-87cde0/",
+    "/knowledge/access-outlook-faqs-dd333c/",
+    "/knowledge/delegating-access-to-your-email-a3ae6e/",
+    "/knowledge/create-an-email-signature-286cdc/",
+    "/knowledge/email-size-286108/"
+  ],
+  "assignments": [
+    {
+      "block_id": "d545c40ef8a2948d:0",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:1",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:2",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:3",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:4",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:5",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:6",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:7",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:8",
+      "destination": "navigation",
+      "anchors": [
+        "grad-email"
+      ]
+    },
+    {
+      "block_id": "d545c40ef8a2948d:9",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:10",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:11",
+      "destination": "/knowledge/access-undergraduate-students-8ae0b2/",
+      "article_id": "UIT-KA-FEB4798AE0B2",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:12",
+      "destination": "/knowledge/access-undergraduate-students-8ae0b2/",
+      "article_id": "UIT-KA-FEB4798AE0B2",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:13",
+      "destination": "/knowledge/access-undergraduate-students-8ae0b2/",
+      "article_id": "UIT-KA-FEB4798AE0B2",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:14",
+      "destination": "/knowledge/access-undergraduate-students-8ae0b2/",
+      "article_id": "UIT-KA-FEB4798AE0B2",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:15",
+      "destination": "/knowledge/access-undergraduate-students-8ae0b2/",
+      "article_id": "UIT-KA-FEB4798AE0B2",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:16",
+      "destination": "/knowledge/access-undergraduate-students-8ae0b2/",
+      "article_id": "UIT-KA-FEB4798AE0B2",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:17",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:18",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:19",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:20",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:21",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:22",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:23",
+      "destination": "/knowledge/access-graduate-students-789be3/",
+      "article_id": "UIT-KA-E28165789BE3",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:24",
+      "destination": "/knowledge/access-graduate-students-789be3/",
+      "article_id": "UIT-KA-E28165789BE3",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:25",
+      "destination": "/knowledge/access-graduate-students-789be3/",
+      "article_id": "UIT-KA-E28165789BE3",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:26",
+      "destination": "/knowledge/access-graduate-students-789be3/",
+      "article_id": "UIT-KA-E28165789BE3",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:27",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:28",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:29",
+      "destination": "/knowledge/recalling-a-message-that-is-already-sent-26624d/",
+      "article_id": "UIT-KA-C77D2126624D",
+      "anchors": [
+        "faqs-gmail",
+        "gmail-recall-message"
+      ]
+    },
+    {
+      "block_id": "d545c40ef8a2948d:30",
+      "destination": "/knowledge/recalling-a-message-that-is-already-sent-26624d/",
+      "article_id": "UIT-KA-C77D2126624D",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:31",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": [
+        "gmail-forward-emails"
+      ]
+    },
+    {
+      "block_id": "d545c40ef8a2948d:32",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:33",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:34",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:35",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:36",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:37",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:38",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:39",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:40",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:41",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:42",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:43",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:44",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:45",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:46",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:47",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:48",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:49",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:50",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:51",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:52",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:53",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:54",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:55",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:56",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:57",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:58",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:59",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:60",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:61",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:62",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:63",
+      "destination": "/knowledge/automatically-forwarding-emails-to-another-account-6b036a/",
+      "article_id": "UIT-KA-3B476B6B036A",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:64",
+      "destination": "/knowledge/see-an-unfamiliar-address-e8a242/",
+      "article_id": "UIT-KA-93E60CE8A242",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:65",
+      "destination": "/knowledge/see-an-unfamiliar-address-e8a242/",
+      "article_id": "UIT-KA-93E60CE8A242",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:66",
+      "destination": "/knowledge/delete-messages-from-a-conversation-e577a7/",
+      "article_id": "UIT-KA-7DB99DE577A7",
+      "anchors": [
+        "gmail-delete-message"
+      ]
+    },
+    {
+      "block_id": "d545c40ef8a2948d:67",
+      "destination": "/knowledge/delete-messages-from-a-conversation-e577a7/",
+      "article_id": "UIT-KA-7DB99DE577A7",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:68",
+      "destination": "/knowledge/delete-messages-from-a-conversation-e577a7/",
+      "article_id": "UIT-KA-7DB99DE577A7",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:69",
+      "destination": "/knowledge/delete-messages-from-a-conversation-e577a7/",
+      "article_id": "UIT-KA-7DB99DE577A7",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:70",
+      "destination": "/knowledge/size-or-type-limitation-for-file-attachments-in-gmail-7df30d/",
+      "article_id": "UIT-KA-8AD1D77DF30D",
+      "anchors": [
+        "gmail-size-limit-attachment"
+      ]
+    },
+    {
+      "block_id": "d545c40ef8a2948d:71",
+      "destination": "/knowledge/size-or-type-limitation-for-file-attachments-in-gmail-7df30d/",
+      "article_id": "UIT-KA-8AD1D77DF30D",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:72",
+      "destination": "/knowledge/size-or-type-limitation-for-file-attachments-in-gmail-7df30d/",
+      "article_id": "UIT-KA-8AD1D77DF30D",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:73",
+      "destination": "/knowledge/organize-messages-in-gmail-357942/",
+      "article_id": "UIT-KA-DBFB0A357942",
+      "anchors": [
+        "gmail-organize-messages"
+      ]
+    },
+    {
+      "block_id": "d545c40ef8a2948d:74",
+      "destination": "/knowledge/organize-messages-in-gmail-357942/",
+      "article_id": "UIT-KA-DBFB0A357942",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:75",
+      "destination": "/knowledge/apply-more-than-one-label-to-a-single-email-message-e9e94c/",
+      "article_id": "UIT-KA-27F09BE9E94C",
+      "anchors": [
+        "gmail-multiple-labels"
+      ]
+    },
+    {
+      "block_id": "d545c40ef8a2948d:76",
+      "destination": "/knowledge/apply-more-than-one-label-to-a-single-email-message-e9e94c/",
+      "article_id": "UIT-KA-27F09BE9E94C",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:77",
+      "destination": "/knowledge/apply-more-than-one-label-to-a-single-email-message-e9e94c/",
+      "article_id": "UIT-KA-27F09BE9E94C",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:78",
+      "destination": "/knowledge/apply-more-than-one-label-to-a-single-email-message-e9e94c/",
+      "article_id": "UIT-KA-27F09BE9E94C",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:79",
+      "destination": "/knowledge/does-deleting-a-label-delete-any-messages-that-have-that-label-3dae0d/",
+      "article_id": "UIT-KA-642BC73DAE0D",
+      "anchors": [
+        "gmail-delete-labels"
+      ]
+    },
+    {
+      "block_id": "d545c40ef8a2948d:80",
+      "destination": "/knowledge/does-deleting-a-label-delete-any-messages-that-have-that-label-3dae0d/",
+      "article_id": "UIT-KA-642BC73DAE0D",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:81",
+      "destination": "/knowledge/messages-in-archive-a963fa/",
+      "article_id": "UIT-KA-17F10DA963FA",
+      "anchors": [
+        "gmail-archieve"
+      ]
+    },
+    {
+      "block_id": "d545c40ef8a2948d:82",
+      "destination": "/knowledge/messages-in-archive-a963fa/",
+      "article_id": "UIT-KA-17F10DA963FA",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:83",
+      "destination": "/knowledge/messages-in-trash-42a7e7/",
+      "article_id": "UIT-KA-1A9CEB42A7E7",
+      "anchors": [
+        "gmail-trash"
+      ]
+    },
+    {
+      "block_id": "d545c40ef8a2948d:84",
+      "destination": "/knowledge/messages-in-trash-42a7e7/",
+      "article_id": "UIT-KA-1A9CEB42A7E7",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:85",
+      "destination": "/knowledge/messages-in-trash-42a7e7/",
+      "article_id": "UIT-KA-1A9CEB42A7E7",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:86",
+      "destination": "/knowledge/why-does-a-message-i-archived-or-deleted-show-up-again-in-my-inbox-20230b/",
+      "article_id": "UIT-KA-09760020230B",
+      "anchors": [
+        "gmail-deleted-message-shows"
+      ]
+    },
+    {
+      "block_id": "d545c40ef8a2948d:87",
+      "destination": "/knowledge/why-does-a-message-i-archived-or-deleted-show-up-again-in-my-inbox-20230b/",
+      "article_id": "UIT-KA-09760020230B",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:88",
+      "destination": "/knowledge/how-long-do-messages-remain-in-my-spam-folder-d3e754/",
+      "article_id": "UIT-KA-977B08D3E754",
+      "anchors": [
+        "gmail-spam-folder"
+      ]
+    },
+    {
+      "block_id": "d545c40ef8a2948d:89",
+      "destination": "/knowledge/how-long-do-messages-remain-in-my-spam-folder-d3e754/",
+      "article_id": "UIT-KA-977B08D3E754",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:90",
+      "destination": "/knowledge/preventing-messages-from-specific-senders-from-being-tagged-as-spam-3201f7/",
+      "article_id": "UIT-KA-20A3133201F7",
+      "anchors": [
+        "gmail-spam"
+      ]
+    },
+    {
+      "block_id": "d545c40ef8a2948d:91",
+      "destination": "/knowledge/preventing-messages-from-specific-senders-from-being-tagged-as-spam-3201f7/",
+      "article_id": "UIT-KA-20A3133201F7",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:92",
+      "destination": "/knowledge/preventing-messages-from-specific-senders-from-being-tagged-as-spam-3201f7/",
+      "article_id": "UIT-KA-20A3133201F7",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:93",
+      "destination": "/knowledge/preventing-messages-from-specific-senders-from-being-tagged-as-spam-3201f7/",
+      "article_id": "UIT-KA-20A3133201F7",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:94",
+      "destination": "/knowledge/preventing-messages-from-specific-senders-from-being-tagged-as-spam-3201f7/",
+      "article_id": "UIT-KA-20A3133201F7",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:95",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:96",
+      "destination": "/knowledge/outlook-email-quota-in-m365-09351b/",
+      "article_id": "UIT-KA-74F4B209351B",
+      "anchors": [
+        "faqs-outlook",
+        "outlook-quota"
+      ]
+    },
+    {
+      "block_id": "d545c40ef8a2948d:97",
+      "destination": "/knowledge/outlook-email-quota-in-m365-09351b/",
+      "article_id": "UIT-KA-74F4B209351B",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:98",
+      "destination": "/knowledge/recover-deleted-items-in-outlook-7cb9f6/",
+      "article_id": "UIT-KA-2547027CB9F6",
+      "anchors": [
+        "outlook-deleted-items"
+      ]
+    },
+    {
+      "block_id": "d545c40ef8a2948d:99",
+      "destination": "/knowledge/recover-deleted-items-in-outlook-7cb9f6/",
+      "article_id": "UIT-KA-2547027CB9F6",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:100",
+      "destination": "/knowledge/shared-mailbox-87cde0/",
+      "article_id": "UIT-KA-D2408187CDE0",
+      "anchors": [
+        "outlook-shared-mailbox"
+      ]
+    },
+    {
+      "block_id": "d545c40ef8a2948d:101",
+      "destination": "/knowledge/shared-mailbox-87cde0/",
+      "article_id": "UIT-KA-D2408187CDE0",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:102",
+      "destination": "/knowledge/access-outlook-faqs-dd333c/",
+      "article_id": "UIT-KA-9ADBCBDD333C",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:103",
+      "destination": "/knowledge/access-outlook-faqs-dd333c/",
+      "article_id": "UIT-KA-9ADBCBDD333C",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:104",
+      "destination": "/knowledge/access-outlook-faqs-dd333c/",
+      "article_id": "UIT-KA-9ADBCBDD333C",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:105",
+      "destination": "/knowledge/delegating-access-to-your-email-a3ae6e/",
+      "article_id": "UIT-KA-36FE38A3AE6E",
+      "anchors": [
+        "outlook-delegate-access"
+      ]
+    },
+    {
+      "block_id": "d545c40ef8a2948d:106",
+      "destination": "/knowledge/delegating-access-to-your-email-a3ae6e/",
+      "article_id": "UIT-KA-36FE38A3AE6E",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:107",
+      "destination": "/knowledge/create-an-email-signature-286cdc/",
+      "article_id": "UIT-KA-9B42BE286CDC",
+      "anchors": [
+        "outlook-signature"
+      ]
+    },
+    {
+      "block_id": "d545c40ef8a2948d:108",
+      "destination": "/knowledge/create-an-email-signature-286cdc/",
+      "article_id": "UIT-KA-9B42BE286CDC",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:109",
+      "destination": "/knowledge/email-size-286108/",
+      "article_id": "UIT-KA-B1C252286108",
+      "anchors": [
+        "outlook-signature"
+      ]
+    },
+    {
+      "block_id": "d545c40ef8a2948d:110",
+      "destination": "/knowledge/email-size-286108/",
+      "article_id": "UIT-KA-B1C252286108",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:111",
+      "destination": "/knowledge/email-size-286108/",
+      "article_id": "UIT-KA-B1C252286108",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:112",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:113",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:114",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:115",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "d545c40ef8a2948d:116",
+      "destination": "navigation",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 117
+}

@@ -1,0 +1,33 @@
+{
+  "id": "UIT-KA-26AE067F7181",
+  "slug": "banner-7f7181",
+  "title": "Banner",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Banner",
+  "environment": [
+    "Email and calendar",
+    "Microsoft Outlook",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<figure>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2026/02/2-4-2026-9-58-15-AM.png\"/></figure>\n</figure>\n<ol start=\"4\">\n<li>Compose and send your email as usual</li>\n</ol>\n<ol start=\"5\">\n<li>Your recipient will be able to open the email in any Outlook client. However, if the recipient is using a different email client, they may need to select a link and follow the steps provided to open the email. Learn more about this approach on <a href=\"https://support.microsoft.com/en-us/office/open-encrypted-and-protected-messages-1157a286-8ecc-4b1e-ac43-2a608fbf3098\">Microsoft’s email encryption page</a></li>\n</ol>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/encrypting-email-in-microsoft-outlook-when-how-and-best-practices/"
+  ],
+  "source_block_ids": [
+    "bcedf41487d799ce:19",
+    "bcedf41487d799ce:20",
+    "bcedf41487d799ce:21",
+    "bcedf41487d799ce:22"
+  ],
+  "captured_at": "2026-11-09T21:46:25.552540+00:00",
+  "source_modified_at": "2026-02-04T22:30:38+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

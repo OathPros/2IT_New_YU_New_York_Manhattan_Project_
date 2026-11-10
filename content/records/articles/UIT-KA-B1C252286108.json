@@ -1,0 +1,37 @@
+{
+  "id": "UIT-KA-B1C252286108",
+  "slug": "email-size-286108",
+  "title": "Email size",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Email size",
+  "environment": [
+    "Email and calendar",
+    "Microsoft Outlook",
+    "York students",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>The maximum size of an Outlook email is <strong>35 MB</strong>, including the message body, all attachments, embedded images, and any other content</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/wp-content/plugins/yu-blockpatterns/img/learnmore.png\"/></figure>",
+  "audiences": [
+    "employee",
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/",
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "source_block_ids": [
+    "d545c40ef8a2948d:109",
+    "d545c40ef8a2948d:110",
+    "d545c40ef8a2948d:111",
+    "ed0c8c78eebe7f59:72",
+    "ed0c8c78eebe7f59:73"
+  ],
+  "captured_at": "2026-11-09T21:47:40.608783+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

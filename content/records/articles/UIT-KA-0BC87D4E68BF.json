@@ -1,0 +1,40 @@
+{
+  "id": "UIT-KA-0BC87D4E68BF",
+  "slug": "when-should-you-encrypt-an-email-4e68bf",
+  "title": "When Should You Encrypt an Email",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "When Should You Encrypt an Email",
+  "environment": [
+    "Email and calendar",
+    "Microsoft Outlook",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>As you may be aware, York has <a href=\"https://www.yorku.ca/secretariat/policies/policies/guidelines-and-procedures-for-use-of-electronic-mail-e-mail/\">Guidelines and Procedures for Use of Electronic Mail (E-mail)</a> that state that by its nature, E-mail is not a confidential medium; it is possible for messages to be intercepted, modified, copied or redirected without the knowledge of the sender or recipient by those with sufficient access to the email transport systems or networks</p>\n<p>Internal emails sent using Microsoft Outlook are already encrypted. Those using e-mail to transmit confidential and regulated data <strong>to external recipients (non-York email addresses)</strong> must use encryption technology approved by Information Security. Microsoft Outlook’s encryption feature is approved for use</p>\n<p>Refer to the <a href=\"https://www.yorku.ca/secretariat/policies/policies/information-security-classification-standard/\">Information Security Classification Standard</a> for what is considered mail confidential and regulated data</p>\n<p>Encryption is required when sending <strong>sensitive, confidential or regulated data, </strong>for example:<strong> </strong> </p>\n<ul>\n<li>Financial data (bank details, invoices) </li>\n</ul>\n<ul>\n<li>Personally identifiable information </li>\n</ul>\n<ul>\n<li>Legal contracts or intellectual property </li>\n</ul>\n<ul>\n<li>Credit Card holder data </li>\n</ul>\n<ul>\n<li>Personal Health Information </li>\n</ul>\n<ul>\n<li>Identifiable research data </li>\n</ul>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/encrypting-email-in-microsoft-outlook-when-how-and-best-practices/"
+  ],
+  "source_block_ids": [
+    "bcedf41487d799ce:0",
+    "bcedf41487d799ce:1",
+    "bcedf41487d799ce:2",
+    "bcedf41487d799ce:3",
+    "bcedf41487d799ce:4",
+    "bcedf41487d799ce:5",
+    "bcedf41487d799ce:6",
+    "bcedf41487d799ce:7",
+    "bcedf41487d799ce:8",
+    "bcedf41487d799ce:9",
+    "bcedf41487d799ce:10"
+  ],
+  "captured_at": "2026-11-09T21:46:25.552540+00:00",
+  "source_modified_at": "2026-02-04T22:30:38+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

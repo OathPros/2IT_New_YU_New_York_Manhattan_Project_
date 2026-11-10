@@ -1,0 +1,32 @@
+{
+  "id": "UIT-KA-48FA49D72260",
+  "slug": "limit-to-postings-per-day-d72260",
+  "title": "Limit to postings per day",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Limit to postings per day",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>By default, ListServs are restricted to a maximum of 50 postings per day</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/wp-content/plugins/yu-blockpatterns/img/learnmore.png\"/></figure>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+  ],
+  "source_block_ids": [
+    "ed0c8c78eebe7f59:77",
+    "ed0c8c78eebe7f59:78",
+    "ed0c8c78eebe7f59:79"
+  ],
+  "captured_at": "2026-11-09T21:45:55.080021+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": "UIT-KA-72AF0EF18BF7",
+  "slug": "add-a-subscriber-to-my-list-f18bf7",
+  "title": "Add a subscriber to my LIST",
+  "type": "How to",
+  "service_id": "email",
+  "issue": "Add a subscriber to my LIST",
+  "environment": [
+    "Email and calendar",
+    "LISTSERV",
+    "York faculty and staff"
+  ],
+  "cause": null,
+  "resolution_html": "<p>To add an individual user to your LIST:</p>\n<ol>\n<li>Address your email message to <a href=\"mailto:listserv@yorku.ca\">listserv@yorku.ca</a></li>\n<li>In the body of your email message issue the command:</li>\n</ol>\n<p><strong>QUIET ADD </strong><em>listname </em><strong>user@address</strong><em> Firstname Lastname</em></p>\n<p>where:</p>\n<p><strong>QUIET</strong> is an <em>optional</em> parameter and indicates that no notification or WELCOME message will be sent. The WELCOME message lets new subscribers know that they have been added to the LIST and provides some information about the LIST. If you want the WELCOME message to be sent, simply omit the QUIET parameter</p>\n<p><strong>ADD</strong> is the command to add an individual to the LIST</p>\n<p><em>listname </em>is the name of your LIST</p>\n<p><strong>user@address</strong> is the email address of the user you want to add</p>\n<p><em>Firstname Lastname </em> is the subscriber's first and last name</p>\n<p>For example: To add Tessa Smith (tsmith@yorku.ca) to your Listserv LIST <strong>mylist@yorku.ca</strong> you would type:</p>\n<p><strong>QUIET ADD mylist tsmith@yorku.ca Tessa Smith</strong></p>\n<p><strong>OR</strong></p>\n<p>Using the <strong>Web interface</strong></p>\n<ol>\n<li>Go to <a href=\"http://listserv.yorku.ca\"><u>http://listserv.yorku.ca</u></a></li>\n<li>Open List Management and select Subscriber Reports</li>\n<li>Select List from drop down menu</li>\n<li>In the box under Add Subscriber, enter the email address followed by the first name of the subscriber you want to add. For example, <a href=\"mailto:tsmith@yorku.ca\">tsmith@yorku.ca</a> Tessa Smith</li>\n<li>Click the Add Subscriber Button</li>\n</ol>",
+  "audiences": [
+    "employee"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+  ],
+  "source_block_ids": [
+    "292bdb4f070fdcc0:46",
+    "292bdb4f070fdcc0:47",
+    "292bdb4f070fdcc0:48",
+    "292bdb4f070fdcc0:49",
+    "292bdb4f070fdcc0:50",
+    "292bdb4f070fdcc0:51",
+    "292bdb4f070fdcc0:52",
+    "292bdb4f070fdcc0:53",
+    "292bdb4f070fdcc0:54",
+    "292bdb4f070fdcc0:55",
+    "292bdb4f070fdcc0:56",
+    "292bdb4f070fdcc0:57",
+    "292bdb4f070fdcc0:58",
+    "292bdb4f070fdcc0:59",
+    "292bdb4f070fdcc0:60",
+    "746a0b6e02ae1da6:46",
+    "746a0b6e02ae1da6:47",
+    "746a0b6e02ae1da6:48",
+    "746a0b6e02ae1da6:49",
+    "746a0b6e02ae1da6:50",
+    "746a0b6e02ae1da6:51",
+    "746a0b6e02ae1da6:52",
+    "746a0b6e02ae1da6:53",
+    "746a0b6e02ae1da6:54",
+    "746a0b6e02ae1da6:55",
+    "746a0b6e02ae1da6:56",
+    "746a0b6e02ae1da6:57",
+    "746a0b6e02ae1da6:58",
+    "746a0b6e02ae1da6:59",
+    "746a0b6e02ae1da6:60"
+  ],
+  "captured_at": "2026-11-09T21:46:00.728424+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

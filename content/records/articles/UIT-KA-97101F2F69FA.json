@@ -1,0 +1,32 @@
+{
+  "id": "UIT-KA-97101F2F69FA",
+  "slug": "how-does-the-report-phishing-button-work-2f69fa",
+  "title": "How Does The Report Phishing Button Work",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "How Does The Report Phishing Button Work",
+  "environment": [
+    "Email and calendar",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>If you receive an email that you believe is a phishing attempt or spam, open or preview the message and then click the “Report Phishing” button. The suspicious email and its header information are bundled and forwarded to Information Security in a way that preserves headers and other information needed for threat analysis and response. The reported message will be automatically deleted from your inbox</p>\n<p>If you accidentally report a message, you can find the email in the Deleted Items folder</p>\n<p>By reporting suspicious email messages, you help reduce the success of potential malicious campaigns</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/report-phishing-email/"
+  ],
+  "source_block_ids": [
+    "3e5c3c2eceb1c984:1",
+    "3e5c3c2eceb1c984:2",
+    "3e5c3c2eceb1c984:3",
+    "3e5c3c2eceb1c984:4"
+  ],
+  "captured_at": "2026-11-09T21:46:49.779182+00:00",
+  "source_modified_at": "2026-05-06T20:13:38+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

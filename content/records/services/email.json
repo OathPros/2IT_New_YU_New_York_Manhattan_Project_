@@ -1,0 +1,242 @@
+{
+  "id": "email",
+  "name": "Email and calendar",
+  "summary": "Open your inbox and manage email",
+  "aliases": [
+    "email",
+    "listserv",
+    "mail"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/infosec/report-phishing-email/",
+    "https://www.yorku.ca/uit/infosec/abuse-via-email-and-social-media-online-safety-plan/",
+    "https://www.yorku.ca/uit/infosec/issues-with-email-on-my-smartphone-tablet/",
+    "https://www.yorku.ca/uit/infosec/use-of-electronic-mail-e-mail/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/handling-unsafe-email-attachments/",
+    "https://www.yorku.ca/uit/infosec/can-i-use-my-android-ios-mail-client-after-completing-my-duo-setup/",
+    "https://www.yorku.ca/uit/infosec/encrypting-email-in-microsoft-outlook-when-how-and-best-practices/",
+    "https://www.yorku.ca/uit/student-services/email/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/",
+    "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+  ],
+  "article_ids": [
+    "UIT-KA-B142BA8FEAC4",
+    "UIT-KA-91D12C7A94D6",
+    "UIT-KA-5FCCE6FBB02A",
+    "UIT-KA-4DBB1C03A0E0",
+    "UIT-KA-E28165789BE3",
+    "UIT-KA-029AE4934D4F",
+    "UIT-KA-9ADBCBDD333C",
+    "UIT-KA-FEB4798AE0B2",
+    "UIT-KA-72AF0EF18BF7",
+    "UIT-KA-3B732D8DA1ED",
+    "UIT-KA-D129B5038CBD",
+    "UIT-KA-20F641E78A61",
+    "UIT-KA-00EBDB4C729C",
+    "UIT-KA-27F09BE9E94C",
+    "UIT-KA-3B476B6B036A",
+    "UIT-KA-26AE067F7181",
+    "UIT-KA-601A8A77FE00",
+    "UIT-KA-08F810C7C55A",
+    "UIT-KA-D3B63D6CF647",
+    "UIT-KA-B81CAF2B8B86",
+    "UIT-KA-9B42BE286CDC",
+    "UIT-KA-36FE38A3AE6E",
+    "UIT-KA-7DB99DE577A7",
+    "UIT-KA-642BC73DAE0D",
+    "UIT-KA-B1C252286108",
+    "UIT-KA-D09064A3282C",
+    "UIT-KA-3E655923EFD6",
+    "UIT-KA-FEEBD1DD2440",
+    "UIT-KA-F8F786A4ABDC",
+    "UIT-KA-30FB51DFEB91",
+    "UIT-KA-426A21D6EEEC",
+    "UIT-KA-037DB9F52F9C",
+    "UIT-KA-1D5E89F5A002",
+    "UIT-KA-97101F2F69FA",
+    "UIT-KA-977B08D3E754",
+    "UIT-KA-A376250322C0",
+    "UIT-KA-552FA9F529B4",
+    "UIT-KA-4B9D5BD85306",
+    "UIT-KA-F05B0EC8A78E",
+    "UIT-KA-4A988830C1E6",
+    "UIT-KA-48FA49D72260",
+    "UIT-KA-BF484DD110E9",
+    "UIT-KA-4947F5E36C6E",
+    "UIT-KA-17F10DA963FA",
+    "UIT-KA-1A9CEB42A7E7",
+    "UIT-KA-8EA83C164A16",
+    "UIT-KA-37704E87C57E",
+    "UIT-KA-D3A81C37377A",
+    "UIT-KA-DBFB0A357942",
+    "UIT-KA-81B09DA71FCD",
+    "UIT-KA-74F4B209351B",
+    "UIT-KA-DB15E2E17147",
+    "UIT-KA-5FC3BB62E6B5",
+    "UIT-KA-C70DAA0D477C",
+    "UIT-KA-4D8731FECF61",
+    "UIT-KA-20A3133201F7",
+    "UIT-KA-C77D2126624D",
+    "UIT-KA-2547027CB9F6",
+    "UIT-KA-6C8DF99CA221",
+    "UIT-KA-BC4424B24A0D",
+    "UIT-KA-3D97C332C97E",
+    "UIT-KA-1930F2935879",
+    "UIT-KA-7E496B57C2CE",
+    "UIT-KA-93E60CE8A242",
+    "UIT-KA-9CF4D328E36F",
+    "UIT-KA-7AE374E8EEA9",
+    "UIT-KA-0546302EEC2A",
+    "UIT-KA-9C7815216191",
+    "UIT-KA-D993960F40E3",
+    "UIT-KA-6902E80D54DF",
+    "UIT-KA-D2408187CDE0",
+    "UIT-KA-BDDFC8814D38",
+    "UIT-KA-FD6FB3FE76C3",
+    "UIT-KA-8AD1D77DF30D",
+    "UIT-KA-2BD2F8FEB340",
+    "UIT-KA-A01163B819E1",
+    "UIT-KA-B5C979FE74FB",
+    "UIT-KA-CE7486AE318E",
+    "UIT-KA-73591910E2C6",
+    "UIT-KA-B05690B9B858",
+    "UIT-KA-14509D286416",
+    "UIT-KA-E2D0DA386804",
+    "UIT-KA-A4ADDCDE2C4B",
+    "UIT-KA-C4EF6251B0A2",
+    "UIT-KA-39DDA6A2DB98",
+    "UIT-KA-19B3AAE18E98",
+    "UIT-KA-0BC87D4E68BF",
+    "UIT-KA-F6E85FA4CC06",
+    "UIT-KA-69F423AA8648",
+    "UIT-KA-96133D1FF9FC",
+    "UIT-KA-E090C1429971",
+    "UIT-KA-09760020230B"
+  ],
+  "details": [
+    {
+      "title": "Quick Start Instructions for LISTSERV Owners",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>The following instructions cover both the email and web interfaces. The web interface is much easier to use</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/"
+    },
+    {
+      "title": "Report Phishing Email",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>York University community members are frequent targets of phishing attacks. You—the user—have an important role to play in keeping your data safe from compromise</p>",
+      "source_url": "https://www.yorku.ca/uit/infosec/report-phishing-email/"
+    },
+    {
+      "title": "Abuse via Email and Social Media Online Safety Plan",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p><strong>Online Safety Plan for Dealing with Harassment and Abuse via Email and Social Media</strong></p>\n<p><strong>Objective:</strong> To enhance personal safety, security, and mental well-being while navigating and responding to online harassment and abuse</p>\n<ol><li><strong>Evaluate the Threat:</strong></li></ol>\n<ul><li>Assess the severity of the harassment and abuse. Keep a record of all instances, including dates, times, and content</li><li>Determine if any threats are credible or indicate potential offline harm. If so, report them to law enforcement</li></ul>\n<ol start=\"2\"><li><strong>Privacy and Security Settings:</strong></li></ol>\n<ul><li>Review and tighten privacy settings on all social media platforms, email accounts, and other online profiles to control who can see your posts and contact you</li><li>Disable location sharing unless necessary</li><li>Update all passwords to be strong and unique. Consider using a password manager</li><li>Use your York-provided email account for all work-related purposes</li><li>Enable two-factor authentication on all accounts, including personal social media or email accounts external to York</li></ul>\n<ol start=\"3\"><li><strong>Utilizing Technology Solutions:</strong></li></ol>\n<ul><li>Install reputable antivirus and anti-spyware software on all devices</li><li>Use email filters to automatically move suspected harassment emails to a separate folder</li></ul>\n<ol start=\"4\"><li><strong>Block and Report:</strong></li></ol>\n<ul><li>Block the harassers on all platforms and their email addresses. This will prevent them from contacting you</li><li>Report abusive content to the respective platforms using their reporting mechanisms</li><li>Save evidence of harassment, such as screenshots and messages, for future reference</li></ul>\n<ol start=\"5\"><li><strong>Create a New Email Address:</strong></li></ol>\n<ul><li>Consider creating a new email address to minimize exposure to harassment</li><li>Share this new email address only with trusted contacts</li></ul>\n<ol start=\"6\"><li><strong>Limit Personal Information:</strong></li></ol>\n<ul><li>Review your online presence and remove or limit personal information such as phone numbers, addresses, and workplace details</li><li>Be cautious about sharing personal information in public forums</li></ul>\n<ol start=\"7\"><li><strong>Manage Friend and Follower Lists:</strong> </li></ol>\n<ul><li>Restrict social media profiles to friends or followers only</li><li>Review and clean out your friend/follower lists to remove people you don't know or trust</li></ul>\n<ol start=\"8\"><li><strong>Online Safety Education:</strong></li></ol>\n<ul><li>Stay informed about common online threats (like phishing) and best practices for digital safety</li><li>Attend workshops or webinars about online safety if available</li></ul>\n<ol start=\"9\"><li><strong>Monitor Online Activity:</strong></li></ol>\n<ul><li>Regularly check your online profiles for any unauthorized changes or posts</li><li>Set up Google Alerts to notify you of mentions of your name or other identifying information online</li></ul>\n<p><strong>Conclusion:</strong> This plan is dynamic and should be adapted as situations evolve. The priority is to ensure safety, privacy, and emotional well-being while navigating online spaces</p>",
+      "source_url": "https://www.yorku.ca/uit/infosec/abuse-via-email-and-social-media-online-safety-plan/"
+    },
+    {
+      "title": "Quick Start Instructions for LISTSERV Owners",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>The following instructions cover both the email and web interfaces. The web interface is much easier to use</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-owners/"
+    },
+    {
+      "title": "Quick Start instructions for LISTSERV Subscribers",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>These instructions cover both the email and web interfaces. The web interface is much easier to use</p>\n<ol>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/#whatis\">What is LISTSERV?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/#list\">What is a List?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/#header\">What does the information in the List Header tell me?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/#send_list_mail\">Where do I mail my LISTSERV requests/commands?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/#commands\">How do I obtain a copy of LISTSERV commands?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/#find_lists\">How do I find out what mailing Lists are available?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/#subscribe\">How do I subscribe to a List?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/#unsubscribe\">How do I unsubscribe to a </a><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/#subscribe\">List</a><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/#unsubscribe\">?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/#owner\">How do I send email to the </a><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/#subscribe\">List</a><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/#owner\"> owner only?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/#manual\">How do I obtain documentation about LISTSERV?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/#visible_cc\">How do I setup the listserv so I can see the cc'd email addresses when I receive an email from a listserv?</a></li>\n</ol>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/communication-services/quick-start-instructions-for-listserv-subscribers/"
+    },
+    {
+      "title": "Can I use my Android iOS mail client after completing my Duo setup",
+      "audiences": [
+        "all"
+      ],
+      "html": "<p>Only applications that support Microsoft's Modern Authentication libraries are able to prompt for Duo two-factor authentication. This is a Microsoft -- not Duo -- limitation</p>\n<p>Mobile applications that support Modern Authentication libraries are as follows:</p>\n<ul>\n<li>The native Mail app on iOS 11.x+</li>\n<li>Microsoft Outlook app on iOS version 10.x and greater</li>\n<li>Microsoft Outlook app on Android</li>\n</ul>\n<p><strong>Note</strong>: If your smartphone mail app keeps prompting you for your email password, please read \"Issues with email on my smartphone\" under the \"General Issues and Troubleshooting\" tab</p>\n<p>Back to <a href=\"https://www.yorku.ca/uit/infosec/duo-two-factor-authentication/#tab-strongfrequentlyaskedquestionsstrong\">FAQ page</a></p>",
+      "source_url": "https://www.yorku.ca/uit/infosec/can-i-use-my-android-ios-mail-client-after-completing-my-duo-setup/"
+    },
+    {
+      "title": "Email",
+      "audiences": [
+        "student"
+      ],
+      "html": "<p>Every student at York is provided with a York University email. Undergraduate students' emails are powered by Google, while Graduate students' emails are powered by Office 365</p>\n<p><strong>**Please note</strong> once you are no longer an active York student, your access to your email account will expire. Please check out <a href=\"https://www.yorku.ca/uit/student-services/passport-york//#accounts-lifecycle\">Accounts Lifecycle</a> for more details</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/wp-content/uploads/sites/805/2023/12/image-4.png\"/></figure>\n<p>Submit a Service Request</p>\n<figure>\n<p><a href=\"https://www.youtube.com/embed/pfu7IDe1D3A?feature=oembed\">IT Helps: Understanding Undergraduate Computing Accounts</a></p>\n</figure>\n<figure>\n<p><a href=\"https://www.youtube.com/embed/DaooNl035so?feature=oembed\">IT Helps: Understanding Graduate Computing Accounts</a></p>\n</figure>\n<figure>\n<p><a href=\"https://www.youtube.com/embed/6E1kxkg7HwE?feature=oembed\">IT Helps: Understanding Account Expiry</a></p>\n</figure>",
+      "source_url": "https://www.yorku.ca/uit/student-services/email/"
+    },
+    {
+      "title": "Undergraduate Students",
+      "audiences": [
+        "student"
+      ],
+      "html": "<p>York's email service for Undergraduate students uses <a href=\"https://www.google.com/edu/products/productivity-tools/\">Google Apps for Education</a>™. Google Apps at York provides students with collaboration tools such as Google Email, Calendar and Drive/Docs</p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/email/"
+    },
+    {
+      "title": "Graduate Students",
+      "audiences": [
+        "student"
+      ],
+      "html": "<p>New Graduate Students will automatically be provisioned a Microsoft 365 account. Your account may be used for official correspondence and may also be required for some courses</p>\n<p><strong>Please note: </strong>If you completed your undergraduate program at York and immediately begin a graduate program at York in the following term (before your computing accounts fully expire), you will have access to <em>both</em> a Microsoft 365 Outlook email account and a Google Apps email account</p>\n<p>Your Graduate student email account (<strong>username@yorku.ca</strong>) will remain active and accessible to you until mid-October of the year you graduate or for as long as records reflect you as an active student with the Registrar’s Office. <strong>All student accounts will eventually expire</strong>. The system will send an automated message about the expiry of your computing accounts, giving you ample time to forward important emails to yourself and inform contacts of this change. VP Student Communications will also send reminders throughout the year in their <a href=\"https://thisweek.students.yorku.ca/\">weekly emails</a></p>\n<p><a href=\"https://www.yorku.ca/uit/student-services/passport-york/#accounts-lifecycle\">Click here for more information on accounts lifecycle&gt;&gt;</a></p>",
+      "source_url": "https://www.yorku.ca/uit/student-services/email/"
+    },
+    {
+      "title": "Quick Start instructions for LISTSERV Subscribers",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>These instructions cover both the email and web interfaces. The web interface is much easier to use</p>\n<ol>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/#whatis\">What is LISTSERV?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/#list\">What is a List?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/#header\">What does the information in the List Header tell me?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/#send_list_mail\">Where do I mail my LISTSERV requests/commands?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/#commands\">How do I obtain a copy of LISTSERV commands?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/#find_lists\">How do I find out what mailing Lists are available?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/#subscribe\">How do I subscribe to a List?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/#unsubscribe\">How do I unsubscribe to a </a><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/#subscribe\">List</a><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/#unsubscribe\">?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/#owner\">How do I send email to the </a><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/#subscribe\">List</a><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/#owner\"> owner only?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/#manual\">How do I obtain documentation about LISTSERV?</a></li>\n<li><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/#visible_cc\">How do I setup the listserv so I can see the cc'd email addresses when I receive an email from a listserv?</a></li>\n</ol>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-subscribers/"
+    },
+    {
+      "title": "Email",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>Stay connected and collaborate effortlessly with York University's email service. All currently active employees of York University have a centrally supported yorku.ca email account as a requirement from HR to view pay stubs and other HR documents. With enterprise-level security features, you can rely on the email service to protect your messages and data. To access your email and Microsoft 365 account, you must maintain your active status as a staff or faculty member</p>\n<p>Submit a Service Request</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+    },
+    {
+      "title": "Email",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>All currently active employees of York University have a centrally supported yorku.ca email account as a requirement from HR to view pay stubs and other HR documents. Faculty and Staff use Microsoft Outlook, part of our <a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/microsoft-365-for-faculty-and-staff/\">M365</a> suite, which also includes calendars, task management and instant messaging</p>\n<p><strong>**Please note</strong>: Faculty members may also be provided with a separate account for coursework or research</p>\n<p>When a non-academic staff member or contract academic employee of the University is no longer here, the email account will be disabled in accordance with established employment unit rules</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+    },
+    {
+      "title": "Email Lists ListServ",
+      "audiences": [
+        "employee"
+      ],
+      "html": "<p>ListServs are electronic mailing lists to which York community members can subscribe to exchange ideas and information and broadcast bulletins. As an option, archives of messages sent to a list can be stored and made accessible on the Web</p>",
+      "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/email/"
+    }
+  ],
+  "actions": [
+    {
+      "label": "Undergraduate Google Mail",
+      "url": "https://mail.my.yorku.ca/",
+      "audiences": [
+        "student"
+      ]
+    },
+    {
+      "label": "Graduate and employee Outlook",
+      "url": "https://outlook.office.com/",
+      "audiences": [
+        "student",
+        "employee"
+      ]
+    }
+  ]
+}

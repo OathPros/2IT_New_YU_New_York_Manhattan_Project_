@@ -1,0 +1,1197 @@
+{
+  "source_id": "292bdb4f070fdcc0",
+  "source_url": "https://www.yorku.ca/uit/faculty-and-staff-services/quick-start-instructions-for-listserv-owners/",
+  "title": "Quick Start Instructions for LISTSERV Owners",
+  "capture_status": "captured",
+  "destinations": [
+    "/services/email/",
+    "/knowledge/faq-video-logging-into-listserv-for-the-first-time-dfeb91/",
+    "/knowledge/faq-video-adding-and-removing-subscribers-in-listserv-a4abdc/",
+    "/knowledge/faq-video-adding-and-removing-owners-in-listserv-23efd6/",
+    "/knowledge/what-is-the-purpose-of-a-list-owner-a2db98/",
+    "/knowledge/who-can-request-that-a-list-be-created-aa8648/",
+    "/knowledge/obtain-a-copy-of-the-list-owners-manual-87c57e/",
+    "/knowledge/request-start-up-my-own-list-935879/",
+    "/knowledge/permanently-remove-shut-down-a-list-0d477c/",
+    "/knowledge/rename-my-listserv-list-32c97e/",
+    "/knowledge/set-up-a-personal-password-216191/",
+    "/knowledge/add-a-subscriber-to-my-list-f18bf7/",
+    "/knowledge/add-multiple-subscribers-to-my-list-8da1ed/",
+    "/knowledge/change-the-list-of-subscribers-on-any-given-listserv-list-6cf647/",
+    "/knowledge/unsubscribe-from-a-list-ae318e/",
+    "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+    "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+    "/knowledge/prevent-my-list-from-appearing-on-yorks-listserv-index-fecf61/",
+    "/knowledge/get-a-copy-of-my-own-posts-back-from-the-list-after-they-are-processed-f52f9c/",
+    "/knowledge/increase-the-daily-limit-of-postings-on-the-listserv-d85306/",
+    "/knowledge/send-email-to-the-list-owner-only-28e36f/",
+    "/knowledge/change-list-header-information-c7c55a/",
+    "/knowledge/add-or-remove-a-list-owner-s-038cbd/",
+    "/knowledge/stop-someone-from-subscribing-or-posting-to-my-list-b819e1/",
+    "/knowledge/import-email-addresses-from-my-classlist-to-my-listserv-f529b4/",
+    "/knowledge/why-do-winmail-dat-attachments-fail-to-be-sent-over-listserves-429971/",
+    "/knowledge/setup-the-listserv-so-i-can-see-the-ccd-email-addresses-when-i-receive-an-email-from-a-listserv-0f40e3/"
+  ],
+  "assignments": [
+    {
+      "block_id": "292bdb4f070fdcc0:0",
+      "destination": "/services/email/#details",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:1",
+      "destination": "/knowledge/faq-video-logging-into-listserv-for-the-first-time-dfeb91/",
+      "article_id": "UIT-KA-30FB51DFEB91",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:2",
+      "destination": "/knowledge/faq-video-logging-into-listserv-for-the-first-time-dfeb91/",
+      "article_id": "UIT-KA-30FB51DFEB91",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:3",
+      "destination": "/knowledge/faq-video-adding-and-removing-subscribers-in-listserv-a4abdc/",
+      "article_id": "UIT-KA-F8F786A4ABDC",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:4",
+      "destination": "/knowledge/faq-video-adding-and-removing-subscribers-in-listserv-a4abdc/",
+      "article_id": "UIT-KA-F8F786A4ABDC",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:5",
+      "destination": "/knowledge/faq-video-adding-and-removing-owners-in-listserv-23efd6/",
+      "article_id": "UIT-KA-3E655923EFD6",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:6",
+      "destination": "/knowledge/faq-video-adding-and-removing-owners-in-listserv-23efd6/",
+      "article_id": "UIT-KA-3E655923EFD6",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:7",
+      "destination": "/knowledge/faq-video-adding-and-removing-owners-in-listserv-23efd6/",
+      "article_id": "UIT-KA-3E655923EFD6",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:8",
+      "destination": "/knowledge/what-is-the-purpose-of-a-list-owner-a2db98/",
+      "article_id": "UIT-KA-39DDA6A2DB98",
+      "anchors": [
+        "purpose"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:9",
+      "destination": "/knowledge/what-is-the-purpose-of-a-list-owner-a2db98/",
+      "article_id": "UIT-KA-39DDA6A2DB98",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:10",
+      "destination": "/knowledge/who-can-request-that-a-list-be-created-aa8648/",
+      "article_id": "UIT-KA-69F423AA8648",
+      "anchors": [
+        "owner"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:11",
+      "destination": "/knowledge/who-can-request-that-a-list-be-created-aa8648/",
+      "article_id": "UIT-KA-69F423AA8648",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:12",
+      "destination": "/knowledge/obtain-a-copy-of-the-list-owners-manual-87c57e/",
+      "article_id": "UIT-KA-37704E87C57E",
+      "anchors": [
+        "owner_info"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:13",
+      "destination": "/knowledge/obtain-a-copy-of-the-list-owners-manual-87c57e/",
+      "article_id": "UIT-KA-37704E87C57E",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:14",
+      "destination": "/knowledge/obtain-a-copy-of-the-list-owners-manual-87c57e/",
+      "article_id": "UIT-KA-37704E87C57E",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:15",
+      "destination": "/knowledge/obtain-a-copy-of-the-list-owners-manual-87c57e/",
+      "article_id": "UIT-KA-37704E87C57E",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:16",
+      "destination": "/knowledge/request-start-up-my-own-list-935879/",
+      "article_id": "UIT-KA-1930F2935879",
+      "anchors": [
+        "request"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:17",
+      "destination": "/knowledge/request-start-up-my-own-list-935879/",
+      "article_id": "UIT-KA-1930F2935879",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:18",
+      "destination": "/knowledge/request-start-up-my-own-list-935879/",
+      "article_id": "UIT-KA-1930F2935879",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:19",
+      "destination": "/knowledge/request-start-up-my-own-list-935879/",
+      "article_id": "UIT-KA-1930F2935879",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:20",
+      "destination": "/knowledge/permanently-remove-shut-down-a-list-0d477c/",
+      "article_id": "UIT-KA-C70DAA0D477C",
+      "anchors": [
+        "shutdown_list"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:21",
+      "destination": "/knowledge/permanently-remove-shut-down-a-list-0d477c/",
+      "article_id": "UIT-KA-C70DAA0D477C",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:22",
+      "destination": "/knowledge/rename-my-listserv-list-32c97e/",
+      "article_id": "UIT-KA-3D97C332C97E",
+      "anchors": [
+        "rename"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:23",
+      "destination": "/knowledge/rename-my-listserv-list-32c97e/",
+      "article_id": "UIT-KA-3D97C332C97E",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:24",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": [
+        "password"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:25",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:26",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:27",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:28",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:29",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:30",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:31",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:32",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:33",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": [
+        "resetPassword"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:34",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:35",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:36",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:37",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:38",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:39",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:40",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:41",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:42",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:43",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:44",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:45",
+      "destination": "/knowledge/set-up-a-personal-password-216191/",
+      "article_id": "UIT-KA-9C7815216191",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:46",
+      "destination": "/knowledge/add-a-subscriber-to-my-list-f18bf7/",
+      "article_id": "UIT-KA-72AF0EF18BF7",
+      "anchors": [
+        "add_sub"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:47",
+      "destination": "/knowledge/add-a-subscriber-to-my-list-f18bf7/",
+      "article_id": "UIT-KA-72AF0EF18BF7",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:48",
+      "destination": "/knowledge/add-a-subscriber-to-my-list-f18bf7/",
+      "article_id": "UIT-KA-72AF0EF18BF7",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:49",
+      "destination": "/knowledge/add-a-subscriber-to-my-list-f18bf7/",
+      "article_id": "UIT-KA-72AF0EF18BF7",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:50",
+      "destination": "/knowledge/add-a-subscriber-to-my-list-f18bf7/",
+      "article_id": "UIT-KA-72AF0EF18BF7",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:51",
+      "destination": "/knowledge/add-a-subscriber-to-my-list-f18bf7/",
+      "article_id": "UIT-KA-72AF0EF18BF7",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:52",
+      "destination": "/knowledge/add-a-subscriber-to-my-list-f18bf7/",
+      "article_id": "UIT-KA-72AF0EF18BF7",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:53",
+      "destination": "/knowledge/add-a-subscriber-to-my-list-f18bf7/",
+      "article_id": "UIT-KA-72AF0EF18BF7",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:54",
+      "destination": "/knowledge/add-a-subscriber-to-my-list-f18bf7/",
+      "article_id": "UIT-KA-72AF0EF18BF7",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:55",
+      "destination": "/knowledge/add-a-subscriber-to-my-list-f18bf7/",
+      "article_id": "UIT-KA-72AF0EF18BF7",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:56",
+      "destination": "/knowledge/add-a-subscriber-to-my-list-f18bf7/",
+      "article_id": "UIT-KA-72AF0EF18BF7",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:57",
+      "destination": "/knowledge/add-a-subscriber-to-my-list-f18bf7/",
+      "article_id": "UIT-KA-72AF0EF18BF7",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:58",
+      "destination": "/knowledge/add-a-subscriber-to-my-list-f18bf7/",
+      "article_id": "UIT-KA-72AF0EF18BF7",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:59",
+      "destination": "/knowledge/add-a-subscriber-to-my-list-f18bf7/",
+      "article_id": "UIT-KA-72AF0EF18BF7",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:60",
+      "destination": "/knowledge/add-a-subscriber-to-my-list-f18bf7/",
+      "article_id": "UIT-KA-72AF0EF18BF7",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:61",
+      "destination": "/knowledge/add-multiple-subscribers-to-my-list-8da1ed/",
+      "article_id": "UIT-KA-3B732D8DA1ED",
+      "anchors": [
+        "add_mult"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:62",
+      "destination": "/knowledge/add-multiple-subscribers-to-my-list-8da1ed/",
+      "article_id": "UIT-KA-3B732D8DA1ED",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:63",
+      "destination": "/knowledge/add-multiple-subscribers-to-my-list-8da1ed/",
+      "article_id": "UIT-KA-3B732D8DA1ED",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:64",
+      "destination": "/knowledge/add-multiple-subscribers-to-my-list-8da1ed/",
+      "article_id": "UIT-KA-3B732D8DA1ED",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:65",
+      "destination": "/knowledge/add-multiple-subscribers-to-my-list-8da1ed/",
+      "article_id": "UIT-KA-3B732D8DA1ED",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:66",
+      "destination": "/knowledge/add-multiple-subscribers-to-my-list-8da1ed/",
+      "article_id": "UIT-KA-3B732D8DA1ED",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:67",
+      "destination": "/knowledge/add-multiple-subscribers-to-my-list-8da1ed/",
+      "article_id": "UIT-KA-3B732D8DA1ED",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:68",
+      "destination": "/knowledge/add-multiple-subscribers-to-my-list-8da1ed/",
+      "article_id": "UIT-KA-3B732D8DA1ED",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:69",
+      "destination": "/knowledge/add-multiple-subscribers-to-my-list-8da1ed/",
+      "article_id": "UIT-KA-3B732D8DA1ED",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:70",
+      "destination": "/knowledge/add-multiple-subscribers-to-my-list-8da1ed/",
+      "article_id": "UIT-KA-3B732D8DA1ED",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:71",
+      "destination": "/knowledge/add-multiple-subscribers-to-my-list-8da1ed/",
+      "article_id": "UIT-KA-3B732D8DA1ED",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:72",
+      "destination": "/knowledge/add-multiple-subscribers-to-my-list-8da1ed/",
+      "article_id": "UIT-KA-3B732D8DA1ED",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:73",
+      "destination": "/knowledge/add-multiple-subscribers-to-my-list-8da1ed/",
+      "article_id": "UIT-KA-3B732D8DA1ED",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:74",
+      "destination": "/knowledge/add-multiple-subscribers-to-my-list-8da1ed/",
+      "article_id": "UIT-KA-3B732D8DA1ED",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:75",
+      "destination": "/knowledge/add-multiple-subscribers-to-my-list-8da1ed/",
+      "article_id": "UIT-KA-3B732D8DA1ED",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:76",
+      "destination": "/knowledge/change-the-list-of-subscribers-on-any-given-listserv-list-6cf647/",
+      "article_id": "UIT-KA-D3B63D6CF647",
+      "anchors": [
+        "change_email_subscriber"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:77",
+      "destination": "/knowledge/change-the-list-of-subscribers-on-any-given-listserv-list-6cf647/",
+      "article_id": "UIT-KA-D3B63D6CF647",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:78",
+      "destination": "/knowledge/change-the-list-of-subscribers-on-any-given-listserv-list-6cf647/",
+      "article_id": "UIT-KA-D3B63D6CF647",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:79",
+      "destination": "/knowledge/change-the-list-of-subscribers-on-any-given-listserv-list-6cf647/",
+      "article_id": "UIT-KA-D3B63D6CF647",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:80",
+      "destination": "/knowledge/change-the-list-of-subscribers-on-any-given-listserv-list-6cf647/",
+      "article_id": "UIT-KA-D3B63D6CF647",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:81",
+      "destination": "/knowledge/unsubscribe-from-a-list-ae318e/",
+      "article_id": "UIT-KA-CE7486AE318E",
+      "anchors": [
+        "unsub"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:82",
+      "destination": "/knowledge/unsubscribe-from-a-list-ae318e/",
+      "article_id": "UIT-KA-CE7486AE318E",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:83",
+      "destination": "/knowledge/unsubscribe-from-a-list-ae318e/",
+      "article_id": "UIT-KA-CE7486AE318E",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:84",
+      "destination": "/knowledge/unsubscribe-from-a-list-ae318e/",
+      "article_id": "UIT-KA-CE7486AE318E",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:85",
+      "destination": "/knowledge/unsubscribe-from-a-list-ae318e/",
+      "article_id": "UIT-KA-CE7486AE318E",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:86",
+      "destination": "/knowledge/unsubscribe-from-a-list-ae318e/",
+      "article_id": "UIT-KA-CE7486AE318E",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:87",
+      "destination": "/knowledge/unsubscribe-from-a-list-ae318e/",
+      "article_id": "UIT-KA-CE7486AE318E",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:88",
+      "destination": "/knowledge/unsubscribe-from-a-list-ae318e/",
+      "article_id": "UIT-KA-CE7486AE318E",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:89",
+      "destination": "/knowledge/unsubscribe-from-a-list-ae318e/",
+      "article_id": "UIT-KA-CE7486AE318E",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:90",
+      "destination": "/knowledge/unsubscribe-from-a-list-ae318e/",
+      "article_id": "UIT-KA-CE7486AE318E",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:91",
+      "destination": "/knowledge/unsubscribe-from-a-list-ae318e/",
+      "article_id": "UIT-KA-CE7486AE318E",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:92",
+      "destination": "/knowledge/unsubscribe-from-a-list-ae318e/",
+      "article_id": "UIT-KA-CE7486AE318E",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:93",
+      "destination": "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+      "article_id": "UIT-KA-BC4424B24A0D",
+      "anchors": [
+        "remove"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:94",
+      "destination": "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+      "article_id": "UIT-KA-BC4424B24A0D",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:95",
+      "destination": "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+      "article_id": "UIT-KA-BC4424B24A0D",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:96",
+      "destination": "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+      "article_id": "UIT-KA-BC4424B24A0D",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:97",
+      "destination": "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+      "article_id": "UIT-KA-BC4424B24A0D",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:98",
+      "destination": "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+      "article_id": "UIT-KA-BC4424B24A0D",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:99",
+      "destination": "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+      "article_id": "UIT-KA-BC4424B24A0D",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:100",
+      "destination": "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+      "article_id": "UIT-KA-BC4424B24A0D",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:101",
+      "destination": "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+      "article_id": "UIT-KA-BC4424B24A0D",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:102",
+      "destination": "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+      "article_id": "UIT-KA-BC4424B24A0D",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:103",
+      "destination": "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+      "article_id": "UIT-KA-BC4424B24A0D",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:104",
+      "destination": "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+      "article_id": "UIT-KA-BC4424B24A0D",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:105",
+      "destination": "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+      "article_id": "UIT-KA-BC4424B24A0D",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:106",
+      "destination": "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+      "article_id": "UIT-KA-BC4424B24A0D",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:107",
+      "destination": "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+      "article_id": "UIT-KA-BC4424B24A0D",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:108",
+      "destination": "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+      "article_id": "UIT-KA-BC4424B24A0D",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:109",
+      "destination": "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+      "article_id": "UIT-KA-BC4424B24A0D",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:110",
+      "destination": "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+      "article_id": "UIT-KA-BC4424B24A0D",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:111",
+      "destination": "/knowledge/remove-delete-subscribers-from-my-list-b24a0d/",
+      "article_id": "UIT-KA-BC4424B24A0D",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:112",
+      "destination": "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+      "article_id": "UIT-KA-14509D286416",
+      "anchors": [
+        "members"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:113",
+      "destination": "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+      "article_id": "UIT-KA-14509D286416",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:114",
+      "destination": "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+      "article_id": "UIT-KA-14509D286416",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:115",
+      "destination": "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+      "article_id": "UIT-KA-14509D286416",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:116",
+      "destination": "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+      "article_id": "UIT-KA-14509D286416",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:117",
+      "destination": "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+      "article_id": "UIT-KA-14509D286416",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:118",
+      "destination": "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+      "article_id": "UIT-KA-14509D286416",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:119",
+      "destination": "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+      "article_id": "UIT-KA-14509D286416",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:120",
+      "destination": "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+      "article_id": "UIT-KA-14509D286416",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:121",
+      "destination": "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+      "article_id": "UIT-KA-14509D286416",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:122",
+      "destination": "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+      "article_id": "UIT-KA-14509D286416",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:123",
+      "destination": "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+      "article_id": "UIT-KA-14509D286416",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:124",
+      "destination": "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+      "article_id": "UIT-KA-14509D286416",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:125",
+      "destination": "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+      "article_id": "UIT-KA-14509D286416",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:126",
+      "destination": "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+      "article_id": "UIT-KA-14509D286416",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:127",
+      "destination": "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+      "article_id": "UIT-KA-14509D286416",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:128",
+      "destination": "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+      "article_id": "UIT-KA-14509D286416",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:129",
+      "destination": "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+      "article_id": "UIT-KA-14509D286416",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:130",
+      "destination": "/knowledge/view-the-names-of-the-people-subscribed-to-my-list-286416/",
+      "article_id": "UIT-KA-14509D286416",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:131",
+      "destination": "/knowledge/prevent-my-list-from-appearing-on-yorks-listserv-index-fecf61/",
+      "article_id": "UIT-KA-4D8731FECF61",
+      "anchors": [
+        "private"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:132",
+      "destination": "/knowledge/prevent-my-list-from-appearing-on-yorks-listserv-index-fecf61/",
+      "article_id": "UIT-KA-4D8731FECF61",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:133",
+      "destination": "/knowledge/prevent-my-list-from-appearing-on-yorks-listserv-index-fecf61/",
+      "article_id": "UIT-KA-4D8731FECF61",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:134",
+      "destination": "/knowledge/get-a-copy-of-my-own-posts-back-from-the-list-after-they-are-processed-f52f9c/",
+      "article_id": "UIT-KA-037DB9F52F9C",
+      "anchors": [
+        "post"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:135",
+      "destination": "/knowledge/get-a-copy-of-my-own-posts-back-from-the-list-after-they-are-processed-f52f9c/",
+      "article_id": "UIT-KA-037DB9F52F9C",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:136",
+      "destination": "/knowledge/get-a-copy-of-my-own-posts-back-from-the-list-after-they-are-processed-f52f9c/",
+      "article_id": "UIT-KA-037DB9F52F9C",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:137",
+      "destination": "/knowledge/get-a-copy-of-my-own-posts-back-from-the-list-after-they-are-processed-f52f9c/",
+      "article_id": "UIT-KA-037DB9F52F9C",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:138",
+      "destination": "/knowledge/get-a-copy-of-my-own-posts-back-from-the-list-after-they-are-processed-f52f9c/",
+      "article_id": "UIT-KA-037DB9F52F9C",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:139",
+      "destination": "/knowledge/get-a-copy-of-my-own-posts-back-from-the-list-after-they-are-processed-f52f9c/",
+      "article_id": "UIT-KA-037DB9F52F9C",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:140",
+      "destination": "/knowledge/get-a-copy-of-my-own-posts-back-from-the-list-after-they-are-processed-f52f9c/",
+      "article_id": "UIT-KA-037DB9F52F9C",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:141",
+      "destination": "/knowledge/get-a-copy-of-my-own-posts-back-from-the-list-after-they-are-processed-f52f9c/",
+      "article_id": "UIT-KA-037DB9F52F9C",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:142",
+      "destination": "/knowledge/increase-the-daily-limit-of-postings-on-the-listserv-d85306/",
+      "article_id": "UIT-KA-4B9D5BD85306",
+      "anchors": [
+        "increase_limit"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:143",
+      "destination": "/knowledge/increase-the-daily-limit-of-postings-on-the-listserv-d85306/",
+      "article_id": "UIT-KA-4B9D5BD85306",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:144",
+      "destination": "/knowledge/increase-the-daily-limit-of-postings-on-the-listserv-d85306/",
+      "article_id": "UIT-KA-4B9D5BD85306",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:145",
+      "destination": "/knowledge/send-email-to-the-list-owner-only-28e36f/",
+      "article_id": "UIT-KA-9CF4D328E36F",
+      "anchors": [
+        "owner_only"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:146",
+      "destination": "/knowledge/send-email-to-the-list-owner-only-28e36f/",
+      "article_id": "UIT-KA-9CF4D328E36F",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:147",
+      "destination": "/knowledge/send-email-to-the-list-owner-only-28e36f/",
+      "article_id": "UIT-KA-9CF4D328E36F",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:148",
+      "destination": "/knowledge/send-email-to-the-list-owner-only-28e36f/",
+      "article_id": "UIT-KA-9CF4D328E36F",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:149",
+      "destination": "/knowledge/change-list-header-information-c7c55a/",
+      "article_id": "UIT-KA-08F810C7C55A",
+      "anchors": [
+        "change_header"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:150",
+      "destination": "/knowledge/change-list-header-information-c7c55a/",
+      "article_id": "UIT-KA-08F810C7C55A",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:151",
+      "destination": "/knowledge/change-list-header-information-c7c55a/",
+      "article_id": "UIT-KA-08F810C7C55A",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:152",
+      "destination": "/knowledge/change-list-header-information-c7c55a/",
+      "article_id": "UIT-KA-08F810C7C55A",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:153",
+      "destination": "/knowledge/change-list-header-information-c7c55a/",
+      "article_id": "UIT-KA-08F810C7C55A",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:154",
+      "destination": "/knowledge/change-list-header-information-c7c55a/",
+      "article_id": "UIT-KA-08F810C7C55A",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:155",
+      "destination": "/knowledge/add-or-remove-a-list-owner-s-038cbd/",
+      "article_id": "UIT-KA-D129B5038CBD",
+      "anchors": [
+        "co_owner"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:156",
+      "destination": "/knowledge/add-or-remove-a-list-owner-s-038cbd/",
+      "article_id": "UIT-KA-D129B5038CBD",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:157",
+      "destination": "/knowledge/add-or-remove-a-list-owner-s-038cbd/",
+      "article_id": "UIT-KA-D129B5038CBD",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:158",
+      "destination": "/knowledge/add-or-remove-a-list-owner-s-038cbd/",
+      "article_id": "UIT-KA-D129B5038CBD",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:159",
+      "destination": "/knowledge/add-or-remove-a-list-owner-s-038cbd/",
+      "article_id": "UIT-KA-D129B5038CBD",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:160",
+      "destination": "/knowledge/add-or-remove-a-list-owner-s-038cbd/",
+      "article_id": "UIT-KA-D129B5038CBD",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:161",
+      "destination": "/knowledge/stop-someone-from-subscribing-or-posting-to-my-list-b819e1/",
+      "article_id": "UIT-KA-A01163B819E1",
+      "anchors": [
+        "stop_posting"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:162",
+      "destination": "/knowledge/stop-someone-from-subscribing-or-posting-to-my-list-b819e1/",
+      "article_id": "UIT-KA-A01163B819E1",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:163",
+      "destination": "/knowledge/stop-someone-from-subscribing-or-posting-to-my-list-b819e1/",
+      "article_id": "UIT-KA-A01163B819E1",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:164",
+      "destination": "/knowledge/stop-someone-from-subscribing-or-posting-to-my-list-b819e1/",
+      "article_id": "UIT-KA-A01163B819E1",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:165",
+      "destination": "/knowledge/stop-someone-from-subscribing-or-posting-to-my-list-b819e1/",
+      "article_id": "UIT-KA-A01163B819E1",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:166",
+      "destination": "/knowledge/stop-someone-from-subscribing-or-posting-to-my-list-b819e1/",
+      "article_id": "UIT-KA-A01163B819E1",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:167",
+      "destination": "/knowledge/stop-someone-from-subscribing-or-posting-to-my-list-b819e1/",
+      "article_id": "UIT-KA-A01163B819E1",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:168",
+      "destination": "/knowledge/stop-someone-from-subscribing-or-posting-to-my-list-b819e1/",
+      "article_id": "UIT-KA-A01163B819E1",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:169",
+      "destination": "/knowledge/import-email-addresses-from-my-classlist-to-my-listserv-f529b4/",
+      "article_id": "UIT-KA-552FA9F529B4",
+      "anchors": [
+        "classlist"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:170",
+      "destination": "/knowledge/import-email-addresses-from-my-classlist-to-my-listserv-f529b4/",
+      "article_id": "UIT-KA-552FA9F529B4",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:171",
+      "destination": "/knowledge/import-email-addresses-from-my-classlist-to-my-listserv-f529b4/",
+      "article_id": "UIT-KA-552FA9F529B4",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:172",
+      "destination": "/knowledge/import-email-addresses-from-my-classlist-to-my-listserv-f529b4/",
+      "article_id": "UIT-KA-552FA9F529B4",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:173",
+      "destination": "/knowledge/why-do-winmail-dat-attachments-fail-to-be-sent-over-listserves-429971/",
+      "article_id": "UIT-KA-E090C1429971",
+      "anchors": [
+        "winmail_attach"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:174",
+      "destination": "/knowledge/why-do-winmail-dat-attachments-fail-to-be-sent-over-listserves-429971/",
+      "article_id": "UIT-KA-E090C1429971",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:175",
+      "destination": "/knowledge/why-do-winmail-dat-attachments-fail-to-be-sent-over-listserves-429971/",
+      "article_id": "UIT-KA-E090C1429971",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:176",
+      "destination": "/knowledge/why-do-winmail-dat-attachments-fail-to-be-sent-over-listserves-429971/",
+      "article_id": "UIT-KA-E090C1429971",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:177",
+      "destination": "/knowledge/setup-the-listserv-so-i-can-see-the-ccd-email-addresses-when-i-receive-an-email-from-a-listserv-0f40e3/",
+      "article_id": "UIT-KA-D993960F40E3",
+      "anchors": [
+        "visible_cc"
+      ]
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:178",
+      "destination": "/knowledge/setup-the-listserv-so-i-can-see-the-ccd-email-addresses-when-i-receive-an-email-from-a-listserv-0f40e3/",
+      "article_id": "UIT-KA-D993960F40E3",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:179",
+      "destination": "/knowledge/setup-the-listserv-so-i-can-see-the-ccd-email-addresses-when-i-receive-an-email-from-a-listserv-0f40e3/",
+      "article_id": "UIT-KA-D993960F40E3",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:180",
+      "destination": "/knowledge/setup-the-listserv-so-i-can-see-the-ccd-email-addresses-when-i-receive-an-email-from-a-listserv-0f40e3/",
+      "article_id": "UIT-KA-D993960F40E3",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:181",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:182",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:183",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:184",
+      "destination": "navigation",
+      "anchors": []
+    },
+    {
+      "block_id": "292bdb4f070fdcc0:185",
+      "destination": "navigation",
+      "anchors": []
+    }
+  ],
+  "state": "structured",
+  "source_block_count": 186
+}

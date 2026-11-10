@@ -1,0 +1,12 @@
+{
+  "source_id": "0bdabca485dcac47",
+  "source_url": "https://www.yorku.ca/uit/contact/",
+  "title": "Contact Us",
+  "capture_status": "captured",
+  "destinations": [
+    "/resources/contact-us-0bdabc/"
+  ],
+  "assignments": [],
+  "state": "reference",
+  "special_route": "/help/"
+}

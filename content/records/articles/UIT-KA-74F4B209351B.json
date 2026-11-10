@@ -1,0 +1,31 @@
+{
+  "id": "UIT-KA-74F4B209351B",
+  "slug": "outlook-email-quota-in-m365-09351b",
+  "title": "Outlook email quota in M365",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Outlook email quota in M365",
+  "environment": [
+    "Email and calendar",
+    "Microsoft Outlook",
+    "York students"
+  ],
+  "cause": null,
+  "resolution_html": "<p>The mailbox storage capacity is 100 GB</p>",
+  "audiences": [
+    "student"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/student-services/email/"
+  ],
+  "source_block_ids": [
+    "d545c40ef8a2948d:96",
+    "d545c40ef8a2948d:97"
+  ],
+  "captured_at": "2026-11-09T21:47:40.608783+00:00",
+  "source_modified_at": null,
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}

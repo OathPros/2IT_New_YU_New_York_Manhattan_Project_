@@ -1,0 +1,35 @@
+{
+  "id": "UIT-KA-1D5E89F5A002",
+  "slug": "gmail-f5a002",
+  "title": "Gmail",
+  "type": "Question and answer",
+  "service_id": "email",
+  "issue": "Gmail",
+  "environment": [
+    "Email and calendar",
+    "Google Mail",
+    "York community"
+  ],
+  "cause": null,
+  "resolution_html": "<p>As soon as you suspect that you received a phishing email, report it immediately by clicking the \"Report Phish Button\"</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2026/05/ypa-button-website-demo-pic.png\"/></figure>\n<p>Click Report</p>\n<figure><img alt=\"\" loading=\"lazy\" src=\"https://www.yorku.ca/uit/infosec/wp-content/uploads/sites/806/2026/05/ypa-button-website-demo-pic-2.0-1.png\"/></figure>\n<p>You're set! Reporting suspicious emails helps prevent your data from being compromised</p>",
+  "audiences": [
+    "all"
+  ],
+  "source_urls": [
+    "https://www.yorku.ca/uit/infosec/report-phishing-email/"
+  ],
+  "source_block_ids": [
+    "3e5c3c2eceb1c984:37",
+    "3e5c3c2eceb1c984:38",
+    "3e5c3c2eceb1c984:39",
+    "3e5c3c2eceb1c984:40",
+    "3e5c3c2eceb1c984:41",
+    "3e5c3c2eceb1c984:42"
+  ],
+  "captured_at": "2026-11-09T21:46:49.779182+00:00",
+  "source_modified_at": "2026-05-06T20:13:38+00:00",
+  "reviewed_at": null,
+  "state": "not_validated",
+  "editorial_status": "structured_import",
+  "review_flags": []
+}
