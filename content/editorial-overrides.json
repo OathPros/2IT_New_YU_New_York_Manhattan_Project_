@@ -27,7 +27,10 @@
     "id": "UIT-KA-01A1419C5627",
     "title": "Reset an employee Passport York password online",
     "issue": "Reset an employee Passport York password online",
-    "editorial_status": "rewritten_draft"
+    "editorial_status": "rewritten_draft",
+    "resolution_html": "<p>This reset method is for eligible employees who have their York email access and do not have advanced access restrictions, such as administrative or technical privileges</p><ol><li>Open <a href=\"https://pypwreset.apps06.yorku.ca/\">Passport York security-question reset</a></li><li>Enter your employee number and select Next Step</li><li>Open the verification email sent to your York address</li><li>Answer your security questions and choose a new password</li></ol><p>Other users should contact <a href=\"mailto:askit@yorku.ca\">askIT</a> for their supported recovery method</p>",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
   },
   {
     "id": "UIT-KA-D2DFD3209294",
@@ -210,5 +213,320 @@
     "editorial_notes": "Edited against maintained York or 1Password guidance on November 10, 2026; owner validation outstanding",
     "title": "Recover access to a York 1Password account",
     "issue": "Recover access to a York 1Password account"
+  },
+  {
+    "id": "UIT-KA-30FB51DFEB91",
+    "title": "Sign in to the LISTSERV owner interface",
+    "issue": "Sign in to the LISTSERV owner interface",
+    "resolution_html": "<ol><li>Open York’s LISTSERV web interface using the link supplied to the list owner</li><li>Sign in with the email address associated with your list-owner account</li><li>Select the list you administer and review the owner controls</li></ol><p>For current browser navigation, consult <a href=\"https://www.lsoft.com/resources/manuals.asp\">L-Soft's maintained LISTSERV List Owner's Manual</a> rather than relying solely on an old video</p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-F8F786A4ABDC",
+    "title": "Add or remove LISTSERV subscribers",
+    "issue": "Add or remove LISTSERV subscribers",
+    "resolution_html": "<ol><li>Sign in to the York LISTSERV owner interface with the address authorized to administer the list</li><li>Select the relevant mailing list and open its subscriber management tools</li><li>Add or remove the required subscribers, following the access controls and list policy</li></ol><p>For current screens and bulk-management options, follow <a href=\"https://www.lsoft.com/resources/manuals.asp\">L-Soft's LISTSERV owner documentation</a></p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-F6E85FA4CC06",
+    "title": "Send a LISTSERV command",
+    "issue": "Send a LISTSERV command",
+    "resolution_html": "<p>Send LISTSERV commands to <a href=\"mailto:listserv@yorku.ca\">listserv@yorku.ca</a>, not to the distribution-list posting address</p><ol><li>Compose a plain-text email to listserv@yorku.ca</li><li>Place the LISTSERV command in the message body, one command per line</li><li>Send the email and check the automated reply for results or errors</li></ol><p><a href=\"https://www.lsoft.com/resources/manuals.asp\">LISTSERV command reference</a></p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-8EA83C164A16",
+    "title": "Get the LISTSERV command list",
+    "issue": "Get the LISTSERV command list",
+    "resolution_html": "<ol><li>Create a new email addressed to <a href=\"mailto:listserv@yorku.ca\">listserv@yorku.ca</a></li><li>Enter <code>HELP</code> in the message body without other text</li><li>Send the message and review the returned command list</li></ol><p>For syntax and other supported commands, use <a href=\"https://www.lsoft.com/resources/manuals.asp\">L-Soft's maintained command reference</a></p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-D3A81C37377A",
+    "title": "Get LISTSERV documentation",
+    "issue": "Get LISTSERV documentation",
+    "resolution_html": "<ol><li>Compose a message to <a href=\"mailto:listserv@yorku.ca\">listserv@yorku.ca</a></li><li>Type <code>INFO</code> in the message body</li><li>Send it and review the returned list of available documentation topics</li></ol><p>You can also browse <a href=\"https://www.lsoft.com/resources/manuals.asp\">L-Soft's current user and list-owner manuals</a> directly</p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-8AD1D77DF30D",
+    "title": "Understand Gmail attachment limits",
+    "issue": "Understand Gmail attachment limits",
+    "resolution_html": "<p>Gmail blocks certain potentially dangerous attachment types. The file-size limit can differ between personal Gmail and York's managed Google Workspace account</p><ol><li>Review <a href=\"https://support.google.com/mail/answer/6584?hl=en\">Google's current Gmail attachment limits and restrictions</a></li><li>If the document exceeds the permitted limit, share it from an approved York storage service instead of attaching it</li><li>Check recipient access and the information classification before sharing</li></ol>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-642BC73DAE0D",
+    "title": "Does removing a Gmail label delete email",
+    "issue": "Does removing a Gmail label delete email",
+    "resolution_html": "<p>No, deleting a Gmail label removes the label but does not delete the messages carrying it. To remove an email message, you must delete the message itself</p><p><a href=\"https://support.google.com/mail/answer/118708?hl=en\">Google's maintained instructions for Gmail labels</a></p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-09760020230B",
+    "title": "Why an archived Gmail conversation returns to the Inbox",
+    "issue": "Why an archived Gmail conversation returns to the Inbox",
+    "resolution_html": "<p>When someone replies to an archived Gmail conversation, it can return to your Inbox because a new message has arrived in that thread. The previously archived messages remain part of the conversation</p><p>Open the conversation to review the new reply, or <a href=\"https://support.google.com/mail/answer/6576?hl=en\">follow Google's archive and unarchive guidance</a> to change where messages appear</p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-977B08D3E754",
+    "title": "How long Gmail keeps messages in Spam",
+    "issue": "How long Gmail keeps messages in Spam",
+    "resolution_html": "<p>Gmail automatically deletes messages from Spam after 30 days. If a message is legitimate, open Spam, select the message and choose Not spam before the retention period expires</p><p><a href=\"https://support.google.com/mail/answer/1366858?hl=en\">Google's maintained spam-management instructions</a></p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-74F4B209351B",
+    "title": "Check your Microsoft 365 Outlook mailbox quota",
+    "issue": "Check your Microsoft 365 Outlook mailbox quota",
+    "resolution_html": "<p>The legacy York page lists 100 GB for Outlook mailboxes, but your actual quota depends on the Microsoft 365 licence and University settings</p><ol><li>Open Outlook and review your mailbox storage or quota settings</li><li>Compare the available storage with <a href=\"https://learn.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits\">Microsoft's maintained Exchange Online mailbox limits</a></li><li>Contact askIT if the assigned limit does not match your eligibility</li></ol>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-2547027CB9F6",
+    "title": "Recover deleted Outlook messages",
+    "issue": "Recover deleted Outlook messages",
+    "resolution_html": "<ol><li>Open Outlook and look for the message under Deleted Items</li><li>If found, select it and choose Move to restore it</li><li>If it is no longer there, look for the Recover items deleted from this folder option where available</li></ol><p>Follow <a href=\"https://support.microsoft.com/en-us/outlook/mail/recover-and-restore-deleted-items-in-outlook\">Microsoft's current recovery instructions</a> for your version of Outlook and the applicable retention limits</p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-D2408187CDE0",
+    "title": "Open an Outlook shared mailbox",
+    "issue": "Open an Outlook shared mailbox",
+    "resolution_html": "<p>A shared mailbox allows authorized team members to read and send mail from a common address without sharing an individual's account password</p><ol><li>Ask the responsible mailbox administrator to grant you access</li><li>After access is assigned, restart Outlook or sign in again</li><li>Find the shared mailbox in your folders or add it using the shared-mailbox control</li></ol><p><a href=\"https://support.microsoft.com/en-us/outlook/sharing/open-and-use-a-shared-mailbox-in-outlook\">Microsoft's shared mailbox guide</a></p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-36FE38A3AE6E",
+    "title": "Delegate Outlook mail and calendar access",
+    "issue": "Delegate Outlook mail and calendar access",
+    "resolution_html": "<p>Outlook delegate access can allow a colleague to manage specific mailbox and calendar functions without disclosing your password</p><ol><li>Determine what access the colleague actually needs</li><li>Open your Outlook delegation settings for that account type</li><li>Grant the appropriate permission and verify access</li></ol><p><a href=\"https://support.microsoft.com/en-us/outlook/sharing/allow-messages-to-be-sent-on-your-behalf-when-sharing-a-folder-or-mailbox\">Follow Microsoft's delegated-access instructions</a></p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-FD6FB3FE76C3",
+    "title": "Find your Outlook mailbox storage limit",
+    "issue": "Find your Outlook mailbox storage limit",
+    "resolution_html": "<p>Microsoft 365 mailbox quotas depend on the account licence and administrator settings. The older York article states 100 GB, but this should not be assumed for every account</p><p>Check your current storage in Outlook and consult <a href=\"https://learn.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits\">Microsoft's maintained Exchange Online mailbox limit table</a>; contact askIT if your actual quota needs review</p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-0546302EEC2A",
+    "title": "Set automatic replies in Outlook on the web",
+    "issue": "Set automatic replies in Outlook on the web",
+    "resolution_html": "<ol><li>Open Outlook on the web and select Settings</li><li>Open Accounts, then Automatic replies</li><li>Turn on automatic replies and set the date range if needed</li><li>Enter a reply message, decide whether to reply outside York, and save</li></ol><p><a href=\"https://support.microsoft.com/en-us/outlook/send-automatic-out-of-office-replies-from-outlook-com-or-outlook-on-the-web\">Microsoft's maintained automatic replies guide</a></p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-6C8DF99CA221",
+    "title": "Recover deleted items in Outlook for Windows",
+    "issue": "Recover deleted items in Outlook for Windows",
+    "resolution_html": "<ol><li>In Outlook for Windows, open Deleted Items</li><li>Select the message and use Move to return it to the Inbox</li><li>If the message is missing, use the recover-deleted-items option available for your mailbox type</li></ol><p><a href=\"https://support.microsoft.com/en-us/outlook/mail/recover-and-restore-deleted-items-in-outlook\">Follow Microsoft's maintained Outlook recovery guide</a></p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-029AE4934D4F",
+    "title": "Access a shared mailbox in Outlook",
+    "issue": "Access a shared mailbox in Outlook",
+    "resolution_html": "<p>To open a shared mailbox after access has been granted, choose the instructions for your Outlook version</p><ol><li>For Outlook on the web, use Add shared folder or mailbox, or Open another mailbox</li><li>For Windows Outlook, check the shared mailbox in the folder pane and restart Outlook if it is missing</li><li>For Mac and mobile, use the platform-specific steps in <a href=\"https://support.microsoft.com/en-us/outlook/sharing/open-and-use-a-shared-mailbox-in-outlook\">Microsoft's maintained shared-mailbox instructions</a></li></ol>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-B81CAF2B8B86",
+    "title": "Create an Outlook email template",
+    "issue": "Create an Outlook email template",
+    "resolution_html": "<ol><li>In Outlook, create a new message and add the content you want to reuse</li><li>Select the save-as-template feature available in your Outlook version</li><li>Give the template a descriptive name and save it</li><li>Open that template from your saved templates the next time you need it</li></ol><p><a href=\"https://support.microsoft.com/en-us/outlook/create-email-templates-in-outlook\">See Microsoft's current template steps for each Outlook version</a></p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-4947F5E36C6E",
+    "title": "Find Outlook's message-size limit",
+    "issue": "Find Outlook's message-size limit",
+    "resolution_html": "<p>The legacy York guidance lists a 35 MB message limit, but Exchange Online message-size limits can vary by mailbox and administrator configuration</p><p>To confirm your current limit, check <a href=\"https://learn.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits\">Microsoft's maintained Exchange Online message-size limit documentation</a> and contact askIT if a message is rejected. For larger files, share a secure OneDrive link when permitted</p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-48FA49D72260",
+    "title": "Check a LISTSERV daily posting limit",
+    "issue": "Check a LISTSERV daily posting limit",
+    "resolution_html": "<p>The archived York service description lists a default of 50 LISTSERV postings per day. List owners can have a different threshold depending on list configuration</p><p>For the current setting, contact the list owner or review <a href=\"https://www.lsoft.com/resources/manuals.asp\">L-Soft's maintained LISTSERV owner documentation</a> for the daily posting and list configuration controls</p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-AE3AAC2EB7FB",
+    "title": "Could a 1Password server breach expose my vault",
+    "issue": "Could a 1Password server breach expose my vault",
+    "resolution_html": "<p>A compromise of 1Password's servers would not automatically expose the readable contents of every vault. 1Password uses end-to-end encryption and keeps decryption secrets under the account holder's control. No service can guarantee that all threats are impossible</p><p><a href=\"https://support.1password.com/authentication-encryption/\">Read 1Password's current explanation of its encryption and authentication model</a></p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-46273D1D7B78",
+    "title": "How 1Password protects your vault",
+    "issue": "How 1Password protects your vault",
+    "resolution_html": "<p>1Password encrypts vault data on the user's device before synchronization, so its service does not normally hold the secrets needed to decrypt that data. Your account password and Secret Key remain important protections</p><p><a href=\"https://support.1password.com/secure-by-design/\">Read 1Password's maintained security architecture explanation</a></p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-60FE844B2729",
+    "title": "Choose a strong password or passphrase",
+    "issue": "Choose a strong password or passphrase",
+    "resolution_html": "<p>Use a long, unique passphrase for every account and follow York's current password requirements. Do not rely on predictable number or symbol substitutions alone</p><ol><li>Choose a long passphrase that cannot easily be guessed</li><li>Use a password manager to generate distinct credentials where appropriate</li><li>Enable multifactor authentication when offered</li></ol><p><a href=\"https://www.yorku.ca/uit/infosec/3-tips-for-creating-strong-passwords/\">York's password guidance</a></p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-DC3D9DEC1D30",
+    "title": "When a student Passport York account is active",
+    "issue": "When a student Passport York account is active",
+    "resolution_html": "<p>A student's Passport York account is normally active while their enrolment status is active in York's student records. Account access is governed by the official student account lifecycle, and specific services may expire at different stages</p><p><a href=\"https://www.yorku.ca/uit/student-services/passport-york/\">Review York's current account lifecycle guidance</a></p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-F25820F847EF",
+    "title": "Order an official York transcript",
+    "issue": "Order an official York transcript",
+    "resolution_html": "<p>To request an official transcript, use York's Registrar transcript service rather than an IT support ticket. Passport York authentication may be needed to enter the ordering system</p><ol><li>Check <a href=\"https://registrar.yorku.ca/\">the Registrar's current transcript ordering instructions</a></li><li>Choose the instructions appropriate to a current student or alumnus</li><li>Complete the ordering steps with the required identity information</li></ol>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-750C0B4537FB",
+    "title": "Use a password manager to protect accounts",
+    "issue": "Use a password manager to protect accounts",
+    "resolution_html": "<p>A password manager helps you create and store a unique, strong password for each account rather than reusing passwords</p><ol><li>Use a manager to generate a unique credential for each service</li><li>Store it in the appropriate personal or institutional vault</li><li>Protect the manager account with a strong account password and supported authentication methods</li></ol><p><a href=\"https://support.1password.com/explore/get-started/\">1Password's maintained getting-started guide</a></p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-64F86E0D6A06",
+    "title": "Protect your password manager account",
+    "issue": "Protect your password manager account",
+    "resolution_html": "<p>A password manager secures many account credentials, so protecting the manager account is particularly important. Never reuse its password or share its recovery material with anyone</p><ol><li>Choose a strong, unique account password</li><li>Use the available supported additional authentication protections</li><li>Safeguard recovery details and install software only from official sources</li></ol><p><a href=\"https://support.1password.com/authentication-encryption/\">See the vendor's current security model guidance</a></p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-CF1796979BF5",
+    "title": "Update your Passport York security questions",
+    "issue": "Update your Passport York security questions",
+    "resolution_html": "<ol><li>Open <a href=\"https://pypwreset.apps06.yorku.ca/questions/setup\">the Passport York security-question setup tool</a></li><li>Sign in and follow the prompts to choose or update your security questions</li><li>Save your responses and confirm the changes</li></ol><p>The legacy guidance excludes some advanced-access accounts, including certain SIS, firewall and technical staff accounts; contact askIT for the method appropriate to your access level</p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-EC5470BA6B5A",
+    "title": "Find your York employee ID",
+    "issue": "Find your York employee ID",
+    "resolution_html": "<p>You can find your York employee ID on a previous pay statement or your YU-card, where available</p><ol><li>Check your existing payroll documents or YU-card</li><li>If you cannot locate it, contact <a href=\"https://www.yorku.ca/universityservices/contact/\">Payroll and Records</a> through the official University Services channel</li></ol>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-000000000006",
+    "title": "Choose the right MyApps launch method",
+    "issue": "Choose the right MyApps launch method",
+    "resolution_html": "<p>MyApps offers several launch modes, depending on your application and device</p><ul><li><strong>Launch Remote</strong> starts a remote application session in York's environment</li><li><strong>Launch in Browser</strong> opens a remote session in a browser</li><li><strong>Web Portal</strong> opens a website</li><li><strong>Launch</strong> opens an available Windows virtualized app</li></ul><p>Sign in to <a href=\"https://myapps.yorku.ca/\">MyApps</a> and choose the option shown for your application</p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-00000000000F",
+    "title": "Find public printers on campus",
+    "issue": "Find public printers on campus",
+    "resolution_html": "<p>Public campus printing is provided at designated libraries and computer locations. The published list includes Scott, Bronfman, Osgoode, Frost, Steacie and Markham Campus Library locations</p><ol><li>Identify the building closest to you using <a href=\"https://maps.yorku.ca/\">the York campus map</a></li><li>Check printer signage and payment availability at that location before submitting a job</li></ol>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-00000000001A",
+    "title": "Access Microsoft Copilot as a student",
+    "issue": "Access Microsoft Copilot as a student",
+    "resolution_html": "<p>Active students can access standard Microsoft Copilot through their York Microsoft 365 account. This is separate from Microsoft 365 Copilot premium licences and GitHub Copilot</p><ol><li>Sign in to your York Microsoft 365 account</li><li>Open the available Copilot experience</li><li>Check tool eligibility and permitted data before use</li></ol><p><a href=\"https://www.yorku.ca/uit/student-services/artificial-intelligence/\">Review York's AI tool eligibility</a></p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-00000000001B",
+    "title": "Handle York data safely when using AI",
+    "issue": "Handle York data safely when using AI",
+    "resolution_html": "<p>Before pasting University material into an AI tool, identify its data classification and whether that tool is approved for that classification</p><ol><li>Use only York-supported tools for the approved purpose</li><li>Do not enter confidential, proprietary or sensitive York data into a public consumer AI account</li><li>If unsure, contact the York AI or information security support channel before uploading</li></ol><p><a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/AI/\">Review the institutional AI service guidance</a></p>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-000000000020",
+    "title": "Choose Gravity Forms or MachForm",
+    "issue": "Choose Gravity Forms or MachForm",
+    "resolution_html": "<p>Gravity Forms is appropriate for approved York WordPress sites where that plugin is supported. MachForm can be an alternative when a separate hosted form is needed</p><ol><li>Identify the form's audience, approval requirements and data classification</li><li>Choose the approved platform and confirm the form owner</li><li>Follow <a href=\"https://www.yorku.ca/uit/faculty-and-staff-services/web-and-media-management/\">York's web and media service guidance</a> for setup and access</li></ol>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
+  },
+  {
+    "id": "UIT-KA-000000000022",
+    "title": "Choose storage for a York-hosted server",
+    "issue": "Choose storage for a York-hosted server",
+    "resolution_html": "<p>York Server Data Storage can be provided through an NFS share or a disk attached to an approved virtual server, subject to infrastructure requirements</p><ol><li>Document the application's capacity, availability, security, performance and backup needs</li><li>Confirm with the UIT infrastructure team which storage option meets the requirements</li><li>Submit a managed hosting or storage request through <a href=\"mailto:askit@yorku.ca\">askIT</a></li></ol>",
+    "editorial_status": "rewritten_draft",
+    "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
+    "review_flags": []
   }
 ]
