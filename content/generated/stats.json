@@ -1,10 +1,10 @@
 {
-  "checkpoint": "nexus-service-ownership-and-kcs-quality",
+  "checkpoint": "service-offerings-catalog",
   "posts_included": 0,
   "discovered_sources": 57,
   "captured_sources": 28,
   "services": 22,
-  "articles": 210,
+  "articles": 243,
   "resources": 1,
   "prompts": 0,
   "asset_references": 84,
@@ -16,5 +16,7 @@
   "pending_sources": 29,
   "priority_review_articles": 1,
   "editorial_partial_sources": 29,
-  "editorial_summary_articles": 46
+  "editorial_summary_articles": 46,
+  "offerings": 75,
+  "service_families": 22
 }
