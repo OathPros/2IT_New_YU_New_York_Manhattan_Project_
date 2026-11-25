@@ -85,12 +85,13 @@ const roleMatch=(roles,role)=>role==='all'||roles.includes('all')||roles.include
 function applyAudience(group){
  const role=$('[aria-pressed="true"]',group)?.dataset.audience||'all'
  const scope=document.getElementById(group.dataset.controls)||document
- const query=$('#article-filter')?.value.trim().toLowerCase()||''
+ const fold=s=>s.toLowerCase().replace(/[^\p{L}\p{N}\s]/gu,'')
+ const words=fold($('#article-filter')?.value||'').split(/\s+/).filter(Boolean)
  let shown=0,total=0
  for(const row of $$('[data-audiences]',scope)){
   const roles=row.dataset.audiences.split(' ')
   const isRow=row.matches('.k-row,[data-service-card]')
-  const visible=roleMatch(roles,role)&&(!isRow||!query||(row.dataset.find||row.textContent.toLowerCase()).includes(query))
+  const visible=roleMatch(roles,role)&&(!isRow||!words.length||(t=>words.every(w=>t.includes(w)))(fold((row.dataset.find||row.textContent)+' '+(row.closest('.topic')?.querySelector('h2,h3')?.firstChild?.textContent||''))))
   row.hidden=!visible
   if(isRow){total++;if(visible)shown++}
  }
