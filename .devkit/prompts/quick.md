@@ -1,0 +1,1 @@
+Make the requested change using the existing architecture and design system. Inspect the affected code and current branch, avoid unrelated refactors, use relevant skills only, and run targeted checks. For visual changes inspect the rendered result if possible. Report changed files and test evidence; no deployment. Task: [insert task].

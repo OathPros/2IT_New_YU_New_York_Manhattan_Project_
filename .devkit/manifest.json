@@ -1,0 +1,29 @@
+{
+  "files": {
+    ".agents/skills/experience-architecture/SKILL.md": "7227abaff6b7a957507f4d85ac69fbaf984c9cffbc9c78f7d12c6c15a13b22c2",
+    ".agents/skills/frontend-design/SKILL.md": "fac80b0841990e402564c94b9cf8fc7da1a702ab651f3639ff5c5129f474940b",
+    ".agents/skills/release-assurance/SKILL.md": "cbeaef7be49b607e14659acc4e6f5c420677c5f93598e5445b1bc96a0a723ab7",
+    ".agents/skills/service-architecture/SKILL.md": "12cf2634e89235e0b2206dda7afe1aa06ce3c16a46a41540cf8ef0750e766d04",
+    ".agents/skills/visual-critic/SKILL.md": "49e3ca58ccb946ac5e25f20de5e38ce0b449627862a6b776336908f3e916fe13",
+    ".devkit/.gitignore": "f162171ded7ff8c1d6032f7cb50317bc19cc4d1bbd4757be9f8ea75cdec540f1",
+    ".devkit/PROFILE.md": "18e35ce2f5b5e6c055038464486d823b94c9244b460c8a5291b2a1087df79657",
+    ".devkit/STANDARDS.md": "13411cba59ff32d5268fd84037434396f1f57c5330474203e6dd42d714659913",
+    ".devkit/browser-check.mjs": "6f78df05f5805527f8a2cae4e9b25881808d6230da7625c624da134f0ace3535",
+    ".devkit/browser-targets.json": "a5b826be60ecff59f9855ba1d0e3ea38fc9b98df3b5bc83b20d3cfd5b1352955",
+    ".devkit/prompts/quick.md": "804fadc09505201129e9f18d5b7b3588b7e53ab2bdb18651f332110d7e1885a2",
+    ".devkit/prompts/review.md": "c283a2f72c5f93757039539c6f09782473da79d2bae236eef01e536bc38147fd",
+    ".devkit/prompts/start.md": "9aa2b785fd37f7c27325bdbcbbde066118324837b6b081fadb0e513ac04a15ac",
+    ".devkit/prompts/york-service-redesign.md": "8521666a937d45a1364da90905fb0abbc110d5792f1d96042fd4dc7115ecd5b9",
+    ".github/agents/architect.agent.md": "0414a20621f97a44ffac11c94aa5f4ea544fab2ffdaa7927cf4ad30811aeffa2",
+    ".github/agents/design-director.agent.md": "d4f95b4d5043ccc2d65adb7736595bc27a5386980519efbe260c72bc0b485c4a",
+    ".github/agents/reviewer.agent.md": "d40f7e7f7426ff3a19b46e2d34664b1bbbef00b57eabad346c64241a648024f6",
+    "ARCHITECTURE.md": "f229481d5adc0ee1bbd8ec6876651ce2f2624351aa05bdc23fc820b13cd42e55",
+    "DESIGN.md": "e00a75230575b22b72d068158c29997f2481e2fb682ea1d59ff907017139a793",
+    "PROJECT.md": "f6b4c9e32af4d61d59b932983121b53f6a185aa18b263181e4ae77199be9a706",
+    "references/design/README.md": "ebac34971f5048702f53b8c4c73499fb864fa0d156c78712d2b8b1462185f7a9",
+    "references/rejected/README.md": "86a863f84b1d2eed954c95859e663cef5797efd1baa6284eb4678bcc62833c14"
+  },
+  "name": "York IT Service Experience",
+  "profile": "service-experience",
+  "version": "1.0.0"
+}

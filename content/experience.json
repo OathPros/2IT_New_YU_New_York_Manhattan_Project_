@@ -1,0 +1,38 @@
+{
+  "about": "Presentation-independent experience configuration. Support channels and hours are copied from the captured UIT contact page and must be updated from source, never estimated. Topics group existing article ids; any service article not listed is still shown under More guidance",
+  "support": {
+    "source_url": "https://www.yorku.ca/uit/contact/",
+    "note": "Many faculties have their own IT support team. Contact your faculty IT support first if it provides service for your area",
+    "channels": [
+      {"id": "phone", "label": "Call the Service Desk", "value": "416-736-5800", "href": "tel:+14167365800", "hours": [["Students and alumni", "Monday to Friday 8:30 AM to 6:00 PM"], ["Faculty and staff", "Monday to Friday 8:30 AM to 9:00 PM"], ["Classroom support", "Monday to Friday 8:30 AM to 9:00 PM"]]},
+      {"id": "email", "label": "Email askIT", "value": "askIT@yorku.ca", "href": "mailto:askIT@yorku.ca", "hours": [["Responses", "Monday to Friday 8:30 AM to 9:00 PM"], ["Exam periods", "Also Saturday and Sunday 8:00 AM to 4:00 PM"]]},
+      {"id": "portal", "label": "Submit a service request", "value": "askus.yorku.ca", "href": "https://askus.yorku.ca/", "hours": []},
+      {"id": "in-person", "label": "Visit the Steacie Help Desk", "value": "Steacie Science and Engineering Building, Room 107C, 136 Campus Walk", "href": "https://map.concept3d.com/?id=1200#!m/317161?share", "hours": [["UIT Help Desk", "Monday to Friday 8:30 AM to 9:00 PM"]], "article": "UIT-KA-00000000002E"}
+    ],
+    "prepare_article": "UIT-KA-00000000002D"
+  },
+  "top_tasks": ["cannot-sign-in", "forgot-password", "lost-device", "connect-wifi", "set-up-account", "find-username"],
+  "quick_actions": [
+    {"label": "Manage My Services", "url": "https://mms.yorku.ca/", "offering": "passport-account"},
+    {"label": "eClass", "url": "https://eclass.yorku.ca/", "offering": "eclass"},
+    {"label": "Outlook", "url": "https://outlook.office.com/", "offering": "outlook"},
+    {"label": "Google Mail", "url": "https://mail.my.yorku.ca/", "offering": "google-mail"},
+    {"label": "Microsoft 365", "url": "https://m365.cloud.microsoft/apps", "offering": "microsoft-365-apps"},
+    {"label": "MyApps", "url": "https://myapps.yorku.ca/", "offering": "myapps"},
+    {"label": "WebPrint", "url": "https://webprint.uit.yorku.ca/", "offering": "webprint"},
+    {"label": "Service requests", "url": "https://askus.yorku.ca/", "offering": "service-desk"}
+  ],
+  "flagship": "passport-york",
+  "primary_offerings": {"passport-york": "passport-account"},
+  "topics": {
+    "passport-york": [
+      {"id": "recover", "title": "Recover access", "article_ids": ["UIT-KA-F74B45D6834E", "UIT-KA-5869E88374F4", "UIT-KA-425BFFDD0BEC", "UIT-KA-32B0F0AE135F", "UIT-KA-CC7835CAA13B", "UIT-KA-300BB058F717", "UIT-KA-01A1419C5627", "UIT-KA-D2DFD3209294", "UIT-KA-376D706E3E62", "UIT-KA-2F609C5A1CAD", "UIT-KA-4B93B6A5D551", "UIT-KA-7D1457404464", "UIT-KA-EC5470BA6B5A"]},
+      {"id": "manage", "title": "Set up and manage", "article_ids": ["UIT-KA-C0C4FF920116", "UIT-KA-823167E4EE0F", "UIT-KA-ECE0EF1E1C01", "UIT-KA-8A9A3CA6C0FE", "UIT-KA-93FB987A165A", "UIT-KA-C16878F9CF47", "UIT-KA-CF1796979BF5", "UIT-KA-66088DD15E5E", "UIT-KA-9DF88BF4B1EC"]},
+      {"id": "lifecycle", "title": "Account lifecycle", "article_ids": ["UIT-KA-DC3D9DEC1D30", "UIT-KA-36C59B65EFAB", "UIT-KA-86FDB4449E9D", "UIT-KA-C2FB18C08BC7", "UIT-KA-D8F05F4681E6", "UIT-KA-FC550A00445C", "UIT-KA-E8B17A9E6530"]},
+      {"id": "other", "title": "Guests, alumni and maintenance", "article_ids": ["UIT-KA-314D497E5576", "UIT-KA-205D0C7D37FA", "UIT-KA-F25820F847EF", "UIT-KA-3A45E213898F"]}
+    ]
+  },
+  "notices": {
+    "passport-york": {"title": "Scheduled maintenance window", "detail": "Every Wednesday from 5:00 to 7:00 AM UIT may perform maintenance that affects Passport York authentication. This is a fixed schedule, not live service status", "article": "UIT-KA-3A45E213898F", "source": "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"}
+  }
+}

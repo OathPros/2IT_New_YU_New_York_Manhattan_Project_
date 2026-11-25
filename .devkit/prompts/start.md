@@ -1,0 +1,3 @@
+Read AGENTS.md, .devkit/STANDARDS.md, .devkit/PROFILE.md and project docs. Inspect Git status, code, data, existing functionality and test commands. Select the proportional workflow. For a major redesign, capture the baseline, fill project docs with verified findings, identify constraints and plan a representative vertical slice. Use relevant skills. Then implement the authorized task, verify actual behavior and report evidence. Preserve unrelated edits, existing contracts and live deployment. If crucial information is missing, flag the assumption and continue safely where possible. Do not stop at a plan unless this is explicitly a planning-only task.
+
+Task: [describe the desired outcome and constraints]
