@@ -66,7 +66,7 @@ test('Passport York unifies offerings, tasks and all of its guidance',async()=>{
  for(const o of s.offerings)assert.ok(html.includes('/uit/offerings/'+o.id+'/'),o.id)
  for(const j of [...model.journeys.values()].filter(j=>j.service_id==='passport-york'))assert.ok(html.includes('/uit/tasks/'+j.id+'/'),j.id)
  assert.ok(html.includes('About this service'))
- assert.ok(html.includes('Fixed schedule')||html.includes('fixed schedule'),'maintenance is described as a schedule, not live status')
+ assert.ok(html.includes('Every Wednesday from 5:00 to 7:00 AM'),'the sourced maintenance schedule is shown')
 })
 
 test('every service offering is linked to its own action and scoped knowledge',async()=>{
@@ -123,11 +123,15 @@ test('all offerings explain what they are, who uses them, and what users can do'
  assert.ok(detail.includes('Open York SharePoint')&&detail.includes('yuoffice.sharepoint.com'))
 })
 
-test('knowledge index is honest about validation state',async()=>{
+test('knowledge index searches every guide without disclaimers or false validation',async()=>{
  const {model}=await ctx
- const html=knowledgeView(model,'/uit'),validated=[...model.articles.values()].filter(a=>a.state==='validated').length
- assert.ok(html.includes(validated+' validated'))
- assert.ok(html.includes('Imported draft'))
+ const html=knowledgeView(model,'/uit'),total=model.articles.size
+ assert.ok(html.includes('id="article-filter"')&&html.includes('Search '),'large guide search')
+ assert.ok(html.includes('id="kb-count"'))
+ assert.ok(!/class="(honesty|caution|reader-state)"/.test(html),'no disclaimer blocks')
+ assert.ok(!html.includes('Imported draft'),'draft state is not repeated on every row')
+ if(![...model.articles.values()].some(a=>a.state==='validated'))assert.ok(!html.includes('Validated'))
+ assert.ok(total>0)
 })
 
 test('shell escapes titles, keeps search reachable and avoids inline script or style',()=>{

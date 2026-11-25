@@ -94,10 +94,16 @@ function applyAudience(group){
   row.hidden=!visible
   if(isRow){total++;if(visible)shown++}
  }
- for(const t of $$('.topic',scope))t.hidden=!$$('.k-row',t).some(r=>!r.hidden)
+ for(const t of $$('.topic',scope)){
+  const n=$$('.k-row',t).filter(r=>!r.hidden).length
+  t.hidden=!n
+  const c=$('.count',t);if(c)c.textContent=String(n)
+  const id=t.getAttribute('aria-labelledby');const j=id&&$(`.jump a[href="#${id}"]`);if(j)j.parentElement.hidden=!n
+ }
  for(const a of $$('.about-block',document))a.hidden=!roleMatch(a.dataset.audiences.split(' '),role)
  const empty=$('#filter-empty');if(empty)empty.hidden=shown>0
  const count=$('#service-count');if(count&&scope.id==='service-index')count.textContent=`Showing ${shown} of ${total} services`
+ const kbCount=$('#kb-count');if(kbCount&&scope.id==='kb-index')kbCount.textContent=`Showing ${shown} of ${total} guides`
 }
 for(const group of $$('[data-audience-filter]')){
  if(group.dataset.audienceFilter==='search')continue

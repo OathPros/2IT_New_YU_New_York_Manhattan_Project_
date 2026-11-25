@@ -21,6 +21,10 @@ GitHub repository OathPros/2IT_New_YU_New_York_Manhattan_Project_ is the source 
 - No terminal punctuation on displayed text elements; preserve punctuation within an element
 - No clipping, clamping, truncating, hidden overflow, or silently shortened text
 - Let text wrap naturally and containers grow
+- Never cap text width with max-width or ch measures and never use text-wrap balance or pretty; text fills its container
+- Never show disclaimers, caveat banners or "not validated", "not live" or "pending" notes; confidence state lives in the provenance metadata only
+- Never use divider lines as spacers and never place two rules together
+- Lead the knowledge index with a large search field
 - Use York red, charcoal, and clean neutral surfaces with restrained decoration
 - Keep controls keyboard accessible and meet WCAG 2.2 AA
 

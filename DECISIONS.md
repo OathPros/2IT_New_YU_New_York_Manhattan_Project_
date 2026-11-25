@@ -2,6 +2,11 @@
 
 Record significant decisions with context so any agent or device can continue. Newest first.
 
+## D-012 No text width caps, disclaimers or doubled dividers
+- **Decision**: Remove every `max-width`/`ch` cap on text and all `text-wrap` balancing so text fills its container. Remove the knowledge honesty banner, draft cautions, reader state lines, the legacy contact section and "not live status" copy. Knowledge state stays as factual metadata in the article Source and review panel, and "Validated" appears only when true. Remove spacer and doubled rules. Lead `/knowledge/` with a large search field whose result count, group counts and jump links follow the query
+- **Why**: User direction: text wrapping early, disclaimers and double spacers are unacceptable in this site and all future work
+- **Consequence**: Project skills, standards, prompt, AGENTS.md and DESIGN.md now state these as hard rules. This supersedes the disclaimer parts of D-010
+
 ## D-011 Reviewer findings before commit
 - **Decision**: Remove the `/` single-key shortcut and keep Ctrl/Cmd+K (WCAG 2.1.4). Drop `aria-expanded` from plain search inputs. Include `service_name` in article JSON so the quick view names its service. Give the palette input a visible focus indicator. Cite the Passport York service page for the maintenance window. Mark retitled articles `title_clarified_draft`
 - **Why**: The independent reviewer found no blocking defects but identified these accessibility, provenance and metadata gaps

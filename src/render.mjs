@@ -13,18 +13,17 @@ export function reader(a,{base='',popup=false,service=null}={}){
  const validated=state.id==='validated'
  const tools=`<div class="reader-tools">${link(base+'/services/'+a.service_id+'/',service?.name||a.service_name||'Service','link link-quiet')}<button type="button" class="link link-quiet" data-copy="${e(base+articlePath(a))}">Copy link</button>${popup?link(base+articlePath(a),'Open full article','link link-strong'):'<button type="button" class="link link-quiet" data-print>Print</button>'}</div>`
  return `<article class="reader${popup?' reader-popup':''}">
-<header class="reader-head"><p class="kicker"><span class="mono">${e(a.id)}</span><span>${e(a.type)}</span>${stateTag(state)}</p><h1 id="${titleId}">${e(a.title)}</h1>${validated?'':`<p class="reader-state">${e(state.label)} · ${e(state.detail)}</p>`}${tools}</header>
+<header class="reader-head"><p class="kicker"><span class="mono">${e(a.id)}</span><span>${e(a.type)}</span>${validated?stateTag(state):''}</p><h1 id="${titleId}">${e(a.title)}</h1>${tools}</header>
 <section class="halo" aria-label="Description"><dl><div><dt>Issue</dt><dd>${e(a.issue)}</dd></div><div><dt>Environment</dt><dd><ul>${a.environment.map(x=>`<li>${e(x)}</li>`).join('')}</ul></dd></div>${a.cause?`<div><dt>Cause</dt><dd>${e(a.cause)}</dd></div>`:''}</dl></section>
-${a.review_flags?.length?'<aside class="caution"><strong>Content review required</strong><p>These imported instructions need verification before use</p></aside>':''}
 <section class="resolution"><h2>Resolution</h2><div class="prose">${a.resolution_html}</div></section>
-<footer class="provenance"><h2>Source and review</h2><dl><div><dt>Knowledge state</dt><dd>${e(state.label)}${validated?'':' · '+e(state.detail)}</dd></div><div><dt>Captured</dt><dd>${e(a.captured_at.slice(0,10))}${a.source_modified_at?' · Source updated '+e(a.source_modified_at.slice(0,10)):''}</dd></div><div><dt>Review</dt><dd>${validated?'Reviewed '+e(a.reviewed_at.slice(0,10)):'No validation date recorded'}</dd></div><div><dt>Audience</dt><dd>${e(audiences(a.audiences))}</dd></div></dl><p class="provenance-links">${a.source_urls.map(u=>link(u,a.source_urls.length>1?'Source '+sourceLabel(u):'Original source','link link-quiet')).join('')}${link('mailto:askIT@yorku.ca?subject='+encodeURIComponent('Knowledge update: '+a.title),'Suggest an update','link link-quiet')}</p></footer>
+<footer class="provenance"><h2>Source and review</h2><dl><div><dt>Knowledge state</dt><dd>${e(state.label)}</dd></div><div><dt>Captured</dt><dd>${e(a.captured_at.slice(0,10))}${a.source_modified_at?' · Source updated '+e(a.source_modified_at.slice(0,10)):''}</dd></div><div><dt>Review</dt><dd>${validated?'Reviewed '+e(a.reviewed_at.slice(0,10)):'No validation date recorded'}</dd></div><div><dt>Audience</dt><dd>${e(audiences(a.audiences))}</dd></div></dl><p class="provenance-links">${a.source_urls.map(u=>link(u,a.source_urls.length>1?'Source '+sourceLabel(u):'Original source','link link-quiet')).join('')}${link('mailto:askIT@yorku.ca?subject='+encodeURIComponent('Knowledge update: '+a.title),'Suggest an update','link link-quiet')}</p></footer>
 </article>`
 }
 
 // A knowledge row always shows audience and knowledge state so duplicate titles stay distinguishable
 export function knowledgeRow(a,base='',{note=''}={}){
  const state=knowledgeState(a)
- return `<li class="k-row" data-audiences="${e((a.audiences||['all']).join(' '))}" data-find="${e((a.title+' '+(a.issue||'')).toLowerCase())}"><a href="${e(base+articlePath(a))}" data-preview="${e(a.id)}"><span class="k-title">${e(a.title)}</span><span class="k-meta">${e(audiences(a.audiences))}${note?' · '+e(note):''} · ${e(state.label)}</span></a></li>`
+ return `<li class="k-row" data-audiences="${e((a.audiences||['all']).join(' '))}" data-find="${e((a.title+' '+(a.issue||'')).toLowerCase())}"><a href="${e(base+articlePath(a))}" data-preview="${e(a.id)}"><span class="k-title">${e(a.title)}</span><span class="k-meta">${e(audiences(a.audiences))}${note?' · '+e(note):''}${state.id==='validated'?' · '+e(state.label):''}</span></a></li>`
 }
 export const knowledgeList=(list,base='',cls='')=>`<ul class="k-list${cls?' '+cls:''}">${list.map(a=>knowledgeRow(a,base)).join('')}</ul>`
 

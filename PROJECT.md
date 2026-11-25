@@ -63,7 +63,7 @@ Measurable improvements over the verified baseline:
 ## Constraints and sources
 
 - Data authority: `content/records/**` (captured from yorku.ca/uit), `content/editorial-*.json` and `content/nexus/*`. Journeys only compose existing articles and offering actions. They do not author new procedures.
-- Imported knowledge is `not_validated`. It must be labelled honestly everywhere it appears, including inside journeys.
+- Imported knowledge is `not_validated`. It must never be presented as validated. Its state is recorded in provenance metadata, not shown as disclaimers.
 - Stack: Node built-in static build and dev server, with no runtime dependencies. Playwright lives only in the gitignored `.cache/tools` for evidence capture.
 - Accessibility: WCAG 2.2 AA, keyboard complete, reduced motion respected, and no clipping or truncation.
 - Do not deploy, push or change yorku.ca without approval.

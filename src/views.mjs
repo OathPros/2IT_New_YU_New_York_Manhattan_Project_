@@ -25,12 +25,8 @@ function rail(items){
  return `<aside class="rail" aria-label="Service properties"><dl>${items.filter(Boolean).map(([label,value,cls])=>`<div${cls?` class="${cls}"`:''}><dt>${e(label)}</dt><dd>${value}</dd></div>`).join('')}</dl></aside>`
 }
 function stateSummary(list){
- const counts={}
- for(const a of list){const s=knowledgeState(a);counts[s.label]=(counts[s.label]||0)+1}
  const validated=list.filter(a=>knowledgeState(a).id==='validated').length
- const entries=Object.entries(counts)
- if(entries.length===1)return `${e(plural(list.length,'guide'))} · ${validated?'all validated':'all '+e(entries[0][0].toLowerCase())+'s, none validated'}`
- return `${e(plural(list.length,'guide'))} · ${validated} validated${entries.filter(([l])=>l!=='Validated').map(([l,n])=>`<br>${n} ${e(l.toLowerCase())}`).join('')}`
+ return e(plural(list.length,'guide'))+(validated?' · '+validated+' validated':'')
 }
 // Below the layout breakpoint the rail falls under the page, so the first action is repeated after the heading
 function startCompact(action,who){
@@ -87,7 +83,7 @@ export function tasksView(model,base=''){
 function stepView(step,i,base,model){
  const a=step.articleRecord
  const target=step.journeyRecord?`<a class="step-title" href="${href(base,'/tasks/'+step.journey+'/')}">${e(step.title)}${go}</a>`:`<span class="step-title">${e(step.title)}</span>`
- return `<li class="step"><span class="num" aria-hidden="true">${pad(i+1)}</span><div class="step-body"><h4>${target}</h4><p>${e(step.detail)}</p>${step.needs?.length?`<div class="needs"><span class="label">You need</span><ul>${step.needs.map(n=>`<li>${e(n)}</li>`).join('')}</ul></div>`:''}<div class="step-links">${step.action?button(step.action,true):''}${a?`<a class="link" href="${href(base,articlePath(a))}" data-preview="${e(a.id)}">Read the guide<span class="sr-only"> ${e(a.title)}</span>${go}</a><span class="meta">${e(a.title)} · ${e(knowledgeState(a).label)}</span>`:''}</div></div></li>`
+ return `<li class="step"><span class="num" aria-hidden="true">${pad(i+1)}</span><div class="step-body"><h4>${target}</h4><p>${e(step.detail)}</p>${step.needs?.length?`<div class="needs"><span class="label">You need</span><ul>${step.needs.map(n=>`<li>${e(n)}</li>`).join('')}</ul></div>`:''}<div class="step-links">${step.action?button(step.action,true):''}${a?`<a class="link" href="${href(base,articlePath(a))}" data-preview="${e(a.id)}">Read the guide<span class="sr-only"> ${e(a.title)}</span>${go}</a><span class="meta">${e(a.title)}${knowledgeState(a).id==='validated'?' · '+e(knowledgeState(a).label):''}</span>`:''}</div></div></li>`
 }
 
 export function taskView(model,j,base=''){
@@ -163,7 +159,7 @@ ${escalate(model,base,'Need a person')}</div>`
 export function knowledgeView(model,base=''){
  const all=[...model.articles.values()].filter(model.publishable)
  const validated=all.filter(a=>knowledgeState(a).id==='validated').length
- return `<div class="wrap page">${head({eyebrow:'Knowledge',title:'Every York IT guide',lede:'Instructions and reference imported from the current UIT website, organised by service'})}<p class="honesty"><strong>${all.length} guides · ${validated} validated</strong> Imported guidance is labelled as a draft until a service owner reviews it</p><div class="bar">${audienceFilter('kb',{controls:'kb-index'})}<label class="field field-inline"><span class="sr-only">Filter guides</span><input id="article-filter" type="search" autocomplete="off" placeholder="Filter ${all.length} guides"></label></div><nav class="jump" aria-label="Jump to a service"><span class="label">Jump to</span><ul>${[...model.services.values()].filter(s=>s.visibleArticles.length).map(s=>`<li><a href="#k-${e(s.id)}">${e(s.name)}</a></li>`).join('')}</ul></nav><div id="kb-index" class="topics-index">${[...model.services.values()].filter(s=>s.visibleArticles.length).map(s=>`<section class="index topic" aria-labelledby="k-${e(s.id)}"><h2 class="index-label" id="k-${e(s.id)}"><a href="${href(base,'/services/'+s.id+'/#guidance')}">${e(s.name)}</a> <span class="count">${s.visibleArticles.length}</span></h2><div class="index-body">${knowledgeList([...s.visibleArticles].sort((a,b)=>a.title.localeCompare(b.title)),base,'k-cols')}</div></section>`).join('')}</div><p id="filter-empty" class="empty-inline" hidden>No guides match this filter ${link(base+'/search/','Search everything')}</p></div>`
+ return `<div class="wrap page">${head({eyebrow:'Knowledge',title:'Every York IT guide',lede:'Instructions and reference for every York IT service'})}<div class="kb-search" role="search"><label class="sr-only" for="article-filter">Search ${all.length} guides</label><input id="article-filter" type="search" autocomplete="off" spellcheck="false" placeholder="Search ${all.length} guides" aria-describedby="kb-count"><span class="kb-search-icon" aria-hidden="true">→</span></div><div class="bar">${audienceFilter('kb',{controls:'kb-index'})}<p class="meta" id="kb-count" role="status">Showing ${all.length} of ${all.length} guides</p></div><nav class="jump" aria-label="Jump to a service"><span class="label">Jump to</span><ul>${[...model.services.values()].filter(s=>s.visibleArticles.length).map(s=>`<li><a href="#k-${e(s.id)}">${e(s.name)}</a></li>`).join('')}</ul></nav><div id="kb-index" class="topics-index">${[...model.services.values()].filter(s=>s.visibleArticles.length).map(s=>`<section class="index topic" aria-labelledby="k-${e(s.id)}"><h2 class="index-label" id="k-${e(s.id)}"><a href="${href(base,'/services/'+s.id+'/#guidance')}">${e(s.name)}</a> <span class="count">${s.visibleArticles.length}</span></h2><div class="index-body">${knowledgeList([...s.visibleArticles].sort((a,b)=>a.title.localeCompare(b.title)),base,'k-cols')}</div></section>`).join('')}</div><p id="filter-empty" class="empty-inline" hidden>No guides match this filter ${link(base+'/search/','Search everything')}</p></div>`
 }
 
 export function articleView(model,a,base='',readerHtml=''){
@@ -186,7 +182,7 @@ export function searchView(base=''){
 // Support
 export function helpView(model,contactHtml,base=''){
  const s=model.support
- return `<div class="wrap page">${head({eyebrow:'Support',title:'Get help',lede:'Reach the UIT Service Desk by phone, email, online request or in person'})}<ul class="channels-lg">${s.channels.map(c=>`<li><h2>${e(c.label)}</h2><a class="channel-value" href="${e(c.href)}">${e(c.value)}</a>${c.hours.length?`<dl>${c.hours.map(([who,when])=>`<div><dt>${e(who)}</dt><dd>${e(when)}</dd></div>`).join('')}</dl>`:''}${s.articles[c.id]?`<a class="link link-quiet" href="${href(base,articlePath(s.articles[c.id]))}" data-preview="${e(s.articles[c.id].id)}">${e(s.articles[c.id].title)}${go}</a>`:''}</li>`).join('')}</ul><p class="note">${e(s.note)}</p>${s.prepare?section('Before you contact us',`<ul class="k-list">${knowledgeRow(s.prepare,base)}</ul>`):''}${contactHtml?section('Original contact page',`<details class="about-block legacy"><summary><h3>Contact page as captured from the current UIT website</h3></summary><p class="note">Preserved for migration reference. Some references, such as a live chat button, belong to that page and are not available here</p><div class="prose">${contactHtml}</div></details><p class="meta">Source ${link(s.source_url,sourceLabel(s.source_url),'link link-quiet')}</p>`,{id:'contacts'}):''}</div>`
+ return `<div class="wrap page">${head({eyebrow:'Support',title:'Get help',lede:'Reach the UIT Service Desk by phone, email, online request or in person'})}<ul class="channels-lg">${s.channels.map(c=>`<li><h2>${e(c.label)}</h2><a class="channel-value" href="${e(c.href)}">${e(c.value)}</a>${c.hours.length?`<dl>${c.hours.map(([who,when])=>`<div><dt>${e(who)}</dt><dd>${e(when)}</dd></div>`).join('')}</dl>`:''}${s.articles[c.id]?`<a class="link link-quiet" href="${href(base,articlePath(s.articles[c.id]))}" data-preview="${e(s.articles[c.id].id)}">${e(s.articles[c.id].title)}${go}</a>`:''}</li>`).join('')}</ul><p class="note">${e(s.note)}</p>${s.prepare?section('Before you contact us',`<ul class="k-list">${knowledgeRow(s.prepare,base)}</ul>`):''}</div>`
 }
 
 export function listingView(title,eyebrow,lede,pages,base=''){
@@ -194,7 +190,7 @@ export function listingView(title,eyebrow,lede,pages,base=''){
 }
 export function pageView(p,base=''){
  const parent=p.type==='prompt'?['/prompts/','AI prompts']:['/resources/','Resources']
- return `<div class="wrap page">${crumbs(base,[parent])}<div class="layout layout-reader"><div class="layout-main">${head({eyebrow:p.type==='prompt'?'AI prompt':'Resource',title:p.title})}${p.dynamic_review?'<aside class="caution"><strong>Interactive content migration pending</strong><p>The source data is preserved in the repository for a functional replacement</p></aside>':''}<div class="prose">${p.html}</div></div>${rail([['Source',`<a class="link link-quiet" href="${e(p.source_url)}">Original source${away}</a>`],['Captured',e(p.captured_at.slice(0,10))]])}</div></div>`
+ return `<div class="wrap page">${crumbs(base,[parent])}<div class="layout layout-reader"><div class="layout-main">${head({eyebrow:p.type==='prompt'?'AI prompt':'Resource',title:p.title})}<div class="prose">${p.html}</div></div>${rail([['Source',`<a class="link link-quiet" href="${e(p.source_url)}">Original source${away}</a>`],['Captured',e(p.captured_at.slice(0,10))]])}</div></div>`
 }
 export function notFoundView(base=''){
  return `<div class="wrap page">${head({eyebrow:'Page not found',title:'Let’s find what you need',lede:'The page may have moved during the migration from the old UIT website'})}${finder({id:'nf-q',base,size:'hero'})}<p class="actions">${link(base+'/tasks/','Browse tasks')}${link(base+'/services/','Browse services')}${link(base+'/help/','Get help')}</p></div>`
