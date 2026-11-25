@@ -7,7 +7,7 @@ Status: Implemented direction. Evidence lives in `.devkit/artifacts/` (gitignore
 - **Task first.** People arrive with a problem, not a service name. The homepage begins with "Start with what you need to do" and an intent search
 - **Editorial calm.** Warm paper, charcoal ink, large Plex type and hairline rules. Hierarchy comes from typography and alignment, not boxes
 - **Institutional confidence.** York red is used sparingly for action and emphasis. No gradients, glass, illustration or decorative icons
-- **Honest.** Draft knowledge, schedules and support hours are stated plainly. Nothing implies a live integration or validation that does not exist
+- **Honest without disclaimers.** Schedules and support hours are stated plainly. Nothing implies a live integration or validation that does not exist. Knowledge state is metadata in the provenance panel, never a banner or caveat
 - **Fast to act.** Every page puts the real next action (sign in, reset, request, call) above explanation
 
 ## Reference study
@@ -38,7 +38,7 @@ Three directions were generated from the real model and rendered for comparison 
 - IBM Plex Sans, self-hosted and subset to Latin WOFF2: Light 300, Regular 400, Italic, Medium 500, SemiBold 600
 - IBM Plex Mono 400 for labels, IDs and metadata (uppercase, tracked 0.08em)
 - Display: `clamp()` headline in SemiBold with a Light second line (`IT help at York` / `Start with what you need to do`)
-- Body 17px with a line height of 1.6. Headings use `text-wrap: balance` and paragraphs use `pretty`. No clamping or truncation anywhere
+- Body 17px with a line height of 1.6. Text fills its container: no `max-width` or `ch` caps on text and no `text-wrap` balancing. No clamping or truncation anywhere. No disclaimers or caveat notes. No doubled or spacer divider lines
 
 ### Colour
 
@@ -68,7 +68,7 @@ Three directions were generated from the real model and rendered for comparison 
 - **Choice**: square selectable options for "Which York account do you have", with `aria-pressed`. The selected option shows an ink border and a small red marker
 - **Steps**: numbered, with mono "You need" tags, an action and a "Read the guide" quick view with the cited article's state
 - **Knowledge rows**: title, audience and state. The knowledge index has a "Jump to" service list. Quick view opens a sheet dialog; the permanent URL is always present
-- **Reader**: Halo structure (Issue, Environment, Cause, Resolution) and a provenance panel (state, captured, review, audience, sources, suggest an update). Unvalidated articles show "Imported draft · Not validated by a service owner" directly under the title. Sources are named by host and path, never "Source 1"
+- **Reader**: Halo structure (Issue, Environment, Cause, Resolution) and a provenance panel (state, captured, review, audience, sources, suggest an update). The knowledge state appears only in the provenance panel; "Validated" is shown only when true. Sources are named by host and path, never "Source 1"
 - **Disclosure**: preserved per-audience source text on service pages uses `<details>`, with the first open, so nothing is lost or repeated as a wall
 - **Escalation**: "Still stuck" or "Need a person", with real channels from the contact page. Pages with their own escalation use a compact footer
 
@@ -82,8 +82,7 @@ Three directions were generated from the real model and rendered for comparison 
 
 A design-director pass over the rendered slice (`.devkit/artifacts/slice-3`) raised fifteen issues. The corrections, rendered and verified in `.devkit/artifacts/slice-4`, were:
 
-- Legacy contact HTML on `/help/` is collapsed behind a disclosure with a note that the live chat it mentions is not available here
-- Search and palette results show knowledge state, and the reader states draft status under the title
+- Superseded by D-012: no disclaimers, the legacy contact HTML is removed from `/help/` (its source stays in the migration record) and draft state is metadata only
 - Source links are named by destination (WCAG 2.4.4)
 - On mobile the task primary action comes before the steps
 - The home hero carries the quick actions, and the separate quick-action band was removed

@@ -6,7 +6,7 @@ Updated at the end of each working session. Read this first when resuming.
 
 - Design critique (D-010) applied and re-rendered
 
-- Branch `redesign/devkit`, local only. Not pushed, merged or deployed
+- Branch `redesign/devkit`, merged to main via PR #8 (`ae6fac7`) and deployed to GitHub Pages
 - Full presentation rearchitecture implemented: home, tasks, services catalogue, service workspace, offerings, knowledge, article reader, search and palette, help, 404
 - Content baseline preserved: 243 articles, 75 offerings, 22 services, 57 page sources, 57 redirects. All articles remain imported drafts (0 validated)
 - Added: 8 guided tasks, a support model, service digests, journeys JSON, and Journey entities in the NEXUS graph
@@ -38,7 +38,6 @@ Playwright is resolved from `.cache/tools` (gitignored). Install with `npm i --p
 - No knowledge is validated. Service owners must review before any article can show as validated
 - Guided tasks cover Passport York, Duo and Wi-Fi. Other services use their service workspace without authored tasks
 - Halo, NEXUS, live status and AI answers are not integrated. The JSON projections are the seams
-- Preserved legacy contact HTML on `/help/` is collapsed and disclaimed (it mentions a live chat that is not available here)
 - Source title defects are preserved rather than rewritten, for example "Add or remove a LIST Owner s" and the duplicate LISTSERV FAQ. They need editorial review with the service owner
 - Reference captures include cookie banners on some sites
 

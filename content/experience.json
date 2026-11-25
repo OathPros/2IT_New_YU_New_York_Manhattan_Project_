@@ -33,6 +33,6 @@
     ]
   },
   "notices": {
-    "passport-york": {"title": "Scheduled maintenance window", "detail": "Every Wednesday from 5:00 to 7:00 AM UIT may perform maintenance that affects Passport York authentication. This is a fixed schedule, not live service status", "article": "UIT-KA-3A45E213898F", "source": "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"}
+    "passport-york": {"title": "Scheduled maintenance window", "detail": "Every Wednesday from 5:00 to 7:00 AM UIT may perform maintenance that affects Passport York authentication", "article": "UIT-KA-3A45E213898F", "source": "https://www.yorku.ca/uit/faculty-and-staff-services/passport-york/"}
   }
 }
