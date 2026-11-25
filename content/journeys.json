@@ -1,0 +1,232 @@
+{
+  "about": "Guided task journeys compose existing knowledge articles and offering actions. Step text is a routing summary of the linked source article and must not introduce new procedures, eligibility, contacts or status. Every step must cite an existing article id",
+  "journeys": [
+    {
+      "id": "cannot-sign-in",
+      "title": "I cannot sign in",
+      "summary": "Work out why your Passport York sign in is failing and go straight to the right fix",
+      "service_id": "passport-york",
+      "offering_id": "passport-account",
+      "kind": "diagnose",
+      "intents": ["cannot sign in", "cant log in", "cannot login", "unable to sign in", "locked out", "sign in not working", "login problem", "access denied"],
+      "question": "What is happening when you try to sign in",
+      "branches": [
+        {
+          "audience": "all",
+          "label": "Everyone",
+          "steps": [
+            {"title": "I forgot my password", "detail": "Choose a reset method that matches what you can verify", "journey": "forgot-password", "article": "UIT-KA-F74B45D6834E"},
+            {"title": "I do not know my username", "detail": "Look up your Passport York username or the number you need to find it", "journey": "find-username", "article": "UIT-KA-4B93B6A5D551"},
+            {"title": "The Duo prompt is not reaching me", "detail": "Use another enrolled method or get help with a lost or replaced device", "journey": "lost-device", "article": "UIT-KA-YORK-DUO-GUIDE"},
+            {"title": "I am new and have never signed in", "detail": "Activate your account in Manage My Services before your first sign in", "journey": "set-up-account", "article": "UIT-KA-C0C4FF920116"},
+            {"title": "I left York or stopped taking courses", "detail": "Accounts move through expiring, cancelled and removed states", "journey": "account-ending", "article": "UIT-KA-36C59B65EFAB"},
+            {"title": "It is Wednesday morning between 5 and 7", "detail": "UIT reserves a fixed weekly maintenance window that may affect Passport York authentication", "article": "UIT-KA-3A45E213898F"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forgot-password",
+      "title": "Reset a forgotten password",
+      "summary": "Get back into your Passport York account using a method you can verify",
+      "service_id": "passport-york",
+      "offering_id": "passport-account",
+      "kind": "procedure",
+      "intents": ["forgot password", "forgotten password", "reset password", "recover password", "password reset", "lost password", "new password"],
+      "question": "Which York account do you have",
+      "branches": [
+        {
+          "audience": "student",
+          "label": "Student",
+          "hub": "UIT-KA-5869E88374F4",
+          "steps": [
+            {"title": "Reset online", "detail": "Use Reset My Password when you know the details below", "needs": ["Student number", "Date of birth", "Security question answers"], "article": "UIT-KA-425BFFDD0BEC"},
+            {"title": "Reset by phone", "detail": "Call 416-736-5800, then update your security questions once the password is reset", "article": "UIT-KA-32B0F0AE135F"},
+            {"title": "Reset in person", "detail": "Visit IT Support Services with your student number and accepted identification", "needs": ["Student number", "YU-card or government photo ID with a second ID"], "article": "UIT-KA-CC7835CAA13B"}
+          ],
+          "fallback": {"title": "I do not know my student number", "detail": "The Registrar's Office can help you retrieve it", "article": "UIT-KA-7D1457404464"}
+        },
+        {
+          "audience": "employee",
+          "label": "Faculty or staff",
+          "hub": "UIT-KA-300BB058F717",
+          "steps": [
+            {"title": "Reset online", "detail": "For eligible employees with York email access and without advanced access privileges", "needs": ["Employee number", "Access to York email", "Security question answers"], "article": "UIT-KA-01A1419C5627"},
+            {"title": "Reset by email", "detail": "Send a request from your York email address with your employee number", "needs": ["Access to York email", "Employee number"], "article": "UIT-KA-D2DFD3209294"},
+            {"title": "Ask a department administrator", "detail": "An administrator who knows you can email askIT on your behalf", "needs": ["Employee number", "Alternative personal email address"], "article": "UIT-KA-376D706E3E62"},
+            {"title": "Reset in person", "detail": "Visit a UIT Service Desk counter during business hours", "needs": ["YU-card or government photo ID", "Employee number"], "article": "UIT-KA-2F609C5A1CAD"}
+          ],
+          "fallback": {"title": "I do not know my employee number", "detail": "It is on a previous pay statement or your YU-card", "article": "UIT-KA-EC5470BA6B5A"}
+        }
+      ],
+      "after": {"title": "After you reset", "detail": "Keep your security questions current so you can recover access yourself next time", "articles": ["UIT-KA-C16878F9CF47", "UIT-KA-CF1796979BF5"]}
+    },
+    {
+      "id": "find-username",
+      "title": "Find your username",
+      "summary": "Look up the Passport York username you use for York systems",
+      "service_id": "passport-york",
+      "offering_id": "passport-account",
+      "kind": "procedure",
+      "intents": ["forgot username", "find username", "what is my username", "lost username", "passport york username", "student number"],
+      "question": "Which York account do you have",
+      "branches": [
+        {
+          "audience": "student",
+          "label": "Student",
+          "steps": [
+            {"title": "Look up your username online", "detail": "Use Find My Username with the details below", "needs": ["Student number", "Date of birth", "Security question answers"], "article": "UIT-KA-4B93B6A5D551"}
+          ],
+          "fallback": {"title": "I do not know my student number", "detail": "The Registrar's Office can help you retrieve it", "article": "UIT-KA-7D1457404464"}
+        },
+        {
+          "audience": "employee",
+          "label": "Faculty or staff",
+          "steps": [
+            {"title": "Find your employee ID", "detail": "Your employee ID is on a previous pay statement or your YU-card", "article": "UIT-KA-EC5470BA6B5A"},
+            {"title": "Contact askIT with your employee ID", "detail": "No self-service username lookup is published for employees, so ask the Service Desk", "support": true, "article": "UIT-KA-00000000002E"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "set-up-account",
+      "title": "Set up a new account",
+      "summary": "Activate Passport York, then protect it with security questions and Duo",
+      "service_id": "passport-york",
+      "offering_id": "passport-account",
+      "kind": "procedure",
+      "intents": ["new account", "activate account", "set up passport york", "first time sign in", "new student", "new employee", "create account"],
+      "question": "Which York account are you setting up",
+      "branches": [
+        {
+          "audience": "student",
+          "label": "Student",
+          "steps": [
+            {"title": "Activate in Manage My Services", "detail": "Sign in with your student number and date of birth in YYYYMMDD format, then change your password", "needs": ["Student number", "Date of birth"], "article": "UIT-KA-C0C4FF920116", "action": {"label": "Open Manage My Services", "url": "https://mms.yorku.ca/"}},
+            {"title": "Set up your security questions", "detail": "They are used to confirm your identity if you forget your password", "article": "UIT-KA-C16878F9CF47"},
+            {"title": "Enrol in Duo", "detail": "You will be prompted to set up two-factor authentication soon after your first sign in", "article": "UIT-KA-YORK-DUO-GUIDE"}
+          ]
+        },
+        {
+          "audience": "employee",
+          "label": "Faculty or staff",
+          "steps": [
+            {"title": "Choose New Employee Sign Up", "detail": "Sign up in Manage My Services with the details below", "needs": ["9 digit employee ID", "Last four digits of your SIN"], "article": "UIT-KA-823167E4EE0F", "action": {"label": "Open Manage My Services", "url": "https://mms.yorku.ca/"}},
+            {"title": "Update your security questions", "detail": "Some advanced access accounts use a different method", "article": "UIT-KA-CF1796979BF5"},
+            {"title": "Enrol in Duo", "detail": "Use the authentication method enrolled for your account when prompted", "article": "UIT-KA-YORK-DUO-GUIDE"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "change-password",
+      "title": "Change your password",
+      "summary": "Change a Passport York password you already know",
+      "service_id": "passport-york",
+      "offering_id": "passport-account",
+      "kind": "procedure",
+      "intents": ["change password", "update password", "new password", "password expired"],
+      "question": "Which York account do you have",
+      "branches": [
+        {
+          "audience": "student",
+          "label": "Student",
+          "steps": [
+            {"title": "Change it in Manage My Services", "detail": "Select the change password box before you sign in, then follow the prompts", "article": "UIT-KA-ECE0EF1E1C01", "action": {"label": "Open Manage My Services", "url": "https://mms.yorku.ca/"}},
+            {"title": "Choose a strong passphrase", "detail": "Guidance on passphrases and complexity", "article": "UIT-KA-66088DD15E5E"}
+          ]
+        },
+        {
+          "audience": "employee",
+          "label": "Faculty or staff",
+          "steps": [
+            {"title": "Change it in Manage My Services", "detail": "Select the change password box before you sign in, then follow the prompts", "article": "UIT-KA-93FB987A165A", "action": {"label": "Open Manage My Services", "url": "https://mms.yorku.ca/"}},
+            {"title": "Choose a strong passphrase", "detail": "Guidance on passphrases and complexity", "article": "UIT-KA-9DF88BF4B1EC"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "account-ending",
+      "title": "Understand what happens when you leave",
+      "summary": "See how long York accounts last after study or employment ends and what is removed",
+      "service_id": "passport-york",
+      "offering_id": "passport-account",
+      "kind": "procedure",
+      "intents": ["account expiring", "account expired", "graduated", "leaving york", "account cancelled", "account removed", "alumni access", "grace period"],
+      "question": "Which York account do you have",
+      "branches": [
+        {
+          "audience": "student",
+          "label": "Student",
+          "steps": [
+            {"title": "Active", "detail": "Accounts are normally active while you are enrolled in courses", "article": "UIT-KA-DC3D9DEC1D30"},
+            {"title": "Expiring", "detail": "When you are no longer an active student your accounts enter an expiry process and you are notified by email", "article": "UIT-KA-36C59B65EFAB"},
+            {"title": "Cancelled", "detail": "Accounts still exist but you cannot sign in to them", "article": "UIT-KA-86FDB4449E9D"},
+            {"title": "Removed", "detail": "Accounts and associated data are deleted and cannot be recovered", "article": "UIT-KA-C2FB18C08BC7"}
+          ]
+        },
+        {
+          "audience": "employee",
+          "label": "Faculty or staff",
+          "steps": [
+            {"title": "How employee accounts are created and retired", "detail": "Accounts follow your HR record and employee ID", "article": "UIT-KA-D8F05F4681E6"},
+            {"title": "Faculty members", "detail": "Contract faculty accounts have a grace period before expiry begins", "article": "UIT-KA-FC550A00445C"},
+            {"title": "Administrative staff", "detail": "Accounts have a grace period while department services follow HR offboarding", "article": "UIT-KA-E8B17A9E6530"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lost-device",
+      "title": "Lost or replaced your phone",
+      "summary": "Sign in when your Duo device is unavailable and get help replacing it",
+      "service_id": "duo",
+      "offering_id": "duo-authentication",
+      "kind": "procedure",
+      "intents": ["lost phone", "new phone", "replaced phone", "duo not working", "duo push", "two factor", "2fa", "mfa", "hardware token", "stolen phone"],
+      "question": "Where are you starting",
+      "branches": [
+        {
+          "audience": "all",
+          "label": "Everyone",
+          "steps": [
+            {"title": "Try another enrolled method", "detail": "If you cannot use your usual method, check the supported methods including hardware tokens and telephone options", "article": "UIT-KA-YORK-DUO-GUIDE"},
+            {"title": "Follow York's lost device instructions", "detail": "York maintains Duo setup and troubleshooting steps for first time setup and lost devices", "article": "UIT-KA-YORK-DUO-GUIDE"},
+            {"title": "Choose a replacement method", "detail": "A smartphone with the Duo app is recommended, and hardware tokens are available through the York University Bookstore", "article": "UIT-KA-000000000016"},
+            {"title": "Contact askIT if you are locked out", "detail": "The Service Desk can help when no enrolled method is available", "support": true, "article": "UIT-KA-00000000002E"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "connect-wifi",
+      "title": "Connect to Wi-Fi",
+      "summary": "Join the right campus network and fix a connection that is not working",
+      "service_id": "connectivity",
+      "offering_id": "airyorkplus",
+      "kind": "procedure",
+      "intents": ["connect to wifi", "wifi not working", "wireless", "airyorkplus", "eduroam", "internet not working", "no internet", "guest wifi"],
+      "question": "Who is connecting",
+      "branches": [
+        {
+          "audience": "all",
+          "label": "York student or employee",
+          "steps": [
+            {"title": "Connect to AirYorkPLUS", "detail": "Sign in with your Passport York username and password and check the certificate details", "article": "UIT-KA-000000000001"},
+            {"title": "Use eduroam at York or elsewhere", "detail": "Sign in with your Passport York username followed by @yorku.ca", "article": "UIT-KA-000000000002"},
+            {"title": "Troubleshoot a failed connection", "detail": "Check your account, remove an outdated profile, reconnect and report the details if it still fails", "article": "UIT-KA-000000000004"}
+          ]
+        },
+        {
+          "audience": "visitor",
+          "label": "Visitor",
+          "steps": [
+            {"title": "Register on AirYorkGUEST", "detail": "Guest sessions are time limited and verified by email or text message", "article": "UIT-KA-000000000003"}
+          ]
+        }
+      ]
+    }
+  ]
+}

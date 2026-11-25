@@ -528,5 +528,47 @@
     "editorial_status": "rewritten_draft",
     "editorial_notes": "Resolution rewritten on November 10, 2026 using York source material or maintained vendor documentation. Content remains pending service-owner validation",
     "review_flags": []
+  },
+  {
+    "id": "UIT-KA-425BFFDD0BEC",
+    "title": "Reset a student Passport York password online",
+    "editorial_status": "title_clarified_draft",
+    "editorial_notes": "Title clarified from an ambiguous source heading so it describes the task. Issue, environment, resolution and provenance are unchanged. Service owner validation remains required"
+  },
+  {
+    "id": "UIT-KA-8A9A3CA6C0FE",
+    "title": "Change a known student Passport York password in Manage My Services",
+    "editorial_status": "title_clarified_draft",
+    "editorial_notes": "Title clarified from an ambiguous source heading so it describes the task. Issue, environment, resolution and provenance are unchanged. Service owner validation remains required"
+  },
+  {
+    "id": "UIT-KA-36C59B65EFAB",
+    "title": "When a student Passport York account is expiring",
+    "editorial_status": "title_clarified_draft",
+    "editorial_notes": "Title clarified from an ambiguous source heading so it describes the task. Issue, environment, resolution and provenance are unchanged. Service owner validation remains required"
+  },
+  {
+    "id": "UIT-KA-86FDB4449E9D",
+    "title": "When a student Passport York account is cancelled",
+    "editorial_status": "title_clarified_draft",
+    "editorial_notes": "Title clarified from an ambiguous source heading so it describes the task. Issue, environment, resolution and provenance are unchanged. Service owner validation remains required"
+  },
+  {
+    "id": "UIT-KA-C2FB18C08BC7",
+    "title": "When a student Passport York account is removed",
+    "editorial_status": "title_clarified_draft",
+    "editorial_notes": "Title clarified from an ambiguous source heading so it describes the task. Issue, environment, resolution and provenance are unchanged. Service owner validation remains required"
+  },
+  {
+    "id": "UIT-KA-FC550A00445C",
+    "title": "Passport York account lifecycle for faculty members",
+    "editorial_status": "title_clarified_draft",
+    "editorial_notes": "Title clarified from an ambiguous source heading so it describes the task. Issue, environment, resolution and provenance are unchanged. Service owner validation remains required"
+  },
+  {
+    "id": "UIT-KA-E8B17A9E6530",
+    "title": "Passport York account lifecycle for administrative staff",
+    "editorial_status": "title_clarified_draft",
+    "editorial_notes": "Title clarified from an ambiguous source heading so it describes the task. Issue, environment, resolution and provenance are unchanged. Service owner validation remains required"
   }
 ]

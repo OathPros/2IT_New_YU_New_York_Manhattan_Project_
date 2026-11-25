@@ -1,89 +1,170 @@
-import {escapeHtml as e,search} from './search.mjs'
+import {escapeHtml as e,search,groupResults} from './search.mjs'
 import {reader} from './render.mjs'
-const root=document.getElementById('uit-next'),{base}=JSON.parse(document.getElementById('config').textContent),dialog=document.getElementById('kb-dialog'),dialogBody=document.getElementById('dialog-body');let previousFocus=null,index=null,matches=[],page=1
-const cache=new Map(),notice=s=>document.getElementById('notice').textContent=s
+
+const {base}=JSON.parse(document.getElementById('config').textContent)
+document.documentElement.classList.add('js')
+const $=(s,r=document)=>r.querySelector(s),$$=(s,r=document)=>[...r.querySelectorAll(s)]
+const notice=text=>{const n=$('#notice');n.textContent='';requestAnimationFrame(()=>n.textContent=text)}
 const get=async path=>{const r=await fetch(base+path);if(!r.ok)throw new Error('Content unavailable');return r.json()}
 const storage={get(){try{return sessionStorage.getItem('uit-audience')||'all'}catch{return 'all'}},set(v){try{sessionStorage.setItem('uit-audience',v)}catch{}}}
-root.addEventListener('click',async event=>{
- const preview=event.target.closest('[data-preview]')
- if(preview&&!event.ctrlKey&&!event.metaKey&&!event.shiftKey&&event.button===0){event.preventDefault();previousFocus=document.activeElement;try{const a=cache.get(preview.dataset.preview)||await get('/_data/articles/'+preview.dataset.preview+'.json');cache.set(a.id,a);dialogBody.innerHTML=reader(a,{base,popup:true});dialog.showModal();dialog.scrollTop=0;dialog.querySelector('.close-dialog').focus()}catch{location.assign(preview.href)}return}
- if(event.target.closest('.close-dialog'))dialog.close()
- const copy=event.target.closest('[data-copy]');if(copy){try{await navigator.clipboard.writeText(new URL(copy.dataset.copy,location.origin).href);notice('Article link copied')}catch{notice('Copy the address from the full article page')}}
- if(event.target.closest('[data-print]'))window.print()
- const pagination=event.target.closest('[data-page]');if(pagination){page=Number(pagination.dataset.page);renderResults();document.getElementById('result-status').focus()}
-})
-dialog.addEventListener('close',()=>previousFocus?.focus())
-for(const t of root.querySelectorAll('textarea')){t.addEventListener('input',()=>{t.style.height='auto';t.style.height=t.scrollHeight+'px'});t.addEventListener('keydown',event=>{if(event.key==='Enter'&&!event.shiftKey){event.preventDefault();t.form.requestSubmit()}})}
-const audience=document.getElementById('audience'),filter=document.getElementById('article-filter')
-function filterArticles(){let count=0;const role=audience.value,q=filter.value.toLowerCase().trim();for(const r of root.querySelectorAll('.kb-row')){r.hidden=!((role==='all'||r.dataset.audiences.split(' ').some(x=>x==='all'||x===role))&&(!q||r.textContent.toLowerCase().includes(q)));if(!r.hidden)count++}for(const [attribute,dataset] of [['data-action-audiences','actionAudiences'],['data-detail-audiences','detailAudiences']])for(const r of root.querySelectorAll('['+attribute+']'))r.hidden=role!=='all'&&!r.dataset[dataset].split(' ').some(x=>x==='all'||x===role);document.getElementById('filter-empty').hidden=count>0}
-if(audience){audience.value=storage.get();audience.addEventListener('change',()=>{storage.set(audience.value);filterArticles()});filter.addEventListener('input',filterArticles);filterArticles()}
-function renderResults(){const size=25,start=(page-1)*size,shown=matches.slice(start,start+size);document.getElementById('result-status').textContent=matches.length?`Showing ${start+1} to ${start+shown.length} of ${matches.length} matches`:'No matching guidance found';document.getElementById('results').innerHTML=shown.map(r=>`<div class="search-result"><a href="${base+e(r.route)}" ${r.type==='article'?`data-preview="${e(r.id)}"`:''}><span class="quiet">${r.type==='article'?'Knowledge article':r.type==='service'?'Service category':r.type==='offering'?'IT service':'Resource'}</span><h2>${e(r.title)}</h2></a><a class="text-link" href="${base+e(r.route)}">Open page &gt;&gt;</a></div>`).join('')+`<div class="pagination">${page>1?`<button class="secondary" data-page="${page-1}">Previous &gt;&gt;</button>`:''}${start+size<matches.length?`<button class="secondary" data-page="${page+1}">Next &gt;&gt;</button>`:''}</div>`+(!shown.length?`<p>Try a service name or a few words about your issue</p><a class="primary" href="${base}/help/">Get IT help &gt;&gt;</a>`:'')}
-const searchForm=document.getElementById('search-form')
-async function runSearch(){const q=document.getElementById('search-query').value.trim(),role=document.getElementById('search-audience').value;history.replaceState(null,'',location.pathname+'?'+new URLSearchParams({q,audience:role}));document.getElementById('result-status').textContent='Finding relevant guidance';try{index??=await get('/_data/search.json');matches=search(index,q,{audience:role});page=1;renderResults()}catch{document.getElementById('result-status').textContent='Search is unavailable';document.getElementById('results').innerHTML=`<a href="${base}/services/">Browse services &gt;&gt;</a>`}}
-if(searchForm){const params=new URLSearchParams(location.search);document.getElementById('search-query').value=params.get('q')||'';document.getElementById('search-audience').value=params.get('audience')||storage.get();searchForm.addEventListener('submit',event=>{event.preventDefault();runSearch()});document.getElementById('search-audience').addEventListener('change',runSearch);await runSearch()}
+const typeLabel={task:'Guided task',service:'Service',offering:'Offering',article:'Guidance',resource:'Resource',prompt:'AI prompt'}
+let indexPromise=null
+const loadIndex=()=>indexPromise??=get('/_data/search.json').catch(error=>{indexPromise=null;throw error})
 
-const homeServiceGrid=document.getElementById('home-service-grid')
-if(homeServiceGrid){
- const cards=Array.from(homeServiceGrid.querySelectorAll('[data-service-card]'))
- const buttons=Array.from(document.querySelectorAll('[data-service-audience]'))
- const searchInput=document.getElementById('home-service-search')
- const sortInput=document.getElementById('home-service-sort')
- const resultCount=document.getElementById('home-services-count')
- const emptyState=document.getElementById('home-services-empty')
- const initialOrder=new Map(cards.map((card,i)=>[card,i]))
- let selectedAudience='all'
- function applyServiceFilters(){
-  const query=searchInput.value.trim().toLocaleLowerCase('en-CA')
-  const sort=sortInput.value
-  const ordered=Array.from(cards).sort((a,b)=>sort==='default'?initialOrder.get(a)-initialOrder.get(b):sort==='za'?b.dataset.name.localeCompare(a.dataset.name,'en-CA'):a.dataset.name.localeCompare(b.dataset.name,'en-CA'))
-  for(const card of ordered)homeServiceGrid.appendChild(card)
-  let visible=0
-  for(const card of cards){
-   const eligible=selectedAudience==='all'||card.dataset.audiences.split(' ').includes(selectedAudience)
-   const matched=!query||card.dataset.search.includes(query)
-   card.hidden=!(eligible&&matched)
-   if(!card.hidden)visible++
-  }
-  for(const button of buttons)button.setAttribute('aria-pressed',String(button.dataset.serviceAudience===selectedAudience))
-  resultCount.textContent='Showing '+visible+' of '+cards.length+' services'
-  emptyState.hidden=visible>0
+// Quick view, copy and print
+const dialog=$('#kb-dialog'),dialogBody=$('#dialog-body'),cache=new Map()
+let returnFocus=null
+document.addEventListener('click',async event=>{
+ const preview=event.target.closest('[data-preview]')
+ if(preview&&!event.ctrlKey&&!event.metaKey&&!event.shiftKey&&!event.altKey&&event.button===0){
+  event.preventDefault();returnFocus=preview
+  try{const a=cache.get(preview.dataset.preview)||await get('/_data/articles/'+preview.dataset.preview+'.json');cache.set(a.id,a);dialogBody.innerHTML=reader(a,{base,popup:true});if(palette.open)palette.close();dialog.showModal();dialog.scrollTop=0;$('.close-dialog',dialog).focus()}catch{location.assign(preview.href)}
+  return
  }
- for(const button of buttons)button.addEventListener('click',()=>{selectedAudience=button.dataset.serviceAudience;applyServiceFilters()})
- searchInput.addEventListener('input',applyServiceFilters)
- sortInput.addEventListener('change',applyServiceFilters)
- document.getElementById('home-service-reset').addEventListener('click',()=>{selectedAudience='all';searchInput.value='';sortInput.value='default';applyServiceFilters();searchInput.focus()})
- applyServiceFilters()
+ if(event.target.closest('.close-dialog'))dialog.close()
+ const copy=event.target.closest('[data-copy]')
+ if(copy){try{await navigator.clipboard.writeText(new URL(copy.dataset.copy,location.origin).href);notice('Article link copied')}catch{notice('Copy the address from the full article page')}}
+ if(event.target.closest('[data-print]'))window.print()
+})
+dialog.addEventListener('click',event=>{if(event.target===dialog)dialog.close()})
+dialog.addEventListener('close',()=>{returnFocus?.focus();returnFocus=null})
+
+// Instant finder used by the hero, the command palette, the search page and the 404 page
+function resultItem(r,cls='fr-item'){
+ return `<li><a class="${cls}" href="${e(base+r.route)}"><span class="fr-title">${e(r.title)}</span><span class="fr-meta">${e(typeLabel[r.type]||'Page')}${r.context?' · '+e(r.context):''}</span></a></li>`
+}
+function finderMarkup(results,q,tasks){
+ if(!q)return tasks.length?`<div class="fr-group"><p class="fr-label">Most needed</p><ul>${tasks.map(t=>resultItem(t)).join('')}</ul></div>`:''
+ if(!results.length)return `<p class="fr-empty">No direct match for “${e(q)}”</p><a class="fr-all fr-item" href="${e(base+'/help/')}">Get help from a person</a>`
+ const limits={task:3,service:3,offering:3,article:5,resource:2,prompt:2}
+ return groupResults(results).map(g=>`<div class="fr-group"><p class="fr-label">${e(g.label)}</p><ul>${g.items.slice(0,limits[g.type]).map(r=>resultItem(r)).join('')}</ul></div>`).join('')+`<a class="fr-all fr-item" href="${e(base+'/search/?q='+encodeURIComponent(q))}">See all ${results.length} results</a>`
+}
+function setupFinder(form){
+ const input=$('input[type=search]',form),box=$('[data-finder-results]',form),status=$('[data-finder-status]',form)
+ const inPalette=!!form.closest('#palette'),onSearchPage=form.closest('.kind-search')
+ let timer=0
+ async function update(){
+  const q=input.value.trim()
+  if(onSearchPage)return
+  try{
+   const index=await loadIndex()
+   const results=q?search(index,q,{audience:storage.get()}):[]
+   const tasks=inPalette&&!q?index.filter(r=>r.type==='task').slice(0,6):[]
+   box.innerHTML=finderMarkup(results,q,tasks)
+   box.hidden=!box.innerHTML
+   status.textContent=q?(results.length?results.length+' results available':'No direct match'):''
+  }catch{box.hidden=true}
+ }
+ input.addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(update,90)})
+ input.addEventListener('focus',()=>{loadIndex().catch(()=>{});if(inPalette||input.value.trim())update()})
+ form.addEventListener('keydown',event=>{
+  const items=$$('.fr-item',box);if(box.hidden||!items.length){return}
+  const i=items.indexOf(document.activeElement)
+  if(event.key==='ArrowDown'){event.preventDefault();(items[i+1]||items[0]).focus()}
+  else if(event.key==='ArrowUp'){event.preventDefault();i<=0?input.focus():items[i-1].focus()}
+  else if(event.key==='Escape'&&!inPalette){event.preventDefault();box.hidden=true;input.focus()}
+ })
+ form.addEventListener('focusout',event=>{if(!inPalette&&!form.contains(event.relatedTarget)){box.hidden=true}})
+ if(onSearchPage)form.addEventListener('submit',event=>{event.preventDefault();runSearch()})
+}
+$$('[data-finder]').forEach(setupFinder)
+
+// Command palette
+const palette=$('#palette'),paletteInput=$('#palette-q')
+let paletteReturn=null
+function openPalette(){if(palette.open)return;paletteReturn=document.activeElement;palette.showModal();paletteInput.focus();paletteInput.select();paletteInput.dispatchEvent(new Event('focus'))}
+$$('[data-palette-open]').forEach(a=>a.addEventListener('click',event=>{if(event.ctrlKey||event.metaKey||event.shiftKey)return;event.preventDefault();openPalette()}))
+palette.addEventListener('click',event=>{if(event.target===palette)palette.close()})
+palette.addEventListener('close',()=>{paletteReturn?.focus?.();paletteReturn=null})
+document.addEventListener('keydown',event=>{
+ if((event.key==='k'||event.key==='K')&&(event.ctrlKey||event.metaKey)){event.preventDefault();palette.open?palette.close():openPalette()}
+})
+
+// Audience filtering for lists, service guidance and service details
+const roleMatch=(roles,role)=>role==='all'||roles.includes('all')||roles.includes(role)
+function applyAudience(group){
+ const role=$('[aria-pressed="true"]',group)?.dataset.audience||'all'
+ const scope=document.getElementById(group.dataset.controls)||document
+ const query=$('#article-filter')?.value.trim().toLowerCase()||''
+ let shown=0,total=0
+ for(const row of $$('[data-audiences]',scope)){
+  const roles=row.dataset.audiences.split(' ')
+  const isRow=row.matches('.k-row,[data-service-card]')
+  const visible=roleMatch(roles,role)&&(!isRow||!query||(row.dataset.find||row.textContent.toLowerCase()).includes(query))
+  row.hidden=!visible
+  if(isRow){total++;if(visible)shown++}
+ }
+ for(const t of $$('.topic',scope))t.hidden=!$$('.k-row',t).some(r=>!r.hidden)
+ for(const a of $$('.about-block',document))a.hidden=!roleMatch(a.dataset.audiences.split(' '),role)
+ const empty=$('#filter-empty');if(empty)empty.hidden=shown>0
+ const count=$('#service-count');if(count&&scope.id==='service-index')count.textContent=`Showing ${shown} of ${total} services`
+}
+for(const group of $$('[data-audience-filter]')){
+ if(group.dataset.audienceFilter==='search')continue
+ const stored=storage.get()
+ if($(`[data-audience="${stored}"]`,group))for(const b of $$('button',group))b.setAttribute('aria-pressed',String(b.dataset.audience===stored))
+ group.addEventListener('click',event=>{const b=event.target.closest('button[data-audience]');if(!b)return;for(const x of $$('button',group))x.setAttribute('aria-pressed',String(x===b));storage.set(b.dataset.audience);applyAudience(group)})
+ applyAudience(group)
+}
+const articleFilter=$('#article-filter')
+if(articleFilter)articleFilter.addEventListener('input',()=>{const g=$('[data-audience-filter]');if(g)applyAudience(g)})
+
+// Journey branches. Without JavaScript every branch is visible; with it, one audience is shown at a time
+for(const area of $$('[data-branching]')){
+ const group=$('[data-branch-buttons]',area);if(!group)continue
+ const buttons=$$('button',group),panels=$$('[data-branch-panel]',area)
+ const select=(audience,remember)=>{for(const b of buttons)b.setAttribute('aria-pressed',String(b.dataset.branch===audience));for(const p of panels)p.hidden=p.dataset.branchPanel!==audience;if(remember)storage.set(audience)}
+ group.hidden=false;area.classList.add('is-branching')
+ const stored=storage.get()
+ select(buttons.some(b=>b.dataset.branch===stored)?stored:buttons[0].dataset.branch,false)
+ group.addEventListener('click',event=>{const b=event.target.closest('button');if(b){select(b.dataset.branch,true);notice(b.querySelector('.choose-label').textContent+' steps shown')}})
 }
 
-const offeringGrid=document.getElementById('oc-grid')
+// Catalogue filters
+const offeringGrid=$('#oc-grid')
 if(offeringGrid){
- const cards=Array.from(offeringGrid.querySelectorAll('[data-offering]'))
- const initial=new Map(cards.map((c,i)=>[c,i]))
- const buttons=Array.from(document.querySelectorAll('[data-oc-audience]'))
- const query=document.getElementById('oc-query')
- const category=document.getElementById('oc-category')
- const sorter=document.getElementById('oc-sort')
- const count=document.getElementById('oc-count')
- const empty=document.getElementById('oc-empty')
+ const rows=$$('[data-offering]',offeringGrid),groups=$$('.svc-group',offeringGrid),buttons=$$('[data-oc-audience]')
+ const query=$('#oc-query'),category=$('#oc-category'),count=$('#oc-count'),empty=$('#oc-empty')
  let role='all'
  function apply(){
   const term=query.value.trim().toLocaleLowerCase('en-CA')
-  const sorted=[...cards].sort((a,b)=>sorter.value==='featured'?initial.get(a)-initial.get(b):sorter.value==='az'?a.dataset.label.localeCompare(b.dataset.label,'en-CA'):b.dataset.label.localeCompare(a.dataset.label,'en-CA'))
-  for(const card of sorted)offeringGrid.appendChild(card)
   let shown=0
-  for(const card of cards){
-   const eligible=(role==='all'||card.dataset.role.split(' ').includes(role))&&(category.value==='all'||card.dataset.category===category.value)&&(!term||card.dataset.find.includes(term))
-   card.hidden=!eligible
-   if(eligible)shown++
-  }
-  buttons.forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.ocAudience===role)))
-  count.textContent='Showing '+shown+' of '+cards.length+' services'
-  empty.hidden=shown!==0
+  for(const row of rows){const ok=(role==='all'||row.dataset.role.split(' ').includes(role))&&(category.value==='all'||row.dataset.category===category.value)&&(!term||row.dataset.find.includes(term));row.hidden=!ok;if(ok)shown++}
+  for(const g of groups)g.hidden=!$$('[data-offering]',g).some(r=>!r.hidden)
+  for(const b of buttons)b.setAttribute('aria-pressed',String(b.dataset.ocAudience===role))
+  count.textContent=`Showing ${shown} of ${rows.length} offerings`
+  empty.hidden=shown>0
  }
- buttons.forEach(b=>b.addEventListener('click',()=>{role=b.dataset.ocAudience;apply()}))
- query.addEventListener('input',apply)
- category.addEventListener('change',apply)
- sorter.addEventListener('change',apply)
- document.getElementById('oc-reset').addEventListener('click',()=>{role='all';query.value='';category.value='all';sorter.value='featured';apply();query.focus()})
+ for(const b of buttons)b.addEventListener('click',()=>{role=b.dataset.ocAudience;apply()})
+ query.addEventListener('input',apply);category.addEventListener('change',apply)
+ $('#oc-reset').addEventListener('click',()=>{role='all';query.value='';category.value='all';apply();query.focus()})
+ const params=new URLSearchParams(location.search);if(params.get('service')&&$(`option[value="${CSS.escape(params.get('service'))}"]`,category))category.value=params.get('service')
  apply()
+}
+
+// Full search results
+const resultsBox=$('#results')
+function searchAudience(){return $('[data-audience-filter="search"] [aria-pressed="true"]')?.dataset.audience||'all'}
+async function runSearch(){
+ const input=$('#search-q'),q=input.value.trim(),role=searchAudience(),status=$('#result-status')
+ history.replaceState(null,'',location.pathname+(q?'?'+new URLSearchParams({q,audience:role}):''))
+ if(!q){status.textContent='Describe a task, a service or a problem';resultsBox.innerHTML='';return}
+ status.textContent='Finding relevant guidance'
+ try{
+  const results=search(await loadIndex(),q,{audience:role})
+  if(!results.length){status.textContent='No matching guidance found';resultsBox.innerHTML=`<div class="empty"><h2>Nothing matched “${e(q)}”</h2><p>Try a service name or a few words about the problem</p><p class="actions"><a class="btn" href="${e(base)}/tasks/">Browse tasks</a><a class="btn btn-primary" href="${e(base)}/help/">Get help from a person</a></p></div>`;return}
+  status.textContent=`${results.length} results for “${q}”`
+  const best=results[0]
+  resultsBox.innerHTML=`<article class="best"><p class="label">Best match · ${e(typeLabel[best.type]||'Page')}</p><h2><a href="${e(base+best.route)}"${best.type==='article'?` data-preview="${e(best.id)}"`:''}>${e(best.title)}</a></h2>${best.summary?`<p>${e(best.summary)}</p>`:''}${best.context?`<p class="meta">${e(best.context)}</p>`:''}</article>`+groupResults(results.slice(1)).map(g=>{const show=g.items.slice(0,12),rest=g.items.slice(12);const item=r=>`<li><a href="${e(base+r.route)}"${r.type==='article'?` data-preview="${e(r.id)}"`:''}><span class="r-title">${e(r.title)}</span>${r.summary?`<span class="r-sum">${e(r.summary)}</span>`:''}${r.context?`<span class="meta">${e(r.context)}</span>`:''}</a></li>`;return `<section class="result-group" aria-label="${e(g.label)}"><h2 class="index-label">${e(g.label)} <span class="count">${g.items.length}</span></h2><div><ul class="r-list">${show.map(item).join('')}</ul>${rest.length?`<ul class="r-list" hidden>${rest.map(item).join('')}</ul><button type="button" class="link" data-more>Show ${rest.length} more ${e(g.label.toLowerCase())}</button>`:''}</div></section>`}).join('')
+ }catch{status.textContent='Search is unavailable';resultsBox.innerHTML=`<p><a class="link" href="${e(base)}/services/">Browse services</a></p>`}
+}
+if(resultsBox){
+ const params=new URLSearchParams(location.search),group=$('[data-audience-filter="search"]')
+ $('#search-q').value=params.get('q')||''
+ const role=params.get('audience')||storage.get()
+ for(const b of $$('button',group))b.setAttribute('aria-pressed',String(b.dataset.audience===role))
+ if(!$('[aria-pressed="true"]',group))$('button',group).setAttribute('aria-pressed','true')
+ group.addEventListener('click',event=>{const b=event.target.closest('button[data-audience]');if(!b)return;for(const x of $$('button',group))x.setAttribute('aria-pressed',String(x===b));storage.set(b.dataset.audience);runSearch()})
+ resultsBox.addEventListener('click',event=>{const more=event.target.closest('[data-more]');if(more){const list=more.previousElementSibling;list.hidden=false;$('a',list)?.focus();more.remove()}})
+ runSearch()
 }

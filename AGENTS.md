@@ -36,3 +36,35 @@ GitHub repository OathPros/2IT_New_YU_New_York_Manhattan_Project_ is the source 
 ## Current scope override
 
 Posts and historical advisories are excluded. Do not crawl, import, render, or add their media to this project
+
+## DevKit and project memory
+
+This project uses DevKit v1.0.0 with the service-experience profile. Apply these in addition to the requirements above. Where they conflict, the project requirements in this file win
+
+- Standards: `.devkit/STANDARDS.md` and profile: `.devkit/PROFILE.md`
+- Prompts: `.devkit/prompts/start.md`, `quick.md`, `review.md` and `york-service-redesign.md`
+- Skills: `.agents/skills/` (experience-architecture, frontend-design, service-architecture, visual-critic, release-assurance)
+- Specialist agents: `.github/agents/` (architect, design-director, reviewer)
+
+Read these before significant work and keep them current:
+
+- `STATUS.md` for the current state, last verification and how to resume
+- `DECISIONS.md` for numbered decisions, newest first
+- `PROJECT.md` for goals, users, journeys and constraints
+- `DESIGN.md` for the design system, references and critique outcomes
+- `ARCHITECTURE.md` for the content model, build and integration seams
+
+## Verification
+
+```sh
+npm test
+npm run content:check
+npm run build
+py scripts/check-links.py
+node scripts/capture.mjs --out .devkit/artifacts/<name> --routes "/,/tasks/forgot-password/"
+```
+
+- Review rendered screenshots, not just source, after visual changes. Captures and reference screenshots stay in the gitignored `.devkit/artifacts/`
+- Playwright is resolved from the gitignored `.cache/tools`. Do not add it to `package.json`
+- Guided tasks in `content/journeys.json` must cite existing articles and offerings. `content:check` enforces this
+- Never mark knowledge as validated without recorded service-owner review
